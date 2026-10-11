@@ -3,12 +3,17 @@
   "project_id": "2df59e1f-5694-4b4e-8777-5c239d9a20a8",
   "project_name": "Investment Information",
   "timezone": "Asia/Shanghai",
-  "mode": "manual",
-  "schedule_enabled": false,
+  "mode": "autopilot",
+  "schedule_enabled": true,
   "window_hours": 48,
   "report_max_items": 10,
   "source_registry": "config/sources.json",
   "schema": "config/event.schema.json",
   "bootstrap_issue": "TECH-5",
-  "agent_id": "050525a9-5f7a-4de2-9558-05efaf6fe8e1"
+  "agent_id": "050525a9-5f7a-4de2-9558-05efaf6fe8e1",
+  "autopilot_id": "b23dffc6-5188-4f59-ae3a-d907bb52e955",
+  "schedule": {
+    "cron": "0 8 * * *",
+    "timezone": "Asia/Shanghai"
+  }
 }

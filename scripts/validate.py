@@ -6,6 +6,7 @@ import json
 from pathlib import Path
 import re
 from urllib.parse import urlsplit, urlunsplit, parse_qsl, urlencode
+from uuid import UUID
 
 ROOT = Path(__file__).resolve().parents[1]
 
@@ -93,6 +94,22 @@ def validate_events(events):
     return [ids for ids in groups.values() if len(ids) > 1]
 
 
+def validate_project(project):
+    if project['mode'] == 'manual':
+        if project['schedule_enabled'] is not False:
+            raise ValueError('manual mode cannot enable a schedule')
+    elif project['mode'] == 'autopilot':
+        if project['schedule_enabled'] is not True:
+            raise ValueError('autopilot mode requires enabled schedule')
+        UUID(project['autopilot_id'])
+        if project.get('schedule') != {'cron': '0 8 * * *', 'timezone': 'Asia/Shanghai'}:
+            raise ValueError('schedule must match approved Shanghai 08:00 configuration')
+        if project.get('timezone') != 'Asia/Shanghai':
+            raise ValueError('project timezone must match approved schedule')
+    else:
+        raise ValueError('unknown project mode')
+
+
 def main():
     parser = argparse.ArgumentParser()
     parser.add_argument('--events', type=Path, default=ROOT / 'data/events.jsonl')
@@ -108,8 +125,7 @@ def main():
                                   source['priority'] != 'P0'):
             raise ValueError('source enabled before approved access: ' + source['id'])
     project = json.loads((ROOT / 'config/project.json').read_text())
-    if project['schedule_enabled'] or project['mode'] != 'manual':
-        raise ValueError('bootstrap must remain manual')
+    validate_project(project)
     for name in ('daily-runs', 'processed-urls', 'source-health'):
         json.loads((ROOT / f'state/{name}.json').read_text())
     events = [json.loads(line) for line in args.events.read_text().splitlines() if line.strip()]

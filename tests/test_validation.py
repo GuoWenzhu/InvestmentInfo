@@ -22,6 +22,19 @@ def fixture(**changes):
 
 
 class ValidationTests(unittest.TestCase):
+    def test_schedule_rejects_conflicting_mode_and_timezone(self):
+        approved = dict(mode='autopilot', schedule_enabled=True,
+                        autopilot_id='050525a9-5f7a-4de2-9558-05efaf6fe8e1',
+                        timezone='Asia/Shanghai',
+                        schedule={'cron': '0 8 * * *', 'timezone': 'Asia/Shanghai'})
+        v.validate_project(approved)
+        v.validate_project(dict(mode='manual', schedule_enabled=False))
+        for changes in ({'mode': 'manual'}, {'schedule_enabled': False},
+                        {'autopilot_id': 'invalid'}, {'timezone': 'UTC'},
+                        {'schedule': {'cron': '0 8 * * *', 'timezone': 'UTC'}}):
+            with self.subTest(changes=changes), self.assertRaises(ValueError):
+                v.validate_project(dict(approved, **changes))
+
     def test_undisclosed_is_not_zero(self):
         v.validate_event(fixture())
         with self.assertRaises(ValueError):

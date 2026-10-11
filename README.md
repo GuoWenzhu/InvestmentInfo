@@ -12,7 +12,7 @@ python3 -m unittest discover -s tests -v
 python3 scripts/validate.py --events data/events.jsonl
 ```
 
-校验工具检查配置、事件数据契约、证据 URL 和冲突候选；不会自动合并融资或访问互联网。事件由智能体按原文核验后录入。首次仅手动运行，时区 Asia/Shanghai、回看 48 小时、报告最多 10 条，不足不凑数。
+校验工具检查配置、事件数据契约、证据 URL 和冲突候选；不会自动合并融资或访问互联网。事件由智能体按原文核验后录入。已启用每日08:00自动化（Asia/Shanghai），每次创建独立日报 Issue；回看48小时、报告最多10条，不足不凑数。执行流程见 `docs/autopilot-run-prompt.md`。
 
 ## 目录
 
@@ -32,4 +32,4 @@ python3 scripts/validate.py --events data/events.jsonl
 
 来源修改前备份并校验字节一致，再原子替换。连续 3 次真实失败且替代入口失败才转观察；连续 30 个成功采集日无产出才降级；恢复需连续 2 次可达。网络失败、解析失败、付费墙与零产出分别记录。
 
-后续手动任务参见 `templates/manual-issue.md`。两周试运行和真实事件验收尚未执行；验证达标后再单独确认 Autopilot。
+手动接入验证任务参见 `templates/manual-issue.md`。GuoHui 已在 TECH-5 确认启用自动化并授权当前分支每日本地提交，绑定 git-commit-traceability，不自动推送。两周试运行和真实事件验收尚未执行，启用调度不代表采集验收已完成。

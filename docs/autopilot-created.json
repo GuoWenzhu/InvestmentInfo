@@ -1,0 +1,15 @@
+{
+  "autopilot_id": "b23dffc6-5188-4f59-ae3a-d907bb52e955",
+  "status": "active",
+  "project_id": "2df59e1f-5694-4b4e-8777-5c239d9a20a8",
+  "agent_id": "050525a9-5f7a-4de2-9558-05efaf6fe8e1",
+  "execution_mode": "create_issue",
+  "title": "InvestmentInfo 每日创业投资信息简报",
+  "issue_title_template": "{{date}} 创业投资信息简报",
+  "trigger_id": "4728c16a-af2a-4c37-9709-3aeebb9588c6",
+  "cron": "0 8 * * *",
+  "timezone": "Asia/Shanghai",
+  "next_run_at": "2026-10-12T00:00:00Z",
+  "git_skill_id": "06f5d043-4829-4080-9bfc-56bc7e353292",
+  "confirmation_comment_id": "01a12ac9-17e0-7225-b866-605942adbcf8"
+}
