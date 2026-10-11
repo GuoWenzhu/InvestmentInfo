@@ -1,4 +1,125 @@
 {
   "version": 1,
-  "sources": []
+  "sources": [
+    {
+      "source_id": "techstars",
+      "last_attempt_at": "2026-10-11T11:56:06.491095+00:00",
+      "last_issue_id": "01a12ace-7cb4-78c0-be57-cb150070c2b1",
+      "status": "success",
+      "consecutive_failures": 0,
+      "consecutive_reachable": 1,
+      "successful_collection_days": 1,
+      "consecutive_success_zero_output_days": 1,
+      "accepted_event_ids": [],
+      "evidence_url": "https://www.techstars.com/portfolio",
+      "notes": "组合目录可读；目录收录不生成融资，非每日融资监测来源",
+      "registry_change": null
+    },
+    {
+      "source_id": "accel",
+      "last_attempt_at": "2026-10-11T11:56:06.491095+00:00",
+      "last_issue_id": "01a12ace-7cb4-78c0-be57-cb150070c2b1",
+      "status": "success",
+      "consecutive_failures": 0,
+      "consecutive_reachable": 1,
+      "successful_collection_days": 1,
+      "consecutive_success_zero_output_days": 1,
+      "accepted_event_ids": [],
+      "evidence_url": "https://www.accel.com/news",
+      "notes": "最新列表公告10月1日，窗口外；未产生窗口内融资线索",
+      "registry_change": null
+    },
+    {
+      "source_id": "qiming",
+      "last_attempt_at": "2026-10-11T11:56:06.491095+00:00",
+      "last_issue_id": "01a12ace-7cb4-78c0-be57-cb150070c2b1",
+      "status": "success",
+      "consecutive_failures": 0,
+      "consecutive_reachable": 1,
+      "successful_collection_days": 1,
+      "consecutive_success_zero_output_days": 1,
+      "accepted_event_ids": [],
+      "evidence_url": "https://www.qimingvc.com/cn/newsroom",
+      "notes": "最新文章10月8日，荣誉名册而非融资；正文日期已核验",
+      "registry_change": null
+    },
+    {
+      "source_id": "crunchbase_news",
+      "last_attempt_at": "2026-10-11T11:56:06.491095+00:00",
+      "last_issue_id": "01a12ace-7cb4-78c0-be57-cb150070c2b1",
+      "status": "success",
+      "consecutive_failures": 0,
+      "consecutive_reachable": 1,
+      "successful_collection_days": 1,
+      "consecutive_success_zero_output_days": 0,
+      "accepted_event_ids": [
+        "typesafe-ai-20261009-equity"
+      ],
+      "evidence_url": "https://news.crunchbase.com/",
+      "notes": "读取10月9日周榜全文；统计范围10月3–9日不能整体当作48小时新增；TypeSafe补证据",
+      "registry_change": null
+    },
+    {
+      "source_id": "nvca",
+      "last_attempt_at": "2026-10-11T11:56:06.491095+00:00",
+      "last_issue_id": "01a12ace-7cb4-78c0-be57-cb150070c2b1",
+      "status": "success",
+      "consecutive_failures": 0,
+      "consecutive_reachable": 1,
+      "successful_collection_days": 1,
+      "consecutive_success_zero_output_days": 1,
+      "accepted_event_ids": [],
+      "evidence_url": "https://nvca.org/pitchbook-nvca-venture-monitor/",
+      "notes": "季度统计页面可读，未作为48小时公司融资事件；未读取全报告，不使用页面统计作本项目趋势",
+      "registry_change": null
+    },
+    {
+      "source_id": "techcrunch",
+      "last_attempt_at": "2026-10-11T11:56:06.491095+00:00",
+      "last_issue_id": "01a12ace-7cb4-78c0-be57-cb150070c2b1",
+      "status": "success",
+      "consecutive_failures": 0,
+      "consecutive_reachable": 1,
+      "successful_collection_days": 1,
+      "consecutive_success_zero_output_days": 0,
+      "accepted_event_ids": [
+        "typesafe-ai-20261009-equity",
+        "deno-20261009-acquisition"
+      ],
+      "evidence_url": "https://techcrunch.com/category/startups/",
+      "notes": "读取窗口内相关全文，发现TypeSafe、Deno；Petra合同与LumenUs产品介绍不录融资；Huxe人才许可交易不当公司收购",
+      "registry_change": null
+    },
+    {
+      "source_id": "sifted",
+      "last_attempt_at": "2026-10-11T11:56:06.491095+00:00",
+      "last_issue_id": "01a12ace-7cb4-78c0-be57-cb150070c2b1",
+      "status": "paywall",
+      "consecutive_failures": 1,
+      "consecutive_reachable": 1,
+      "successful_collection_days": 0,
+      "consecutive_success_zero_output_days": 0,
+      "accepted_event_ids": [],
+      "evidence_url": "https://sifted.eu/",
+      "notes": "首页可读；Daedalus与Revolut正文出现混淆文本，判为付费墙/全文受限；另一公开候选链接Internal Error，不冒充成功零产出",
+      "registry_change": null
+    },
+    {
+      "source_id": "company_official",
+      "last_attempt_at": "2026-10-11T11:56:06.491095+00:00",
+      "last_issue_id": "01a12ace-7cb4-78c0-be57-cb150070c2b1",
+      "status": "success",
+      "consecutive_failures": 0,
+      "consecutive_reachable": 1,
+      "successful_collection_days": 1,
+      "consecutive_success_zero_output_days": 0,
+      "accepted_event_ids": [
+        "typesafe-ai-20261009-equity",
+        "deno-20261009-acquisition"
+      ],
+      "evidence_url": null,
+      "notes": "按事件核验TypeSafe、Deno与Cloudflare合法公开正文",
+      "registry_change": null
+    }
+  ]
 }

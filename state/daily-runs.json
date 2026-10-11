@@ -1,4 +1,22 @@
 {
   "version": 1,
-  "runs": []
+  "runs": [
+    {
+      "date": "2026-10-11",
+      "run_key": "2026-10-11",
+      "issue_id": "01a12ace-7cb4-78c0-be57-cb150070c2b1",
+      "issue_identifier": "TECH-6",
+      "event_ids": [
+        "typesafe-ai-20261009-equity",
+        "deno-20261009-acquisition"
+      ],
+      "revision": 1,
+      "status": "ready_for_delivery",
+      "window_start": "2026-10-09T11:52:17Z",
+      "window_end": "2026-10-11T11:52:17Z",
+      "report_path": "reports/2026-10-11-daily.md",
+      "publication_comment_id": null,
+      "publication_note": "报告已验证并准备交付；发布回执以对应Issue最终评论为准，重试必须先查评论。"
+    }
+  ]
 }

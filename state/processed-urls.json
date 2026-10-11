@@ -1,4 +1,119 @@
 {
   "version": 1,
-  "urls": []
+  "urls": [
+    {
+      "url": "https://typesafe.ai/blog/series-ai",
+      "canonical_url": "https://typesafe.ai/blog/series-ai",
+      "source_id": "company_official",
+      "first_collected_at": "2026-10-11T11:56:06.491095+00:00",
+      "last_collected_at": "2026-10-11T11:56:06.491095+00:00",
+      "issue_id": "01a12ace-7cb4-78c0-be57-cb150070c2b1",
+      "event_id": "typesafe-ai-20261009-equity",
+      "status": "accepted",
+      "revision": 1
+    },
+    {
+      "url": "https://techcrunch.com/2026/10/09/the-maker-of-non-text-ai-model-jev-valued-at-7-5b-just-weeks-after-launch/",
+      "canonical_url": "https://techcrunch.com/2026/10/09/the-maker-of-non-text-ai-model-jev-valued-at-7-5b-just-weeks-after-launch/",
+      "source_id": "techcrunch",
+      "first_collected_at": "2026-10-11T11:56:06.491095+00:00",
+      "last_collected_at": "2026-10-11T11:56:06.491095+00:00",
+      "issue_id": "01a12ace-7cb4-78c0-be57-cb150070c2b1",
+      "event_id": "typesafe-ai-20261009-equity",
+      "status": "accepted",
+      "revision": 1
+    },
+    {
+      "url": "https://news.crunchbase.com/venture/biggest-funding-rounds-ai-energy-cloud-axiom-typesafe/",
+      "canonical_url": "https://news.crunchbase.com/venture/biggest-funding-rounds-ai-energy-cloud-axiom-typesafe/",
+      "source_id": "crunchbase_news",
+      "first_collected_at": "2026-10-11T11:56:06.491095+00:00",
+      "last_collected_at": "2026-10-11T11:56:06.491095+00:00",
+      "issue_id": "01a12ace-7cb4-78c0-be57-cb150070c2b1",
+      "event_id": "typesafe-ai-20261009-equity",
+      "status": "accepted",
+      "revision": 1
+    },
+    {
+      "url": "https://deno.com/blog/cloudflare",
+      "canonical_url": "https://deno.com/blog/cloudflare",
+      "source_id": "company_official",
+      "first_collected_at": "2026-10-11T11:56:06.491095+00:00",
+      "last_collected_at": "2026-10-11T11:56:06.491095+00:00",
+      "issue_id": "01a12ace-7cb4-78c0-be57-cb150070c2b1",
+      "event_id": "deno-20261009-acquisition",
+      "status": "accepted",
+      "revision": 1
+    },
+    {
+      "url": "https://blog.cloudflare.com/deno-joins-cloudflare/",
+      "canonical_url": "https://blog.cloudflare.com/deno-joins-cloudflare/",
+      "source_id": "company_official",
+      "first_collected_at": "2026-10-11T11:56:06.491095+00:00",
+      "last_collected_at": "2026-10-11T11:56:06.491095+00:00",
+      "issue_id": "01a12ace-7cb4-78c0-be57-cb150070c2b1",
+      "event_id": "deno-20261009-acquisition",
+      "status": "accepted",
+      "revision": 1
+    },
+    {
+      "url": "https://techcrunch.com/2026/10/10/cloudflare-acquires-deno-to-improve-its-workers-programming-model/",
+      "canonical_url": "https://techcrunch.com/2026/10/10/cloudflare-acquires-deno-to-improve-its-workers-programming-model/",
+      "source_id": "techcrunch",
+      "first_collected_at": "2026-10-11T11:56:06.491095+00:00",
+      "last_collected_at": "2026-10-11T11:56:06.491095+00:00",
+      "issue_id": "01a12ace-7cb4-78c0-be57-cb150070c2b1",
+      "event_id": "deno-20261009-acquisition",
+      "status": "accepted",
+      "revision": 1
+    },
+    {
+      "url": "https://www.oratomic.com/news/fundraise",
+      "canonical_url": "https://www.oratomic.com/news/fundraise",
+      "source_id": "company_official",
+      "first_collected_at": "2026-10-11T11:56:06.491095+00:00",
+      "last_collected_at": "2026-10-11T11:56:06.491095+00:00",
+      "issue_id": "01a12ace-7cb4-78c0-be57-cb150070c2b1",
+      "event_id": null,
+      "status": "excluded_from_window",
+      "reason": "10月8日，窗口外；累计融资不可当本轮",
+      "revision": 1
+    },
+    {
+      "url": "https://www.getvinci.ai/blog/why-physics-needs-to-move-at-the-pace-of-design/",
+      "canonical_url": "https://www.getvinci.ai/blog/why-physics-needs-to-move-at-the-pace-of-design/",
+      "source_id": "company_official",
+      "first_collected_at": "2026-10-11T11:56:06.491095+00:00",
+      "last_collected_at": "2026-10-11T11:56:06.491095+00:00",
+      "issue_id": "01a12ace-7cb4-78c0-be57-cb150070c2b1",
+      "event_id": null,
+      "status": "excluded_from_window",
+      "reason": "10月6日，窗口外",
+      "revision": 1
+    },
+    {
+      "url": "https://www.atomicmachines.com/blog/atomic-machines-origin-story",
+      "canonical_url": "https://www.atomicmachines.com/blog/atomic-machines-origin-story",
+      "source_id": "company_official",
+      "first_collected_at": "2026-10-11T11:56:06.491095+00:00",
+      "last_collected_at": "2026-10-11T11:56:06.491095+00:00",
+      "issue_id": "01a12ace-7cb4-78c0-be57-cb150070c2b1",
+      "event_id": null,
+      "status": "excluded_from_window",
+      "reason": "10月7日，窗口外；周榜是累计金额",
+      "revision": 1
+    },
+    {
+      "url": "https://blog.whitebit.com/en/w-group-invests-400-million-in-signsplit-at-1-billion-valuation/",
+      "canonical_url": "https://blog.whitebit.com/en/w-group-invests-400-million-in-signsplit-at-1-billion-valuation/",
+      "source_id": "company_official",
+      "first_collected_at": "2026-10-11T11:56:06.491095+00:00",
+      "last_collected_at": "2026-10-11T11:56:06.491095+00:00",
+      "issue_id": "01a12ace-7cb4-78c0-be57-cb150070c2b1",
+      "event_id": null,
+      "status": "excluded_from_window",
+      "reason": "10月5日，窗口外；仅按事件回查，非新常规来源",
+      "revision": 1
+    }
+  ]
 }
