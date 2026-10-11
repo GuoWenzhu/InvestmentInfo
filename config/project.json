@@ -1,0 +1,14 @@
+{
+  "version": 1,
+  "project_id": "2df59e1f-5694-4b4e-8777-5c239d9a20a8",
+  "project_name": "Investment Information",
+  "timezone": "Asia/Shanghai",
+  "mode": "manual",
+  "schedule_enabled": false,
+  "window_hours": 48,
+  "report_max_items": 10,
+  "source_registry": "config/sources.json",
+  "schema": "config/event.schema.json",
+  "bootstrap_issue": "TECH-5",
+  "agent_id": "050525a9-5f7a-4de2-9558-05efaf6fe8e1"
+}

@@ -1,0 +1,177 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "https://github.com/GuoWenzhu/InvestmentInfo/event.schema.json",
+  "title": "Investment event v1",
+  "type": "object",
+  "required": [
+    "event_id",
+    "company_id",
+    "round_raw",
+    "round_normalized",
+    "stage",
+    "currency",
+    "disclosed_date",
+    "collected_at",
+    "event_type",
+    "status",
+    "amount",
+    "amount_status",
+    "financing_date",
+    "date_precision",
+    "confidence",
+    "evidence_urls",
+    "investors",
+    "hq_country",
+    "operating_regions",
+    "sector",
+    "business_scenario",
+    "event_group_id",
+    "historical_backfill"
+  ],
+  "properties": {
+    "event_id": {
+      "type": "string",
+      "minLength": 1
+    },
+    "company_id": {
+      "type": "string",
+      "minLength": 1
+    },
+    "round_raw": {
+      "type": "string",
+      "minLength": 1
+    },
+    "round_normalized": {
+      "type": "string",
+      "minLength": 1
+    },
+    "stage": {
+      "type": "string",
+      "minLength": 1
+    },
+    "currency": {
+      "type": "string",
+      "minLength": 1
+    },
+    "disclosed_date": {
+      "type": "string",
+      "minLength": 1
+    },
+    "collected_at": {
+      "type": "string",
+      "minLength": 1
+    },
+    "event_type": {
+      "enum": [
+        "equity",
+        "debt",
+        "mixed",
+        "acquisition",
+        "fundraising",
+        "other"
+      ]
+    },
+    "status": {
+      "enum": [
+        "announced",
+        "completed",
+        "proposed"
+      ]
+    },
+    "amount": {
+      "type": [
+        "number",
+        "null"
+      ],
+      "minimum": 0
+    },
+    "amount_status": {
+      "enum": [
+        "exact",
+        "approximate",
+        "range",
+        "undisclosed"
+      ]
+    },
+    "financing_date": {
+      "type": [
+        "string",
+        "null"
+      ]
+    },
+    "date_precision": {
+      "enum": [
+        "day",
+        "month",
+        "year",
+        "unknown"
+      ]
+    },
+    "confidence": {
+      "enum": [
+        "high",
+        "medium",
+        "low"
+      ]
+    },
+    "evidence_urls": {
+      "type": "array",
+      "minItems": 1,
+      "items": {
+        "type": "string",
+        "format": "uri"
+      }
+    },
+    "investors": {
+      "type": "array",
+      "items": {
+        "type": "object",
+        "required": [
+          "investor_id",
+          "role"
+        ],
+        "properties": {
+          "investor_id": {
+            "type": "string"
+          },
+          "role": {
+            "enum": [
+              "lead",
+              "co_lead",
+              "participant",
+              "undisclosed"
+            ]
+          }
+        }
+      }
+    },
+    "hq_country": {
+      "type": [
+        "string",
+        "null"
+      ]
+    },
+    "operating_regions": {
+      "type": "array",
+      "items": {
+        "type": "string"
+      }
+    },
+    "sector": {
+      "type": "string"
+    },
+    "business_scenario": {
+      "type": "string"
+    },
+    "event_group_id": {
+      "type": [
+        "string",
+        "null"
+      ]
+    },
+    "historical_backfill": {
+      "type": "boolean"
+    }
+  },
+  "additionalProperties": false
+}
