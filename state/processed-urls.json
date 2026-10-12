@@ -114,6 +114,126 @@
       "status": "excluded_from_window",
       "reason": "10月5日，窗口外；仅按事件回查，非新常规来源",
       "revision": 1
+    },
+    {
+      "url": "https://news.crunchbase.com/venture/gudea-lands-funding-predict-viral-online-narratives/",
+      "canonical_url": "https://news.crunchbase.com/venture/gudea-lands-funding-predict-viral-online-narratives/",
+      "source_id": "crunchbase_news",
+      "first_collected_at": "2026-10-12T00:07:45+00:00",
+      "last_collected_at": "2026-10-12T00:07:45+00:00",
+      "issue_id": "01a12d68-f478-75f2-88d0-64b53663da08",
+      "event_id": null,
+      "status": "excluded_from_window",
+      "reason": "报道发布2026-10-08T13:00Z，窗口外（700万美元融资）",
+      "revision": 1
+    },
+    {
+      "url": "https://news.crunchbase.com/venture/biggest-funding-rounds-ai-cyber-real-estate-instinct/",
+      "canonical_url": "https://news.crunchbase.com/venture/biggest-funding-rounds-ai-cyber-real-estate-instinct/",
+      "source_id": "crunchbase_news",
+      "first_collected_at": "2026-10-12T00:07:45+00:00",
+      "last_collected_at": "2026-10-12T00:07:45+00:00",
+      "issue_id": "01a12d68-f478-75f2-88d0-64b53663da08",
+      "event_id": null,
+      "status": "excluded_from_window",
+      "reason": "周榜发布2026-10-02，覆盖9月26–10月2日，窗口外且为累计榜",
+      "revision": 1
+    },
+    {
+      "url": "https://waymo.com/blog/2026/10/waymo-closes-5-billion-debt-financing/",
+      "canonical_url": "https://waymo.com/blog/2026/10/waymo-closes-5-billion-debt-financing/",
+      "source_id": "company_official",
+      "first_collected_at": "2026-10-12T00:07:45+00:00",
+      "last_collected_at": "2026-10-12T00:07:45+00:00",
+      "issue_id": "01a12d68-f478-75f2-88d0-64b53663da08",
+      "event_id": null,
+      "status": "excluded_from_window",
+      "reason": "官方公告2026-10-08，窗口外；50亿美元首次债务融资",
+      "revision": 1
+    },
+    {
+      "url": "https://www.bloomnetwork.ai/blog/bloom-raises-3-6m-seed-round",
+      "canonical_url": "https://www.bloomnetwork.ai/blog/bloom-raises-3-6m-seed-round",
+      "source_id": "company_official",
+      "first_collected_at": "2026-10-12T00:07:45+00:00",
+      "last_collected_at": "2026-10-12T00:07:45+00:00",
+      "issue_id": "01a12d68-f478-75f2-88d0-64b53663da08",
+      "event_id": null,
+      "status": "excluded_from_window",
+      "reason": "公司公告2026-10-07，窗口外；360万美元种子轮",
+      "revision": 1
+    },
+    {
+      "url": "https://www.useflai.com/blog/flai-series-a-base10",
+      "canonical_url": "https://www.useflai.com/blog/flai-series-a-base10",
+      "source_id": "company_official",
+      "first_collected_at": "2026-10-12T00:07:45+00:00",
+      "last_collected_at": "2026-10-12T00:07:45+00:00",
+      "issue_id": "01a12d68-f478-75f2-88d0-64b53663da08",
+      "event_id": null,
+      "status": "excluded_from_window",
+      "reason": "披露2026-10-06（TechCrunch同日报道），窗口外；2700万美元A轮",
+      "revision": 1
+    },
+    {
+      "url": "https://www.prnewswire.com/news-releases/parallel-systems-closes-100m-in-new-funding-to-fully-commercialize-autonomous-freight-rail-system-302900326.html",
+      "canonical_url": "https://www.prnewswire.com/news-releases/parallel-systems-closes-100m-in-new-funding-to-fully-commercialize-autonomous-freight-rail-system-302900326.html",
+      "source_id": "company_official",
+      "first_collected_at": "2026-10-12T00:07:45+00:00",
+      "last_collected_at": "2026-10-12T00:07:45+00:00",
+      "issue_id": "01a12d68-f478-75f2-88d0-64b53663da08",
+      "event_id": null,
+      "status": "excluded_from_window",
+      "reason": "新闻稿2026-10-07，窗口外；1亿美元C轮",
+      "revision": 1
+    },
+    {
+      "url": "https://www.ezcater.com/company/press-release/uber-to-acquire-ezcater-as-it-brings-catering-to-uber-eats/",
+      "canonical_url": "https://www.ezcater.com/company/press-release/uber-to-acquire-ezcater-as-it-brings-catering-to-uber-eats/",
+      "source_id": "company_official",
+      "first_collected_at": "2026-10-12T00:07:45+00:00",
+      "last_collected_at": "2026-10-12T00:07:45+00:00",
+      "issue_id": "01a12d68-f478-75f2-88d0-64b53663da08",
+      "event_id": null,
+      "status": "excluded_from_window",
+      "reason": "双方公告2026-10-06，窗口外；Uber 23亿美元全现金收购",
+      "revision": 1
+    },
+    {
+      "url": "https://techcrunch.com/2026/10/11/dawn-myers-is-making-it-easier-to-style-detangle-and-care-for-curly-hair/",
+      "canonical_url": "https://techcrunch.com/2026/10/11/dawn-myers-is-making-it-easier-to-style-detangle-and-care-for-curly-hair/",
+      "source_id": "techcrunch",
+      "first_collected_at": "2026-10-12T00:07:45+00:00",
+      "last_collected_at": "2026-10-12T00:07:45+00:00",
+      "issue_id": "01a12d68-f478-75f2-88d0-64b53663da08",
+      "event_id": null,
+      "status": "excluded_not_event",
+      "reason": "创始人专访；文中融资为历史累计（约140万美元已关闭轮次），非新轮次披露",
+      "revision": 1
+    },
+    {
+      "url": "https://techcrunch.com/2026/10/11/efferon-wants-to-eradicate-the-devastating-toll-of-pediatric-sepsis/",
+      "canonical_url": "https://techcrunch.com/2026/10/11/efferon-wants-to-eradicate-the-devastating-toll-of-pediatric-sepsis/",
+      "source_id": "techcrunch",
+      "first_collected_at": "2026-10-12T00:07:45+00:00",
+      "last_collected_at": "2026-10-12T00:07:45+00:00",
+      "issue_id": "01a12d68-f478-75f2-88d0-64b53663da08",
+      "event_id": null,
+      "status": "excluded_not_event",
+      "reason": "Startup Battlefield公司介绍，无新融资公告",
+      "revision": 1
+    },
+    {
+      "url": "https://techcrunch.com/2026/10/11/techcrunch-mobility-a-roadblock-clears-for-self-driving-trucks/",
+      "canonical_url": "https://techcrunch.com/2026/10/11/techcrunch-mobility-a-roadblock-clears-for-self-driving-trucks/",
+      "source_id": "techcrunch",
+      "first_collected_at": "2026-10-12T00:07:45+00:00",
+      "last_collected_at": "2026-10-12T00:07:45+00:00",
+      "issue_id": "01a12d68-f478-75f2-88d0-64b53663da08",
+      "event_id": null,
+      "status": "excluded_out_of_window",
+      "reason": "通讯发布于窗口内，但Deals栏5条交易原始披露均在10-06~10-08，按披露日口径不入窗口",
+      "revision": 1
     }
   ]
 }

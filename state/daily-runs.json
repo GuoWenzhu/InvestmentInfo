@@ -17,6 +17,20 @@
       "report_path": "reports/2026-10-11-daily.md",
       "publication_comment_id": null,
       "publication_note": "报告已验证并准备交付；发布回执以对应Issue最终评论为准，重试必须先查评论。"
+    },
+    {
+      "date": "2026-10-12",
+      "run_key": "2026-10-12",
+      "issue_id": "01a12d68-f478-75f2-88d0-64b53663da08",
+      "issue_identifier": "TECH-12",
+      "event_ids": [],
+      "revision": 1,
+      "status": "ready_for_delivery",
+      "window_start": "2026-10-10T00:00:00Z",
+      "window_end": "2026-10-12T00:00:00Z",
+      "report_path": "reports/2026-10-12-daily.md",
+      "publication_comment_id": null,
+      "publication_note": "零新增零更正窗口；报告已验证并准备交付；发布回执以对应Issue最终评论为准，重试必须先查评论。"
     }
   ]
 }

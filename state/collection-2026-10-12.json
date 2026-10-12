@@ -1,0 +1,119 @@
+{
+  "issue_id": "01a12d68-f478-75f2-88d0-64b53663da08",
+  "issue_identifier": "TECH-12",
+  "collected_at": "2026-10-12T00:07:45+00:00",
+  "window_start": "2026-10-10T00:00:00Z",
+  "window_end": "2026-10-12T00:00:00Z",
+  "source_attempts": [
+    {
+      "source_id": "techstars",
+      "attempted_at": "2026-10-12T00:03:30+00:00",
+      "status": "success_zero_output",
+      "evidence_url": "https://www.techstars.com/portfolio",
+      "notes": "组合目录页可读（253KB，标题正常，无质询页）；目录收录不生成融资事件"
+    },
+    {
+      "source_id": "accel",
+      "attempted_at": "2026-10-12T00:03:30+00:00",
+      "status": "success_zero_output",
+      "evidence_url": "https://www.accel.com/news",
+      "notes": "新闻列表页可读；最新条目日期仍为2026-10-01，窗口外，无窗口内融资公告"
+    },
+    {
+      "source_id": "qiming",
+      "attempted_at": "2026-10-12T00:03:30+00:00",
+      "status": "success_zero_output",
+      "evidence_url": "https://www.qimingvc.com/cn/newsroom",
+      "notes": "新闻室可读；日期可辨的最新新闻仍为10-08荣誉名册；列表首条观点文实为2025/03/27旧文（页面置顶展示，非新发布）；无窗口内融资公告"
+    },
+    {
+      "source_id": "crunchbase_news",
+      "attempted_at": "2026-10-12T00:03:30+00:00",
+      "status": "success_zero_output",
+      "evidence_url": "https://news.crunchbase.com/",
+      "notes": "首页可读；最新文章仍为10-09周榜（昨日已入台账）；10-02周榜与10-08 Gudea报道核对日期后在窗口外；Q3季度统计为T2口径数据，不当48小时事件"
+    },
+    {
+      "source_id": "nvca",
+      "attempted_at": "2026-10-12T00:03:30+00:00",
+      "status": "success_zero_output",
+      "evidence_url": "https://nvca.org/pitchbook-nvca-venture-monitor/",
+      "notes": "季度统计页面可读（181KB）；季度报告不作为48小时公司融资事件来源"
+    },
+    {
+      "source_id": "techcrunch",
+      "attempted_at": "2026-10-12T00:03:30+00:00",
+      "status": "success_zero_output",
+      "evidence_url": "https://techcrunch.com/category/startups/",
+      "notes": "Startups栏目与首页最新流可读；窗口内文章逐篇核验：Dawn Myers（10-11）为创始人专访且所提融资为历史轮次，Efferon（10-11）为Startup Battlefield公司介绍无新融资公告；10-11 Mobility通讯Deals栏5条线索经原始来源核验披露日均在10-06~10-08（窗口外）；Deno（10-10）为已录事件deno-20261009-acquisition的后续报道"
+    },
+    {
+      "source_id": "sifted",
+      "attempted_at": "2026-10-12T00:05:00+00:00",
+      "status": "success_zero_output",
+      "evidence_url": "https://sifted.eu/feed",
+      "notes": "主入口https://sifted.eu/本次返回Cloudflare人机质询页（Just a moment），全文受限；替代公共入口RSS https://sifted.eu/feed 可读（lastBuildDate 2026-10-12 00:04:56 GMT，24条）；最新文章10-09 16:48 GMT，窗口内无新发布；RSS中融资类条目（Yazen €50m 10-08、RiverCell $25m 10-07、Spiko $90m 10-06、SAP收购TechWolf 10-06、Elvy 10-08）均在窗口外，仅作日期核验不作事件"
+    },
+    {
+      "source_id": "company_official",
+      "attempted_at": "2026-10-12T00:07:00+00:00",
+      "status": "success_zero_output",
+      "evidence_url": null,
+      "notes": "无窗口内新增候选需事件核验；窗口外线索按事件回查官方域名：waymo.com/blog（10-08）、bloomnetwork.ai（10-07）、useflai.com（10-06/07）、ezcater.com新闻稿（10-06）、Parallel Systems新闻稿经PR Newswire（10-07），均确认原始披露日在窗口外"
+    }
+  ],
+  "excluded_candidates": [
+    {
+      "name": "Waymo",
+      "detail": "50亿美元定期贷款（首次债务融资），PIMCO/Blackstone/Sixth Street牵头",
+      "reason": "官方公告2026-10-08，窗口外；10-11 TC Mobility通讯为回提"
+    },
+    {
+      "name": "Bloom（bloomnetwork.ai）",
+      "detail": "360万美元种子轮，SNAK Venture Partners领投",
+      "reason": "公司公告2026-10-07，窗口外"
+    },
+    {
+      "name": "Flai",
+      "detail": "2700万美元A轮，Base10 Partners领投",
+      "reason": "披露2026-10-06，窗口外"
+    },
+    {
+      "name": "Parallel Systems",
+      "detail": "1亿美元C轮（100M+新资金），AVP领投",
+      "reason": "新闻稿2026-10-07，窗口外"
+    },
+    {
+      "name": "ezCater",
+      "detail": "Uber以23亿美元全现金收购",
+      "reason": "双方公告2026-10-06，窗口外"
+    },
+    {
+      "name": "Gudea",
+      "detail": "700万美元融资，预测线上叙事传播",
+      "reason": "Crunchbase News报道发布2026-10-08T13:00Z，窗口外"
+    },
+    {
+      "name": "Richualist（Dawn Myers）",
+      "detail": "TechCrunch 10-11创始人专访；文中资金为历史累计（约140万美元、已关闭轮次）",
+      "reason": "非新轮次披露；累计金额不可当本轮，专访不生成融资事件"
+    },
+    {
+      "name": "Efferon",
+      "detail": "TechCrunch 10-11 Startup Battlefield公司介绍；CE认证与收入自述",
+      "reason": "无新融资公告，产品/公司介绍不录事件"
+    },
+    {
+      "name": "Yazen / RiverCell / Spiko / SAP-TechWolf / Elvy",
+      "detail": "Sifted RSS中窗口外融资条目（10-06~10-08）",
+      "reason": "披露日窗口外，仅作日期核验"
+    }
+  ],
+  "limitations": [
+    "入口采样不是无限全站检索，可能漏报",
+    "Sifted主入口本次被人机质询页拦截，欧洲覆盖依赖RSS摘要级核验；标题/摘要未冒充全文",
+    "窗口为周六至周日（UTC 10-10至10-12），主要融资披露通常集中在工作日，零产出与采集日有关联",
+    "TechCrunch Mobility通讯发布于窗口内，但其中全部交易原始披露在10-06~10-08，按披露日口径不入窗口",
+    "30/90天历史仍不足；未取得客户方独立证据"
+  ]
+}
