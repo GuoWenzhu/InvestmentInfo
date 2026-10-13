@@ -1,3 +1,7 @@
 {"event_id": "typesafe-ai-20261009-equity", "investor_id": "a16z", "role": "lead", "investment_amount": null, "currency": "UNK", "evidence_ids": ["typesafe-official-1"]}
 {"event_id": "typesafe-ai-20261009-equity", "investor_id": "sequoia", "role": "participant", "investment_amount": null, "currency": "UNK", "evidence_ids": ["typesafe-official-1"]}
 {"event_id": "typesafe-ai-20261009-equity", "investor_id": "dcvc", "role": "participant", "investment_amount": null, "currency": "UNK", "evidence_ids": ["typesafe-official-1"]}
+{"event_id": "cmr-surgical-20261012-equity", "investor_id": "stryker", "role": "lead", "investment_amount": 400000000, "currency": "USD", "evidence_ids": ["cmr-stryker-pr-1", "cmr-cmrpr-1"]}
+{"event_id": "1komma5-20261012-equity", "investor_id": "marunouchi-ip", "role": "undisclosed", "investment_amount": null, "currency": "UNK", "evidence_ids": ["1komma5-sifted-1"]}
+{"event_id": "ambi-20261012-equity", "investor_id": "luminous-ventures", "role": "lead", "investment_amount": null, "currency": "UNK", "evidence_ids": ["ambi-tc-1"]}
+{"event_id": "ambi-20261012-equity", "investor_id": "huaqin", "role": "lead", "investment_amount": null, "currency": "UNK", "evidence_ids": ["ambi-tc-1"]}

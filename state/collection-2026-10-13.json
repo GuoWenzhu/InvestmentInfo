@@ -1,0 +1,109 @@
+{
+  "issue_id": "01a1328f-5038-743b-a52f-58f1bd4890c1",
+  "issue_identifier": "TECH-16",
+  "collected_at": "2026-10-13T00:11:52+00:00",
+  "window_start": "2026-10-11T00:00:00Z",
+  "window_end": "2026-10-13T00:00:00Z",
+  "source_attempts": [
+    {
+      "source_id": "techcrunch",
+      "attempted_at": "2026-10-13T00:03:40+00:00",
+      "status": "success",
+      "evidence_url": "https://techcrunch.com/category/startups/",
+      "notes": "Startups栏目与首页可读；窗口内(10-11~10-12)文章逐篇核验：Ambi融资报道(10-12)录为事件ambi-20261012-equity；Blueprints AI(10-12)、Honeyjar(10-12)为Startup Battlefield公司介绍无新融资；Windborne(10-12)为空军合同非融资；Ultrahuman(10-12)/Meta Muse(10-12)/Fitbit Edge(10-12)为产品发布；Orkut回顾(10-09)窗口外"
+    },
+    {
+      "source_id": "crunchbase_news",
+      "attempted_at": "2026-10-13T00:04:10+00:00",
+      "status": "success_zero_output",
+      "evidence_url": "https://news.crunchbase.com/",
+      "notes": "首页可读；最新文章仍为10-09周榜与10-09 Q3统计（窗口外，逐篇核对datePublished：Active Investors Q3=10-09、Customer Workflows=10-09、Hilt种子轮=10-07）；10-10至今无新文章"
+    },
+    {
+      "source_id": "accel",
+      "attempted_at": "2026-10-13T00:04:40+00:00",
+      "status": "success_zero_output",
+      "evidence_url": "https://www.accel.com/news",
+      "notes": "新闻列表可读；最新条目仍为2026-10-01（Moneyview IPO），窗口外"
+    },
+    {
+      "source_id": "qiming",
+      "attempted_at": "2026-10-13T00:05:10+00:00",
+      "status": "success_zero_output",
+      "evidence_url": "https://www.qimingvc.com/cn/newsroom",
+      "notes": "新闻室可读；日期可辨最新条目仍为10/2026荣誉名册（10-08，窗口外）；其余为9月及更早"
+    },
+    {
+      "source_id": "sifted",
+      "attempted_at": "2026-10-13T00:05:40+00:00",
+      "status": "success",
+      "evidence_url": "https://sifted.eu/feed",
+      "notes": "主入口https://sifted.eu/与两篇文章页均返回Cloudflare质询页403（连续第3次主入口受限；替代RSS入口成功，按report-health不满足『替代入口失败』转观察条件）；RSS可读（lastBuildDate 2026-10-12T23:59:14Z，24条），10-12新增两条融资线索：Stryker-CMR、1Komma5 €70m——以RSS标题为发现线索，全文受限，按事件核验路径经双方官方公告/官网及跨媒体交叉核验后录入；标题/摘要未冒充全文"
+    },
+    {
+      "source_id": "nvca",
+      "attempted_at": "2026-10-13T00:06:10+00:00",
+      "status": "success_zero_output",
+      "evidence_url": "https://nvca.org/pitchbook-nvca-venture-monitor/",
+      "notes": "季度统计页面可读（181KB）；季度报告不作为48小时公司融资事件来源"
+    },
+    {
+      "source_id": "techstars",
+      "attempted_at": "2026-10-13T00:06:40+00:00",
+      "status": "success_zero_output",
+      "evidence_url": "https://www.techstars.com/portfolio",
+      "notes": "组合目录页可读（253KB）；目录收录不生成融资事件"
+    },
+    {
+      "source_id": "company_official",
+      "attempted_at": "2026-10-13T00:07:30+00:00",
+      "status": "success",
+      "evidence_url": null,
+      "notes": "按事件核验官方域名：cmrsurgical.com与stryker.com双方联合公告（10-12，GlobeNewswire分发）确认Stryker约4亿美元优先股投资+独家收购期权+美国独家销售代理；ambi.ai经TechCrunch正文直链确认官方域名（站点可读、无融资公告）；1komma5.com/de/presse核实官方新闻室最新稿2026-09-22、无本轮融资稿（金额为媒体口径，与Reuters系『未披露』口径冲突已记录）"
+    }
+  ],
+  "accepted_events": [
+    "cmr-surgical-20261012-equity",
+    "1komma5-20261012-equity",
+    "ambi-20261012-equity"
+  ],
+  "excluded_candidates": [
+    {
+      "name": "Blueprints AI",
+      "detail": "Startup Battlefield 200公司介绍（建筑图纸AI）",
+      "reason": "无新融资公告，公司介绍不录事件"
+    },
+    {
+      "name": "Honeyjar",
+      "detail": "Startup Battlefield 200公司介绍（PR AI工具）",
+      "reason": "无新融资公告，waitlist/beta自述不录事件"
+    },
+    {
+      "name": "Windborne",
+      "detail": "美国空军 balloons 数据合同",
+      "reason": "合同非融资事件"
+    },
+    {
+      "name": "Hilt",
+      "detail": "420万美元种子轮（CBN网络安全报道）",
+      "reason": "报道发布2026-10-07，窗口外"
+    },
+    {
+      "name": "Active Investors Q3 / Customer Workflows",
+      "detail": "CBN季度统计与观点文（10-09）",
+      "reason": "统计口径/观点，非48小时事件且窗口外"
+    },
+    {
+      "name": "Ultrahuman / Meta Muse / Fitbit Edge",
+      "detail": "产品发布类报道（10-12）",
+      "reason": "产品新闻不录融资事件"
+    }
+  ],
+  "limitations": [
+    "入口采样不是无限全站检索，可能漏报",
+    "Sifted主入口连续3次受限（10-11付费墙/混淆、10-12质询页、10-13质询页）；本次两条欧洲事件以RSS标题为线索、官方公告与跨媒体交叉核验为准，Sifted正文未读；Project Europe基金相关条目（10-12）因全文不可得仅作标题级观察，未录事件",
+    "1Komma5°融资金额为媒体口径，官方新闻室无新闻稿，且存在『未披露金额』的冲突报道",
+    "Ambi$26M为跨多轮累计，原文无分项，无法拆分为可独立核验的轮次；单轮金额按契约记null",
+    "30/90天历史仍不足；未取得客户方独立证据"
+  ]
+}

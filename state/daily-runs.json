@@ -31,6 +31,24 @@
       "report_path": "reports/2026-10-12-daily.md",
       "publication_comment_id": "01a12d72-4026-72db-8fe5-8e6c71cf74aa",
       "publication_note": "已交付Issue评论并附报告与追踪附件（2026-10-12T00:10:24Z）；同Issue不重复发布。"
+    },
+    {
+      "date": "2026-10-13",
+      "run_key": "2026-10-13",
+      "issue_id": "01a1328f-5038-743b-a52f-58f1bd4890c1",
+      "issue_identifier": "TECH-16",
+      "event_ids": [
+        "cmr-surgical-20261012-equity",
+        "1komma5-20261012-equity",
+        "ambi-20261012-equity"
+      ],
+      "revision": 1,
+      "status": "ready_for_delivery",
+      "window_start": "2026-10-11T00:00:00Z",
+      "window_end": "2026-10-13T00:00:00Z",
+      "report_path": "reports/2026-10-13-daily.md",
+      "publication_comment_id": null,
+      "publication_note": "报告已验证；发布回执以本Issue最终评论为准，重试必须先查评论。"
     }
   ]
 }

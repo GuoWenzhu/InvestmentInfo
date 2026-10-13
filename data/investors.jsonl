@@ -1,3 +1,7 @@
 {"investor_id": "a16z", "name": "Andreessen Horowitz", "aliases": ["a16z"], "parent_id": null}
 {"investor_id": "sequoia", "name": "Sequoia Capital", "aliases": [], "parent_id": null}
 {"investor_id": "dcvc", "name": "DCVC", "aliases": [], "parent_id": null}
+{"investor_id": "stryker", "name": "Stryker Corporation", "aliases": ["Stryker"], "parent_id": null}
+{"investor_id": "marunouchi-ip", "name": "Marunouchi Innovation Partners", "aliases": ["MIP"], "parent_id": null}
+{"investor_id": "luminous-ventures", "name": "Luminous Ventures", "aliases": [], "parent_id": null}
+{"investor_id": "huaqin", "name": "Huaqin Technology", "aliases": ["华勤技术", "Huaqin (ODM)"], "parent_id": null}
