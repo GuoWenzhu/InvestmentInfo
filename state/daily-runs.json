@@ -61,12 +61,12 @@
         "allygen-20261013-equity"
       ],
       "revision": 1,
-      "status": "ready_for_delivery",
+      "status": "delivered",
       "window_start": "2026-10-12T00:00:00Z",
       "window_end": "2026-10-14T00:00:00Z",
       "report_path": "reports/2026-10-14-daily.md",
-      "publication_comment_id": null,
-      "publication_note": "报告已验证准备交付；发布回执以对应Issue最终评论为准，重试必须先查评论。"
+      "publication_comment_id": "01a137c5-4715-70e7-bd47-62c8190deb01",
+      "publication_note": "已交付Issue评论并附报告/采集/追踪附件（2026-10-14T00:17:18Z）；同Issue不重复发布。"
     }
   ]
 }
