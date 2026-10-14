@@ -5,3 +5,21 @@
 {"event_id": "1komma5-20261012-equity", "investor_id": "marunouchi-ip", "role": "undisclosed", "investment_amount": null, "currency": "UNK", "evidence_ids": ["1komma5-sifted-1"]}
 {"event_id": "ambi-20261012-equity", "investor_id": "luminous-ventures", "role": "lead", "investment_amount": null, "currency": "UNK", "evidence_ids": ["ambi-tc-1"]}
 {"event_id": "ambi-20261012-equity", "investor_id": "huaqin", "role": "lead", "investment_amount": null, "currency": "UNK", "evidence_ids": ["ambi-tc-1"]}
+{"event_id": "scuba-20261013-equity", "investor_id": "accel", "role": "co_lead", "investment_amount": null, "currency": "UNK", "evidence_ids": ["scuba-accel-1", "scuba-official-1"]}
+{"event_id": "scuba-20261013-equity", "investor_id": "ivp", "role": "co_lead", "investment_amount": null, "currency": "UNK", "evidence_ids": ["scuba-official-1"]}
+{"event_id": "scuba-20261013-equity", "investor_id": "boxgroup", "role": "participant", "investment_amount": null, "currency": "UNK", "evidence_ids": ["scuba-official-1"]}
+{"event_id": "scuba-20261013-equity", "investor_id": "conviction", "role": "participant", "investment_amount": null, "currency": "UNK", "evidence_ids": ["scuba-official-1"]}
+{"event_id": "scuba-20261013-equity", "investor_id": "homebrew", "role": "participant", "investment_amount": null, "currency": "UNK", "evidence_ids": ["scuba-official-1"]}
+{"event_id": "scuba-20261013-equity", "investor_id": "scribble-ventures", "role": "participant", "investment_amount": null, "currency": "UNK", "evidence_ids": ["scuba-official-1"]}
+{"event_id": "giraffe-bio-20261013-equity", "investor_id": "orion-industrial-ventures", "role": "lead", "investment_amount": null, "currency": "UNK", "evidence_ids": ["giraffe-official-1", "giraffe-tc-1"]}
+{"event_id": "giraffe-bio-20261013-equity", "investor_id": "bhp-ventures", "role": "participant", "investment_amount": null, "currency": "UNK", "evidence_ids": ["giraffe-official-1"]}
+{"event_id": "giraffe-bio-20261013-equity", "investor_id": "twynam", "role": "participant", "investment_amount": null, "currency": "UNK", "evidence_ids": ["giraffe-official-1"]}
+{"event_id": "giraffe-bio-20261013-equity", "investor_id": "air-capital", "role": "participant", "investment_amount": null, "currency": "UNK", "evidence_ids": ["giraffe-official-1"]}
+{"event_id": "giraffe-bio-20261013-equity", "investor_id": "baruch-future-ventures", "role": "participant", "investment_amount": null, "currency": "UNK", "evidence_ids": ["giraffe-official-1"]}
+{"event_id": "allygen-20261013-equity", "investor_id": "sherpa-capital", "role": "lead", "investment_amount": null, "currency": "UNK", "evidence_ids": ["allygen-qiming-1", "allygen-cv-1"]}
+{"event_id": "allygen-20261013-equity", "investor_id": "beijing-medical-health-fund", "role": "participant", "investment_amount": null, "currency": "UNK", "evidence_ids": ["allygen-qiming-1"]}
+{"event_id": "allygen-20261013-equity", "investor_id": "qiming", "role": "participant", "investment_amount": null, "currency": "UNK", "evidence_ids": ["allygen-qiming-1"]}
+{"event_id": "allygen-20261013-equity", "investor_id": "zhuhai-tech-group", "role": "participant", "investment_amount": null, "currency": "UNK", "evidence_ids": ["allygen-qiming-1"]}
+{"event_id": "allygen-20261013-equity", "investor_id": "huagai-capital", "role": "participant", "investment_amount": null, "currency": "UNK", "evidence_ids": ["allygen-qiming-1"]}
+{"event_id": "allygen-20261013-equity", "investor_id": "taiyu-investment", "role": "participant", "investment_amount": null, "currency": "UNK", "evidence_ids": ["allygen-qiming-1"]}
+{"event_id": "allygen-20261013-equity", "investor_id": "w-capital", "role": "participant", "investment_amount": null, "currency": "UNK", "evidence_ids": ["allygen-qiming-1"]}

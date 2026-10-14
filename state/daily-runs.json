@@ -49,6 +49,24 @@
       "report_path": "reports/2026-10-13-daily.md",
       "publication_comment_id": "01a1329e-25f1-79bc-874e-40a5f4201b4c",
       "publication_note": "已交付Issue评论并附追踪/采集/报告附件（2026-10-13T00:16:27Z）；同Issue不重复发布。"
+    },
+    {
+      "date": "2026-10-14",
+      "run_key": "2026-10-14",
+      "issue_id": "01a137b5-d130-7d39-b898-ab4c129174f5",
+      "issue_identifier": "TECH-19",
+      "event_ids": [
+        "scuba-20261013-equity",
+        "giraffe-bio-20261013-equity",
+        "allygen-20261013-equity"
+      ],
+      "revision": 1,
+      "status": "ready_for_delivery",
+      "window_start": "2026-10-12T00:00:00Z",
+      "window_end": "2026-10-14T00:00:00Z",
+      "report_path": "reports/2026-10-14-daily.md",
+      "publication_comment_id": null,
+      "publication_note": "报告已验证准备交付；发布回执以对应Issue最终评论为准，重试必须先查评论。"
     }
   ]
 }

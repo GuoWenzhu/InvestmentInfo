@@ -5,3 +5,20 @@
 {"investor_id": "marunouchi-ip", "name": "Marunouchi Innovation Partners", "aliases": ["MIP"], "parent_id": null}
 {"investor_id": "luminous-ventures", "name": "Luminous Ventures", "aliases": [], "parent_id": null}
 {"investor_id": "huaqin", "name": "Huaqin Technology", "aliases": ["华勤技术", "Huaqin (ODM)"], "parent_id": null}
+{"investor_id": "ivp", "name": "Institutional Venture Partners (IVP)", "aliases": ["IVP"], "parent_id": null}
+{"investor_id": "boxgroup", "name": "BoxGroup", "aliases": [], "parent_id": null}
+{"investor_id": "conviction", "name": "Conviction", "aliases": ["Conviction Research"], "parent_id": null}
+{"investor_id": "homebrew", "name": "Homebrew", "aliases": [], "parent_id": null}
+{"investor_id": "scribble-ventures", "name": "Scribble Ventures", "aliases": [], "parent_id": null}
+{"investor_id": "orion-industrial-ventures", "name": "Orion Industrial Ventures", "aliases": ["Orion Industrial"], "parent_id": null}
+{"investor_id": "bhp-ventures", "name": "BHP Ventures", "aliases": [], "parent_id": null}
+{"investor_id": "twynam", "name": "Twynam", "aliases": [], "parent_id": null}
+{"investor_id": "air-capital", "name": "Air Capital", "aliases": [], "parent_id": null}
+{"investor_id": "baruch-future-ventures", "name": "Baruch Future Ventures", "aliases": [], "parent_id": null}
+{"investor_id": "sherpa-capital", "name": "夏尔巴投资", "aliases": ["Sherpa Capital"], "parent_id": null}
+{"investor_id": "beijing-medical-health-fund", "name": "北京市医药健康产业投资基金", "aliases": ["北京医药健康基金"], "parent_id": null}
+{"investor_id": "qiming", "name": "启明创投", "aliases": ["Qiming Venture Partners"], "parent_id": null}
+{"investor_id": "zhuhai-tech-group", "name": "珠海科技产业集团", "aliases": [], "parent_id": null}
+{"investor_id": "huagai-capital", "name": "华盖资本", "aliases": ["Huagai Capital"], "parent_id": null}
+{"investor_id": "taiyu-investment", "name": "泰煜投资", "aliases": [], "parent_id": null}
+{"investor_id": "w-capital", "name": "W Capital", "aliases": [], "parent_id": null}

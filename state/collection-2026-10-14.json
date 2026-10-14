@@ -1,0 +1,120 @@
+{
+  "issue_id": "01a137b5-d130-7d39-b898-ab4c129174f5",
+  "issue_identifier": "TECH-19",
+  "collected_at": "2026-10-14T00:25:00+00:00",
+  "window_start": "2026-10-12T00:00:00Z",
+  "window_end": "2026-10-14T00:00:00Z",
+  "source_attempts": [
+    {
+      "source_id": "techcrunch",
+      "attempted_at": "2026-10-14T00:02:20+00:00",
+      "status": "success",
+      "evidence_url": "https://techcrunch.com/category/startups/",
+      "notes": "Startups栏目第1、2页可读；窗口内新增(10-13)文章逐篇核验：Giraffe Bio种子轮(10-13T12:40Z)录为事件giraffe-bio-20261013-equity；Flox Intelligence(10-13)、Longshot(10-13)、Licube(10-13)、Niobia(10-13)为Disrupt Battlefield公司介绍（前两者含历史累计融资自述，无新轮次）；Battlefield 20强/Disrupt Day 1/Stage lineup(10-13)为赛事报道；Cal AI(10-08)窗口外；10-12条目（Windborne/Honeyjar/Ultrahuman等）前次已核"
+    },
+    {
+      "source_id": "sifted",
+      "attempted_at": "2026-10-14T00:08:10+00:00",
+      "status": "success_zero_output",
+      "evidence_url": "https://sifted.eu/feed",
+      "notes": "主站与文章页403 Cloudflare质询（连续第4日）；替代RSS入口成功（lastBuildDate 2026-10-14T00:03:37Z，24条）。窗口内新增候选：Nvidia宣布欧洲十亿美元级投资(10-13T21:09Z)——正文403不可读，经Bloomberg/Semafor/TipRanks等跨媒体核实为『未来一周$2B欧洲投资计划+4家法国初创(Doctolib/Genesis AI/Pigment/Entalpic)少数股权投资』，无金额无轮次，属计划/意向披露非完成事件，登记排除；其余窗口内条目为观点/访谈/赞助内容(brnd)/行业分析/政策类，非融资；CMR与1Komma5(10-12)前次已核"
+    },
+    {
+      "source_id": "crunchbase_news",
+      "attempted_at": "2026-10-14T00:09:40+00:00",
+      "status": "success_zero_output",
+      "evidence_url": "https://news.crunchbase.com/",
+      "notes": "RSS 403（网络层拦截，首次记录）；替代入口首页可读（170KB）：最新文章仍为10-09 Q3全球/北美/欧洲统计与10-08文章，窗口内无新文章"
+    },
+    {
+      "source_id": "accel",
+      "attempted_at": "2026-10-14T00:10:40+00:00",
+      "status": "success",
+      "evidence_url": "https://www.accel.com/news",
+      "notes": "新闻列表可读（546KB)；新增条目《AI That Knows What Your Team Knows》(2026-10-13T16:00Z)：Accel领投Scuba pre-seed、与IVP联合领投seed，公司同日出stealth官宣$34M两轮累计——按事件核验路径录为scuba-20261013-equity；其余条目Moneyview IPO(10-01)、Ando(09-24)等窗口外"
+    },
+    {
+      "source_id": "qiming",
+      "attempted_at": "2026-10-14T00:11:30+00:00",
+      "status": "success",
+      "evidence_url": "https://www.qimingvc.com/cn/newsroom",
+      "notes": "新闻室可读；新增《启明周报Vol.31, 2026.10.13》：企业融资两条——联进生物超3亿元A轮（10-13经投中网/投资界/VCBeat等跨媒体核实录为allygen-20261013-equity）；百趣生物近亿元B轮（官宣2026-10-10，窗口外，登记防重复）。重磅合作三条（艾博-诺华5.75亿美元首付款授权为BD交易、英矽智能AI联合开发、优必选战略合作）非融资事件"
+    },
+    {
+      "source_id": "nvca",
+      "attempted_at": "2026-10-14T00:12:10+00:00",
+      "status": "success_zero_output",
+      "evidence_url": "https://nvca.org/pitchbook-nvca-venture-monitor/",
+      "notes": "季度统计页可读（181KB）；页面含Q3 2026数据表述但无窗口内新发布事件；季度统计不作为48小时公司融资事件来源"
+    },
+    {
+      "source_id": "techstars",
+      "attempted_at": "2026-10-14T00:12:50+00:00",
+      "status": "success_zero_output",
+      "evidence_url": "https://www.techstars.com/portfolio",
+      "notes": "组合目录页可读（254KB）；目录收录不生成融资事件"
+    },
+    {
+      "source_id": "company_official",
+      "attempted_at": "2026-10-14T00:20:00+00:00",
+      "status": "success",
+      "evidence_url": null,
+      "notes": "scuba.app：官方新闻稿Business Wire smartlink指向该域，官网首屏『Out of stealth with $34M from Accel and IVP』与新闻稿一致，社交handle统一withscuba；giraffe.bio：TechCrunch正文直链，官网业务自述与融资业务一致，Press区块列GlobeNewswire/TechCrunch，官方新闻稿经GlobeNewswire分发（Manila Times全文转载核读）；allygen无官网与自有新闻稿（多引擎检索未见），以投资方官网（启明Vol.31）与投中网等一致口径核验，官网缺失记为待核验"
+    }
+  ],
+  "accepted_events": [
+    "scuba-20261013-equity",
+    "giraffe-bio-20261013-equity",
+    "allygen-20261013-equity"
+  ],
+  "excluded_candidates": [
+    {
+      "name": "百趣生物 (BIOTREE)",
+      "detail": "近亿元人民币B轮，中信建投资本独家领投、启明创投跟投；官宣2026-10-10（biotree.cn/投资界/腾讯新闻等多源一致）",
+      "reason": "原始披露2026-10-10在48小时窗口（10-12T00:00Z起）之外；经启明Vol.31于窗口内发现，登记台账防跨日重复计算"
+    },
+    {
+      "name": "Nvidia欧洲投资计划（含Doctolib/Genesis AI/Pigment/Entalpic）",
+      "detail": "黄仁勋10-13巴黎宣布未来一周$2B欧洲投资计划与4家法国初创少数股权投资",
+      "reason": "计划/意向披露，无金额、无轮次、无完成交割；Sifted正文403不可读，跨媒体核实后仍不构成可核验融资事件"
+    },
+    {
+      "name": "Flox Intelligence",
+      "detail": "历史累计约$5M（pre-seed+seed），并宣布开启$10M A轮",
+      "reason": "累计不可当单轮；『开启』轮未交割，不录事件"
+    },
+    {
+      "name": "Longshot",
+      "detail": "历史累计约$20M自述",
+      "reason": "无新轮次，公司介绍不录事件"
+    },
+    {
+      "name": "Licube / Niobia / Battlefield 20强 / Disrupt Day 1 / Stage lineup",
+      "detail": "Disrupt 2026公司介绍与赛事报道",
+      "reason": "无融资公告；$100K为赛事奖金"
+    },
+    {
+      "name": "Cal AI创始人新AI创业项目",
+      "detail": "$10M融资报道",
+      "reason": "TechCrunch发布2026-10-08，窗口外（侧栏推荐发现）"
+    },
+    {
+      "name": "艾博生物-诺华授权协议",
+      "detail": "5.75亿美元首付款+最高约72亿美元里程碑",
+      "reason": "授权/许可BD交易，非公司股权融资事件"
+    },
+    {
+      "name": "英矽智能AI联合开发 / 优必选-建发股份、一汽大众战略合作",
+      "detail": "合作框架与合资安排",
+      "reason": "业务合作非融资事件"
+    }
+  ],
+  "limitations": [
+    "入口采样不是无限全站检索，可能漏报",
+    "Sifted主站与文章页连续第4日403（10-11付费墙、10-12/10-13/10-14质询页），RSS替代入口连续成功；本次Nvidia条目仅标题级发现+跨媒体核实，Sifted正文未读",
+    "Crunchbase News RSS本次403（首次），以首页替代入口核验；若RSS连续失败将按report-health记录替代入口表现",
+    "联进生物无公司官网与自有新闻稿可核，金额与投资方名单依赖投资方官网与多家媒体一致口径；官网缺失与『超3亿元』下界口径记为待核验",
+    "Scuba $34M为两轮累计无分项，单轮金额按契约记null；Giraffe Bio为TechCrunch独家+官方新闻稿双源，金额exact",
+    "30/90天历史仍不足；未取得客户方独立证据；跨币种（USD/CNY/EUR）样本不做换算与中位数"
+  ]
+}
