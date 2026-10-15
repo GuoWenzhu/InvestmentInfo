@@ -80,12 +80,12 @@
     "rvf-20261013-fund"
    ],
    "revision": 1,
-   "status": "ready_for_delivery",
+   "status": "delivered",
    "window_start": "2026-10-13T00:00:00Z",
    "window_end": "2026-10-15T00:00:00Z",
    "report_path": "reports/2026-10-15-daily.md",
-   "publication_comment_id": null,
-   "publication_note": "报告已验证并准备交付；发布回执以对应Issue最终评论为准，重试必须先查评论。"
+   "publication_comment_id": "01a13cec-6e8e-7906-acc1-90cdab5f031c",
+   "publication_note": "已交付Issue评论并附报告/采集/追踪附件（2026-10-15T00:18:10Z）；同Issue不重复发布。"
   }
  ]
 }
