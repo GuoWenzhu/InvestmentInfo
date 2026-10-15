@@ -1,127 +1,130 @@
 {
-  "version": 1,
-  "sources": [
-    {
-      "source_id": "techstars",
-      "last_attempt_at": "2026-10-14T00:25:00+00:00",
-      "last_issue_id": "01a137b5-d130-7d39-b898-ab4c129174f5",
-      "status": "success_zero_output",
-      "consecutive_failures": 0,
-      "consecutive_reachable": 4,
-      "successful_collection_days": 4,
-      "consecutive_success_zero_output_days": 4,
-      "accepted_event_ids": [],
-      "evidence_url": "https://www.techstars.com/portfolio",
-      "notes": "组合目录页可读（254KB）；目录收录不生成融资事件",
-      "registry_change": null
-    },
-    {
-      "source_id": "accel",
-      "last_attempt_at": "2026-10-14T00:25:00+00:00",
-      "last_issue_id": "01a137b5-d130-7d39-b898-ab4c129174f5",
-      "status": "success",
-      "consecutive_failures": 0,
-      "consecutive_reachable": 4,
-      "successful_collection_days": 4,
-      "consecutive_success_zero_output_days": 0,
-      "accepted_event_ids": [
-        "scuba-20261013-equity"
-      ],
-      "evidence_url": "https://www.accel.com/news",
-      "notes": "10-13新公告《AI That Knows What Your Team Knows》：Accel领投Scuba pre-seed并联合IVP领投seed，公司同日官宣$34M两轮累计——录入scuba-20261013-equity；其余条目（Moneyview IPO 10-01等）窗口外",
-      "registry_change": null
-    },
-    {
-      "source_id": "qiming",
-      "last_attempt_at": "2026-10-14T00:25:00+00:00",
-      "last_issue_id": "01a137b5-d130-7d39-b898-ab4c129174f5",
-      "status": "success",
-      "consecutive_failures": 0,
-      "consecutive_reachable": 4,
-      "successful_collection_days": 4,
-      "consecutive_success_zero_output_days": 0,
-      "accepted_event_ids": [
-        "allygen-20261013-equity"
-      ],
-      "evidence_url": "https://www.qimingvc.com/cn/newsroom",
-      "notes": "启明周报Vol.31（10-13）含两条融资：联进生物超3亿元A轮（10-13披露，录入）；百趣生物近亿元B轮（官宣10-10，窗口外，登记台账防重复）；艾博-诺华授权（BD非融资）、英矽智能合作、优必选战略合作均非融资事件",
-      "registry_change": null
-    },
-    {
-      "source_id": "crunchbase_news",
-      "last_attempt_at": "2026-10-14T00:25:00+00:00",
-      "last_issue_id": "01a137b5-d130-7d39-b898-ab4c129174f5",
-      "status": "success_zero_output",
-      "consecutive_failures": 0,
-      "consecutive_reachable": 4,
-      "successful_collection_days": 4,
-      "consecutive_success_zero_output_days": 3,
-      "accepted_event_ids": [],
-      "evidence_url": "https://news.crunchbase.com/",
-      "notes": "RSS 403（网络层拦截，首次记录）；替代入口首页成功：最新文章仍为10-09 Q3统计与10-08文章，窗口内无新文",
-      "registry_change": null
-    },
-    {
-      "source_id": "nvca",
-      "last_attempt_at": "2026-10-14T00:25:00+00:00",
-      "last_issue_id": "01a137b5-d130-7d39-b898-ab4c129174f5",
-      "status": "success_zero_output",
-      "consecutive_failures": 0,
-      "consecutive_reachable": 4,
-      "successful_collection_days": 4,
-      "consecutive_success_zero_output_days": 4,
-      "accepted_event_ids": [],
-      "evidence_url": "https://nvca.org/pitchbook-nvca-venture-monitor/",
-      "notes": "季度统计页可读（181KB）；未发布窗口内新季度报告；季度统计不作为48小时公司融资事件来源",
-      "registry_change": null
-    },
-    {
-      "source_id": "techcrunch",
-      "last_attempt_at": "2026-10-14T00:25:00+00:00",
-      "last_issue_id": "01a137b5-d130-7d39-b898-ab4c129174f5",
-      "status": "success",
-      "consecutive_failures": 0,
-      "consecutive_reachable": 4,
-      "successful_collection_days": 4,
-      "consecutive_success_zero_output_days": 0,
-      "accepted_event_ids": [
-        "giraffe-bio-20261013-equity"
-      ],
-      "evidence_url": "https://techcrunch.com/category/startups/",
-      "notes": "窗口内10-13文章逐篇核验：Giraffe Bio $6.4M种子轮录入；Flox（累计$5M+开启A轮未交割）、Longshot（累计$20M）、Licube、Niobia、Battlefield 20强/Day 1/Stage lineup均为非融资；10-12条目前次已核；Cal AI（10-08）窗口外",
-      "registry_change": null
-    },
-    {
-      "source_id": "sifted",
-      "last_attempt_at": "2026-10-14T00:25:00+00:00",
-      "last_issue_id": "01a137b5-d130-7d39-b898-ab4c129174f5",
-      "status": "success_zero_output",
-      "consecutive_failures": 0,
-      "consecutive_reachable": 4,
-      "successful_collection_days": 3,
-      "consecutive_success_zero_output_days": 1,
-      "accepted_event_ids": [],
-      "evidence_url": "https://sifted.eu/feed",
-      "notes": "主站与文章页连续第4日403质询；替代RSS入口连续成功（lastBuildDate 2026-10-14T00:03:37Z，24条）：窗口内新增Nvidia欧洲投资计划条目经跨媒体核实为计划披露非事件（已登记），其余为观点/访谈/赞助/分析类；CMR与1Komma5两条前次已核",
-      "registry_change": null
-    },
-    {
-      "source_id": "company_official",
-      "last_attempt_at": "2026-10-14T00:25:00+00:00",
-      "last_issue_id": "01a137b5-d130-7d39-b898-ab4c129174f5",
-      "status": "success",
-      "consecutive_failures": 0,
-      "consecutive_reachable": 4,
-      "successful_collection_days": 4,
-      "consecutive_success_zero_output_days": 0,
-      "accepted_event_ids": [
-        "scuba-20261013-equity",
-        "giraffe-bio-20261013-equity",
-        "allygen-20261013-equity"
-      ],
-      "evidence_url": null,
-      "notes": "scuba.app（Business Wire官方新闻稿smartlink+官网首屏一致）、giraffe.bio（TechCrunch直链+GlobeNewswire官方稿+官网业务一致）、allygen无官网，以启明官网与投中网等投资方/媒体一致口径核验",
-      "registry_change": null
-    }
-  ]
+ "version": 1,
+ "sources": [
+  {
+   "source_id": "techstars",
+   "last_attempt_at": "2026-10-15T00:30:00+00:00",
+   "last_issue_id": "01a13cdc-3c30-743b-99c0-a2b33bf72908",
+   "status": "success_zero_output",
+   "consecutive_failures": 0,
+   "consecutive_reachable": 5,
+   "successful_collection_days": 5,
+   "consecutive_success_zero_output_days": 5,
+   "accepted_event_ids": [],
+   "evidence_url": "https://www.techstars.com/portfolio",
+   "notes": "组合目录页可读（254KB）；目录收录不生成融资事件",
+   "registry_change": null
+  },
+  {
+   "source_id": "accel",
+   "last_attempt_at": "2026-10-15T00:30:00+00:00",
+   "last_issue_id": "01a13cdc-3c30-743b-99c0-a2b33bf72908",
+   "status": "success",
+   "consecutive_failures": 0,
+   "consecutive_reachable": 5,
+   "successful_collection_days": 5,
+   "consecutive_success_zero_output_days": 0,
+   "accepted_event_ids": [
+    "modal-20261014-equity"
+   ],
+   "evidence_url": "https://www.accel.com/news",
+   "notes": "新增《Our Investment in Modal》(10-14T17:30Z)：Accel领投Modal $750M Series D，公司官方博客同日确认——录入modal-20261014-equity；其余条目前次已核或窗口外",
+   "registry_change": null
+  },
+  {
+   "source_id": "qiming",
+   "last_attempt_at": "2026-10-15T00:30:00+00:00",
+   "last_issue_id": "01a13cdc-3c30-743b-99c0-a2b33bf72908",
+   "status": "success_zero_output",
+   "consecutive_failures": 0,
+   "consecutive_reachable": 5,
+   "successful_collection_days": 5,
+   "consecutive_success_zero_output_days": 1,
+   "accepted_event_ids": [],
+   "evidence_url": "https://www.qimingvc.com/cn/newsroom",
+   "notes": "新闻室最新仍为Vol.31（10-13，前次已处理）；其上为观点/荣誉/活动条目，窗口内无新增融资条目",
+   "registry_change": null
+  },
+  {
+   "source_id": "crunchbase_news",
+   "last_attempt_at": "2026-10-15T00:30:00+00:00",
+   "last_issue_id": "01a13cdc-3c30-743b-99c0-a2b33bf72908",
+   "status": "success",
+   "consecutive_failures": 0,
+   "consecutive_reachable": 5,
+   "successful_collection_days": 5,
+   "consecutive_success_zero_output_days": 0,
+   "accepted_event_ids": [
+    "marklo-20261014-equity"
+   ],
+   "evidence_url": "https://news.crunchbase.com/",
+   "notes": "首页替代入口正常（RSS仍403）：Marklo $5M种子独家（10-14T12:00Z）录入；38家新独角兽月度统计（10-14）与两篇10-13观点文非事件",
+   "registry_change": null
+  },
+  {
+   "source_id": "nvca",
+   "last_attempt_at": "2026-10-15T00:30:00+00:00",
+   "last_issue_id": "01a13cdc-3c30-743b-99c0-a2b33bf72908",
+   "status": "success_zero_output",
+   "consecutive_failures": 0,
+   "consecutive_reachable": 5,
+   "successful_collection_days": 5,
+   "consecutive_success_zero_output_days": 5,
+   "accepted_event_ids": [],
+   "evidence_url": "https://nvca.org/pitchbook-nvca-venture-monitor/",
+   "notes": "季度统计页可读（172KB）；无窗口内新季度报告",
+   "registry_change": null
+  },
+  {
+   "source_id": "techcrunch",
+   "last_attempt_at": "2026-10-15T00:30:00+00:00",
+   "last_issue_id": "01a13cdc-3c30-743b-99c0-a2b33bf72908",
+   "status": "success",
+   "consecutive_failures": 0,
+   "consecutive_reachable": 5,
+   "successful_collection_days": 5,
+   "consecutive_success_zero_output_days": 0,
+   "accepted_event_ids": [
+    "scimplify-20261014-equity"
+   ],
+   "evidence_url": "https://techcrunch.com/category/startups/",
+   "notes": "10-14文章逐篇核验：Scimplify $25M战略轮录入；Apate（8月底已官宣，旧闻转载）、Floqer/Intero（历史轮次自述）、Mosqitter（在筹未交割）及Battlefield档案/赛事/推广均排除；10-13条目前次已核",
+   "registry_change": null
+  },
+  {
+   "source_id": "sifted",
+   "last_attempt_at": "2026-10-15T00:30:00+00:00",
+   "last_issue_id": "01a13cdc-3c30-743b-99c0-a2b33bf72908",
+   "status": "success",
+   "consecutive_failures": 0,
+   "consecutive_reachable": 5,
+   "successful_collection_days": 4,
+   "consecutive_success_zero_output_days": 0,
+   "accepted_event_ids": [
+    "rvf-20261013-fund"
+   ],
+   "evidence_url": "https://sifted.eu/feed",
+   "notes": "主站与文章页连续第5日403；RSS替代入口成功（lastBuildDate 2026-10-15T00:02Z）：窗口内新增UK难民创始人VC基金launch（RVF £300k试点），正文403经tech.eu等跨媒体+官方站点核实录入rvf-20261013-fund；其余为观点/榜单/分析类；CMR/1Komma5/Nvidia条目前次已核",
+   "registry_change": null
+  },
+  {
+   "source_id": "company_official",
+   "last_attempt_at": "2026-10-15T00:30:00+00:00",
+   "last_issue_id": "01a13cdc-3c30-743b-99c0-a2b33bf72908",
+   "status": "success",
+   "consecutive_failures": 0,
+   "consecutive_reachable": 5,
+   "successful_collection_days": 5,
+   "consecutive_success_zero_output_days": 0,
+   "accepted_event_ids": [
+    "modal-20261014-equity",
+    "scimplify-20261014-equity",
+    "marklo-20261014-equity",
+    "rvf-20261013-fund"
+   ],
+   "evidence_url": null,
+   "notes": "modal.com官方博客（$750M D轮全文）；scimplify.com首页（$80Mn总口径一致，无独立新闻稿）；marklo.ai（业务一致，无融资公告，单一信源故事件置信度medium）；refugeeventure.fund（官方站点，支票区间口径与媒体不一致已登记）",
+   "registry_change": null
+  }
+ ]
 }

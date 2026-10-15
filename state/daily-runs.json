@@ -1,72 +1,91 @@
 {
-  "version": 1,
-  "runs": [
-    {
-      "date": "2026-10-11",
-      "run_key": "2026-10-11",
-      "issue_id": "01a12ace-7cb4-78c0-be57-cb150070c2b1",
-      "issue_identifier": "TECH-6",
-      "event_ids": [
-        "typesafe-ai-20261009-equity",
-        "deno-20261009-acquisition"
-      ],
-      "revision": 1,
-      "status": "ready_for_delivery",
-      "window_start": "2026-10-09T11:52:17Z",
-      "window_end": "2026-10-11T11:52:17Z",
-      "report_path": "reports/2026-10-11-daily.md",
-      "publication_comment_id": null,
-      "publication_note": "报告已验证并准备交付；发布回执以对应Issue最终评论为准，重试必须先查评论。"
-    },
-    {
-      "date": "2026-10-12",
-      "run_key": "2026-10-12",
-      "issue_id": "01a12d68-f478-75f2-88d0-64b53663da08",
-      "issue_identifier": "TECH-12",
-      "event_ids": [],
-      "revision": 1,
-      "status": "delivered",
-      "window_start": "2026-10-10T00:00:00Z",
-      "window_end": "2026-10-12T00:00:00Z",
-      "report_path": "reports/2026-10-12-daily.md",
-      "publication_comment_id": "01a12d72-4026-72db-8fe5-8e6c71cf74aa",
-      "publication_note": "已交付Issue评论并附报告与追踪附件（2026-10-12T00:10:24Z）；同Issue不重复发布。"
-    },
-    {
-      "date": "2026-10-13",
-      "run_key": "2026-10-13",
-      "issue_id": "01a1328f-5038-743b-a52f-58f1bd4890c1",
-      "issue_identifier": "TECH-16",
-      "event_ids": [
-        "cmr-surgical-20261012-equity",
-        "1komma5-20261012-equity",
-        "ambi-20261012-equity"
-      ],
-      "revision": 1,
-      "status": "delivered",
-      "window_start": "2026-10-11T00:00:00Z",
-      "window_end": "2026-10-13T00:00:00Z",
-      "report_path": "reports/2026-10-13-daily.md",
-      "publication_comment_id": "01a1329e-25f1-79bc-874e-40a5f4201b4c",
-      "publication_note": "已交付Issue评论并附追踪/采集/报告附件（2026-10-13T00:16:27Z）；同Issue不重复发布。"
-    },
-    {
-      "date": "2026-10-14",
-      "run_key": "2026-10-14",
-      "issue_id": "01a137b5-d130-7d39-b898-ab4c129174f5",
-      "issue_identifier": "TECH-19",
-      "event_ids": [
-        "scuba-20261013-equity",
-        "giraffe-bio-20261013-equity",
-        "allygen-20261013-equity"
-      ],
-      "revision": 1,
-      "status": "delivered",
-      "window_start": "2026-10-12T00:00:00Z",
-      "window_end": "2026-10-14T00:00:00Z",
-      "report_path": "reports/2026-10-14-daily.md",
-      "publication_comment_id": "01a137c5-4715-70e7-bd47-62c8190deb01",
-      "publication_note": "已交付Issue评论并附报告/采集/追踪附件（2026-10-14T00:17:18Z）；同Issue不重复发布。"
-    }
-  ]
+ "version": 1,
+ "runs": [
+  {
+   "date": "2026-10-11",
+   "run_key": "2026-10-11",
+   "issue_id": "01a12ace-7cb4-78c0-be57-cb150070c2b1",
+   "issue_identifier": "TECH-6",
+   "event_ids": [
+    "typesafe-ai-20261009-equity",
+    "deno-20261009-acquisition"
+   ],
+   "revision": 1,
+   "status": "ready_for_delivery",
+   "window_start": "2026-10-09T11:52:17Z",
+   "window_end": "2026-10-11T11:52:17Z",
+   "report_path": "reports/2026-10-11-daily.md",
+   "publication_comment_id": null,
+   "publication_note": "报告已验证并准备交付；发布回执以对应Issue最终评论为准，重试必须先查评论。"
+  },
+  {
+   "date": "2026-10-12",
+   "run_key": "2026-10-12",
+   "issue_id": "01a12d68-f478-75f2-88d0-64b53663da08",
+   "issue_identifier": "TECH-12",
+   "event_ids": [],
+   "revision": 1,
+   "status": "delivered",
+   "window_start": "2026-10-10T00:00:00Z",
+   "window_end": "2026-10-12T00:00:00Z",
+   "report_path": "reports/2026-10-12-daily.md",
+   "publication_comment_id": "01a12d72-4026-72db-8fe5-8e6c71cf74aa",
+   "publication_note": "已交付Issue评论并附报告与追踪附件（2026-10-12T00:10:24Z）；同Issue不重复发布。"
+  },
+  {
+   "date": "2026-10-13",
+   "run_key": "2026-10-13",
+   "issue_id": "01a1328f-5038-743b-a52f-58f1bd4890c1",
+   "issue_identifier": "TECH-16",
+   "event_ids": [
+    "cmr-surgical-20261012-equity",
+    "1komma5-20261012-equity",
+    "ambi-20261012-equity"
+   ],
+   "revision": 1,
+   "status": "delivered",
+   "window_start": "2026-10-11T00:00:00Z",
+   "window_end": "2026-10-13T00:00:00Z",
+   "report_path": "reports/2026-10-13-daily.md",
+   "publication_comment_id": "01a1329e-25f1-79bc-874e-40a5f4201b4c",
+   "publication_note": "已交付Issue评论并附追踪/采集/报告附件（2026-10-13T00:16:27Z）；同Issue不重复发布。"
+  },
+  {
+   "date": "2026-10-14",
+   "run_key": "2026-10-14",
+   "issue_id": "01a137b5-d130-7d39-b898-ab4c129174f5",
+   "issue_identifier": "TECH-19",
+   "event_ids": [
+    "scuba-20261013-equity",
+    "giraffe-bio-20261013-equity",
+    "allygen-20261013-equity"
+   ],
+   "revision": 1,
+   "status": "delivered",
+   "window_start": "2026-10-12T00:00:00Z",
+   "window_end": "2026-10-14T00:00:00Z",
+   "report_path": "reports/2026-10-14-daily.md",
+   "publication_comment_id": "01a137c5-4715-70e7-bd47-62c8190deb01",
+   "publication_note": "已交付Issue评论并附报告/采集/追踪附件（2026-10-14T00:17:18Z）；同Issue不重复发布。"
+  },
+  {
+   "date": "2026-10-15",
+   "run_key": "2026-10-15",
+   "issue_id": "01a13cdc-3c30-743b-99c0-a2b33bf72908",
+   "issue_identifier": "TECH-22",
+   "event_ids": [
+    "modal-20261014-equity",
+    "scimplify-20261014-equity",
+    "marklo-20261014-equity",
+    "rvf-20261013-fund"
+   ],
+   "revision": 1,
+   "status": "ready_for_delivery",
+   "window_start": "2026-10-13T00:00:00Z",
+   "window_end": "2026-10-15T00:00:00Z",
+   "report_path": "reports/2026-10-15-daily.md",
+   "publication_comment_id": null,
+   "publication_note": "报告已验证并准备交付；发布回执以对应Issue最终评论为准，重试必须先查评论。"
+  }
+ ]
 }

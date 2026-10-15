@@ -23,3 +23,24 @@
 {"event_id": "allygen-20261013-equity", "investor_id": "huagai-capital", "role": "participant", "investment_amount": null, "currency": "UNK", "evidence_ids": ["allygen-qiming-1"]}
 {"event_id": "allygen-20261013-equity", "investor_id": "taiyu-investment", "role": "participant", "investment_amount": null, "currency": "UNK", "evidence_ids": ["allygen-qiming-1"]}
 {"event_id": "allygen-20261013-equity", "investor_id": "w-capital", "role": "participant", "investment_amount": null, "currency": "UNK", "evidence_ids": ["allygen-qiming-1"]}
+{"event_id": "modal-20261014-equity", "investor_id": "accel", "role": "lead", "investment_amount": null, "currency": "UNK", "evidence_ids": ["modal-official-1", "modal-accel-1"]}
+{"event_id": "modal-20261014-equity", "investor_id": "kleiner-perkins", "role": "participant", "investment_amount": null, "currency": "UNK", "evidence_ids": ["modal-official-1", "modal-accel-1"]}
+{"event_id": "modal-20261014-equity", "investor_id": "menlo-ventures", "role": "participant", "investment_amount": null, "currency": "UNK", "evidence_ids": ["modal-official-1", "modal-accel-1"]}
+{"event_id": "modal-20261014-equity", "investor_id": "general-catalyst", "role": "participant", "investment_amount": null, "currency": "UNK", "evidence_ids": ["modal-official-1", "modal-accel-1"]}
+{"event_id": "modal-20261014-equity", "investor_id": "redpoint", "role": "participant", "investment_amount": null, "currency": "UNK", "evidence_ids": ["modal-official-1", "modal-accel-1"]}
+{"event_id": "modal-20261014-equity", "investor_id": "lux-capital", "role": "participant", "investment_amount": null, "currency": "UNK", "evidence_ids": ["modal-official-1", "modal-accel-1"]}
+{"event_id": "modal-20261014-equity", "investor_id": "amplify-partners", "role": "participant", "investment_amount": null, "currency": "UNK", "evidence_ids": ["modal-official-1", "modal-accel-1"]}
+{"event_id": "modal-20261014-equity", "investor_id": "bain-capital-ventures", "role": "participant", "investment_amount": null, "currency": "UNK", "evidence_ids": ["modal-official-1", "modal-accel-1"]}
+{"event_id": "scimplify-20261014-equity", "investor_id": "hitachi-ventures", "role": "lead", "investment_amount": null, "currency": "UNK", "evidence_ids": ["scimplify-tc-1", "scimplify-corr-1"]}
+{"event_id": "scimplify-20261014-equity", "investor_id": "henkel", "role": "participant", "investment_amount": null, "currency": "UNK", "evidence_ids": ["scimplify-tc-1", "scimplify-corr-1"]}
+{"event_id": "scimplify-20261014-equity", "investor_id": "teknor-apex", "role": "participant", "investment_amount": null, "currency": "UNK", "evidence_ids": ["scimplify-tc-1", "scimplify-corr-1"]}
+{"event_id": "scimplify-20261014-equity", "investor_id": "accel-india", "role": "participant", "investment_amount": null, "currency": "UNK", "evidence_ids": ["scimplify-tc-1", "scimplify-corr-1"]}
+{"event_id": "scimplify-20261014-equity", "investor_id": "bertelsmann-india-investments", "role": "participant", "investment_amount": null, "currency": "UNK", "evidence_ids": ["scimplify-tc-1", "scimplify-corr-1"]}
+{"event_id": "scimplify-20261014-equity", "investor_id": "omnivore", "role": "participant", "investment_amount": null, "currency": "UNK", "evidence_ids": ["scimplify-tc-1", "scimplify-corr-1"]}
+{"event_id": "scimplify-20261014-equity", "investor_id": "3one4-capital", "role": "participant", "investment_amount": null, "currency": "UNK", "evidence_ids": ["scimplify-tc-1", "scimplify-corr-1"]}
+{"event_id": "marklo-20261014-equity", "investor_id": "forerunner", "role": "lead", "investment_amount": null, "currency": "UNK", "evidence_ids": ["marklo-cb-1"]}
+{"event_id": "marklo-20261014-equity", "investor_id": "freestyle-capital", "role": "participant", "investment_amount": null, "currency": "UNK", "evidence_ids": ["marklo-cb-1"]}
+{"event_id": "rvf-20261013-fund", "investor_id": "dominus", "role": "participant", "investment_amount": null, "currency": "UNK", "evidence_ids": ["rvf-techeu-1"]}
+{"event_id": "rvf-20261013-fund", "investor_id": "this-day-foundation", "role": "participant", "investment_amount": null, "currency": "UNK", "evidence_ids": ["rvf-techeu-1"]}
+{"event_id": "rvf-20261013-fund", "investor_id": "future-leaders", "role": "participant", "investment_amount": null, "currency": "UNK", "evidence_ids": ["rvf-techeu-1"]}
+{"event_id": "rvf-20261013-fund", "investor_id": "atomico", "role": "undisclosed", "investment_amount": null, "currency": "UNK", "evidence_ids": ["rvf-techeu-1"]}

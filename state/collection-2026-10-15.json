@@ -1,0 +1,113 @@
+{
+  "issue_id": "01a13cdc-3c30-743b-99c0-a2b33bf72908",
+  "issue_identifier": "TECH-22",
+  "collected_at": "2026-10-15T00:30:00+00:00",
+  "window_start": "2026-10-13T00:00:00Z",
+  "window_end": "2026-10-15T00:00:00Z",
+  "source_attempts": [
+    {
+      "source_id": "techcrunch",
+      "attempted_at": "2026-10-15T00:03:30+00:00",
+      "status": "success",
+      "evidence_url": "https://techcrunch.com/category/startups/",
+      "notes": "Startups栏目第1页可读（302KB）；窗口内新增为10-14文章：Scimplify $25M战略轮录为scimplify-20261014-equity；Apate（$8.15M种子轮已于8月底官宣，旧闻转载）、Floqer/Intero（档案式历史轮次自述，无新轮次）、Mosqitter（$5M分两期在筹未交割）、CedarDB/Colossal/Hiyd/NTangible/Prismm/TimeTeller/Day-2/售票推广为非融资；10-13条目前次已核"
+    },
+    {
+      "source_id": "accel",
+      "attempted_at": "2026-10-15T00:06:00+00:00",
+      "status": "success",
+      "evidence_url": "https://www.accel.com/news",
+      "notes": "新闻列表可读（547KB)；新增《Our Investment in Modal》(datePublished 2026-10-14T17:30Z)：Accel领投Modal $750M Series D——录为modal-20261014-equity；其余条目（Scuba 10-13、Moneyview IPO 10-01等）前次已核或窗口外"
+    },
+    {
+      "source_id": "qiming",
+      "attempted_at": "2026-10-15T00:07:30+00:00",
+      "status": "success_zero_output",
+      "evidence_url": "https://www.qimingvc.com/cn/newsroom",
+      "notes": "新闻室可读（54KB）；最新仍为启明周报Vol.31（2026.10.13，前次已处理）；其上为观点类（邝子平AI投资观点等，抽查确认无融资条目）、荣誉、WAIC活动回顾条目；窗口内无新增融资条目"
+    },
+    {
+      "source_id": "crunchbase_news",
+      "attempted_at": "2026-10-15T00:08:30+00:00",
+      "status": "success",
+      "evidence_url": "https://news.crunchbase.com/",
+      "notes": "首页可读（171KB）；窗口内新增：Marklo $5M种子轮独家（10-14T12:00Z）录为marklo-20261014-equity；38家新独角兽9月统计回顾（10-14T11:00Z，统计非事件）、两篇10-13客座/Q&A观点非融资；10-13两篇观点文为上次运行后新挂出，已核非融资"
+    },
+    {
+      "source_id": "nvca",
+      "attempted_at": "2026-10-15T00:09:30+00:00",
+      "status": "success_zero_output",
+      "evidence_url": "https://nvca.org/pitchbook-nvca-venture-monitor/",
+      "notes": "季度统计页可读（172KB，HTTP 200）；无窗口内新季度报告；季度统计不作为48小时公司融资事件来源"
+    },
+    {
+      "source_id": "sifted",
+      "attempted_at": "2026-10-15T00:06:30+00:00",
+      "status": "success",
+      "evidence_url": "https://sifted.eu/feed",
+      "notes": "主站与文章页403 Cloudflare质询（连续第5日）；替代RSS入口成功（lastBuildDate 2026-10-15T00:02:12Z，24条）。窗口内新增候选：UK首个难民创始人VC基金launch（10-14T05:00Z RSS）——正文403，经tech.eu（10-13T23:01Z）/The Cap Table/TechFundingNews/Dealroom及官方站点refugeeventure.fund交叉核实，录为rvf-20261013-fund（基金募集）；其余10-14条目为观点/职业分享/榜单/分析类，非融资；10-13及更早条目前次已核"
+    },
+    {
+      "source_id": "techstars",
+      "attempted_at": "2026-10-15T00:10:00+00:00",
+      "status": "success_zero_output",
+      "evidence_url": "https://www.techstars.com/portfolio",
+      "notes": "组合目录页可读（254KB，HTTP 200）；目录收录不生成融资事件"
+    },
+    {
+      "source_id": "company_official",
+      "attempted_at": "2026-10-15T00:25:00+00:00",
+      "status": "success",
+      "evidence_url": null,
+      "notes": "modal.com官方博客（$750M Series D全文，Erik Bernhardsson署名）；scimplify.com官网首页（$80Mn Raised总口径与投资方展示一致，无本轮独立新闻稿）；marklo.ai（业务一致，无融资公告）；refugeeventure.fund（基金官方站点，投资区间口径与媒体轻微不一致已登记）"
+    }
+  ],
+  "accepted_events": [
+    "modal-20261014-equity",
+    "scimplify-20261014-equity",
+    "marklo-20261014-equity",
+    "rvf-20261013-fund"
+  ],
+  "corrections": [
+    {
+      "type": "entity_table_gap",
+      "detail": "investors.jsonl缺accel实体行（scuba-20261013-equity的events/event-investors自2026-10-14已引用accel）；本运行补录investor_id=accel，实体表与引用一致"
+    }
+  ],
+  "excluded_candidates": [
+    {
+      "name": "Apate.AI",
+      "detail": "US$8.15M种子轮（Lobby Capital领投，OIF/Investible/Concept/Baobab参与），2026年8月底官宣",
+      "reason": "TechCrunch 10-14 Battlefield档案为旧闻转载：公司官方博客、Startup Daily（08-31）、fintech.global（09-01）等已报道；按『旧公告转载只补证据』排除"
+    },
+    {
+      "name": "Mosqitter",
+      "detail": "'is raising a $5 million round in two tranches'（首期$1M+后续$4M，与里程碑挂钩）；迄今累计$1.9M",
+      "reason": "在筹未交割，无完成轮次；按Flox先例（『开启』轮不录事件）排除"
+    },
+    {
+      "name": "Floqer / Intero Biosystems",
+      "detail": "档案式提及历史轮次（Floqer $2M pre-seed；Intero 2025年$2.3M pre-seed）",
+      "reason": "公司介绍中的历史自述，非新轮次披露，原始轮次时间在窗口外多年/一年以上"
+    },
+    {
+      "name": "38家新独角兽9月统计（Crunchbase Unicorn Board月度回顾）",
+      "detail": "Cognition $48B、Crusoe $31B、Mistral $24.4B等估值上调",
+      "reason": "统计回顾；对应轮次为此前已披露的历史融资，不重复计入"
+    },
+    {
+      "name": "其余窗口内条目",
+      "detail": "CedarDB/Colossal/Hiyd/NTangible/Prismm/TimeTeller/Disrupt Day-2/售票推广；CB News两篇10-13客座观点与Q&A；Sifted观点/榜单/分析类条目；启明观点/荣誉/活动条目",
+      "reason": "非融资事件（观点、榜单、产品介绍、赛事、统计）"
+    }
+  ],
+  "limitations": [
+    "入口采样不是无限全站检索，可能漏报",
+    "Sifted主站与文章页连续第5日403（10-11付费墙、10-12至10-15质询页），RSS替代入口连续成功；RVF条目仅RSS标题级发现+跨媒体核实，Sifted正文未读",
+    "Crunchbase News RSS仍403，以首页替代入口核验；首页文章时间戳依赖页面日期字段",
+    "Marklo为独家单一信源（Crunchbase News），公司官网无融资公告，置信度记medium；RVF支票规模官网（£25k–£100k）与媒体（£50k–£100k）口径轻微不一致已登记",
+    "Modal $15.75B与Scimplify $250M投后估值按契约不入amount，仅存证据field_claims",
+    "fetch工具被本机fake-IP代理网段拦截，本次采集经curl直连完成（不影响来源可达性判断）",
+    "30/90天历史仍不足；未取得客户方独立证据；跨币种（USD/GBP）样本不做换算与中位数"
+  ]
+}
