@@ -99,12 +99,12 @@
     "matters-20261015-equity"
    ],
    "revision": 1,
-   "status": "ready_for_delivery",
+   "status": "delivered",
    "window_start": "2026-10-14T00:00:00Z",
    "window_end": "2026-10-16T00:00:00Z",
    "report_path": "reports/2026-10-16-daily.md",
-   "publication_comment_id": null,
-   "publication_note": "报告已验证待交付；发布回执以本Issue最终评论为准，重试必须先查评论。"
+   "publication_comment_id": "01a1420f-8536-72cb-ba6a-3a2d2037fa63",
+   "publication_note": "已交付Issue评论并附报告/采集/追踪附件（2026-10-16T00:14:35Z）；同Issue不重复发布。"
   }
  ]
 }
