@@ -3,73 +3,73 @@
  "sources": [
   {
    "source_id": "techstars",
-   "last_attempt_at": "2026-10-15T00:30:00+00:00",
-   "last_issue_id": "01a13cdc-3c30-743b-99c0-a2b33bf72908",
+   "last_attempt_at": "2026-10-16T00:10:00+00:00",
+   "last_issue_id": "01a14202-96da-78d7-9b1f-4469c808eda9",
    "status": "success_zero_output",
    "consecutive_failures": 0,
-   "consecutive_reachable": 5,
-   "successful_collection_days": 5,
-   "consecutive_success_zero_output_days": 5,
+   "consecutive_reachable": 6,
+   "successful_collection_days": 6,
+   "consecutive_success_zero_output_days": 6,
    "accepted_event_ids": [],
    "evidence_url": "https://www.techstars.com/portfolio",
-   "notes": "组合目录页可读（254KB）；目录收录不生成融资事件",
+   "notes": "组合目录页可读（253KB）；目录收录不生成融资事件",
    "registry_change": null
   },
   {
    "source_id": "accel",
-   "last_attempt_at": "2026-10-15T00:30:00+00:00",
-   "last_issue_id": "01a13cdc-3c30-743b-99c0-a2b33bf72908",
+   "last_attempt_at": "2026-10-16T00:10:00+00:00",
+   "last_issue_id": "01a14202-96da-78d7-9b1f-4469c808eda9",
    "status": "success",
    "consecutive_failures": 0,
-   "consecutive_reachable": 5,
-   "successful_collection_days": 5,
+   "consecutive_reachable": 6,
+   "successful_collection_days": 6,
    "consecutive_success_zero_output_days": 0,
    "accepted_event_ids": [
-    "modal-20261014-equity"
+    "origin-20261015-equity"
    ],
-   "evidence_url": "https://www.accel.com/news",
-   "notes": "新增《Our Investment in Modal》(10-14T17:30Z)：Accel领投Modal $750M Series D，公司官方博客同日确认——录入modal-20261014-equity；其余条目前次已核或窗口外",
+   "evidence_url": "https://www.accel.com/news/",
+   "notes": "新增《Our investment in Origin》(10-15T16:00Z)：Accel与Zacua联合领投Origin $20M出stealth——录为origin-20261015-equity；其余条目前次已核或窗口外",
    "registry_change": null
   },
   {
    "source_id": "qiming",
-   "last_attempt_at": "2026-10-15T00:30:00+00:00",
-   "last_issue_id": "01a13cdc-3c30-743b-99c0-a2b33bf72908",
+   "last_attempt_at": "2026-10-16T00:10:00+00:00",
+   "last_issue_id": "01a14202-96da-78d7-9b1f-4469c808eda9",
    "status": "success_zero_output",
    "consecutive_failures": 0,
-   "consecutive_reachable": 5,
-   "successful_collection_days": 5,
-   "consecutive_success_zero_output_days": 1,
+   "consecutive_reachable": 6,
+   "successful_collection_days": 6,
+   "consecutive_success_zero_output_days": 2,
    "accepted_event_ids": [],
    "evidence_url": "https://www.qimingvc.com/cn/newsroom",
-   "notes": "新闻室最新仍为Vol.31（10-13，前次已处理）；其上为观点/荣誉/活动条目，窗口内无新增融资条目",
+   "notes": "最新仍为开放日活动头条（非融资）与Vol.31（10-13，前次已处理）；观点/荣誉/活动条目无融资；窗口内无新增融资条目",
    "registry_change": null
   },
   {
    "source_id": "crunchbase_news",
-   "last_attempt_at": "2026-10-15T00:30:00+00:00",
-   "last_issue_id": "01a13cdc-3c30-743b-99c0-a2b33bf72908",
+   "last_attempt_at": "2026-10-16T00:10:00+00:00",
+   "last_issue_id": "01a14202-96da-78d7-9b1f-4469c808eda9",
    "status": "success",
    "consecutive_failures": 0,
-   "consecutive_reachable": 5,
-   "successful_collection_days": 5,
+   "consecutive_reachable": 6,
+   "successful_collection_days": 6,
    "consecutive_success_zero_output_days": 0,
    "accepted_event_ids": [
-    "marklo-20261014-equity"
+    "chariot-claims-20261015-equity"
    ],
    "evidence_url": "https://news.crunchbase.com/",
-   "notes": "首页替代入口正常（RSS仍403）：Marklo $5M种子独家（10-14T12:00Z）录入；38家新独角兽月度统计（10-14）与两篇10-13观点文非事件",
+   "notes": "RSS仍403；首页对简短UA返回403，完整浏览器UA成功（入口对UA敏感）：Chariot Claims $10M Series A独家（10-15）录入；uniplay访谈/Q3统计三篇/国防投资回顾非事件",
    "registry_change": null
   },
   {
    "source_id": "nvca",
-   "last_attempt_at": "2026-10-15T00:30:00+00:00",
-   "last_issue_id": "01a13cdc-3c30-743b-99c0-a2b33bf72908",
+   "last_attempt_at": "2026-10-16T00:10:00+00:00",
+   "last_issue_id": "01a14202-96da-78d7-9b1f-4469c808eda9",
    "status": "success_zero_output",
    "consecutive_failures": 0,
-   "consecutive_reachable": 5,
-   "successful_collection_days": 5,
-   "consecutive_success_zero_output_days": 5,
+   "consecutive_reachable": 6,
+   "successful_collection_days": 6,
+   "consecutive_success_zero_output_days": 6,
    "accepted_event_ids": [],
    "evidence_url": "https://nvca.org/pitchbook-nvca-venture-monitor/",
    "notes": "季度统计页可读（172KB）；无窗口内新季度报告",
@@ -77,53 +77,53 @@
   },
   {
    "source_id": "techcrunch",
-   "last_attempt_at": "2026-10-15T00:30:00+00:00",
-   "last_issue_id": "01a13cdc-3c30-743b-99c0-a2b33bf72908",
+   "last_attempt_at": "2026-10-16T00:10:00+00:00",
+   "last_issue_id": "01a14202-96da-78d7-9b1f-4469c808eda9",
    "status": "success",
    "consecutive_failures": 0,
-   "consecutive_reachable": 5,
-   "successful_collection_days": 5,
+   "consecutive_reachable": 6,
+   "successful_collection_days": 6,
    "consecutive_success_zero_output_days": 0,
    "accepted_event_ids": [
-    "scimplify-20261014-equity"
+    "ramp-20261015-equity"
    ],
    "evidence_url": "https://techcrunch.com/category/startups/",
-   "notes": "10-14文章逐篇核验：Scimplify $25M战略轮录入；Apate（8月底已官宣，旧闻转载）、Floqer/Intero（历史轮次自述）、Mosqitter（在筹未交割）及Battlefield档案/赛事/推广均排除；10-13条目前次已核",
+   "notes": "10-15新增Ramp $1.85B@$60B录为ramp-20261015-equity；Intero Battlefield冠军（奖金非融资）、Ricursive/Gudea档案、大会推广排除；10-14条目前次已核",
    "registry_change": null
   },
   {
    "source_id": "sifted",
-   "last_attempt_at": "2026-10-15T00:30:00+00:00",
-   "last_issue_id": "01a13cdc-3c30-743b-99c0-a2b33bf72908",
+   "last_attempt_at": "2026-10-16T00:10:00+00:00",
+   "last_issue_id": "01a14202-96da-78d7-9b1f-4469c808eda9",
    "status": "success",
    "consecutive_failures": 0,
-   "consecutive_reachable": 5,
-   "successful_collection_days": 4,
+   "consecutive_reachable": 6,
+   "successful_collection_days": 5,
    "consecutive_success_zero_output_days": 0,
    "accepted_event_ids": [
-    "rvf-20261013-fund"
+    "matters-20261015-equity"
    ],
    "evidence_url": "https://sifted.eu/feed",
-   "notes": "主站与文章页连续第5日403；RSS替代入口成功（lastBuildDate 2026-10-15T00:02Z）：窗口内新增UK难民创始人VC基金launch（RVF £300k试点），正文403经tech.eu等跨媒体+官方站点核实录入rvf-20261013-fund；其余为观点/榜单/分析类；CMR/1Komma5/Nvidia条目前次已核",
+   "notes": "主站与文章页连续第6日403；RSS替代入口成功（lastBuildDate 10-15T23:57Z）：Matters $5M pre-seed经tech.eu/官网交叉核实录入matters-20261015-equity；Accel×DeepMind $60m传闻（未交割）、Nvidia五家UK planned investments、BBB £180m LP承诺排除；其余观点/榜单类",
    "registry_change": null
   },
   {
    "source_id": "company_official",
-   "last_attempt_at": "2026-10-15T00:30:00+00:00",
-   "last_issue_id": "01a13cdc-3c30-743b-99c0-a2b33bf72908",
+   "last_attempt_at": "2026-10-16T00:10:00+00:00",
+   "last_issue_id": "01a14202-96da-78d7-9b1f-4469c808eda9",
    "status": "success",
    "consecutive_failures": 0,
-   "consecutive_reachable": 5,
-   "successful_collection_days": 5,
+   "consecutive_reachable": 6,
+   "successful_collection_days": 6,
    "consecutive_success_zero_output_days": 0,
    "accepted_event_ids": [
-    "modal-20261014-equity",
-    "scimplify-20261014-equity",
-    "marklo-20261014-equity",
-    "rvf-20261013-fund"
+    "ramp-20261015-equity",
+    "origin-20261015-equity",
+    "chariot-claims-20261015-equity",
+    "matters-20261015-equity"
    ],
    "evidence_url": null,
-   "notes": "modal.com官方博客（$750M D轮全文）；scimplify.com首页（$80Mn总口径一致，无独立新闻稿）；marklo.ai（业务一致，无融资公告，单一信源故事件置信度medium）；refugeeventure.fund（官方站点，支票区间口径与媒体不一致已登记）",
+   "notes": "Ramp官方新闻稿（PR Newswire，$1.85B primary、Dragoneer led）；origin.tech（业务一致）；chariotclaims.com（'Series A'确认）；matters.inc/press（$5M pre-seed新闻稿）",
    "registry_change": null
   }
  ]

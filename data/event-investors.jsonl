@@ -44,3 +44,48 @@
 {"event_id": "rvf-20261013-fund", "investor_id": "this-day-foundation", "role": "participant", "investment_amount": null, "currency": "UNK", "evidence_ids": ["rvf-techeu-1"]}
 {"event_id": "rvf-20261013-fund", "investor_id": "future-leaders", "role": "participant", "investment_amount": null, "currency": "UNK", "evidence_ids": ["rvf-techeu-1"]}
 {"event_id": "rvf-20261013-fund", "investor_id": "atomico", "role": "undisclosed", "investment_amount": null, "currency": "UNK", "evidence_ids": ["rvf-techeu-1"]}
+{"event_id": "ramp-20261015-equity", "investor_id": "dragoneer", "role": "lead", "investment_amount": null, "currency": "UNK", "evidence_ids": ["ramp-official-1"]}
+{"event_id": "ramp-20261015-equity", "investor_id": "thrive-capital", "role": "co_lead", "investment_amount": null, "currency": "UNK", "evidence_ids": ["ramp-official-1", "ramp-tc-1"]}
+{"event_id": "ramp-20261015-equity", "investor_id": "founders-fund", "role": "co_lead", "investment_amount": null, "currency": "UNK", "evidence_ids": ["ramp-official-1", "ramp-tc-1"]}
+{"event_id": "ramp-20261015-equity", "investor_id": "sands-capital", "role": "co_lead", "investment_amount": null, "currency": "UNK", "evidence_ids": ["ramp-official-1", "ramp-tc-1"]}
+{"event_id": "ramp-20261015-equity", "investor_id": "avenir-growth", "role": "co_lead", "investment_amount": null, "currency": "UNK", "evidence_ids": ["ramp-official-1", "ramp-tc-1"]}
+{"event_id": "ramp-20261015-equity", "investor_id": "capital-international", "role": "participant", "investment_amount": null, "currency": "UNK", "evidence_ids": ["ramp-official-1"]}
+{"event_id": "ramp-20261015-equity", "investor_id": "fidelity-mram", "role": "participant", "investment_amount": null, "currency": "UNK", "evidence_ids": ["ramp-official-1"]}
+{"event_id": "ramp-20261015-equity", "investor_id": "t-rowe-price", "role": "participant", "investment_amount": null, "currency": "UNK", "evidence_ids": ["ramp-official-1"]}
+{"event_id": "ramp-20261015-equity", "investor_id": "d1-capital-partners", "role": "participant", "investment_amount": null, "currency": "UNK", "evidence_ids": ["ramp-official-1"]}
+{"event_id": "ramp-20261015-equity", "investor_id": "greenoaks", "role": "participant", "investment_amount": null, "currency": "UNK", "evidence_ids": ["ramp-official-1"]}
+{"event_id": "ramp-20261015-equity", "investor_id": "iconiq", "role": "participant", "investment_amount": null, "currency": "UNK", "evidence_ids": ["ramp-official-1"]}
+{"event_id": "ramp-20261015-equity", "investor_id": "gic", "role": "participant", "investment_amount": null, "currency": "UNK", "evidence_ids": ["ramp-official-1"]}
+{"event_id": "ramp-20261015-equity", "investor_id": "8vc", "role": "participant", "investment_amount": null, "currency": "UNK", "evidence_ids": ["ramp-official-1"]}
+{"event_id": "ramp-20261015-equity", "investor_id": "1789-capital", "role": "participant", "investment_amount": null, "currency": "UNK", "evidence_ids": ["ramp-official-1"]}
+{"event_id": "ramp-20261015-equity", "investor_id": "alpha-wave-global", "role": "participant", "investment_amount": null, "currency": "UNK", "evidence_ids": ["ramp-official-1"]}
+{"event_id": "ramp-20261015-equity", "investor_id": "ontario-teachers-pension-plan", "role": "participant", "investment_amount": null, "currency": "UNK", "evidence_ids": ["ramp-official-1"]}
+{"event_id": "ramp-20261015-equity", "investor_id": "coatue", "role": "participant", "investment_amount": null, "currency": "UNK", "evidence_ids": ["ramp-official-1"]}
+{"event_id": "ramp-20261015-equity", "investor_id": "de-shaw", "role": "participant", "investment_amount": null, "currency": "UNK", "evidence_ids": ["ramp-official-1"]}
+{"event_id": "ramp-20261015-equity", "investor_id": "definition-capital", "role": "participant", "investment_amount": null, "currency": "UNK", "evidence_ids": ["ramp-official-1"]}
+{"event_id": "ramp-20261015-equity", "investor_id": "firstmark", "role": "participant", "investment_amount": null, "currency": "UNK", "evidence_ids": ["ramp-official-1"]}
+{"event_id": "ramp-20261015-equity", "investor_id": "general-catalyst", "role": "participant", "investment_amount": null, "currency": "UNK", "evidence_ids": ["ramp-official-1"]}
+{"event_id": "ramp-20261015-equity", "investor_id": "generation-investment-management", "role": "participant", "investment_amount": null, "currency": "UNK", "evidence_ids": ["ramp-official-1"]}
+{"event_id": "ramp-20261015-equity", "investor_id": "glade-brook-capital-partners", "role": "participant", "investment_amount": null, "currency": "UNK", "evidence_ids": ["ramp-official-1"]}
+{"event_id": "ramp-20261015-equity", "investor_id": "khosla-ventures", "role": "participant", "investment_amount": null, "currency": "UNK", "evidence_ids": ["ramp-official-1"]}
+{"event_id": "ramp-20261015-equity", "investor_id": "lightspeed-venture-partners", "role": "participant", "investment_amount": null, "currency": "UNK", "evidence_ids": ["ramp-official-1"]}
+{"event_id": "ramp-20261015-equity", "investor_id": "pinegrove-opportunity-partners", "role": "participant", "investment_amount": null, "currency": "UNK", "evidence_ids": ["ramp-official-1"]}
+{"event_id": "ramp-20261015-equity", "investor_id": "soma-capital", "role": "participant", "investment_amount": null, "currency": "UNK", "evidence_ids": ["ramp-official-1"]}
+{"event_id": "ramp-20261015-equity", "investor_id": "stripes", "role": "participant", "investment_amount": null, "currency": "UNK", "evidence_ids": ["ramp-official-1"]}
+{"event_id": "origin-20261015-equity", "investor_id": "accel", "role": "co_lead", "investment_amount": null, "currency": "UNK", "evidence_ids": ["origin-accel-1", "origin-entrackr-1"]}
+{"event_id": "origin-20261015-equity", "investor_id": "zacua-ventures", "role": "co_lead", "investment_amount": null, "currency": "UNK", "evidence_ids": ["origin-accel-1", "origin-entrackr-1"]}
+{"event_id": "origin-20261015-equity", "investor_id": "unilazer-ventures", "role": "participant", "investment_amount": null, "currency": "UNK", "evidence_ids": ["origin-accel-1", "origin-entrackr-1"]}
+{"event_id": "origin-20261015-equity", "investor_id": "schema-ventures", "role": "participant", "investment_amount": null, "currency": "UNK", "evidence_ids": ["origin-accel-1", "origin-entrackr-1"]}
+{"event_id": "origin-20261015-equity", "investor_id": "z21", "role": "participant", "investment_amount": null, "currency": "UNK", "evidence_ids": ["origin-accel-1", "origin-entrackr-1"]}
+{"event_id": "origin-20261015-equity", "investor_id": "isai", "role": "participant", "investment_amount": null, "currency": "UNK", "evidence_ids": ["origin-accel-1", "origin-entrackr-1"]}
+{"event_id": "origin-20261015-equity", "investor_id": "imad-ventures", "role": "participant", "investment_amount": null, "currency": "UNK", "evidence_ids": ["origin-accel-1", "origin-entrackr-1"]}
+{"event_id": "chariot-claims-20261015-equity", "investor_id": "silverton-partners", "role": "lead", "investment_amount": null, "currency": "UNK", "evidence_ids": ["chariot-cbnews-1"]}
+{"event_id": "chariot-claims-20261015-equity", "investor_id": "indicator-ventures", "role": "participant", "investment_amount": null, "currency": "UNK", "evidence_ids": ["chariot-cbnews-1"]}
+{"event_id": "chariot-claims-20261015-equity", "investor_id": "lightbank", "role": "participant", "investment_amount": null, "currency": "UNK", "evidence_ids": ["chariot-cbnews-1"]}
+{"event_id": "chariot-claims-20261015-equity", "investor_id": "neon-fund", "role": "participant", "investment_amount": null, "currency": "UNK", "evidence_ids": ["chariot-cbnews-1"]}
+{"event_id": "chariot-claims-20261015-equity", "investor_id": "zvc", "role": "participant", "investment_amount": null, "currency": "UNK", "evidence_ids": ["chariot-cbnews-1"]}
+{"event_id": "chariot-claims-20261015-equity", "investor_id": "rosecliff-ventures", "role": "participant", "investment_amount": null, "currency": "UNK", "evidence_ids": ["chariot-cbnews-1"]}
+{"event_id": "chariot-claims-20261015-equity", "investor_id": "alumni-ventures", "role": "participant", "investment_amount": null, "currency": "UNK", "evidence_ids": ["chariot-cbnews-1"]}
+{"event_id": "chariot-claims-20261015-equity", "investor_id": "fj-labs", "role": "participant", "investment_amount": null, "currency": "UNK", "evidence_ids": ["chariot-cbnews-1"]}
+{"event_id": "chariot-claims-20261015-equity", "investor_id": "graph-ventures", "role": "participant", "investment_amount": null, "currency": "UNK", "evidence_ids": ["chariot-cbnews-1"]}
+{"event_id": "chariot-claims-20261015-equity", "investor_id": "vermilion-ventures", "role": "participant", "investment_amount": null, "currency": "UNK", "evidence_ids": ["chariot-cbnews-1"]}

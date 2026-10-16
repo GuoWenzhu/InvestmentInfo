@@ -1,0 +1,113 @@
+{
+  "issue_id": "01a14202-96da-78d7-9b1f-4469c808eda9",
+  "issue_identifier": "TECH-25",
+  "collected_at": "2026-10-16T00:10:00+00:00",
+  "window_start": "2026-10-14T00:00:00Z",
+  "window_end": "2026-10-16T00:00:00Z",
+  "source_attempts": [
+    {
+      "source_id": "techcrunch",
+      "attempted_at": "2026-10-16T00:01:30+00:00",
+      "status": "success",
+      "evidence_url": "https://techcrunch.com/category/startups/",
+      "notes": "Startups栏目第1页可读（304KB，HTTP 200）；窗口内10-15新增：Ramp $1.85B@$60B录为ramp-20261015-equity（跨官方新闻稿核验）；Intero Battlefield冠军（$100k非股权奖金，非融资）、Ricursive/Gudea档案（无新轮次）、Founder Summit/Disrupt日程推广排除；10-14条目前次已核"
+    },
+    {
+      "source_id": "accel",
+      "attempted_at": "2026-10-16T00:02:00+00:00",
+      "status": "success",
+      "evidence_url": "https://www.accel.com/news",
+      "notes": "新闻列表可读（546KB）；Modal之上新增《Our investment in Origin》(datePublished 2026-10-15T16:00Z)：Accel与Zacua Ventures联合领投Origin $20M出stealth——录为origin-20261015-equity，经Entrackr/Business Standard/Livemint/ET/Construction Briefing跨媒体+origin.tech官网核验"
+    },
+    {
+      "source_id": "qiming",
+      "attempted_at": "2026-10-16T00:02:00+00:00",
+      "status": "success_zero_output",
+      "evidence_url": "https://www.qimingvc.com/cn/newsroom",
+      "notes": "新闻室可读（54KB）；Vol.31（10-13）之上最新为《2026启明创投医疗创新合作伙伴开放日》活动头条（10月）：活动回顾非融资，登记排除；其余为观点/荣誉/WAIC条目；窗口内无新增融资条目"
+    },
+    {
+      "source_id": "crunchbase_news",
+      "attempted_at": "2026-10-16T00:03:00+00:00",
+      "status": "success",
+      "evidence_url": "https://news.crunchbase.com/",
+      "notes": "RSS仍403；首页对简短UA返回403（5KB质询页），完整浏览器UA成功（169KB）——入口对UA敏感，连续第2日以首页替代入口核验。窗口内新增：Chariot Claims $10M Series A独家（10-15）录为chariot-claims-20261015-equity；uniplay访谈、Q3国防投资统计、Q3全球/北美/欧洲三篇季度报告、10-14 MVP Q&A为非事件；marklo/独角兽统计前次已核"
+    },
+    {
+      "source_id": "nvca",
+      "attempted_at": "2026-10-16T00:03:50+00:00",
+      "status": "success_zero_output",
+      "evidence_url": "https://nvca.org/pitchbook-nvca-venture-monitor/",
+      "notes": "季度统计页可读（172KB，HTTP 200）；无窗口内新季度报告；季度统计不作为48小时公司融资事件来源"
+    },
+    {
+      "source_id": "sifted",
+      "attempted_at": "2026-10-16T00:02:00+00:00",
+      "status": "success",
+      "evidence_url": "https://sifted.eu/feed",
+      "notes": "主站与文章页连续第6日403；RSS替代入口成功（lastBuildDate 2026-10-15T23:57:45Z，24条）。窗口内新增候选逐条核验：Matters $5M pre-seed（10-15T05:00Z）正文403，经tech.eu/fintech.global/finextra/官网matters.inc交叉核实录为matters-20261015-equity；Accel 'set to lead' DeepMind背景创始人$60m（传闻未交割、公司未具名）、Nvidia五家UK startup planned investments（意向公告，官方博客确认）、BBB £180m LP出资承诺均排除；其余为观点/榜单/分析类；RVF条目前次已核"
+    },
+    {
+      "source_id": "techstars",
+      "attempted_at": "2026-10-16T00:03:50+00:00",
+      "status": "success_zero_output",
+      "evidence_url": "https://www.techstars.com/portfolio",
+      "notes": "组合目录页可读（253KB，HTTP 200）；目录收录不生成融资事件"
+    },
+    {
+      "source_id": "company_official",
+      "attempted_at": "2026-10-16T00:06:00+00:00",
+      "status": "success",
+      "evidence_url": null,
+      "notes": "Ramp官方新闻稿经PR Newswire发布（led by Dragoneer，四家co-led，$1.85B primary，07:00 ET）；origin.tech官网（General-Purpose Robots for Construction，业务一致）；chariotclaims.com首页（'Chariot just raised a Series A'）；matters.inc/press（15 October 2026新闻稿：$5M pre-seed出stealth，2026年4月创立、14人）"
+    }
+  ],
+  "accepted_events": [
+    "ramp-20261015-equity",
+    "origin-20261015-equity",
+    "chariot-claims-20261015-equity",
+    "matters-20261015-equity"
+  ],
+  "corrections": [],
+  "excluded_candidates": [
+    {
+      "name": "Intero Biosystems",
+      "detail": "Disrupt 2026 Startup Battlefield冠军（10-15），获$100k非股权奖金",
+      "reason": "赛事结果与奖金非融资事件；10-14档案（历史轮次自述）前次已排除"
+    },
+    {
+      "name": "Accel × DeepMind背景创始人 $60m轮（Sifted独家）",
+      "detail": "Accel 'set to lead' $60m，GC/NEA 'said to have joined'；公司未具名",
+      "reason": "传闻/进行中，未交割、未官宣，单一信源；按『开启/在筹轮不录事件』先例排除，留观"
+    },
+    {
+      "name": "Nvidia × 五家UK初创（Boltz/Foresight/Hiverge/Prima Mente/Riverlane）",
+      "detail": "10-14伦敦活动官宣'new planned investments'（Sifted 10-15报道）；少数股权，无金额无估值",
+      "reason": "投资方意向公告，非已交割公司融资轮；Nvidia官方博客同口径"
+    },
+    {
+      "name": "British Business Bank £180m",
+      "detail": "BBB向六家AI基金（Evantic、EF等）承诺£180m（10-15）",
+      "reason": "LP出资承诺：非公司融资，亦非目标基金自身募集关闭公告；基金关闭需以基金自身口径另核"
+    },
+    {
+      "name": "Ricursive Intelligence / Gudea",
+      "detail": "TC 10-14 Battlefield公司档案",
+      "reason": "正文无新轮次披露；Gudea融资此前已经CB News处理（窗口外）"
+    },
+    {
+      "name": "其余窗口内条目",
+      "detail": "CB News uniplay访谈与Q3全球/北美/欧洲季度统计+国防投资回顾（统计口径，对应轮次均为历史已披露）；启明开放日活动头条；TC Founder Summit/Disrupt日程推广；Sifted观点/榜单/分析类",
+      "reason": "非融资事件"
+    }
+  ],
+  "limitations": [
+    "入口采样不是无限全站检索，可能漏报",
+    "Sifted主站与文章页连续第6日403；Matters与$60m传闻两条仅RSS标题级发现+跨媒体核实，Sifted正文未读",
+    "Crunchbase News RSS连续6日403；首页10-16对简短UA亦403，完整浏览器UA成功——入口对UA敏感，替代入口稳定性一般",
+    "Ramp领投结构官方（Dragoneer led）与TC（五家co-led）口径不一致，以官方登记并记录冲突；Modal先例同",
+    "Matters为全天使轮（无机构投资方），机构表无条目，天使名单存证据field_claims",
+    "fetch工具被本机fake-IP代理网段拦截，本次采集经curl直连完成（不影响来源可达性判断）",
+    "30/90天历史仍不足；未取得客户方独立证据；跨币种（USD）样本未计算中位数（金额口径跨度$5M-$1.85B）"
+  ]
+}

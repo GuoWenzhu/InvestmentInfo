@@ -86,6 +86,25 @@
    "report_path": "reports/2026-10-15-daily.md",
    "publication_comment_id": "01a13cec-6e8e-7906-acc1-90cdab5f031c",
    "publication_note": "已交付Issue评论并附报告/采集/追踪附件（2026-10-15T00:18:10Z）；同Issue不重复发布。"
+  },
+  {
+   "date": "2026-10-16",
+   "run_key": "2026-10-16",
+   "issue_id": "01a14202-96da-78d7-9b1f-4469c808eda9",
+   "issue_identifier": "TECH-25",
+   "event_ids": [
+    "ramp-20261015-equity",
+    "origin-20261015-equity",
+    "chariot-claims-20261015-equity",
+    "matters-20261015-equity"
+   ],
+   "revision": 1,
+   "status": "ready_for_delivery",
+   "window_start": "2026-10-14T00:00:00Z",
+   "window_end": "2026-10-16T00:00:00Z",
+   "report_path": "reports/2026-10-16-daily.md",
+   "publication_comment_id": null,
+   "publication_note": "报告已验证待交付；发布回执以本Issue最终评论为准，重试必须先查评论。"
   }
  ]
 }
