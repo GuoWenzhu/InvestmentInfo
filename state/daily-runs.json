@@ -119,12 +119,12 @@
     "north-cloud-20261015-equity"
    ],
    "revision": 1,
-   "status": "ready_for_delivery",
+   "status": "delivered",
    "window_start": "2026-10-15T00:00:15Z",
    "window_end": "2026-10-17T00:00:15Z",
    "report_path": "reports/2026-10-17-daily.md",
-   "publication_comment_id": null,
-   "publication_note": "报告已验证并准备交付；发布回执以对应Issue最终评论为准，重试必须先查评论。"
+   "publication_comment_id": "01a14740-33a9-7c12-b9b0-3c434f18cd6e",
+   "publication_note": "已交付Issue评论并附报告/追踪附件（2026-10-17T00:25:51Z）；同Issue不重复发布。"
   }
  ]
 }
