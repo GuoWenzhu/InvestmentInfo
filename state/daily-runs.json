@@ -105,6 +105,26 @@
    "report_path": "reports/2026-10-16-daily.md",
    "publication_comment_id": "01a1420f-8536-72cb-ba6a-3a2d2037fa63",
    "publication_note": "已交付Issue评论并附报告/采集/追踪附件（2026-10-16T00:14:35Z）；同Issue不重复发布。"
+  },
+  {
+   "date": "2026-10-17",
+   "run_key": "2026-10-17",
+   "issue_id": "01a14728-bff0-7ddd-917a-d1f0150550ef",
+   "issue_identifier": "TECH-37",
+   "event_ids": [
+    "estuary-bio-20261016-equity",
+    "abby-care-20261015-equity",
+    "stand-insurance-20261015-equity",
+    "mueon-20261015-equity",
+    "north-cloud-20261015-equity"
+   ],
+   "revision": 1,
+   "status": "ready_for_delivery",
+   "window_start": "2026-10-15T00:00:15Z",
+   "window_end": "2026-10-17T00:00:15Z",
+   "report_path": "reports/2026-10-17-daily.md",
+   "publication_comment_id": null,
+   "publication_note": "报告已验证并准备交付；发布回执以对应Issue最终评论为准，重试必须先查评论。"
   }
  ]
 }

@@ -1,0 +1,142 @@
+{
+ "issue_id": "01a14728-bff0-7ddd-917a-d1f0150550ef",
+ "issue_identifier": "TECH-37",
+ "collected_at": "2026-10-17T00:17:00+00:00",
+ "window_start": "2026-10-15T00:00:15Z",
+ "window_end": "2026-10-17T00:00:15Z",
+ "source_attempts": [
+  {
+   "source_id": "techcrunch",
+   "attempted_at": "2026-10-17T00:02:00+00:00",
+   "status": "success_zero_output",
+   "evidence_url": "https://techcrunch.com/category/startups/",
+   "notes": "栏目页可读（303KB，HTTP 200；fetch工具仍被本机fake-IP代理网段拦截，经curl直连）。10-16新增三条逐一核验：Elorian（Glimpse模型发布，$55M seed为既往已披露轮）排除；Tressfecta（bootstrap+资助，'preparing to fundraise'）排除；Veritas（防伪芯片扩展；$1.75M pre-seed于2026-02-10已披露）窗口外。10-15条目（Cal AI营销案例、Intero Battlefield冠军、Ramp等）前次已核或非融资"
+  },
+  {
+   "source_id": "accel",
+   "attempted_at": "2026-10-17T00:03:30+00:00",
+   "status": "success_zero_output",
+   "evidence_url": "https://www.accel.com/news",
+   "notes": "新闻列表可读（547KB）；最新仍为Origin（10-15，前次已录入origin-20261015-equity），其后Modal（10-14）、Moneyview IPO回顾（10-01）等均前次已核或非新融资；窗口内无新增条目"
+  },
+  {
+   "source_id": "qiming",
+   "attempted_at": "2026-10-17T00:03:30+00:00",
+   "status": "success_zero_output",
+   "evidence_url": "https://www.qimingvc.com/cn/newsroom",
+   "notes": "新闻室可读（54KB）；与昨日一致：开放日活动头条与Vol.31（2026.10.13）/Vol.30（9.16）为最新；观点/活动条目无融资；窗口内无新增"
+  },
+  {
+   "source_id": "crunchbase_news",
+   "attempted_at": "2026-10-17T00:04:00+00:00",
+   "status": "success",
+   "evidence_url": "https://news.crunchbase.com/",
+   "notes": "RSS仍403（连续第7日）；首页完整浏览器UA成功（171KB）。新增：周报《The Week's 10 Biggest Funding Rounds: Spending Contracts...》（2026-10-16T17:57:38Z，覆盖10-10至10-16美国十大轮次）为发现源，10条逐一核验披露日期：窗口内5条录入（Estuary 10-16、Abby Care/Stand/Mueon/North.cloud 10-15，均经官方新闻稿或跨媒体全文核验）；Modal $750M为10-14（modal-20261014-equity已处理）；Icon（10-13）、Soufflé（10-13）、Suki（10-12/13）、Labelbox（10-14）为窗口外；Q3亚洲季度统计（10-16T11:00Z）为统计口径排除；cyber Q3统计前次已排除"
+  },
+  {
+   "source_id": "nvca",
+   "attempted_at": "2026-10-17T00:04:40+00:00",
+   "status": "success_zero_output",
+   "evidence_url": "https://nvca.org/pitchbook-nvca-venture-monitor/",
+   "notes": "季度统计页可读（173KB，HTTP 200）；无窗口内新季度报告"
+  },
+  {
+   "source_id": "sifted",
+   "attempted_at": "2026-10-17T00:03:30+00:00",
+   "status": "success_zero_output",
+   "evidence_url": "https://sifted.eu/feed",
+   "notes": "主站与文章页连续第7日403（Cloudflare质询）；RSS替代入口成功（lastBuildDate 10-16，24条）。窗口内新条目逐条核验：Reson8创始人访谈（10-16）——€5M为2026-03已披露轮，非事件；其余为观点/榜单（Stebbings播客、AI金融科技地图94家、AI100等）/政策（EU Inc）/品牌栏目或前次已核（Matters、Accel $60m传闻、Nvidia五家UK、BBB £180m）"
+  },
+  {
+   "source_id": "techstars",
+   "attempted_at": "2026-10-17T00:04:40+00:00",
+   "status": "success_zero_output",
+   "evidence_url": "https://www.techstars.com/portfolio",
+   "notes": "组合目录页可读（254KB，HTTP 200）；目录收录不生成融资事件"
+  },
+  {
+   "source_id": "company_official",
+   "attempted_at": "2026-10-17T00:15:00+00:00",
+   "status": "success",
+   "evidence_url": null,
+   "notes": "按事件核验：Estuary官方新闻稿（Business Wire分发，经BioSpace转载全文已读，2026-10-16T10:30Z）；Mueon官方PR Newswire新闻稿全文（10-15T11:00Z）；North.cloud官方PR Newswire新闻稿全文（10-15T14:00Z）；estuarybio.com（'All in for ADPKD'）、abbycare.org（'AI-Powered, Family-led Care at Home'；abbycare.com为停放域名）、getstand.com（'Wildfire & Hurricane Homeowners Insurance'）、mueon.com、north.cloud五个官网域名核验业务一致；Stand官方新闻稿仅标题级（10-15T13:09Z，经Reinsurance News全文与CB周报全文互证）"
+  }
+ ],
+ "accepted_events": [
+  "estuary-bio-20261016-equity",
+  "abby-care-20261015-equity",
+  "stand-insurance-20261015-equity",
+  "mueon-20261015-equity",
+  "north-cloud-20261015-equity"
+ ],
+ "corrections": [],
+ "excluded_candidates": [
+  {
+   "name": "Elorian（Palo Alto AI初创）",
+   "detail": "10-16发布首个模型Glimpse（研究预览）；文中提及$55M seed@$300M估值",
+   "reason": "产品发布非融资事件；该seed为既往已披露轮次（窗口外）"
+  },
+  {
+   "name": "Tressfecta（美发编辫硬件）",
+   "detail": "TC 10-16公司档案：bootstrapping+资助/加速器，'I am preparing to fundraise'",
+   "reason": "无已交割融资；筹备中不录"
+  },
+  {
+   "name": "Veritas（奢侈品防伪芯片）",
+   "detail": "TC 10-16业务扩展报道；$1.75M pre-seed（Seven Seven Six领投）",
+   "reason": "轮次于2026-02-10已披露（窗口外），本文为业务动态"
+  },
+  {
+   "name": "Icon（3D打印建造）",
+   "detail": "$200M Series D，Baillie Gifford与BlackRock联合领投",
+   "reason": "CNBC/Quartz 10-13报道（标题级判定，多家标题一致）——窗口外"
+  },
+  {
+   "name": "Soufflé Therapeutics",
+   "detail": "$135M Series B，Juvia Group领投",
+   "reason": "官方新闻稿10-13T14:00Z——窗口外"
+  },
+  {
+   "name": "Suki",
+   "detail": "$90M Series E",
+   "reason": "Inc 10-12、Fierce Healthcare 10-13报道——窗口外"
+  },
+  {
+   "name": "Labelbox",
+   "detail": "$100M+ Series E（含信贷额度），Infinitum领投@$1.25B pre-money",
+   "reason": "官网博客官宣10-14——窗口外；注意CB周报口径为'$100M'，官方口径为'超过$100M含信贷设施'"
+  },
+  {
+   "name": "Modal Labs",
+   "detail": "$750M Series D @$15.75B（CB周报第1条）",
+   "reason": "10-14已披露并处理（modal-20261014-equity），不重复计入"
+  },
+  {
+   "name": "Q3亚洲季度统计",
+   "detail": "CB News 10-16：Q3亚洲$38.5B、AI占约55%；Moonshot $3.5B、Kling约$3B等",
+   "reason": "季度统计口径；所引大额轮均为7月历史事件"
+  },
+  {
+   "name": "Reson8（阿姆斯特丹语音AI）",
+   "detail": "Sifted 10-16创始人访谈",
+   "reason": "访谈非融资公告；€5M为2026-03已披露轮（RSS标题级，正文403）"
+  },
+  {
+   "name": "其余窗口内条目",
+   "detail": "Cal AI增长营销案例、TC Disrupt/Founder Summit推广、Tesla Roadster、启明开放日头条、NVCA季度页等",
+   "reason": "非融资事件"
+  }
+ ],
+ "limitations": [
+  "入口采样不是无限全站检索，可能漏报",
+  "fetch工具被本机fake-IP代理网段（198.18.0.0/15）拦截，本次采集经curl直连完成（不影响来源可达性判断）",
+  "Crunchbase News RSS连续第7日403；首页以完整浏览器UA访问成功——替代入口对UA敏感",
+  "Sifted主站与文章页连续第7日403；窗口内条目仅RSS标题级发现+跨媒体核验",
+  "Abby Care原始独家为Fortune（付费墙），标题级+HHCN/CB周报两处独立全文转述互证；公司官网abbycare.org业务核验通过但未见融资公告",
+  "Stand官方新闻稿仅标题级（10-15T13:09Z）；金额/领投/估值以Reinsurance News与CB周报两处全文互证；getstand.com首页JS渲染未读公告",
+  "Icon/Soufflé/Suki三条窗口外判定基于多家媒体标题+发布时间一致性（正文未读），已如实标注",
+  "Abby Care既有投资方'Khosla Ventures、Thrive Capital、Sequoia'按HHCN口径录入；Sequoia原文未细分基金主体，沿用既有sequoia条目并留备注",
+  "Estuary Series A含一位未具名ADPKD患者关联家办，未入机构表；$10M seed为此前未披露分项，金额拆分存field_claims",
+  "30/90天历史仍不足；未取得客户方独立证据；跨币种（USD）样本未计算中位数"
+ ]
+}

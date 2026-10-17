@@ -86,3 +86,37 @@
 {"investor_id": "fj-labs", "name": "FJ Labs", "aliases": [], "parent_id": null}
 {"investor_id": "graph-ventures", "name": "Graph Ventures", "aliases": [], "parent_id": null}
 {"investor_id": "vermilion-ventures", "name": "Vermilion Ventures", "aliases": [], "parent_id": null}
+{"investor_id": "ra-capital", "name": "RA Capital Management", "aliases": ["RA Capital"], "parent_id": null}
+{"investor_id": "deep-track-capital", "name": "Deep Track Capital", "aliases": [], "parent_id": null}
+{"investor_id": "biogen-new-ventures", "name": "Biogen New Ventures", "aliases": ["Biogen New Ventures（母公司Biogen，未单列实体）"], "parent_id": null}
+{"investor_id": "upmc-enterprises", "name": "UPMC Enterprises", "aliases": [], "parent_id": null}
+{"investor_id": "pivotal-bioventure-partners", "name": "Pivotal bioVenture Partners", "aliases": [], "parent_id": null}
+{"investor_id": "nkf-innovation-fund", "name": "National Kidney Foundation Innovation Fund", "aliases": ["NKF Innovation Fund"], "parent_id": null}
+{"investor_id": "4bio-capital", "name": "4BIO Capital", "aliases": [], "parent_id": null}
+{"investor_id": "gv", "name": "GV", "aliases": ["Google Ventures"], "parent_id": null}
+{"investor_id": "transformation-capital", "name": "Transformation Capital", "aliases": [], "parent_id": null}
+{"investor_id": "cvs-health-ventures", "name": "CVS Health Ventures", "aliases": [], "parent_id": null}
+{"investor_id": "frist-cressey-ventures", "name": "Frist Cressey Ventures", "aliases": [], "parent_id": null}
+{"investor_id": "pivotal-ventures", "name": "Pivotal Ventures", "aliases": [], "parent_id": null}
+{"investor_id": "saga-ventures", "name": "Saga Ventures", "aliases": [], "parent_id": null}
+{"investor_id": "lowercarbon-capital", "name": "Lowercarbon Capital", "aliases": ["Lowercarbon"], "parent_id": null}
+{"investor_id": "eclipse-ventures", "name": "Eclipse", "aliases": ["Eclipse Ventures"], "parent_id": null}
+{"investor_id": "equal-ventures", "name": "Equal Ventures", "aliases": [], "parent_id": null}
+{"investor_id": "inspired-capital", "name": "Inspired Capital", "aliases": [], "parent_id": null}
+{"investor_id": "neotribe-ventures", "name": "Neotribe Ventures", "aliases": ["Neotribe"], "parent_id": null}
+{"investor_id": "jackson-square-ventures", "name": "Jackson Square Ventures", "aliases": ["JSV"], "parent_id": null}
+{"investor_id": "maverick-silicon", "name": "Maverick Silicon", "aliases": [], "parent_id": null}
+{"investor_id": "intel-capital", "name": "Intel Capital", "aliases": ["Intel Capital（母公司Intel，未单列实体）"], "parent_id": null}
+{"investor_id": "geodesic-alliances-fund", "name": "Geodesic Alliances Fund", "aliases": [], "parent_id": null}
+{"investor_id": "oregon-venture-fund", "name": "Oregon Venture Fund", "aliases": ["OVF"], "parent_id": null}
+{"investor_id": "m-ventures", "name": "M-Ventures", "aliases": ["M Ventures（原文未细分主体）"], "parent_id": null}
+{"investor_id": "wellington-capital", "name": "Wellington Capital", "aliases": ["Wellington Capital（原文未细分主体）"], "parent_id": null}
+{"investor_id": "iqt", "name": "IQT", "aliases": ["In-Q-Tel"], "parent_id": null}
+{"investor_id": "defined-funds", "name": "Defined", "aliases": ["Defined（原文未细分主体）"], "parent_id": null}
+{"investor_id": "peakspan-capital", "name": "PeakSpan Capital", "aliases": ["PeakSpan"], "parent_id": null}
+{"investor_id": "litquidity-ventures", "name": "Litquidity Ventures", "aliases": [], "parent_id": null}
+{"investor_id": "companyon-ventures", "name": "Companyon Ventures", "aliases": [], "parent_id": null}
+{"investor_id": "alpaca-vc", "name": "Alpaca", "aliases": ["Alpaca VC"], "parent_id": null}
+{"investor_id": "uncommon-denominator", "name": "Uncommon Denominator", "aliases": [], "parent_id": null}
+{"investor_id": "gaingels", "name": "Gaingels", "aliases": [], "parent_id": null}
+{"investor_id": "mana-ventures", "name": "Mana Ventures", "aliases": [], "parent_id": null}
