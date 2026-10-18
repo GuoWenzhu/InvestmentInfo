@@ -1,0 +1,66 @@
+{
+ "issue_id": "01a14c4f-1151-793e-bcd3-74344163bed9",
+ "issue_identifier": "TECH-42",
+ "collected_at": "2026-10-18T00:06:25+00:00",
+ "window_start": "2026-10-16T00:00:00Z",
+ "window_end": "2026-10-18T00:00:12Z",
+ "source_attempts": [
+  {
+   "source_id": "techcrunch",
+   "attempted_at": "2026-10-18T00:01:30+00:00",
+   "status": "success_zero_output",
+   "evidence_url": "https://techcrunch.com/category/startups/",
+   "notes": "栏目页可读（303KB，HTTP 200；curl直连，fetch工具仍被本机fake-IP代理网段拦截）。最新可见条目为10-16，无10-17条目。10-16四条逐一核验：Elorian（产品发布）、Tressfecta（bootstrap）、Veritas（既往pre-seed）前次已核为非新增融资；新增Mark Wahlberg Municipal Gym开业访谈（正文全文已读，246KB）无融资披露，Fountain Life $18M为2025年既往轮——排除登记。窗口内无新增融资"
+  },
+  {
+   "source_id": "accel",
+   "attempted_at": "2026-10-18T00:02:10+00:00",
+   "status": "success_zero_output",
+   "evidence_url": "https://www.accel.com/news",
+   "notes": "新闻列表可读（547KB，HTTP 200）；最新仍为Our investment in Origin（10-15，前次已录入），其后Modal（10-14）、Moneyview IPO回顾等均前次已核；窗口内无新增条目"
+  },
+  {
+   "source_id": "qiming",
+   "attempted_at": "2026-10-18T00:02:40+00:00",
+   "status": "success_zero_output",
+   "evidence_url": "https://www.qimingvc.com/cn/newsroom",
+   "notes": "新闻室可读（54KB，HTTP 200）；与昨日一致：开放日活动头条与启明周报Vol.31（2026.10.13）为最新；页面内融资类条目（佳量脑科学C+D轮、慕帆动力、芯光界、安澜德健等）均为8-9月窗口外；窗口内无新增融资条目"
+  },
+  {
+   "source_id": "crunchbase_news",
+   "attempted_at": "2026-10-18T00:03:00+00:00",
+   "status": "success_zero_output",
+   "evidence_url": "https://news.crunchbase.com/",
+   "notes": "RSS仍403；首页完整浏览器UA成功（171KB，curl直连）。文章流最新为周报《The Week's 10 Biggest Funding Rounds: Spending Contracts》（10-16T17:57Z，TECH-37发现源已处理）与Uniplay（10-15）、cyber Q3统计（10-15）等；10-17全天无新发文。首页全部条目核对台账均为已处理；Mistral AI $3.5B推荐位重现经核为September 8, 2026旧文（窗口外，登记排除）。窗口内无新增"
+  },
+  {
+   "source_id": "nvca",
+   "attempted_at": "2026-10-18T00:04:10+00:00",
+   "status": "access_failure",
+   "evidence_url": "https://nvca.org/pitchbook-nvca-venture-monitor/",
+   "notes": "指定入口连续3次HTTP 403（1486字节nginx 403，另换Windows/Edge UA同样403）；/event/q3-2026-pitchbook-nvca-venture-monitor/子页同样403。替代入口：nvca.org根页HTTP 200（198KB，域名可达，导航含Venture Monitor板块与Q3 2026事件链接），但报告与事件子页内容无法读取，窗口内是否发布新季度报告无法核验。记为接入失败（连续第1天）；未达转观察门槛（需连续3次失败且替代入口亦失败——根页可达）"
+  },
+  {
+   "source_id": "sifted",
+   "attempted_at": "2026-10-18T00:04:50+00:00",
+   "status": "success_zero_output",
+   "evidence_url": "https://sifted.eu/feed",
+   "notes": "主站直连SSL失败3次（curl error 35）；RSS替代入口第2次重试成功（9.8KB，24条，lastBuildDate 10-17T23:57GMT，HTTP 200）。窗口内条目逐条核验（10-16五条）：Stebbings播客、开源权重模型安全、防务科技收入分析、AI金融科技地图94家——观点/榜单/目录，登记排除；Reson8创始人访谈前次已核（€5M为2026-03既往轮）；10-15及更早条目均前次已核或窗口外。无新增融资"
+  },
+  {
+   "source_id": "techstars",
+   "attempted_at": "2026-10-18T00:05:20+00:00",
+   "status": "success_zero_output",
+   "evidence_url": "https://www.techstars.com/portfolio",
+   "notes": "组合目录页可读（254KB，HTTP 200）；目录收录不生成融资事件；窗口内无融资公告"
+  }
+ ],
+ "new_events": [],
+ "corrections": [],
+ "excluded_clues": [
+  "techcrunch: Mark Wahlberg Municipal Gym开业访谈（正文全文，无融资披露）→ excluded_not_event",
+  "crunchbase_news: Mistral AI $3.5B首页重现（September 8, 2026旧文）→ excluded_out_of_window",
+  "sifted: Stebbings播客/开源权重安全/防务收入分析/AI金融科技地图94家 → excluded_not_event（观点·榜单·目录）"
+ ],
+ "summary": "8个授权入口全部执行（company_official未触发：无新事件候选）；6成功零产出、1接入失败（nvca）、company_official未触发。新增事件0、更正0。"
+}

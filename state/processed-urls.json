@@ -1501,6 +1501,78 @@
    "status": "excluded_not_event",
    "reason": "创始人访谈（RSS标题级，正文403）；Reson8 €5M为2026-03已披露轮",
    "revision": 1
+  },
+  {
+   "url": "https://techcrunch.com/2026/10/16/mark-wahlberg-wants-to-take-on-the-longevity-startup-crowd-with-an-affordable-gym-concept/",
+   "canonical_url": "https://techcrunch.com/2026/10/16/mark-wahlberg-wants-to-take-on-the-longevity-startup-crowd-with-an-affordable-gym-concept/",
+   "source_id": "techcrunch",
+   "first_collected_at": "2026-10-18T00:06:25+00:00",
+   "last_collected_at": "2026-10-18T00:06:25+00:00",
+   "issue_id": "01a14c4f-1151-793e-bcd3-74344163bed9",
+   "event_id": null,
+   "status": "excluded_not_event",
+   "reason": "Municipal Gym开业访谈（正文全文已读）：12月开业的健身房品牌门店与会员定价，无融资披露；文中Fountain Life $18M为2025年既往轮——非融资事件",
+   "revision": 1
+  },
+  {
+   "url": "https://news.crunchbase.com/venture/europe-record-setting-mistral-ai-raise/",
+   "canonical_url": "https://news.crunchbase.com/venture/europe-record-setting-mistral-ai-raise/",
+   "source_id": "crunchbase_news",
+   "first_collected_at": "2026-10-18T00:06:25+00:00",
+   "last_collected_at": "2026-10-18T00:06:25+00:00",
+   "issue_id": "01a14c4f-1151-793e-bcd3-74344163bed9",
+   "event_id": null,
+   "status": "excluded_out_of_window",
+   "reason": "Mistral AI $3.5B（$24B估值）：首页日期标注September 8, 2026——窗口外旧文（首页推荐位重现）",
+   "revision": 1
+  },
+  {
+   "url": "https://sifted.eu/articles/harry-stebbings-podcast/",
+   "canonical_url": "https://sifted.eu/articles/harry-stebbings-podcast/",
+   "source_id": "sifted",
+   "first_collected_at": "2026-10-18T00:06:25+00:00",
+   "last_collected_at": "2026-10-18T00:06:25+00:00",
+   "issue_id": "01a14c4f-1151-793e-bcd3-74344163bed9",
+   "event_id": null,
+   "status": "excluded_not_event",
+   "reason": "播客/人物访谈（RSS标题级）：观点内容非融资事件",
+   "revision": 1
+  },
+  {
+   "url": "https://sifted.eu/articles/open-weight-models-sovereignty-ai-safety/",
+   "canonical_url": "https://sifted.eu/articles/open-weight-models-sovereignty-ai-safety/",
+   "source_id": "sifted",
+   "first_collected_at": "2026-10-18T00:06:25+00:00",
+   "last_collected_at": "2026-10-18T00:06:25+00:00",
+   "issue_id": "01a14c4f-1151-793e-bcd3-74344163bed9",
+   "event_id": null,
+   "status": "excluded_not_event",
+   "reason": "观点分析（RSS标题级）：开源权重模型安全议题，非融资事件",
+   "revision": 1
+  },
+  {
+   "url": "https://sifted.eu/articles/blurry-world-defence-tech-revenue-arr-vc/",
+   "canonical_url": "https://sifted.eu/articles/blurry-world-defence-tech-revenue-arr-vc/",
+   "source_id": "sifted",
+   "first_collected_at": "2026-10-18T00:06:25+00:00",
+   "last_collected_at": "2026-10-18T00:06:25+00:00",
+   "issue_id": "01a14c4f-1151-793e-bcd3-74344163bed9",
+   "event_id": null,
+   "status": "excluded_not_event",
+   "reason": "行业分析（RSS标题级）：防务科技收入口径讨论，非融资事件",
+   "revision": 1
+  },
+  {
+   "url": "https://sifted.eu/articles/europes-ai-fintech-market-mapped-94-startups-automating-the-business-of-money/",
+   "canonical_url": "https://sifted.eu/articles/europes-ai-fintech-market-mapped-94-startups-automating-the-business-of-money/",
+   "source_id": "sifted",
+   "first_collected_at": "2026-10-18T00:06:25+00:00",
+   "last_collected_at": "2026-10-18T00:06:25+00:00",
+   "issue_id": "01a14c4f-1151-793e-bcd3-74344163bed9",
+   "event_id": null,
+   "status": "excluded_not_event",
+   "reason": "市场地图/榜单（RSS标题级）：94家AI金融科技目录，目录收录不生成融资事件",
+   "revision": 1
   }
  ]
 }
