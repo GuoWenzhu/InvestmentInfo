@@ -149,12 +149,12 @@
     "character-ai-20261013-acquisition"
    ],
    "revision": 1,
-   "status": "ready_for_delivery",
+   "status": "delivered",
    "window_start": "2026-10-17T00:00:00Z",
    "window_end": "2026-10-19T00:00:20Z",
    "report_path": "reports/2026-10-19-daily.md",
-   "publication_comment_id": null,
-   "publication_note": "报告已验证并准备交付；本次含1条历史回补事件（原披露2026-10-13，非窗口内新增融资）；发布回执以对应Issue最终评论为准，重试必须先查评论。"
+   "publication_comment_id": "01a15181-a03f-71fc-9abb-e32b329e882e",
+   "publication_note": "已交付Issue评论并附报告/采集/追踪附件（2026-10-19T00:13:32Z）；同Issue不重复发布。窗口内零新增融资，历史回补1条并购事件（character-ai-20261013-acquisition，原披露2026-10-13）。"
   }
  ]
 }
