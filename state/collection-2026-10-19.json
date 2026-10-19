@@ -1,0 +1,72 @@
+{
+ "issue_id": "01a15175-8b00-799f-a1a5-1af36ace1072",
+ "issue_identifier": "TECH-45",
+ "collected_at": "2026-10-19T00:09:36+00:00",
+ "window_start": "2026-10-17T00:00:00Z",
+ "window_end": "2026-10-19T00:00:20Z",
+ "source_attempts": [
+  {
+   "source_id": "techcrunch",
+   "attempted_at": "2026-10-19T00:01:40+00:00",
+   "status": "success_with_update",
+   "evidence_url": "https://techcrunch.com/category/startups/",
+   "notes": "栏目页可读（302KB，HTTP 200，curl直连）。窗口内新条目2条逐一核验：①Anthropic劳动力结构报告（10-17，正文全文已读）为公司自发布研究报告，无融资披露→排除；②Disney/Character.AI法庭文件披露（10-18，正文全文已读）：新事实为Disney向至少60名员工发聘用要约（年薪酬约$60M）及stalking horse地位确认，追溯核验发现底层事件（Chapter 11+Disney $20M资产/IP许可协议）原披露日为2026-10-13（TECH-22窗口内，前次运行漏采，覆盖缺口）→按数据契约以historical_backfill=true补录为acquisition事件"
+  },
+  {
+   "source_id": "accel",
+   "attempted_at": "2026-10-19T00:03:30+00:00",
+   "status": "success_zero_output",
+   "evidence_url": "https://www.accel.com/news",
+   "notes": "新闻列表可读（546KB，HTTP 200）。最新仍为Our investment in Origin（10-15，前次已录入），其后Modal（10-14）、ai-that-knows（10-13）均前次已核；窗口内（10-17/10-18）无新条目。台账卫生：前次运行笔记称'Moneyview IPO回顾等均前次已核'但8条条目URL未入台账（Ando/Atira/Linear/Keenable投资公告、Moneyview/Rentomojo IPO回顾、SpaceX/Cursor及理念文章），本次逐一补登为excluded_out_of_window/excluded_not_event，均窗口外不回填"
+  },
+  {
+   "source_id": "qiming",
+   "attempted_at": "2026-10-19T00:04:10+00:00",
+   "status": "success_zero_output",
+   "evidence_url": "https://www.qimingvc.com/cn/newsroom",
+   "notes": "新闻室可读（54KB，HTTP 200）；最新日期仍为2026.10.13（启明周报Vol.31），页面日期序列10.13/9.16/9.9/9.2/8.26…窗口内无新条目"
+  },
+  {
+   "source_id": "crunchbase_news",
+   "attempted_at": "2026-10-19T00:02:20+00:00",
+   "status": "success_zero_output",
+   "evidence_url": "https://news.crunchbase.com/",
+   "notes": "RSS仍403；首页完整浏览器UA成功（170KB，curl直连）。文章流按位置序：周报《Spending Contracts》（10-16）→Uniplay（10-15）→cyber Q3统计（10-15）→Chariot（10-15）→Marklo（10-14）→9月独角兽（10-13前），全部条目已在台账；页面无10-17/10-18日期，周末无新发文。窗口内无新增"
+  },
+  {
+   "source_id": "sifted",
+   "attempted_at": "2026-10-19T00:02:50+00:00",
+   "status": "success_zero_output",
+   "evidence_url": "https://sifted.eu/feed",
+   "notes": "RSS替代入口成功（9.7KB，24条，lastBuildDate 10-18T23:58Z，HTTP 200，本次直连一次成功）。最新条目仍为10-16五条（全部前次已核），10-17/10-18无新条目。补登1条RSS在列但前次未登记的10-15条目（Jensen Huang伦敦演讲，观点类，窗口外）"
+  },
+  {
+   "source_id": "nvca",
+   "attempted_at": "2026-10-19T00:04:50+00:00",
+   "status": "success_zero_output",
+   "evidence_url": "https://nvca.org/pitchbook-nvca-venture-monitor/",
+   "notes": "指定入口恢复可达：HTTP 200（172KB，真实报告页，标题'PitchBook-NVCA Venture Monitor'，非昨日403拦截页）。页面含Q3 2026报告PDF链接；PDF last-modified 2026-10-08T13:19:58Z（HTTP头），发布在窗口外（10-08），窗口内无新季度报告发布。季度统计源不生成离散事件。恢复进度：连续可达第1天（需连续2天可达才完全恢复）"
+  },
+  {
+   "source_id": "techstars",
+   "attempted_at": "2026-10-19T00:05:20+00:00",
+   "status": "success_zero_output",
+   "evidence_url": "https://www.techstars.com/portfolio",
+   "notes": "组合目录页可读（254KB，HTTP 200）；目录收录不生成融资事件；页面无10-14以后日期，窗口内无融资公告"
+  }
+ ],
+ "new_events": [
+  "character-ai-20261013-acquisition（历史回补：原披露2026-10-13，经窗口内10-18新证据发现前次漏采）"
+ ],
+ "corrections": [],
+ "excluded_clues": [
+  "techcrunch: Anthropic劳动力结构报告（10-17，正文全文）→ excluded_not_event",
+  "sifted: Jensen Huang伦敦演讲（10-15，RSS补登）→ excluded_out_of_window",
+  "accel: Ando/Atira/Linear/Keenable投资公告与Moneyview/Rentomojo IPO回顾等8条（页面可见，均窗口外）→ excluded_out_of_window/excluded_not_event（台账补登）",
+  "nvca: Q3 2026 Venture Monitor PDF（last-modified 10-08，窗口外）→ excluded_out_of_window（统计面板）"
+ ],
+ "coverage_gaps": [
+  "2026-10-13 Character.ai Chapter 11+Disney $20M协议在TECH-22窗口内未被采集（当日各入口未见该线索：Business Wire分发未入常规入口，TechCrunch当日报道未出现在所采栏目页首页批次），本次经10-18新证据回补；记录为覆盖缺口与流程改进点"
+ ],
+ "summary": "8个授权入口全部执行；7常规源全部成功读取（6零产出、techcrunch发现窗口内新证据线索），company_official触发（Character.AI事件核验：官方新闻稿403经CNBC转载核读+官网域名403，均如实记录）。新增事件0（窗口内披露口径）、历史回补1（character-ai-20261013-acquisition）、更正0。台账+17条（含11条前次遗漏补登）。"
+}
