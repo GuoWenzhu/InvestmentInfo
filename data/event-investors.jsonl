@@ -126,3 +126,10 @@
 {"event_id": "north-cloud-20261015-equity", "investor_id": "uncommon-denominator", "role": "participant", "investment_amount": null, "currency": "UNK", "evidence_ids": ["north-prn-1"]}
 {"event_id": "north-cloud-20261015-equity", "investor_id": "gaingels", "role": "participant", "investment_amount": null, "currency": "UNK", "evidence_ids": ["north-prn-1"]}
 {"event_id": "north-cloud-20261015-equity", "investor_id": "mana-ventures", "role": "participant", "investment_amount": null, "currency": "UNK", "evidence_ids": ["north-prn-1"]}
+{"event_id": "town-20261019-equity", "investor_id": "forerunner", "role": "co_lead", "investment_amount": null, "currency": "UNK", "evidence_ids": ["town-official-1", "town-tc-1"]}
+{"event_id": "town-20261019-equity", "investor_id": "menlo-ventures", "role": "co_lead", "investment_amount": null, "currency": "UNK", "evidence_ids": ["town-official-1", "town-tc-1"]}
+{"event_id": "town-20261019-equity", "investor_id": "a16z", "role": "participant", "investment_amount": null, "currency": "UNK", "evidence_ids": ["town-official-1", "town-tc-1"]}
+{"event_id": "town-20261019-equity", "investor_id": "serena-ventures", "role": "participant", "investment_amount": null, "currency": "UNK", "evidence_ids": ["town-official-1", "town-tc-1"]}
+{"event_id": "town-20261019-equity", "investor_id": "first-round-capital", "role": "participant", "investment_amount": null, "currency": "UNK", "evidence_ids": ["town-official-1", "town-tc-1"]}
+{"event_id": "even-healthcare-20261019-equity", "investor_id": "khosla-ventures", "role": "lead", "investment_amount": null, "currency": "UNK", "evidence_ids": ["even-tc-1", "even-official-1"]}
+{"event_id": "even-healthcare-20261019-equity", "investor_id": "alpha-wave-global", "role": "participant", "investment_amount": null, "currency": "UNK", "evidence_ids": ["even-tc-1", "even-official-1"]}

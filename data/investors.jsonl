@@ -120,3 +120,5 @@
 {"investor_id": "uncommon-denominator", "name": "Uncommon Denominator", "aliases": [], "parent_id": null}
 {"investor_id": "gaingels", "name": "Gaingels", "aliases": [], "parent_id": null}
 {"investor_id": "mana-ventures", "name": "Mana Ventures", "aliases": [], "parent_id": null}
+{"investor_id": "serena-ventures", "name": "Serena Ventures", "aliases": ["Serena Williams Venture Fund"], "parent_id": null}
+{"investor_id": "first-round-capital", "name": "First Round Capital", "aliases": [], "parent_id": null}

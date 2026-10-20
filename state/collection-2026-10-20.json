@@ -1,0 +1,87 @@
+{
+ "issue_id": "01a1569b-e780-71d1-a403-10a846dfcfd0",
+ "issue_identifier": "TECH-48",
+ "collected_at": "2026-10-20T00:08:11+00:00",
+ "window_start": "2026-10-18T00:00:00Z",
+ "window_end": "2026-10-20T00:00:20Z",
+ "source_attempts": [
+  {
+   "source_id": "techcrunch",
+   "attempted_at": "2026-10-20T00:02:00+00:00",
+   "status": "success_with_update",
+   "evidence_url": "https://techcrunch.com/category/startups/",
+   "notes": "栏目页可读（304KB，HTTP 200，curl直连）。窗口内（10-18/10-19）新条目4条逐一核验：①Town $108M Series B（10-19，正文全文已读）→接受；②Even Healthcare $50M Series B（10-19，正文全文已读）→接受；③Amazon TorchNeuron开发工具（10-19）→公司产品新闻，excluded_not_event；④Wabi 2.0发布专访（10-19，全文已读）→无新融资（$20M pre-seed为去年旧轮），excluded_not_event。10-18 Disney/Character.AI报道前次已登记"
+  },
+  {
+   "source_id": "sifted",
+   "attempted_at": "2026-10-20T00:01:20+00:00",
+   "status": "success_zero_output",
+   "evidence_url": "https://sifted.eu/feed",
+   "notes": "RSS替代入口成功（9.8KB，24条，HTTP 200，curl直连）。新条目3条（均10-19）：法国抗议与初创企业/AI 100榜单投资者排名/政府采购Sifted Summit。文章正文页curl 403反爬、fetch工具被本机TUN代理DNS拦截（198.18.0.0/15），RSS仅标题无摘要：三条均按标题级判定为新闻/榜单/会议观点（非融资公告题材，低风险），已在台账记录解析受限。10-17/10-18无新条目"
+  },
+  {
+   "source_id": "crunchbase_news",
+   "attempted_at": "2026-10-20T00:01:50+00:00",
+   "status": "success_zero_output",
+   "evidence_url": "https://news.crunchbase.com/",
+   "notes": "RSS仍403；首页完整浏览器UA成功（171KB，curl直连）。文章流新条目2条逐一核验：①FDE Bubble（10-19，og:description+正文核读）→Airrived CEO客座评论，观点排除（T4）；②Q3 2026拉美统计（10-19，og:description核读）→季度统计面板，不生成离散事件；Q3 Asia（10-16）已在台账。文章流无10-17/10-18条目（周末无新发文）"
+  },
+  {
+   "source_id": "accel",
+   "attempted_at": "2026-10-20T00:03:10+00:00",
+   "status": "success_zero_output",
+   "evidence_url": "https://www.accel.com/news",
+   "notes": "新闻列表可读（546KB，HTTP 200）；列表顶部仍为Origin（10-15），其后Modal/ai-that-knows/Moneyview等均前次已登记；窗口内无新条目"
+  },
+  {
+   "source_id": "qiming",
+   "attempted_at": "2026-10-20T00:03:40+00:00",
+   "status": "success_zero_output",
+   "evidence_url": "https://www.qimingvc.com/cn/newsroom",
+   "notes": "新闻室可读（54KB，HTTP 200）；最新日期仍为2026.10.13（启明周报Vol.31）；窗口内无新条目"
+  },
+  {
+   "source_id": "nvca",
+   "attempted_at": "2026-10-20T00:04:10+00:00",
+   "status": "success_zero_output",
+   "evidence_url": "https://nvca.org/pitchbook-nvca-venture-monitor/",
+   "notes": "指定入口连续第2天可达：HTTP 200（173KB真实报告页）；Q3 2026报告PDF链接未变（last-modified 10-08，窗口外）；季度统计不生成离散事件。连续可达满2天，按report-health门槛恢复完成"
+  },
+  {
+   "source_id": "techstars",
+   "attempted_at": "2026-10-20T00:04:40+00:00",
+   "status": "success_zero_output",
+   "evidence_url": "https://www.techstars.com/portfolio",
+   "notes": "组合目录页可读（254KB，HTTP 200）；目录收录不生成融资事件；页面无新闻公告区，窗口内无融资信息"
+  }
+ ],
+ "per_event_verification": [
+  {
+   "event_id": "town-20261019-equity",
+   "path": "company_official",
+   "notes": "TechCrunch发现（发现源，全文已读）→公司官方town.com/press/series-b经搜索引擎快照核读（标题/首段/落款SAN FRANCISCO October 19 2026；未整页抓取，官网直读未尝试）→GlobeNewswire官方分发时间戳2026-10-19T13:00Z→领投方Menlo Ventures官方公告独立确认co_lead与$108M→TC补3家参与方（a16z/Serena/First Round）。金额、轮次、领投结构多源一致，置信度high"
+  },
+  {
+   "event_id": "even-healthcare-20261019-equity",
+   "path": "company_official",
+   "notes": "TechCrunch发现（发现源，全文已读）→官方域名核验：evenhealthcare.com直连HTTP 200，页标题与TC报道业务描述一致（unlimited consultations/free diagnostics/cashless insurance）→Livemint/Business Standard/Entrackr标题与摘要独立交叉确认$50M、Khosla领投、Alpha Wave参投、班加罗尔扩张；Livemint补FY25收入$3.2M/亏损$10.7M。估值口径差异（TC'18个月前3倍' vs ET '$153M的近2倍'）不影响金额字段，估值不计入amount。置信度high"
+  }
+ ],
+ "new_events": [
+  "town-20261019-equity（$108M Series B，co-lead Forerunner/Menlo，披露2026-10-19）",
+  "even-healthcare-20261019-equity（$50M Series B，lead Khosla Ventures，披露2026-10-19）"
+ ],
+ "corrections": [],
+ "excluded_clues": [
+  "techcrunch: Amazon TorchNeuron开发工具（10-19）→ excluded_not_event",
+  "techcrunch: Wabi 2.0发布专访（10-19，全文已读，无新融资）→ excluded_not_event",
+  "crunchbase_news: FDE Bubble客座评论（10-19）→ excluded_not_event（观点归T4）",
+  "crunchbase_news: Q3 2026拉美融资统计（10-19）→ excluded_not_event（季度统计面板）",
+  "sifted: 法国抗议/AI 100投资者排名/政府采购峰会3条（均10-19，正文403标题级判定）→ excluded_not_event"
+ ],
+ "coverage_gaps": [
+  "Sifted文章正文页403反爬（curl与fetch工具均失败）：3条窗口内新条目仅完成标题级判定，未读全文；题材均为非融资类，误判风险低，但记录为解析受限",
+  "入口采样仍非全站检索：Business Wire/GlobeNewswire/PR Newswire分发无直接入口，依赖发现源回查（参考10-19 Character.AI覆盖缺口教训）"
+ ],
+ "summary": "8个授权入口全部执行；7常规源全部成功读取（6零产出，techcrunch发现2条窗口内融资事件），company_official触发2次事件核验并均通过。新增事件2（town-20261019-equity、even-healthcare-20261019-equity，均为股权融资，窗口内披露口径）、更正0。台账+16条（2事件证据+2官方/分发+领投方1+官方域名2+媒体交叉3+排除6，均新URL）。NVCA连续可达满2天恢复完成。"
+}
