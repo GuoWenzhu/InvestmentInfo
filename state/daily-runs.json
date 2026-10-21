@@ -172,6 +172,22 @@
    "report_path": "reports/2026-10-20-daily.md",
    "publication_comment_id": "01a156a6-7200-7f0c-88d4-1da857dd8b1d",
    "publication_note": "已交付Issue评论并附报告/采集/追踪附件（2026-10-20T00:11:51Z）；同Issue不重复发布。窗口内新增2条融资（town-20261019-equity、even-healthcare-20261019-equity）。"
+  },
+  {
+   "date": "2026-10-21",
+   "run_key": "2026-10-21",
+   "issue_id": "01a15bc2-5ca0-7ed5-99ce-3f63ab7dd78b",
+   "issue_identifier": "TECH-51",
+   "event_ids": [
+    "arda-20261020-equity"
+   ],
+   "revision": 1,
+   "status": "ready_for_delivery",
+   "window_start": "2026-10-19T00:00:26Z",
+   "window_end": "2026-10-21T00:00:26Z",
+   "report_path": "reports/2026-10-21-daily.md",
+   "publication_comment_id": null,
+   "publication_note": "报告已验证并准备交付；发布回执以对应Issue最终评论为准，重试必须先查评论。"
   }
  ]
 }

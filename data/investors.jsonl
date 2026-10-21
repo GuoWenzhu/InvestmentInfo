@@ -122,3 +122,7 @@
 {"investor_id": "mana-ventures", "name": "Mana Ventures", "aliases": [], "parent_id": null}
 {"investor_id": "serena-ventures", "name": "Serena Ventures", "aliases": ["Serena Williams Venture Fund"], "parent_id": null}
 {"investor_id": "first-round-capital", "name": "First Round Capital", "aliases": [], "parent_id": null}
+{"investor_id": "altimeter", "name": "Altimeter Capital", "aliases": ["Altimeter"], "parent_id": null}
+{"investor_id": "felicis", "name": "Felicis", "aliases": ["Felicis Ventures"], "parent_id": null}
+{"investor_id": "svangel", "name": "SV Angel", "aliases": ["SVAngel"], "parent_id": null}
+{"investor_id": "xyz-venture-capital", "name": "XYZ Venture Capital", "aliases": ["XYZ Ventures"], "parent_id": null}

@@ -133,3 +133,11 @@
 {"event_id": "town-20261019-equity", "investor_id": "first-round-capital", "role": "participant", "investment_amount": null, "currency": "UNK", "evidence_ids": ["town-official-1", "town-tc-1"]}
 {"event_id": "even-healthcare-20261019-equity", "investor_id": "khosla-ventures", "role": "lead", "investment_amount": null, "currency": "UNK", "evidence_ids": ["even-tc-1", "even-official-1"]}
 {"event_id": "even-healthcare-20261019-equity", "investor_id": "alpha-wave-global", "role": "participant", "investment_amount": null, "currency": "UNK", "evidence_ids": ["even-tc-1", "even-official-1"]}
+{"event_id": "arda-20261020-equity", "investor_id": "accel", "role": "co_lead", "investment_amount": null, "currency": "UNK", "evidence_ids": ["arda-accel-1", "arda-bw-1"]}
+{"event_id": "arda-20261020-equity", "investor_id": "altimeter", "role": "co_lead", "investment_amount": null, "currency": "UNK", "evidence_ids": ["arda-bw-1", "arda-domain-1"]}
+{"event_id": "arda-20261020-equity", "investor_id": "khosla-ventures", "role": "co_lead", "investment_amount": null, "currency": "UNK", "evidence_ids": ["arda-bw-1", "arda-domain-1"]}
+{"event_id": "arda-20261020-equity", "investor_id": "founders-fund", "role": "co_lead", "investment_amount": null, "currency": "UNK", "evidence_ids": ["arda-domain-1", "arda-bw-1"]}
+{"event_id": "arda-20261020-equity", "investor_id": "felicis", "role": "participant", "investment_amount": null, "currency": "UNK", "evidence_ids": ["arda-bw-1", "arda-domain-1"]}
+{"event_id": "arda-20261020-equity", "investor_id": "xyz-venture-capital", "role": "participant", "investment_amount": null, "currency": "UNK", "evidence_ids": ["arda-bw-1", "arda-domain-1"]}
+{"event_id": "arda-20261020-equity", "investor_id": "8vc", "role": "participant", "investment_amount": null, "currency": "UNK", "evidence_ids": ["arda-bw-1", "arda-domain-1"]}
+{"event_id": "arda-20261020-equity", "investor_id": "svangel", "role": "participant", "investment_amount": null, "currency": "UNK", "evidence_ids": ["arda-bw-1", "arda-domain-1"]}

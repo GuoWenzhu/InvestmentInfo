@@ -1,0 +1,87 @@
+{
+ "issue_id": "01a15bc2-5ca0-7ed5-99ce-3f63ab7dd78b",
+ "issue_identifier": "TECH-51",
+ "collected_at": "2026-10-21T00:10:00+00:00",
+ "window_start": "2026-10-19T00:00:26Z",
+ "window_end": "2026-10-21T00:00:26Z",
+ "source_attempts": [
+  {
+   "source_id": "techcrunch",
+   "attempted_at": "2026-10-21T00:02:00+00:00",
+   "status": "success_zero_output",
+   "evidence_url": "https://techcrunch.com/category/startups/",
+   "notes": "栏目页可读（304KB，HTTP 200，curl直连）。窗口内（10-19/10-20）新条目：Town与Even Healthcare（10-19）前次已录入；本次逐一核验4条：①Eric Schmidt/Anthropic持股报道（10-20，全文已读）→存量持股报道排除；②Replika创始人专访（10-19，全文已读无融资）→排除；③Founder Summit促销（10-19）→排除；④智能电视AI特稿（10-19，标题级）→排除。本窗口零新增事件"
+  },
+  {
+   "source_id": "accel",
+   "attempted_at": "2026-10-21T00:03:00+00:00",
+   "status": "success_with_update",
+   "evidence_url": "https://www.accel.com/news",
+   "notes": "新闻列表可读（546KB，HTTP 200）。列表顶部新条目1条：Our Investment in Arda（datePublished 2026-10-20T14:19Z）→全文已读，Arda出stealth公告$230M（后经官方新闻稿核为$232M），Accel自述co-led seed与Series A → 接受为事件发现源与第一手领投确认；其后Origin（10-15）等条目均前次已登记"
+  },
+  {
+   "source_id": "sifted",
+   "attempted_at": "2026-10-21T00:01:30+00:00",
+   "status": "success_zero_output",
+   "evidence_url": "https://sifted.eu/feed",
+   "notes": "RSS替代入口成功（9.8KB，24条，HTTP 200）。窗口内新条目5条（均10-20）逐一核验：Nvidia四家德国创业公司投资意向（跨媒体+官方博客核验，排除）、Metis Reasoning发布（融资中无成轮，排除）、Starling创始人老股转让（二级交易，排除）、金融科技AI分析（观点排除）、Revolut故障（排除）。文章正文页仍403反爬（连续第7日），Nvidia/Metis/Starling经多源交叉核验补强，分析/故障2条标题级判定（非融资题材，低风险）；10-19三条前次已登记"
+  },
+  {
+   "source_id": "crunchbase_news",
+   "attempted_at": "2026-10-21T00:04:00+00:00",
+   "status": "success_zero_output",
+   "evidence_url": "https://news.crunchbase.com/",
+   "notes": "RSS仍403；首页完整浏览器UA成功（171KB，HTTP 200，curl直连）。文章流最新日期10-19（fintech Q3统计，本次新登记为季度统计面板排除）；无10-20/10-21新条目；FDE Bubble与Q3拉美前次已登记"
+  },
+  {
+   "source_id": "qiming",
+   "attempted_at": "2026-10-21T00:05:00+00:00",
+   "status": "success_zero_output",
+   "evidence_url": "https://www.qimingvc.com/cn/newsroom",
+   "notes": "新闻室可读（54KB，HTTP 200）；最新日期仍为2026.10.13（启明周报Vol.31）；窗口内无新条目"
+  },
+  {
+   "source_id": "nvca",
+   "attempted_at": "2026-10-21T00:05:30+00:00",
+   "status": "success_zero_output",
+   "evidence_url": "https://nvca.org/pitchbook-nvca-venture-monitor/",
+   "notes": "指定入口可达（HTTP 200，173KB真实报告页）；Q3 2026报告内容未变（恢复后连续第3天可达）；季度统计不生成离散事件，窗口内无新发布"
+  },
+  {
+   "source_id": "techstars",
+   "attempted_at": "2026-10-21T00:06:00+00:00",
+   "status": "success_zero_output",
+   "evidence_url": "https://www.techstars.com/portfolio",
+   "notes": "组合目录页可读（256KB，HTTP 200）；目录收录不生成融资事件；页面无新闻公告区，窗口内无融资信息"
+  }
+ ],
+ "per_event_verification": [
+  {
+   "event_id": "arda-20261020-equity",
+   "path": "company_official",
+   "notes": "Accel新闻列表发现（发现源，全文已读，自述co-led seed与Series A、$230M）→ arda.ai官方域名直连核验（HTTP 200，标题/meta与业务一致）→ BusinessWire官方新闻稿经NATLAWREVIEW全文镜像核读（$232M总额、主投名单与参投名单）→ CNBC全文已读（$1.5B估值、三方led by）→ TNW全文已读（唯一披露分项：$72M seed领投Accel+Founders Fund、$160M Series A联合领投Altimeter/Accel/Khosla）→ McGrew本人推文（TNW转引）确认Series A $160M@$1.5B → Felicis官方博客自述参与Series A。金额总额口径冲突（官方$232M vs CNBC/Accel文$230M）取官方新闻稿$232M并留痕；领投结构CNBC与TNW一致（三方co-lead）。置信度high"
+  }
+ ],
+ "new_events": [
+  "arda-20261020-equity（出stealth累计$232M=$72M seed+$160M Series A@$1.5B估值，披露2026-10-20）"
+ ],
+ "corrections": [],
+ "excluded_clues": [
+  "Schmidt持有Anthropic约1%股份报道（源于2021年Series A投资），存量持股财富报道，无新融资事件 → excluded_not_event",
+  "Founder Summit活动促销 → excluded_not_event",
+  "Replika创始人Eugenia Kuyda专访，全文无任何融资内容 → excluded_not_event",
+  "消费科技特稿（智能电视），非融资题材 → excluded_not_event",
+  "Huang在柏林Invest in Germany Summit宣布对Agile Robots、Avelios Medical、Mirelo、Reflex Aerospace四家德国创业公司的投资意向，属近$10B欧洲承诺的一部分，Betr",
+  "前DeepMind研究员Thore Graepel发布Metis Reasoning，'seeking to raise tens of millions'融资中，无成轮披露 → excluded_not_event",
+  "创始人Anne Boden出售Starling个人持股（£1.7bn估值），个人老股转让=二级交易，公司未获新资金，且为'reports say' → excluded_not_event",
+  "欧洲金融科技AI竞赛分析文（观点归T4）→ excluded_not_event",
+  "Revolut服务中断新闻，非融资 → excluded_not_event",
+  "Q3金融科技融资统计，季度统计面板不生成离散事件，同Q3拉美/亚洲先例 → excluded_not_event"
+ ],
+ "coverage_gaps": [
+  "Sifted文章正文页403反爬连续第7日：窗口内5条新条目中2条（分析/故障）仅标题级判定、3条（Nvidia/Metis/Starling）经跨媒体多源交叉补强；解析受限已记录，不计入来源失败",
+  "BusinessWire官方新闻稿直连403，经NATLAW REVIEW全文镜像核读（与estuary-bw-1同模式）",
+  "入口采样仍非全站检索：Business Wire/GlobeNewswire/PR Newswire分发无直接入口，依赖发现源回查"
+ ],
+ "summary": "8个授权入口全部执行；7常规源全部成功读取：accel产出1条窗口内事件（Arda出stealth，$232M累计融资），techcrunch/sifted/crunchbase_news窗口内新条目11条逐一核验全部排除（持股报道/专访/促销/意向公告/统计面板/观点/服务新闻/二级转让/融资中无成轮），qiming/nvca/techstars零新增。新增事件1（equity）、更正0。台账+18条（1事件6证据URL+2交叉核验+10排除）。"
+}
