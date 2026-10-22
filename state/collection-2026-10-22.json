@@ -1,0 +1,114 @@
+{
+ "issue_id": "01a160e8-c2f9-73da-a033-b8fa0ea81136",
+ "issue_identifier": "TECH-54",
+ "collected_at": "2026-10-22T00:10:00+00:00",
+ "window_start": "2026-10-20T00:00:29Z",
+ "window_end": "2026-10-22T00:00:29Z",
+ "source_attempts": [
+  {
+   "source_id": "sifted",
+   "attempted_at": "2026-10-22T00:01:30+00:00",
+   "status": "success_with_update",
+   "evidence_url": "https://sifted.eu/feed",
+   "notes": "RSS替代入口成功（9.9KB，24条，HTTP 200）。窗口内新条目7条（均10-21）逐一核验：①Legora raises fresh $550m at $8.8bn valuation→事件发现源，经legora.com官方newsroom全文+TechCrunch全文+Bloomberg/Bloomberg Law/qz搜索摘要交叉核验接受；②Pigment raises $250m Series E led by Scaleup Europe Fund→事件发现源，经pigment.com官方newsroom全文核读+Bloomberg预披露摘要+PR Newswire摘要交叉核验接受；③Exclusive: Photon Bridge raises €10m（seed）→事件发现源，经photonbridge.com官方news全文+semiconductor-today全文交叉核验接受；④Former H Company CTO seeks $30m for new startup→'seeks'=融资中无成轮，排除（标题级，同Metis Reasoning先例）；⑤个人AI助手消费指南→观点排除；⑥欧加科技联盟分析→观点排除；⑦欧洲250初创服务机构榜→目录榜单排除。文章正文页403反爬连续第8日，三条事件均经官方域名直连全文核读补强，其余4条标题级判定（非融资题材，误判风险低）"
+  },
+  {
+   "source_id": "techcrunch",
+   "attempted_at": "2026-10-22T00:02:00+00:00",
+   "status": "success_with_update",
+   "evidence_url": "https://techcrunch.com/category/startups/",
+   "notes": "栏目页可读（305KB，HTTP 200，curl直连）。窗口内新条目核验：①Year-old AI lab Flapping Airplanes raises $1B at $6B valuation（10-21T20:57Z，全文已读）→接受flapping-airplanes-20261021-equity；②Mach9 raises $34M after pivoting to AI CAD software（10-21T13:00Z，全文已读）→接受mach9-20261021-equity；③Legal AI startup Legora raises $550M Series E（10-21T18:51Z，全文已读）→legora事件交叉证据；④Founder Summit 2026活动汇总（10-21）→排除。10-20 Amazon TorchNeuron（前次已登记产品新闻）与10-19条目均前次处理"
+  },
+  {
+   "source_id": "accel",
+   "attempted_at": "2026-10-22T00:03:00+00:00",
+   "status": "success_zero_output",
+   "evidence_url": "https://www.accel.com/news",
+   "notes": "新闻列表可读（546KB，HTTP 200）。列表顶部仍为Our Investment in Arda（10-20，前次已登记），其后Origin/Modal等条目均前次登记；窗口内无新公告"
+  },
+  {
+   "source_id": "crunchbase_news",
+   "attempted_at": "2026-10-22T00:04:00+00:00",
+   "status": "success_zero_output",
+   "evidence_url": "https://news.crunchbase.com/",
+   "notes": "RSS仍403；首页完整浏览器UA成功（170KB，HTTP 200，curl直连）。文章流10-20/10-21新条目3篇逐一全文核读全部排除：①Reach Capital合伙人访谈（10-21T11:00Z，机构观点归T4）；②被并购时员工期权指南（10-21T11:00Z，嘉宾评论）；③不靠VC的十亿美元公司特稿（10-20T11:00Z，BairesDEV自述特稿）。Q3全球/北美/欧洲/亚洲/网络安全统计面板（10-15/10-16发布）前次已登记或为季度面板"
+  },
+  {
+   "source_id": "qiming",
+   "attempted_at": "2026-10-22T00:05:00+00:00",
+   "status": "success_zero_output",
+   "evidence_url": "https://www.qimingvc.com/cn/newsroom",
+   "notes": "新闻室可读（54KB，HTTP 200）。新增条目：①启明周报Vol.32（2026.10.21）全文已读——十条要闻为壁仞/阶跃Day0适配、深势/联合利华AI4S成果、禾赛Kosmo发布、爱芯元智AX8860发布、英矽智能Pharma.AI、生数Vidu Q4 Preview、普世利华TIME最佳发明、曜影医疗科学家入选、梅卡曼德工博展、峰肽/清华产学研捐赠，无融资进展条目→排除；②10-20两条头条（Science2Startup研讨会报道、PhD实习生计划）→标题级排除"
+  },
+  {
+   "source_id": "nvca",
+   "attempted_at": "2026-10-22T00:05:30+00:00",
+   "status": "success_zero_output",
+   "evidence_url": "https://nvca.org/pitchbook-nvca-venture-monitor/",
+   "notes": "指定入口可达（HTTP 200，174KB，与昨日字节一致）；Q3 2026报告未变；季度统计不生成离散事件"
+  },
+  {
+   "source_id": "techstars",
+   "attempted_at": "2026-10-22T00:06:00+00:00",
+   "status": "success_zero_output",
+   "evidence_url": "https://www.techstars.com/portfolio",
+   "notes": "组合目录页可读（256KB，HTTP 200，与昨日字节一致）；目录收录不生成融资事件；页面无新闻公告区，窗口内无融资信息"
+  }
+ ],
+ "per_event_verification": [
+  {
+   "event_id": "mach9-20261021-equity",
+   "path": "company_official",
+   "notes": "TechCrunch发现（发现源，全文已读，$34M Series A co-led First Round+Bessemer）→ mach9.ai官方域名直连核验（HTTP 200）→ 官网news列表含2026-10-21公告 → 官网公告页全文核读（/news/34-million-series-a：$34M、累计$49M、SF总部、创始人四人、Quiet Capital continued participation）。双源一致，置信度high"
+  },
+  {
+   "event_id": "legora-20261021-equity",
+   "path": "company_official",
+   "notes": "Sifted RSS发现（发现源，正文403）→ 搜索交叉（Bloomberg/Bloomberg Law/qz/TechCrunch多源标题+摘要一致：$550M Series E@$8.8B）→ legora.com官方newsroom直连全文核读（Atreides Management领投、5家新机构、'every major existing investor'参与、ARR>$200M、上轮$5.6B）→ TechCrunch全文核读一致。官方+媒体双全文，置信度high"
+  },
+  {
+   "event_id": "pigment-20261021-equity",
+   "path": "company_official",
+   "notes": "Sifted RSS发现（发现源，正文403）→ 搜索交叉（Bloomberg 10-20预披露'Nvidia-Backed Pigment Nabs $250 Million'、PR Newswire官方通稿、tech.eu摘要）→ pigment.com官方newsroom直连全文核读（$250M Series E@$2.3B、Scaleup Europe Fund managed by EQT领投、WIL/Greenoaks/ICONIQ/IVP/Meritech参与、NVIDIA为planned investment）。金额/领投/估值多源一致；NVIDIA角色口径差（Bloomberg'participation' vs 官方'planned investment'）取官方口径并留痕，不建本轮NVIDIA关系行。置信度high"
+  },
+  {
+   "event_id": "photon-bridge-20261021-equity",
+   "path": "company_official",
+   "notes": "Sifted RSS独家发现（发现源，正文403，标题称seed round）→ photonbridge.com官方news直连全文核读（€10M、Amadeus APEX+360 Capital co-led、Innovation Industries/Faber/BOM增投）→ semiconductor-today行业媒体全文核读一致。轮次命名官方未给，采用Sifted口径留痕。置信度high"
+  },
+  {
+   "event_id": "flapping-airplanes-20261021-equity",
+   "path": "company_official",
+   "notes": "TechCrunch发现（唯一全文源，$1B Series A co-led Index+Lux，reportedly $6B估值）→ flappingairplanes.com直连核验（HTTP 200，标题与品牌一致）但官网无融资公告页，无法官方核读 → 置信度降为medium（单一媒体源）。$6B估值为'reportedly'媒体转述，仅留痕不计入金额字段"
+  }
+ ],
+ "new_events": [
+  "flapping-airplanes-20261021-equity（$1B Series A，co-led Index+Lux，media-reported $6B估值留痕，披露2026-10-21，medium）",
+  "mach9-20261021-equity（$34M Series A，co-led First Round+Bessemer，官方+TC双全文，披露2026-10-21，high）",
+  "legora-20261021-equity（$550M Series E@$8.8B投后，Atreides领投，官方newsroom+TC双全文，披露2026-10-21，high）",
+  "pigment-20261021-equity（$250M Series E@$2.3B估值，Scaleup Europe Fund（EQT）领投，NVIDIA计划投资留痕，官方全文，披露2026-10-21，high）",
+  "photon-bridge-20261021-equity（€10M seed，Amadeus APEX+360 Capital co-led，官方+行业媒体双全文，披露2026-10-21，high）"
+ ],
+ "corrections": [],
+ "excluded_clues": [
+  "Former H Company CTO seeks $30m for new startup（Sifted 10-21，'seeks'=融资中无成轮披露）→ excluded_not_event",
+  "个人AI助手消费指南（Sifted 10-21，观点/特稿）→ excluded_not_event",
+  "欧加科技联盟分析（Sifted 10-21，政策分析归T4）→ excluded_not_event",
+  "欧洲250家成长最快初创服务机构榜（Sifted 10-21，榜单/目录）→ excluded_not_event",
+  "TechCrunch Founder Summit 2026活动汇总（10-21，活动促销）→ excluded_not_event",
+  "Reach Capital合伙人访谈（CB News 10-21，机构观点归T4，全文已读）→ excluded_not_event",
+  "被并购时员工期权处理指南（CB News 10-21，嘉宾评论，全文已读）→ excluded_not_event",
+  "不靠VC的十亿美元公司特稿（CB News 10-20，BairesDEV自述，全文已读）→ excluded_not_event",
+  "启明周报Vol.32（10-21，十条要闻均无融资条目，全文已读）→ excluded_not_event",
+  "Science2Startup中国研讨会报道（启明10-20，活动）→ excluded_not_event",
+  "PhD实习生计划启动（启明10-20，招聘/活动）→ excluded_not_event"
+ ],
+ "coverage_gaps": [
+  "Sifted文章正文页403反爬连续第8日：窗口内7条新条目中4条（H公司CTO/指南/分析/榜单）仅标题级判定（非融资题材，误判风险低）；3条融资事件均经官方域名直连全文核读补强，实际证据链不受影响",
+  "Crunchbase News RSS仍403（连续多日），首页浏览器UA可达；无直接付费数据入口，统计面板依赖首页文章流",
+  "入口采样仍非全站检索：Business Wire/GlobeNewswire/PR Newswire分发无直接入口，依赖发现源回查（本窗口Pigment官方通稿经PR Newswire分发，由Sifted发现+官方域名直读覆盖）",
+  "Flapping Airplanes官网无公告页，金额仅TechCrunch单一来源，置信度medium；估值$6B为媒体转述（reportedly）",
+  "YC与36氪仍未启用（待正文接入验证）；其他22个未启用源不常规采集"
+ ],
+ "summary": "8个授权入口全部执行；7常规源全部成功读取。窗口内新增事件5条（equity 5：flapping-airplanes $1B、mach9 $34M、legora $550M、pigment $250M、photon-bridge €10M）、更正0条；披露金额合计约$1.844B+€10M。排除线索11条（融资中1、观点/指南/分析4、榜单目录1、活动2、评论特稿2、周报1）。台账+41条（5事件8证据URL+4交叉/发现+22排除…含公司5/机构26/关系36/证据8）。"
+}

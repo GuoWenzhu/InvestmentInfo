@@ -141,3 +141,39 @@
 {"event_id": "arda-20261020-equity", "investor_id": "xyz-venture-capital", "role": "participant", "investment_amount": null, "currency": "UNK", "evidence_ids": ["arda-bw-1", "arda-domain-1"]}
 {"event_id": "arda-20261020-equity", "investor_id": "8vc", "role": "participant", "investment_amount": null, "currency": "UNK", "evidence_ids": ["arda-bw-1", "arda-domain-1"]}
 {"event_id": "arda-20261020-equity", "investor_id": "svangel", "role": "participant", "investment_amount": null, "currency": "UNK", "evidence_ids": ["arda-bw-1", "arda-domain-1"]}
+{"event_id": "flapping-airplanes-20261021-equity", "investor_id": "index", "role": "co_lead", "investment_amount": null, "currency": "UNK", "evidence_ids": ["flapping-tc-1"]}
+{"event_id": "flapping-airplanes-20261021-equity", "investor_id": "lux", "role": "co_lead", "investment_amount": null, "currency": "UNK", "evidence_ids": ["flapping-tc-1"]}
+{"event_id": "flapping-airplanes-20261021-equity", "investor_id": "sequoia", "role": "participant", "investment_amount": null, "currency": "UNK", "evidence_ids": ["flapping-tc-1"]}
+{"event_id": "flapping-airplanes-20261021-equity", "investor_id": "gv", "role": "participant", "investment_amount": null, "currency": "UNK", "evidence_ids": ["flapping-tc-1"]}
+{"event_id": "flapping-airplanes-20261021-equity", "investor_id": "kleiner-perkins", "role": "participant", "investment_amount": null, "currency": "UNK", "evidence_ids": ["flapping-tc-1"]}
+{"event_id": "mach9-20261021-equity", "investor_id": "first-round", "role": "co_lead", "investment_amount": null, "currency": "UNK", "evidence_ids": ["mach9-official-1", "mach9-tc-1"]}
+{"event_id": "mach9-20261021-equity", "investor_id": "bessemer", "role": "co_lead", "investment_amount": null, "currency": "UNK", "evidence_ids": ["mach9-official-1", "mach9-tc-1"]}
+{"event_id": "mach9-20261021-equity", "investor_id": "prudence", "role": "participant", "investment_amount": null, "currency": "UNK", "evidence_ids": ["mach9-official-1", "mach9-tc-1"]}
+{"event_id": "mach9-20261021-equity", "investor_id": "quiet-capital", "role": "participant", "investment_amount": null, "currency": "UNK", "evidence_ids": ["mach9-official-1", "mach9-tc-1"]}
+{"event_id": "legora-20261021-equity", "investor_id": "atreides", "role": "lead", "investment_amount": null, "currency": "UNK", "evidence_ids": ["legora-official-1", "legora-tc-1"]}
+{"event_id": "legora-20261021-equity", "investor_id": "baron-capital", "role": "participant", "investment_amount": null, "currency": "UNK", "evidence_ids": ["legora-official-1", "legora-tc-1"]}
+{"event_id": "legora-20261021-equity", "investor_id": "capital-group", "role": "participant", "investment_amount": null, "currency": "UNK", "evidence_ids": ["legora-official-1", "legora-tc-1"]}
+{"event_id": "legora-20261021-equity", "investor_id": "fidelity", "role": "participant", "investment_amount": null, "currency": "UNK", "evidence_ids": ["legora-official-1", "legora-tc-1"]}
+{"event_id": "legora-20261021-equity", "investor_id": "glade-brook", "role": "participant", "investment_amount": null, "currency": "UNK", "evidence_ids": ["legora-official-1", "legora-tc-1"]}
+{"event_id": "legora-20261021-equity", "investor_id": "jpmorgan", "role": "participant", "investment_amount": null, "currency": "UNK", "evidence_ids": ["legora-official-1", "legora-tc-1"]}
+{"event_id": "legora-20261021-equity", "investor_id": "accel", "role": "participant", "investment_amount": null, "currency": "UNK", "evidence_ids": ["legora-official-1", "legora-tc-1"]}
+{"event_id": "legora-20261021-equity", "investor_id": "benchmark", "role": "participant", "investment_amount": null, "currency": "UNK", "evidence_ids": ["legora-official-1", "legora-tc-1"]}
+{"event_id": "legora-20261021-equity", "investor_id": "bessemer", "role": "participant", "investment_amount": null, "currency": "UNK", "evidence_ids": ["legora-official-1", "legora-tc-1"]}
+{"event_id": "legora-20261021-equity", "investor_id": "general-catalyst", "role": "participant", "investment_amount": null, "currency": "UNK", "evidence_ids": ["legora-official-1", "legora-tc-1"]}
+{"event_id": "legora-20261021-equity", "investor_id": "iconiq", "role": "participant", "investment_amount": null, "currency": "UNK", "evidence_ids": ["legora-official-1", "legora-tc-1"]}
+{"event_id": "legora-20261021-equity", "investor_id": "insight", "role": "participant", "investment_amount": null, "currency": "UNK", "evidence_ids": ["legora-official-1", "legora-tc-1"]}
+{"event_id": "legora-20261021-equity", "investor_id": "menlo", "role": "participant", "investment_amount": null, "currency": "UNK", "evidence_ids": ["legora-official-1", "legora-tc-1"]}
+{"event_id": "legora-20261021-equity", "investor_id": "redpoint", "role": "participant", "investment_amount": null, "currency": "UNK", "evidence_ids": ["legora-official-1", "legora-tc-1"]}
+{"event_id": "legora-20261021-equity", "investor_id": "salesforce-ventures", "role": "participant", "investment_amount": null, "currency": "UNK", "evidence_ids": ["legora-official-1", "legora-tc-1"]}
+{"event_id": "legora-20261021-equity", "investor_id": "sands-capital", "role": "participant", "investment_amount": null, "currency": "UNK", "evidence_ids": ["legora-official-1", "legora-tc-1"]}
+{"event_id": "pigment-20261021-equity", "investor_id": "scaleup-europe-fund", "role": "lead", "investment_amount": null, "currency": "UNK", "evidence_ids": ["pigment-official-1"]}
+{"event_id": "pigment-20261021-equity", "investor_id": "wil", "role": "participant", "investment_amount": null, "currency": "UNK", "evidence_ids": ["pigment-official-1"]}
+{"event_id": "pigment-20261021-equity", "investor_id": "greenoaks", "role": "participant", "investment_amount": null, "currency": "UNK", "evidence_ids": ["pigment-official-1"]}
+{"event_id": "pigment-20261021-equity", "investor_id": "iconiq", "role": "participant", "investment_amount": null, "currency": "UNK", "evidence_ids": ["pigment-official-1"]}
+{"event_id": "pigment-20261021-equity", "investor_id": "ivp", "role": "participant", "investment_amount": null, "currency": "UNK", "evidence_ids": ["pigment-official-1"]}
+{"event_id": "pigment-20261021-equity", "investor_id": "meritech", "role": "participant", "investment_amount": null, "currency": "UNK", "evidence_ids": ["pigment-official-1"]}
+{"event_id": "photon-bridge-20261021-equity", "investor_id": "amadeus-apex", "role": "co_lead", "investment_amount": null, "currency": "UNK", "evidence_ids": ["photon-official-1", "photon-semitoday-1"]}
+{"event_id": "photon-bridge-20261021-equity", "investor_id": "360-capital", "role": "co_lead", "investment_amount": null, "currency": "UNK", "evidence_ids": ["photon-official-1", "photon-semitoday-1"]}
+{"event_id": "photon-bridge-20261021-equity", "investor_id": "innovation-industries", "role": "participant", "investment_amount": null, "currency": "UNK", "evidence_ids": ["photon-official-1", "photon-semitoday-1"]}
+{"event_id": "photon-bridge-20261021-equity", "investor_id": "faber", "role": "participant", "investment_amount": null, "currency": "UNK", "evidence_ids": ["photon-official-1", "photon-semitoday-1"]}
+{"event_id": "photon-bridge-20261021-equity", "investor_id": "bom", "role": "participant", "investment_amount": null, "currency": "UNK", "evidence_ids": ["photon-official-1", "photon-semitoday-1"]}

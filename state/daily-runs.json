@@ -188,6 +188,26 @@
    "report_path": "reports/2026-10-21-daily.md",
    "publication_comment_id": "01a15bcf-e887-7569-8dd3-6800ddc0e2b9",
    "publication_note": "已交付Issue评论并附报告/采集/追踪附件（2026-10-21T00:15:14Z）；同Issue不重复发布。窗口内新增1条融资（arda-20261020-equity）。"
+  },
+  {
+   "date": "2026-10-22",
+   "run_key": "2026-10-22",
+   "issue_id": "01a160e8-c2f9-73da-a033-b8fa0ea81136",
+   "issue_identifier": "TECH-54",
+   "event_ids": [
+    "flapping-airplanes-20261021-equity",
+    "mach9-20261021-equity",
+    "legora-20261021-equity",
+    "pigment-20261021-equity",
+    "photon-bridge-20261021-equity"
+   ],
+   "revision": 1,
+   "status": "ready_for_delivery",
+   "window_start": "2026-10-20T00:00:29Z",
+   "window_end": "2026-10-22T00:00:29Z",
+   "report_path": "reports/2026-10-22-daily.md",
+   "publication_comment_id": null,
+   "publication_note": "报告已验证并准备交付；发布回执以对应Issue最终评论为准，重试必须先查评论。"
   }
  ]
 }

@@ -126,3 +126,29 @@
 {"investor_id": "felicis", "name": "Felicis", "aliases": ["Felicis Ventures"], "parent_id": null}
 {"investor_id": "svangel", "name": "SV Angel", "aliases": ["SVAngel"], "parent_id": null}
 {"investor_id": "xyz-venture-capital", "name": "XYZ Venture Capital", "aliases": ["XYZ Ventures"], "parent_id": null}
+{"investor_id": "index", "name": "Index Ventures", "aliases": [], "parent_id": null}
+{"investor_id": "lux", "name": "Lux Capital", "aliases": [], "parent_id": null}
+{"investor_id": "first-round", "name": "First Round Capital", "aliases": [], "parent_id": null}
+{"investor_id": "bessemer", "name": "Bessemer Venture Partners", "aliases": [], "parent_id": null}
+{"investor_id": "prudence", "name": "Prudence", "aliases": [], "parent_id": null}
+{"investor_id": "quiet-capital", "name": "Quiet Capital", "aliases": [], "parent_id": null}
+{"investor_id": "atreides", "name": "Atreides Management", "aliases": ["Atreides"], "parent_id": null}
+{"investor_id": "baron-capital", "name": "Baron Capital", "aliases": [], "parent_id": null}
+{"investor_id": "capital-group", "name": "Capital Group", "aliases": [], "parent_id": null}
+{"investor_id": "fidelity", "name": "Fidelity Management & Research Company", "aliases": ["Fidelity"], "parent_id": null}
+{"investor_id": "glade-brook", "name": "Glade Brook Capital Partners", "aliases": [], "parent_id": null}
+{"investor_id": "jpmorgan", "name": "J.P. Morgan", "aliases": ["JPMorgan Chase & Co."], "parent_id": null}
+{"investor_id": "benchmark", "name": "Benchmark", "aliases": [], "parent_id": null}
+{"investor_id": "insight", "name": "Insight Venture Partners", "aliases": [], "parent_id": null}
+{"investor_id": "menlo", "name": "Menlo Ventures", "aliases": [], "parent_id": null}
+{"investor_id": "salesforce-ventures", "name": "Salesforce Ventures", "aliases": [], "parent_id": null}
+{"investor_id": "eqt", "name": "EQT", "aliases": [], "parent_id": null}
+{"investor_id": "scaleup-europe-fund", "name": "Scaleup Europe Fund", "aliases": [], "parent_id": "eqt"}
+{"investor_id": "wil", "name": "World Innovation Lab", "aliases": ["WIL"], "parent_id": null}
+{"investor_id": "meritech", "name": "Meritech", "aliases": [], "parent_id": null}
+{"investor_id": "nvidia", "name": "NVIDIA", "aliases": [], "parent_id": null}
+{"investor_id": "amadeus-apex", "name": "Amadeus APEX Technology Fund", "aliases": [], "parent_id": null}
+{"investor_id": "360-capital", "name": "360 Capital", "aliases": [], "parent_id": null}
+{"investor_id": "innovation-industries", "name": "Innovation Industries", "aliases": [], "parent_id": null}
+{"investor_id": "faber", "name": "Faber", "aliases": [], "parent_id": null}
+{"investor_id": "bom", "name": "Brabant Development Agency", "aliases": ["BOM"], "parent_id": null}
