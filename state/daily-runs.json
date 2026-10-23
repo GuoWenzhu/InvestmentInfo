@@ -208,6 +208,26 @@
    "report_path": "reports/2026-10-22-daily.md",
    "publication_comment_id": "01a160fa-5e0a-7a90-bcd5-1a12ccc15ac9",
    "publication_note": "已交付Issue评论并附报告/采集/追踪附件（2026-10-22T00:19:43Z）；同Issue不重复发布。窗口内新增5条融资（flapping-airplanes/mach9/legora/pigment/photon-bridge，均披露2026-10-21）。"
+  },
+  {
+   "date": "2026-10-23",
+   "run_key": "2026-10-23",
+   "issue_id": "01a1660f-2219-74ca-ba16-20e78a4db2be",
+   "issue_identifier": "TECH-57",
+   "event_ids": [
+    "blacksmith-20261021-equity",
+    "warhound-20261022-equity",
+    "warp-sciences-20261022-equity",
+    "slingshot-insurance-20261022-equity",
+    "enact-intelligence-20261022-equity"
+   ],
+   "revision": 1,
+   "status": "ready_for_delivery",
+   "window_start": "2026-10-21T00:00:30Z",
+   "window_end": "2026-10-23T00:00:30Z",
+   "report_path": "reports/2026-10-23-daily.md",
+   "publication_comment_id": null,
+   "publication_note": "报告已验证并准备交付；发布回执以对应Issue最终评论为准，重试必须先查评论。"
   }
  ]
 }

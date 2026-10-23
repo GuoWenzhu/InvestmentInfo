@@ -1,0 +1,112 @@
+{
+ "issue_id": "01a1660f-2219-74ca-ba16-20e78a4db2be",
+ "issue_identifier": "TECH-57",
+ "collected_at": "2026-10-23T00:15:40+00:00",
+ "window_start": "2026-10-21T00:00:30Z",
+ "window_end": "2026-10-23T00:00:30Z",
+ "source_attempts": [
+  {
+   "source_id": "sifted",
+   "attempted_at": "2026-10-23T00:01:40+00:00",
+   "status": "success_with_update",
+   "evidence_url": "https://sifted.eu/feed",
+   "notes": "RSS替代入口成功（9.9KB，24条，HTTP 200）。窗口内新条目8条逐一核验：①Yann LeCun and Arthur Mensch back Zurich robotics startup in $30m pre-seed（10-22T04:05Z）→事件发现源，经Notion Capital官方博客全文+tech.eu/startupticker/zurich.tech/EU-Startups/TNW/Dealroom摘要交叉核验接受enact-intelligence-20261022-equity；②Italian startups growing up数据分析排除；③Norway startup mafia VC观点排除；④Ireland AI scene分析排除；⑤Onstage Demo Day活动排除；⑥Aaron Rosenberg播客排除；⑦Palantir高管观点排除。正文页403连续第9日，事件经投资方官方域名直连核读补强"
+  },
+  {
+   "source_id": "techcrunch",
+   "attempted_at": "2026-10-23T00:02:10+00:00",
+   "status": "success_with_update",
+   "evidence_url": "https://techcrunch.com/category/startups/",
+   "notes": "栏目页可读（304KB，HTTP 200，curl直连）。窗口内新条目核验：①Blacksmith hits unicorn valuation after Sequoia leads Series C（10-21T17:18Z，全文已读）→该条在前次窗口已上栏目页但前次运行未登记，本日补录为新增blacksmith-20261021-equity，并经官方博客blacksmith.sh/blog/series-c全文核读；②Ben Lamm raises $200M for Warhound（10-22T23:15Z，全文已读）→warhound-20261022-equity；③Former OpenAI science lead launches Warp Science（10-22T18:38Z，全文已读）→warp-sciences-20261022-equity；④OpenAI working on new $30B raise（10-22T22:08Z，全文已读）→'reportedly close'且条款仍在谈判=融资中无成轮，排除；⑤快速成长秘诀、Series A指南2条评论排除；⑥Disrupt Battlefield活动、Helion半导体产品新闻、Airbnb限制、Tesla Optimus、网络安全日事件新闻排除。10-21的flapping/legora/mach9前次已登记"
+  },
+  {
+   "source_id": "accel",
+   "attempted_at": "2026-10-23T00:03:00+00:00",
+   "status": "success_zero_output",
+   "evidence_url": "https://www.accel.com/news",
+   "notes": "新闻列表可读（546KB，HTTP 200，与昨日字节一致）。顶部仍为Our Investment in Arda（10-20，前次已登记），其后条目均前次登记；窗口内无新公告"
+  },
+  {
+   "source_id": "crunchbase_news",
+   "attempted_at": "2026-10-23T00:04:00+00:00",
+   "status": "success_with_update",
+   "evidence_url": "https://news.crunchbase.com/",
+   "notes": "RSS仍403；首页完整浏览器UA成功（170KB，HTTP 200）。文章流新条目3篇逐一核验：①Exclusive: Slingshot Raises $27M In Seed Funding（10-22T13:00Z，全文已读）→接受slingshot-insurance-20261022-equity，另经PR Newswire官方通稿全文核读；②Acquirers Are Snapping Up Boom-Era Startups（10-22T11:00Z，全文已读）→并购趋势数据分析稿，所引ezCater/Uber $2.3B、Miro/Bending Spoons $1.36B、Airtable $1.28B均为窗口前已披露旧闻，排除；③AI IPO Wave专栏（观点）与Your Next Customer客座评论排除。FDE Bubble、Q3 fintech、Q3 LatAm、Week's 10 Biggest（modal）等前次已登记"
+  },
+  {
+   "source_id": "qiming",
+   "attempted_at": "2026-10-23T00:05:00+00:00",
+   "status": "success_zero_output",
+   "evidence_url": "https://www.qimingvc.com/cn/newsroom",
+   "notes": "新闻室可读（54KB，HTTP 200）。列表顶部新增观点条目：启明观点｜邝子平：中国的人工智能投资并不过热（观点归T4，标题级排除并登记）；Vol.32周报（10.21）与10-20两条头条前次已处理；窗口内无融资条目"
+  },
+  {
+   "source_id": "nvca",
+   "attempted_at": "2026-10-23T00:05:30+00:00",
+   "status": "success_zero_output",
+   "evidence_url": "https://nvca.org/pitchbook-nvca-venture-monitor/",
+   "notes": "指定入口可达（HTTP 200，174KB，与昨日字节一致）；Q3 2026报告未变；季度统计不生成离散事件"
+  },
+  {
+   "source_id": "techstars",
+   "attempted_at": "2026-10-23T00:06:00+00:00",
+   "status": "success_zero_output",
+   "evidence_url": "https://www.techstars.com/portfolio",
+   "notes": "组合目录页可读（256KB，HTTP 200，与昨日字节一致）；目录收录不生成融资事件；页面无新闻公告区，窗口内无融资信息"
+  }
+ ],
+ "per_event_verification": [
+  {
+   "event_id": "blacksmith-20261021-equity",
+   "path": "company_official",
+   "notes": "TechCrunch发现（全文已读，$66M Series C led by Sequoia @$1B）→ blacksmith.sh官方博客直连全文核读（Sequoia领投、Premji Invest新进、Peak XV/GV/YC老股东参与、累计$125M、ARR 17x）→ PR Newswire官方通稿（搜索验证标题+日期10-21）与Fortune独家（10-21T11:00Z）交叉。官方+媒体双全文，置信度high。前次窗口栏目页已列但前次运行未登记，本日补录"
+  },
+  {
+   "event_id": "warhound-20261022-equity",
+   "path": "company_official",
+   "notes": "TechCrunch发现（全文已读，$200M、$1.2B估值媒体转述）→ warhound.com官方域名直连核验通过（品牌/使命/American Humane认证一致，无独立公告页）→ PR Newswire官方通稿全文核读（$200M seed、12家机构名单、CEO David Spirk、未命名领投）→ Fortune（10-22T23:43Z）、GamesBeat访谈交叉。官方通稿+TC双全文，置信度high"
+  },
+  {
+   "event_id": "warp-sciences-20261022-equity",
+   "path": "company_official",
+   "notes": "TechCrunch发现（全文已读，$215M、$865M估值公司口径、Lightspeed领投+IVP/Premji/Lux参与）→ Lightspeed官方博客lsvp.com全文核读（'Lightspeed led its Series A'，轮次命名取领投方口径）→ SignalFire官方博客全文核读（补录SignalFire参与，TC未列）→ Bloomberg Law标题（10-22T15:30Z预告）与Businesswire通稿标题（10-22T18:00Z）交叉（Businesswire直连被本地代理拦截，标题/日期经搜索验证）。warpsciences.com为停放域名、公司官网未上线已留痕。置信度high"
+  },
+  {
+   "event_id": "slingshot-insurance-20261022-equity",
+   "path": "company_official",
+   "notes": "Crunchbase News独家发现（全文已读，$27M seed co-led Rally+Skyward）→ PR Newswire官方通稿全文核读（超额认购、Jim Hays入董事会、Rally为联合创始方、CEO Ethan Genteman前Palomar首席精算师）→ slingshotinsurance.com官方域名直连核验通过（官网公告页为占位模板，正文以通稿为准）。置信度high"
+  },
+  {
+   "event_id": "enact-intelligence-20261022-equity",
+   "path": "company_official",
+   "notes": "Sifted RSS发现（发现源，正文页403连续第9日，标题级）→ Notion Capital官方博客直连全文核读（与Redalpine共同领投$30M pre-seed、Firstminute/LeCun/Mensch/Thomas Wolf参与、创始人Galliker）→ enactintelligence.com官方域名核验通过（官网极简无公告页）→ tech.eu/startupticker.ch/zurich.tech/EU-Startups/TNW/Dealroom摘要交叉（金额$30M一致；EU-Startups €26.68M为同额欧元口径）。置信度high"
+  }
+ ],
+ "new_events": [
+  "blacksmith-20261021-equity（$66M Series C@$1B估值，Sequoia领投，官方博客+TC双全文，披露2026-10-21，high；前次窗口在栏目页但未登记，本日补录为新增）",
+  "warhound-20261022-equity（$200M seed，In-Q-Tel/Sequoia/ARK/Franklin Templeton/8VC/USIT/Bob Nelsen/Breyer/CAZ/Neogenesis/Builders VC/Lux，官方通稿未命名领投全员participant，披露2026-10-22，high）",
+  "warp-sciences-20261022-equity（$215M Series A，Lightspeed领投，SignalFire官方博客补录参与，TC称$865M估值不计入金额，披露2026-10-22，high）",
+  "slingshot-insurance-20261022-equity（$27M seed超额认购，Rally Ventures+Skyward Group共同领投，官方通稿+CB独家双全文，披露2026-10-22，high）",
+  "enact-intelligence-20261022-equity（$30M pre-seed，Redalpine+Notion Capital共同领投，LeCun/Mensch/Thomas Wolf天使参与，Notion官方+多源交叉，披露2026-10-22，high）"
+ ],
+ "corrections": [],
+ "excluded_clues": [
+  "OpenAI working on new $30B raise at $1.25T valuation（TC 10-22，'reportedly close to securing'且条款仍在谈判=融资中无成轮披露）→ excluded_not_event",
+  "The secret to fast startup growth isn't early sales（TC 10-22，评论/圆点）→ excluded_not_event",
+  "Investors break down how founders can raise a Series A today（TC 10-22，指南/评论）→ excluded_not_event",
+  "TechCrunch Disrupt 2026 Startup Battlefield 200（TC 10-22，活动促销）→ excluded_not_event",
+  "Fusion startup Helion developing new semiconductors（TC 10-22，产品/技术新闻）→ excluded_not_event",
+  "Airbnb limits chores for guests（TC 10-22，消费业务新闻）→ excluded_not_event",
+  "Tesla Optimus production / internet cybersecurity day（TC 10-21/10-22，产品与安全事件新闻）→ excluded_not_event",
+  "Acquirers Are Snapping Up Boom-Era Startups（Crunchbase News 10-22T11:00Z，并购趋势分析；ezCater $2.3B/Miro $1.36B/Airtable $1.28B/Everlane均为窗口前已披露旧闻）→ excluded_not_event",
+  "The AI IPO Wave Is The Dot-Com Bubble's Evil Twin（Crunchbase News 10-22，专栏观点）→ excluded_not_event",
+  "Your Next Customer Might Be An Agent（Crunchbase News 10-22，客座评论）→ excluded_not_event",
+  "Italian startups are growing up（Sifted 10-22，数据统计稿）→ excluded_not_event",
+  "More startup mafias are coming in Norway（Sifted 10-22，VC观点）→ excluded_not_event",
+  "Ireland's AI scene has buzz（Sifted 10-22，生态分析）→ excluded_not_event",
+  "Sifted's first Onstage Demo Day（Sifted 10-22，活动促销）→ excluded_not_event",
+  "Meet Aaron Rosenberg（Sifted 10-22，播客/人物）→ excluded_not_event",
+  "Palantir chief: Europe must accept some dependency（Sifted 10-22，高管观点）→ excluded_not_event",
+  "启明观点｜邝子平：中国的人工智能投资并不过热（启明新闻室，观点归T4）→ excluded_not_event"
+ ]
+}

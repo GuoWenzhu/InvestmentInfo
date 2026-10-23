@@ -152,3 +152,25 @@
 {"investor_id": "innovation-industries", "name": "Innovation Industries", "aliases": [], "parent_id": null}
 {"investor_id": "faber", "name": "Faber", "aliases": [], "parent_id": null}
 {"investor_id": "bom", "name": "Brabant Development Agency", "aliases": ["BOM"], "parent_id": null}
+{"investor_id": "y-combinator", "name": "Y Combinator", "aliases": ["YC"], "parent_id": null}
+{"investor_id": "peak-xv-partners", "name": "Peak XV Partners", "aliases": [], "parent_id": null}
+{"investor_id": "premji-invest", "name": "Premji Invest", "aliases": [], "parent_id": null}
+{"investor_id": "ark-invest", "name": "ARK Invest", "aliases": [], "parent_id": null}
+{"investor_id": "franklin-templeton", "name": "Franklin Templeton", "aliases": [], "parent_id": null}
+{"investor_id": "usit", "name": "USIT", "aliases": [], "parent_id": null}
+{"investor_id": "bob-nelsen", "name": "Bob Nelsen（个人）", "aliases": [], "parent_id": null}
+{"investor_id": "breyer-capital", "name": "Breyer Capital", "aliases": [], "parent_id": null}
+{"investor_id": "caz-investments", "name": "CAZ Investments", "aliases": [], "parent_id": null}
+{"investor_id": "neogenesis", "name": "Neogenesis", "aliases": [], "parent_id": null}
+{"investor_id": "builders-vc", "name": "Builders VC", "aliases": [], "parent_id": null}
+{"investor_id": "rally-ventures", "name": "Rally Ventures", "aliases": [], "parent_id": null}
+{"investor_id": "skyward-group", "name": "Skyward Group", "aliases": [], "parent_id": null}
+{"investor_id": "jim-hays", "name": "Jim Hays（个人，P&C行业资深人士）", "aliases": [], "parent_id": null}
+{"investor_id": "signalfire", "name": "SignalFire", "aliases": [], "parent_id": null}
+{"investor_id": "redalpine", "name": "Redalpine", "aliases": ["redalpine"], "parent_id": null}
+{"investor_id": "notion-capital", "name": "Notion Capital", "aliases": [], "parent_id": null}
+{"investor_id": "firstminute-capital", "name": "firstminute capital", "aliases": [], "parent_id": null}
+{"investor_id": "yann-lecun", "name": "Yann LeCun（个人，Meta前首席AI科学家）", "aliases": [], "parent_id": null}
+{"investor_id": "arthur-mensch", "name": "Arthur Mensch（个人，Mistral CEO）", "aliases": [], "parent_id": null}
+{"investor_id": "andrew-lonsberry", "name": "Andrew Lonsberry（个人）", "aliases": [], "parent_id": null}
+{"investor_id": "thomas-wolf", "name": "Thomas Wolf（个人，Hugging Face联合创始人）", "aliases": [], "parent_id": null}

@@ -177,3 +177,35 @@
 {"event_id": "photon-bridge-20261021-equity", "investor_id": "innovation-industries", "role": "participant", "investment_amount": null, "currency": "UNK", "evidence_ids": ["photon-official-1", "photon-semitoday-1"]}
 {"event_id": "photon-bridge-20261021-equity", "investor_id": "faber", "role": "participant", "investment_amount": null, "currency": "UNK", "evidence_ids": ["photon-official-1", "photon-semitoday-1"]}
 {"event_id": "photon-bridge-20261021-equity", "investor_id": "bom", "role": "participant", "investment_amount": null, "currency": "UNK", "evidence_ids": ["photon-official-1", "photon-semitoday-1"]}
+{"event_id": "blacksmith-20261021-equity", "investor_id": "sequoia", "role": "lead", "investment_amount": null, "currency": "UNK", "evidence_ids": ["blacksmith-official-1", "blacksmith-tc-1"]}
+{"event_id": "blacksmith-20261021-equity", "investor_id": "premji-invest", "role": "participant", "investment_amount": null, "currency": "UNK", "evidence_ids": ["blacksmith-official-1", "blacksmith-tc-1"]}
+{"event_id": "blacksmith-20261021-equity", "investor_id": "peak-xv-partners", "role": "participant", "investment_amount": null, "currency": "UNK", "evidence_ids": ["blacksmith-official-1", "blacksmith-tc-1"]}
+{"event_id": "blacksmith-20261021-equity", "investor_id": "gv", "role": "participant", "investment_amount": null, "currency": "UNK", "evidence_ids": ["blacksmith-official-1", "blacksmith-tc-1"]}
+{"event_id": "blacksmith-20261021-equity", "investor_id": "y-combinator", "role": "participant", "investment_amount": null, "currency": "UNK", "evidence_ids": ["blacksmith-official-1", "blacksmith-tc-1"]}
+{"event_id": "warhound-20261022-equity", "investor_id": "iqt", "role": "participant", "investment_amount": null, "currency": "UNK", "evidence_ids": ["warhound-pr-1", "warhound-tc-1"]}
+{"event_id": "warhound-20261022-equity", "investor_id": "sequoia", "role": "participant", "investment_amount": null, "currency": "UNK", "evidence_ids": ["warhound-pr-1", "warhound-tc-1"]}
+{"event_id": "warhound-20261022-equity", "investor_id": "ark-invest", "role": "participant", "investment_amount": null, "currency": "UNK", "evidence_ids": ["warhound-pr-1", "warhound-tc-1"]}
+{"event_id": "warhound-20261022-equity", "investor_id": "franklin-templeton", "role": "participant", "investment_amount": null, "currency": "UNK", "evidence_ids": ["warhound-pr-1", "warhound-tc-1"]}
+{"event_id": "warhound-20261022-equity", "investor_id": "8vc", "role": "participant", "investment_amount": null, "currency": "UNK", "evidence_ids": ["warhound-pr-1", "warhound-tc-1"]}
+{"event_id": "warhound-20261022-equity", "investor_id": "usit", "role": "participant", "investment_amount": null, "currency": "UNK", "evidence_ids": ["warhound-pr-1", "warhound-tc-1"]}
+{"event_id": "warhound-20261022-equity", "investor_id": "bob-nelsen", "role": "participant", "investment_amount": null, "currency": "UNK", "evidence_ids": ["warhound-pr-1", "warhound-tc-1"]}
+{"event_id": "warhound-20261022-equity", "investor_id": "breyer-capital", "role": "participant", "investment_amount": null, "currency": "UNK", "evidence_ids": ["warhound-pr-1", "warhound-tc-1"]}
+{"event_id": "warhound-20261022-equity", "investor_id": "caz-investments", "role": "participant", "investment_amount": null, "currency": "UNK", "evidence_ids": ["warhound-pr-1", "warhound-tc-1"]}
+{"event_id": "warhound-20261022-equity", "investor_id": "neogenesis", "role": "participant", "investment_amount": null, "currency": "UNK", "evidence_ids": ["warhound-pr-1", "warhound-tc-1"]}
+{"event_id": "warhound-20261022-equity", "investor_id": "builders-vc", "role": "participant", "investment_amount": null, "currency": "UNK", "evidence_ids": ["warhound-pr-1", "warhound-tc-1"]}
+{"event_id": "warhound-20261022-equity", "investor_id": "lux-capital", "role": "participant", "investment_amount": null, "currency": "UNK", "evidence_ids": ["warhound-pr-1", "warhound-tc-1"]}
+{"event_id": "warp-sciences-20261022-equity", "investor_id": "lightspeed-venture-partners", "role": "lead", "investment_amount": null, "currency": "UNK", "evidence_ids": ["warp-lsvp-1", "warp-tc-1"]}
+{"event_id": "warp-sciences-20261022-equity", "investor_id": "ivp", "role": "participant", "investment_amount": null, "currency": "UNK", "evidence_ids": ["warp-tc-1"]}
+{"event_id": "warp-sciences-20261022-equity", "investor_id": "premji-invest", "role": "participant", "investment_amount": null, "currency": "UNK", "evidence_ids": ["warp-tc-1"]}
+{"event_id": "warp-sciences-20261022-equity", "investor_id": "lux-capital", "role": "participant", "investment_amount": null, "currency": "UNK", "evidence_ids": ["warp-tc-1"]}
+{"event_id": "warp-sciences-20261022-equity", "investor_id": "signalfire", "role": "participant", "investment_amount": null, "currency": "UNK", "evidence_ids": ["warp-signalfire-1"]}
+{"event_id": "slingshot-insurance-20261022-equity", "investor_id": "rally-ventures", "role": "co_lead", "investment_amount": null, "currency": "UNK", "evidence_ids": ["slingshot-prn-1", "slingshot-cb-1"]}
+{"event_id": "slingshot-insurance-20261022-equity", "investor_id": "skyward-group", "role": "co_lead", "investment_amount": null, "currency": "UNK", "evidence_ids": ["slingshot-prn-1", "slingshot-cb-1"]}
+{"event_id": "slingshot-insurance-20261022-equity", "investor_id": "jim-hays", "role": "participant", "investment_amount": null, "currency": "UNK", "evidence_ids": ["slingshot-prn-1"]}
+{"event_id": "enact-intelligence-20261022-equity", "investor_id": "redalpine", "role": "co_lead", "investment_amount": null, "currency": "UNK", "evidence_ids": ["enact-notion-1", "enact-sifted-1"]}
+{"event_id": "enact-intelligence-20261022-equity", "investor_id": "notion-capital", "role": "co_lead", "investment_amount": null, "currency": "UNK", "evidence_ids": ["enact-notion-1", "enact-sifted-1"]}
+{"event_id": "enact-intelligence-20261022-equity", "investor_id": "firstminute-capital", "role": "participant", "investment_amount": null, "currency": "UNK", "evidence_ids": ["enact-notion-1", "enact-sifted-1"]}
+{"event_id": "enact-intelligence-20261022-equity", "investor_id": "yann-lecun", "role": "participant", "investment_amount": null, "currency": "UNK", "evidence_ids": ["enact-notion-1", "enact-sifted-1"]}
+{"event_id": "enact-intelligence-20261022-equity", "investor_id": "arthur-mensch", "role": "participant", "investment_amount": null, "currency": "UNK", "evidence_ids": ["enact-notion-1", "enact-sifted-1"]}
+{"event_id": "enact-intelligence-20261022-equity", "investor_id": "thomas-wolf", "role": "participant", "investment_amount": null, "currency": "UNK", "evidence_ids": ["enact-notion-1", "enact-sifted-1"]}
+{"event_id": "enact-intelligence-20261022-equity", "investor_id": "andrew-lonsberry", "role": "participant", "investment_amount": null, "currency": "UNK", "evidence_ids": ["enact-sifted-1"]}
