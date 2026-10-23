@@ -222,12 +222,12 @@
     "enact-intelligence-20261022-equity"
    ],
    "revision": 1,
-   "status": "ready_for_delivery",
+   "status": "delivered",
    "window_start": "2026-10-21T00:00:30Z",
    "window_end": "2026-10-23T00:00:30Z",
    "report_path": "reports/2026-10-23-daily.md",
-   "publication_comment_id": null,
-   "publication_note": "报告已验证并准备交付；发布回执以对应Issue最终评论为准，重试必须先查评论。"
+   "publication_comment_id": "01a16668-ef31-76bf-b2ce-4adc3cc91dec",
+   "publication_note": "已交付Issue评论并附报告/采集/追踪附件（2026-10-23T01:38:35Z）；同Issue不重复发布。本Issue为重试续跑：08:00运行完成采集但未交付，本次补齐报告后一次发布。窗口内新增5条融资（blacksmith/warhound/warp-sciences/slingshot-insurance/enact-intelligence）。"
   }
  ]
 }
