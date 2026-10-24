@@ -174,3 +174,43 @@
 {"investor_id": "arthur-mensch", "name": "Arthur Mensch（个人，Mistral CEO）", "aliases": [], "parent_id": null}
 {"investor_id": "andrew-lonsberry", "name": "Andrew Lonsberry（个人）", "aliases": [], "parent_id": null}
 {"investor_id": "thomas-wolf", "name": "Thomas Wolf（个人，Hugging Face联合创始人）", "aliases": [], "parent_id": null}
+{"investor_id": "qualcomm-ventures", "name": "Qualcomm Ventures", "aliases": [], "parent_id": null}
+{"investor_id": "samsung-next", "name": "Samsung Next", "aliases": [], "parent_id": null}
+{"investor_id": "okta-ventures", "name": "Okta Ventures", "aliases": [], "parent_id": null}
+{"investor_id": "patrick-collison", "name": "Patrick Collison（个人，Stripe联合创始人/CEO）", "aliases": [], "parent_id": null}
+{"investor_id": "tobi-lutke", "name": "Tobi Lütke（个人，Shopify联合创始人/CEO）", "aliases": [], "parent_id": null}
+{"investor_id": "aravind-srinivas", "name": "Aravind Srinivas（个人，Perplexity联合创始人/CEO）", "aliases": [], "parent_id": null}
+{"investor_id": "eric-yuan", "name": "Eric Yuan（个人，Zoom创始人/CEO）", "aliases": [], "parent_id": null}
+{"investor_id": "olivier-pomel", "name": "Olivier Pomel（个人，Datadog联合创始人/CEO）", "aliases": [], "parent_id": null}
+{"investor_id": "adam-d-angelo", "name": "Adam D'Angelo（个人，Quora联合创始人/CEO、OpenAI董事）", "aliases": [], "parent_id": null}
+{"investor_id": "brendan-foody", "name": "Brendan Foody（个人，Mercor联合创始人/CEO）", "aliases": [], "parent_id": null}
+{"investor_id": "future-ventures", "name": "Future Ventures（Steve Jurvetson）", "aliases": [], "parent_id": null}
+{"investor_id": "bristol-myers-squibb", "name": "Bristol Myers Squibb（产业资本，NYSE: BMY）", "aliases": ["BMS"], "parent_id": null}
+{"investor_id": "orbi-med", "name": "OrbiMed", "aliases": [], "parent_id": null}
+{"investor_id": "janus-henderson", "name": "Janus Henderson Investors", "aliases": [], "parent_id": null}
+{"investor_id": "agent-capital", "name": "Agent Capital", "aliases": [], "parent_id": null}
+{"investor_id": "catalio-capital-management", "name": "Catalio Capital Management", "aliases": [], "parent_id": null}
+{"investor_id": "cormorant-asset-management", "name": "Cormorant Asset Management", "aliases": [], "parent_id": null}
+{"investor_id": "new-leaf-venture-partners", "name": "New Leaf Venture Partners", "aliases": [], "parent_id": null}
+{"investor_id": "nybc-ventures", "name": "NYBC Ventures", "aliases": [], "parent_id": null}
+{"investor_id": "redmile", "name": "Redmile", "aliases": ["Redmile Group"], "parent_id": null}
+{"investor_id": "sofinnova-investments", "name": "Sofinnova Investments", "aliases": [], "parent_id": null}
+{"investor_id": "soleus-capital", "name": "Soleus Capital", "aliases": [], "parent_id": null}
+{"investor_id": "tola-capital", "name": "Tola Capital", "aliases": [], "parent_id": null}
+{"investor_id": "south-park-commons", "name": "South Park Commons", "aliases": [], "parent_id": null}
+{"investor_id": "ince-capital", "name": "INCE Capital", "aliases": [], "parent_id": null}
+{"investor_id": "trace-capital", "name": "Trace Capital（新设基金）", "aliases": [], "parent_id": null}
+{"investor_id": "innovation-x", "name": "Innovation X", "aliases": [], "parent_id": null}
+{"investor_id": "agostinelli-group", "name": "Agostinelli Group", "aliases": [], "parent_id": null}
+{"investor_id": "brett-barna", "name": "Brett Barna（个人）", "aliases": [], "parent_id": null}
+{"investor_id": "cadence-ventures", "name": "Cadence Ventures", "aliases": [], "parent_id": null}
+{"investor_id": "morgan-stanley", "name": "Morgan Stanley", "aliases": [], "parent_id": null}
+{"investor_id": "protagonist", "name": "Protagonist", "aliases": [], "parent_id": null}
+{"investor_id": "sandisk", "name": "SanDisk（产业资本）", "aliases": [], "parent_id": null}
+{"investor_id": "tether-investments", "name": "Tether Investments", "aliases": [], "parent_id": null}
+{"investor_id": "troluce-capital", "name": "Troluce Capital", "aliases": [], "parent_id": null}
+{"investor_id": "spark-capital", "name": "Spark Capital", "aliases": [], "parent_id": null}
+{"investor_id": "citadel-securities", "name": "Citadel Securities（关联方参与）", "aliases": [], "parent_id": null}
+{"investor_id": "craft-ventures", "name": "Craft Ventures", "aliases": [], "parent_id": null}
+{"investor_id": "shopify-ventures", "name": "Shopify Ventures", "aliases": [], "parent_id": null}
+{"investor_id": "flint-capital", "name": "Flint Capital", "aliases": [], "parent_id": null}

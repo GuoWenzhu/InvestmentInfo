@@ -228,6 +228,30 @@
    "report_path": "reports/2026-10-23-daily.md",
    "publication_comment_id": "01a16668-ef31-76bf-b2ce-4adc3cc91dec",
    "publication_note": "已交付Issue评论并附报告/采集/追踪附件（2026-10-23T01:38:35Z）；同Issue不重复发布。本Issue为重试续跑：08:00运行完成采集但未交付，本次补齐报告后一次发布。窗口内新增5条融资（blacksmith/warhound/warp-sciences/slingshot-insurance/enact-intelligence）。"
+  },
+  {
+   "date": "2026-10-24",
+   "run_key": "2026-10-24",
+   "issue_id": "01a16b35-6e44-7cf7-b5c1-cde3fb1af9fa",
+   "issue_identifier": "TECH-60",
+   "event_ids": [
+    "maxinsights-20261022-equity",
+    "xona-20261022-equity",
+    "daytona-20261023-equity",
+    "pathos-ai-20261023-equity",
+    "star-therapeutics-20261023-equity",
+    "tenstorrent-20261019-equity",
+    "asi-20261020-equity",
+    "whop-20261021-equity",
+    "mika-games-20261021-equity"
+   ],
+   "revision": 1,
+   "status": "ready_for_delivery",
+   "window_start": "2026-10-22T00:00:26Z",
+   "window_end": "2026-10-24T00:00:26Z",
+   "report_path": "reports/2026-10-24-daily.md",
+   "publication_comment_id": null,
+   "publication_note": "报告验证通过待交付；窗口内新增5条融资（maxinsights/xona/daytona/pathos-ai/star-therapeutics），另历史回补4条（tenstorrent/asi/whop/mika-games，10-19~10-21披露、前序运行漏采，经CB周榜发现补录）"
   }
  ]
 }

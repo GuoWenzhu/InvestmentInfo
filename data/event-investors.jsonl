@@ -209,3 +209,55 @@
 {"event_id": "enact-intelligence-20261022-equity", "investor_id": "arthur-mensch", "role": "participant", "investment_amount": null, "currency": "UNK", "evidence_ids": ["enact-notion-1", "enact-sifted-1"]}
 {"event_id": "enact-intelligence-20261022-equity", "investor_id": "thomas-wolf", "role": "participant", "investment_amount": null, "currency": "UNK", "evidence_ids": ["enact-notion-1", "enact-sifted-1"]}
 {"event_id": "enact-intelligence-20261022-equity", "investor_id": "andrew-lonsberry", "role": "participant", "investment_amount": null, "currency": "UNK", "evidence_ids": ["enact-sifted-1"]}
+{"event_id": "maxinsights-20261022-equity", "investor_id": "peak-xv-partners", "role": "lead", "investment_amount": null, "currency": "UNK", "evidence_ids": ["max-bw-1", "max-cb-1"]}
+{"event_id": "maxinsights-20261022-equity", "investor_id": "tola-capital", "role": "participant", "investment_amount": null, "currency": "UNK", "evidence_ids": ["max-bw-1", "max-cb-1"]}
+{"event_id": "maxinsights-20261022-equity", "investor_id": "south-park-commons", "role": "participant", "investment_amount": null, "currency": "UNK", "evidence_ids": ["max-bw-1", "max-cb-1"]}
+{"event_id": "maxinsights-20261022-equity", "investor_id": "ince-capital", "role": "participant", "investment_amount": null, "currency": "UNK", "evidence_ids": ["max-bw-1", "max-cb-1"]}
+{"event_id": "maxinsights-20261022-equity", "investor_id": "alumni-ventures", "role": "participant", "investment_amount": null, "currency": "UNK", "evidence_ids": ["max-cb-1"]}
+{"event_id": "xona-20261022-equity", "investor_id": "future-ventures", "role": "lead", "investment_amount": null, "currency": "UNK", "evidence_ids": ["xona-official-1", "xona-cb-1", "xona-spacenews-1"]}
+{"event_id": "daytona-20261023-equity", "investor_id": "firstmark", "role": "lead", "investment_amount": null, "currency": "UNK", "evidence_ids": ["daytona-official-1", "daytona-tc-1"]}
+{"event_id": "daytona-20261023-equity", "investor_id": "qualcomm-ventures", "role": "participant", "investment_amount": null, "currency": "UNK", "evidence_ids": ["daytona-official-1"]}
+{"event_id": "daytona-20261023-equity", "investor_id": "samsung-next", "role": "participant", "investment_amount": null, "currency": "UNK", "evidence_ids": ["daytona-official-1"]}
+{"event_id": "daytona-20261023-equity", "investor_id": "okta-ventures", "role": "participant", "investment_amount": null, "currency": "UNK", "evidence_ids": ["daytona-official-1"]}
+{"event_id": "daytona-20261023-equity", "investor_id": "patrick-collison", "role": "participant", "investment_amount": null, "currency": "UNK", "evidence_ids": ["daytona-official-1", "daytona-tc-1"]}
+{"event_id": "daytona-20261023-equity", "investor_id": "tobi-lutke", "role": "participant", "investment_amount": null, "currency": "UNK", "evidence_ids": ["daytona-official-1", "daytona-tc-1"]}
+{"event_id": "daytona-20261023-equity", "investor_id": "aravind-srinivas", "role": "participant", "investment_amount": null, "currency": "UNK", "evidence_ids": ["daytona-official-1", "daytona-tc-1"]}
+{"event_id": "daytona-20261023-equity", "investor_id": "eric-yuan", "role": "participant", "investment_amount": null, "currency": "UNK", "evidence_ids": ["daytona-official-1", "daytona-tc-1"]}
+{"event_id": "daytona-20261023-equity", "investor_id": "olivier-pomel", "role": "participant", "investment_amount": null, "currency": "UNK", "evidence_ids": ["daytona-official-1", "daytona-tc-1"]}
+{"event_id": "daytona-20261023-equity", "investor_id": "adam-d-angelo", "role": "participant", "investment_amount": null, "currency": "UNK", "evidence_ids": ["daytona-official-1", "daytona-tc-1"]}
+{"event_id": "daytona-20261023-equity", "investor_id": "brendan-foody", "role": "participant", "investment_amount": null, "currency": "UNK", "evidence_ids": ["daytona-official-1", "daytona-tc-1"]}
+{"event_id": "pathos-ai-20261023-equity", "investor_id": "bristol-myers-squibb", "role": "lead", "investment_amount": null, "currency": "UNK", "evidence_ids": ["pathos-official-1", "pathos-cb-1"]}
+{"event_id": "star-therapeutics-20261023-equity", "investor_id": "orbi-med", "role": "co_lead", "investment_amount": null, "currency": "UNK", "evidence_ids": ["star-official-1", "star-cb-1"]}
+{"event_id": "star-therapeutics-20261023-equity", "investor_id": "janus-henderson", "role": "co_lead", "investment_amount": null, "currency": "UNK", "evidence_ids": ["star-official-1", "star-cb-1"]}
+{"event_id": "star-therapeutics-20261023-equity", "investor_id": "agent-capital", "role": "participant", "investment_amount": null, "currency": "UNK", "evidence_ids": ["star-official-1"]}
+{"event_id": "star-therapeutics-20261023-equity", "investor_id": "catalio-capital-management", "role": "participant", "investment_amount": null, "currency": "UNK", "evidence_ids": ["star-official-1"]}
+{"event_id": "star-therapeutics-20261023-equity", "investor_id": "cormorant-asset-management", "role": "participant", "investment_amount": null, "currency": "UNK", "evidence_ids": ["star-official-1"]}
+{"event_id": "star-therapeutics-20261023-equity", "investor_id": "new-leaf-venture-partners", "role": "participant", "investment_amount": null, "currency": "UNK", "evidence_ids": ["star-official-1"]}
+{"event_id": "star-therapeutics-20261023-equity", "investor_id": "nybc-ventures", "role": "participant", "investment_amount": null, "currency": "UNK", "evidence_ids": ["star-official-1"]}
+{"event_id": "star-therapeutics-20261023-equity", "investor_id": "ra-capital", "role": "participant", "investment_amount": null, "currency": "UNK", "evidence_ids": ["star-official-1"]}
+{"event_id": "star-therapeutics-20261023-equity", "investor_id": "redmile", "role": "participant", "investment_amount": null, "currency": "UNK", "evidence_ids": ["star-official-1"]}
+{"event_id": "star-therapeutics-20261023-equity", "investor_id": "sofinnova-investments", "role": "participant", "investment_amount": null, "currency": "UNK", "evidence_ids": ["star-official-1"]}
+{"event_id": "star-therapeutics-20261023-equity", "investor_id": "soleus-capital", "role": "participant", "investment_amount": null, "currency": "UNK", "evidence_ids": ["star-official-1"]}
+{"event_id": "tenstorrent-20261019-equity", "investor_id": "trace-capital", "role": "co_lead", "investment_amount": null, "currency": "UNK", "evidence_ids": ["tt-official-1", "tt-cb-1"]}
+{"event_id": "tenstorrent-20261019-equity", "investor_id": "innovation-x", "role": "co_lead", "investment_amount": null, "currency": "UNK", "evidence_ids": ["tt-official-1", "tt-cb-1"]}
+{"event_id": "tenstorrent-20261019-equity", "investor_id": "agostinelli-group", "role": "participant", "investment_amount": null, "currency": "UNK", "evidence_ids": ["tt-official-1"]}
+{"event_id": "tenstorrent-20261019-equity", "investor_id": "ark-invest", "role": "participant", "investment_amount": null, "currency": "UNK", "evidence_ids": ["tt-official-1"]}
+{"event_id": "tenstorrent-20261019-equity", "investor_id": "brett-barna", "role": "participant", "investment_amount": null, "currency": "UNK", "evidence_ids": ["tt-official-1"]}
+{"event_id": "tenstorrent-20261019-equity", "investor_id": "cadence-ventures", "role": "participant", "investment_amount": null, "currency": "UNK", "evidence_ids": ["tt-official-1"]}
+{"event_id": "tenstorrent-20261019-equity", "investor_id": "eclipse-ventures", "role": "participant", "investment_amount": null, "currency": "UNK", "evidence_ids": ["tt-official-1"]}
+{"event_id": "tenstorrent-20261019-equity", "investor_id": "fidelity-mram", "role": "participant", "investment_amount": null, "currency": "UNK", "evidence_ids": ["tt-official-1"]}
+{"event_id": "tenstorrent-20261019-equity", "investor_id": "maverick-silicon", "role": "participant", "investment_amount": null, "currency": "UNK", "evidence_ids": ["tt-official-1"]}
+{"event_id": "tenstorrent-20261019-equity", "investor_id": "morgan-stanley", "role": "participant", "investment_amount": null, "currency": "UNK", "evidence_ids": ["tt-official-1"]}
+{"event_id": "tenstorrent-20261019-equity", "investor_id": "protagonist", "role": "participant", "investment_amount": null, "currency": "UNK", "evidence_ids": ["tt-official-1"]}
+{"event_id": "tenstorrent-20261019-equity", "investor_id": "sandisk", "role": "participant", "investment_amount": null, "currency": "UNK", "evidence_ids": ["tt-official-1"]}
+{"event_id": "tenstorrent-20261019-equity", "investor_id": "t-rowe-price", "role": "participant", "investment_amount": null, "currency": "UNK", "evidence_ids": ["tt-official-1"]}
+{"event_id": "tenstorrent-20261019-equity", "investor_id": "tether-investments", "role": "participant", "investment_amount": null, "currency": "UNK", "evidence_ids": ["tt-official-1"]}
+{"event_id": "tenstorrent-20261019-equity", "investor_id": "troluce-capital", "role": "participant", "investment_amount": null, "currency": "UNK", "evidence_ids": ["tt-official-1"]}
+{"event_id": "asi-20261020-equity", "investor_id": "spark-capital", "role": "lead", "investment_amount": null, "currency": "UNK", "evidence_ids": ["asi-reuters-1", "asi-cb-1"]}
+{"event_id": "asi-20261020-equity", "investor_id": "a16z", "role": "participant", "investment_amount": null, "currency": "UNK", "evidence_ids": ["asi-reuters-1"]}
+{"event_id": "asi-20261020-equity", "investor_id": "citadel-securities", "role": "participant", "investment_amount": null, "currency": "UNK", "evidence_ids": ["asi-reuters-1"]}
+{"event_id": "asi-20261020-equity", "investor_id": "craft-ventures", "role": "participant", "investment_amount": null, "currency": "UNK", "evidence_ids": ["asi-reuters-1"]}
+{"event_id": "asi-20261020-equity", "investor_id": "meritech", "role": "participant", "investment_amount": null, "currency": "UNK", "evidence_ids": ["asi-reuters-1"]}
+{"event_id": "whop-20261021-equity", "investor_id": "sequoia", "role": "co_lead", "investment_amount": null, "currency": "UNK", "evidence_ids": ["whop-official-1", "whop-cb-1"]}
+{"event_id": "whop-20261021-equity", "investor_id": "shopify-ventures", "role": "co_lead", "investment_amount": null, "currency": "UNK", "evidence_ids": ["whop-official-1", "whop-cb-1"]}
+{"event_id": "mika-games-20261021-equity", "investor_id": "flint-capital", "role": "lead", "investment_amount": null, "currency": "UNK", "evidence_ids": ["mika-techeu-1", "mika-cb-1"]}

@@ -1,0 +1,67 @@
+{
+ "issue_id": "01a16b35-6e44-7cf7-b5c1-cde3fb1af9fa",
+ "issue_identifier": "TECH-60",
+ "collected_at": "2026-10-24T01:34:19+00:00",
+ "window_start": "2026-10-22T00:00:26Z",
+ "window_end": "2026-10-24T00:00:26Z",
+ "source_attempts": [
+  {
+   "source_id": "crunchbase_news",
+   "attempted_at": "2026-10-24T01:34:19+00:00",
+   "status": "success_with_update",
+   "evidence_url": "https://news.crunchbase.com/",
+   "notes": "首页浏览器UA成功（170KB，HTTP 200）；RSS未再尝试（前次403）。文章流新条目2篇全文已读：①The Week's 10 Biggest（10-23T18:51Z，Oct 17-23口径）→候选Tenstorrent/ASI/Whop/Xona/Pathos/Star（Flapping/Warp/Warhound/Arda前次已登记）；②5 Interesting Startup Deals（10-23T11:00Z月度专栏）→候选Maxinsights/Mika Games，Foundational（10-01披露）与Cura Climate（≈9月）窗口外排除。Q3统计稿与观点专栏排除"
+  },
+  {
+   "source_id": "techcrunch",
+   "attempted_at": "2026-10-24T01:34:19+00:00",
+   "status": "success_with_update",
+   "evidence_url": "https://techcrunch.com/category/startups/",
+   "notes": "栏目页可读（303KB，HTTP 200，curl直连）。窗口内新条目：①Daytona hits $1B valuation（10-23T16:26Z，全文已读）→daytona-20261023-equity（官方博客daytona.io全文核读）；②Carta×NewView流动性合作（非融资）排除；另有Founder Summit预告2条与PMF评论2条排除。Warhound/Warp/OpenAI等10-22条目前次已处理"
+  },
+  {
+   "source_id": "sifted",
+   "attempted_at": "2026-10-24T01:34:19+00:00",
+   "status": "success_zero_output",
+   "evidence_url": "https://sifted.eu/feed",
+   "notes": "RSS成功（9.9KB，24条，HTTP 200）。窗口内新条目8条逐一核验：Oslo生态分析、Nvidia欧洲投资分析、14家意大利名单、意大利数据分析、爱尔兰AI分析、Onstage活动、挪威观点7条排除；Former H Company CTO 'seeks $30m'=融资中未成轮排除。窗口内无成轮融资披露；今日无正文页直连需求（正文页403状况未再测试）"
+  },
+  {
+   "source_id": "accel",
+   "attempted_at": "2026-10-24T01:34:19+00:00",
+   "status": "success_zero_output",
+   "evidence_url": "https://www.accel.com/news",
+   "notes": "新闻列表可读（547KB，HTTP 200）。顶部新增Zetwerk IPO评论（10-23，IPO/退出评论归非融资排除）；Our Investment in Arda（10-20）及以前条目前次已登记；窗口内无新投资公告"
+  },
+  {
+   "source_id": "qiming",
+   "attempted_at": "2026-10-24T01:34:19+00:00",
+   "status": "success_zero_output",
+   "evidence_url": "https://www.qimingvc.com/cn/newsroom",
+   "notes": "新闻室可读（54KB，HTTP 200）。顶部为启明观点3条（邝子平10-23已登记/胡旭波/周志峰，观点归T4排除）；启明新闻区顶部仍为Vol.32周报与10-20头条（前次已处理）；窗口内无融资条目"
+  },
+  {
+   "source_id": "nvca",
+   "attempted_at": "2026-10-24T01:34:19+00:00",
+   "status": "success_zero_output",
+   "evidence_url": "https://nvca.org/pitchbook-nvca-venture-monitor/",
+   "notes": "指定入口可达（HTTP 200，174KB）；Q3 2026报告未变；季度统计不生成离散事件"
+  },
+  {
+   "source_id": "techstars",
+   "attempted_at": "2026-10-24T01:34:19+00:00",
+   "status": "success_zero_output",
+   "evidence_url": "https://www.techstars.com/portfolio",
+   "notes": "组合目录页可读（257KB，HTTP 200）；目录收录不生成融资事件；窗口内无融资信息"
+  },
+  {
+   "source_id": "company_official",
+   "attempted_at": "2026-10-24T01:34:19+00:00",
+   "status": "success",
+   "evidence_url": null,
+   "notes": "本次触发9次事件核验：daytona.io官方博客全文核读通过（CEO署名）；xonaspace.com/news/series-d全文核读通过（CEO署名）；pathos.com官方新闻稿全文核读通过；star-therapeutics.com官方新闻稿全文核读通过；newsroom.whop.com全文核读通过（PRN同文）；mika.games域名核验通过（无公告页，多媒体交叉）；maxinsights.ai域名核验通过（JS站，BW通稿经搜索快照+Forbes/TNW交叉）；tenstorrent.com直连000被本地代理拦截（ACCESS Newswire/USA Today通稿+Reuters/TechTarget/TNW/BetaKit交叉，官方名单源摘要截断留痕）；asi.ai 403未核验通过（BW通稿标题/日期经搜索验证+Reuters/BloombergLaw/波士顿环球/bizjournals交叉，置信度记中）。BusinessWire与fetch_content工具均受本地代理策略限制（198.18.0.0/15 fake-IP网段拦截），与10-22/10-23先例一致，均以快照级核验留痕"
+  }
+ ],
+ "exclusions_in_window": 20,
+ "historical_backfill_note": "tenstorrent(10-19)/asi(10-20)/whop(10-21)/mika-games(10-21)四笔披露于本窗口前、前序运行未捕获，经CB周榜与月度专栏发现后核验补录（historical_backfill=true），不计入本窗口新增口径"
+}
