@@ -1,0 +1,77 @@
+{
+ "issue_id": "01a1705b-9f19-77b2-98eb-7e83b3489246",
+ "issue_identifier": "TECH-64",
+ "collected_at": "2026-10-25T00:04:40+00:00",
+ "window_start": "2026-10-23T00:00:15Z",
+ "window_end": "2026-10-25T00:00:15Z",
+ "source_attempts": [
+  {
+   "source_id": "crunchbase_news",
+   "attempted_at": "2026-10-25T00:04:40+00:00",
+   "status": "success_zero_output",
+   "evidence_url": "https://news.crunchbase.com/feed/",
+   "notes": "RSS成功（117KB，10条，HTTP 200）+首页浏览器UA成功（170KB，HTTP 200）。窗口内（10-23T00:00:15Z后）发文3篇逐一核验：①The Week's 10 Biggest（10-23T18:51Z，Oct17-23口径）前次（TECH-60）已全文处理并录入5条新增+4条回补；②5 Interesting Startup Deals（10-23T11:00Z）前次已处理（maxinsights/mika-games已录入，Foundational与Cura窗口外已排除）；③Protecting Trade Secrets In The Age Of AI（10-23T11:00Z，法律专栏/Kugler Gleas Shah署名）本次新增排除。10-24（周六）全天无新发文，属正常周末节奏"
+  },
+  {
+   "source_id": "techcrunch",
+   "attempted_at": "2026-10-25T00:04:40+00:00",
+   "status": "success_zero_output",
+   "evidence_url": "https://techcrunch.com/category/startups/",
+   "notes": "栏目页可读（303KB，HTTP 200，curl直连）。10-23/10-24窗口内条目6条全部前次已处理：Daytona（10-23T16:26Z，已录入daytona-20261023-equity）、Carta×NewView合作（非融资排除）、Founder Summit预告2条、PMF评论2条；10-24无新条目"
+  },
+  {
+   "source_id": "sifted",
+   "attempted_at": "2026-10-25T00:04:40+00:00",
+   "status": "success_zero_output",
+   "evidence_url": "https://sifted.eu/feed",
+   "notes": "RSS成功（9.9KB，24条，HTTP 200）。feed顶部最新条目仍为10-23（Oslo生态分析10:45/Nvidia欧洲投资分析05:00/14家意大利名单05:00），前次（TECH-60）已逐一核验排除；10-23T10:45后无新条目，窗口内无未处理增量。正文页403状况今日未再测试（无直连需求）"
+  },
+  {
+   "source_id": "accel",
+   "attempted_at": "2026-10-25T00:04:40+00:00",
+   "status": "success_zero_output",
+   "evidence_url": "https://www.accel.com/news",
+   "notes": "新闻列表可读（547KB，HTTP 200）。顶部仍为Zetwerk IPO评论（退出评论归非融资）与Our Investment in Arda（10-20，已录入arda-20261020-equity）；窗口内无新投资公告"
+  },
+  {
+   "source_id": "qiming",
+   "attempted_at": "2026-10-25T00:04:40+00:00",
+   "status": "success_zero_output",
+   "evidence_url": "https://www.qimingvc.com/cn/newsroom",
+   "notes": "新闻室可读（54KB，HTTP 200）。启明头条2条（PhD秋冬季实习生计划、医疗创新合作伙伴开放日，活动/招募类）经核对均在processed-urls台账中（前次已登记排除）；新闻区顶部仍为Vol.32周报（10.21，已处理）与Vol.31（10.13）；窗口内无融资条目"
+  },
+  {
+   "source_id": "nvca",
+   "attempted_at": "2026-10-25T00:04:40+00:00",
+   "status": "success_zero_output",
+   "evidence_url": "https://nvca.org/pitchbook-nvca-venture-monitor/",
+   "notes": "指定入口可达（HTTP 200，174KB）；Q3 2026 Venture Monitor未变（AI占比集中度口径不变）；季度统计不生成离散事件"
+  },
+  {
+   "source_id": "techstars",
+   "attempted_at": "2026-10-25T00:04:40+00:00",
+   "status": "success_zero_output",
+   "evidence_url": "https://www.techstars.com/portfolio",
+   "notes": "组合目录页可读（257KB，HTTP 200）；目录收录不生成融资事件；窗口内无融资信息"
+  },
+  {
+   "source_id": "company_official",
+   "attempted_at": "2026-10-25T00:04:40+00:00",
+   "status": "success_zero_output",
+   "evidence_url": null,
+   "notes": "本窗口无新事件候选，未触发事件核验"
+  }
+ ],
+ "exclusions_in_window": 1,
+ "exclusions_detail": [
+  {
+   "url": "https://news.crunchbase.com/ai/protecting-trade-secrets-legal-kugler-grellas-shah/",
+   "source_id": "crunchbase_news",
+   "published_at": "2026-10-23T11:00:29+00:00",
+   "reason": "法律专家专栏（商业秘密保护），无融资披露，excluded_not_event"
+  }
+ ],
+ "new_events": [],
+ "corrections": [],
+ "historical_backfill_note": "无"
+}

@@ -3208,6 +3208,17 @@
    "status": "excluded_out_of_window",
    "revision": 1,
    "note": "Cura Climate $10M（Zacua Ventures领投，Calgary水泥减排）：CB月度专栏引'last month'披露≈2026年9月，窗口外仅登记；未独立核验，不录事件"
+  },
+  {
+   "url": "https://news.crunchbase.com/ai/protecting-trade-secrets-legal-kugler-grellas-shah/",
+   "canonical_url": "https://news.crunchbase.com/ai/protecting-trade-secrets-legal-kugler-grellas-shah/",
+   "source_id": "crunchbase_news",
+   "first_collected_at": "2026-10-25T00:04:40+00:00",
+   "last_collected_at": "2026-10-25T00:04:40+00:00",
+   "issue_id": "01a1705b-9f19-77b2-98eb-7e83b3489246",
+   "event_id": null,
+   "status": "excluded_not_event",
+   "revision": 1
   }
  ]
 }

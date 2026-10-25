@@ -252,6 +252,20 @@
    "report_path": "reports/2026-10-24-daily.md",
    "publication_comment_id": "01a16b8f-c11e-7c14-b37d-32a18d6c2f5b",
    "publication_note": "已交付Issue评论并附报告/追踪附件（2026-10-24T01:39:05Z）；同Issue不重复发布。窗口内新增5条融资（maxinsights/xona/daytona/pathos-ai/star-therapeutics），历史回补4条（tenstorrent/asi/whop/mika-games）。"
+  },
+  {
+   "date": "2026-10-25",
+   "run_key": "2026-10-25",
+   "issue_id": "01a1705b-9f19-77b2-98eb-7e83b3489246",
+   "issue_identifier": "TECH-64",
+   "event_ids": [],
+   "revision": 1,
+   "status": "ready_for_delivery",
+   "window_start": "2026-10-23T00:00:15Z",
+   "window_end": "2026-10-25T00:00:15Z",
+   "report_path": "reports/2026-10-25-daily.md",
+   "publication_comment_id": null,
+   "publication_note": "报告已验证并准备交付；发布回执以对应Issue最终评论为准，重试必须先查评论。"
   }
  ]
 }
