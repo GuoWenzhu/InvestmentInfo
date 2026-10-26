@@ -1,0 +1,77 @@
+{
+ "issue_id": "01a17582-28aa-703c-b601-8990db34ee22",
+ "issue_identifier": "TECH-67",
+ "collected_at": "2026-10-26T00:02:16+00:00",
+ "window_start": "2026-10-24T00:00:26Z",
+ "window_end": "2026-10-26T00:00:26Z",
+ "source_attempts": [
+  {
+   "source_id": "crunchbase_news",
+   "attempted_at": "2026-10-26T00:02:16+00:00",
+   "status": "success_zero_output",
+   "evidence_url": "https://news.crunchbase.com/feed/",
+   "notes": "RSS成功（117KB，10条，HTTP 200）+首页浏览器UA成功（170KB，HTTP 200）。RSS顶部最新仍为10-23T18:51Z周榜（TECH-60已全文处理录入）；10-24（周六）/10-25（周日）全天无新发文，首页亦无窗口内新条目，属正常周末节奏"
+  },
+  {
+   "source_id": "techcrunch",
+   "attempted_at": "2026-10-26T00:02:16+00:00",
+   "status": "success_zero_output",
+   "evidence_url": "https://techcrunch.com/category/startups/",
+   "notes": "栏目页可读（302KB，HTTP 200，curl直连）。最新条目仍为10-23全部6条（Daytona/Carta×NewView/Founder Summit×2/PMF评论×2，均前次已处理）；10-24/10-25无新条目"
+  },
+  {
+   "source_id": "sifted",
+   "attempted_at": "2026-10-26T00:02:16+00:00",
+   "status": "success_zero_output",
+   "evidence_url": "https://sifted.eu/feed",
+   "notes": "RSS成功（9.9KB，24条，HTTP 200）。窗口内新增1条：Alex Depledge辞去英国财政部职务（10-25T18:43Z），标题与feed自述为人员变动/行业新闻，非融资披露；正文页403（Cloudflare JS质询，与既往一致），基于RSS标题与元数据排除并登记台账"
+  },
+  {
+   "source_id": "accel",
+   "attempted_at": "2026-10-26T00:02:16+00:00",
+   "status": "success_zero_output",
+   "evidence_url": "https://www.accel.com/news",
+   "notes": "新闻列表可读（546KB，HTTP 200）。顶部仍为Zetwerk IPO评论与Our Investment in Arda（页面显示10-23，事件已于TECH-51按披露日10-20录入arda-20261020-equity）；其后Origin（10-20）、Modal（10-15）均已处理；窗口内无新投资公告"
+  },
+  {
+   "source_id": "qiming",
+   "attempted_at": "2026-10-26T00:02:16+00:00",
+   "status": "success_zero_output",
+   "evidence_url": "https://www.qimingvc.com/cn/newsroom",
+   "notes": "新闻室可读（53KB，HTTP 200）。新闻区顶部仍为Vol.32周报（2026.10.21）与启明头条2条（实习生计划/开放日，均已登记排除）；窗口内无新条目"
+  },
+  {
+   "source_id": "nvca",
+   "attempted_at": "2026-10-26T00:02:16+00:00",
+   "status": "success_zero_output",
+   "evidence_url": "https://nvca.org/pitchbook-nvca-venture-monitor/",
+   "notes": "指定入口可达（HTTP 200，174KB）；Q3 2026 Venture Monitor未变（AI占交易额82.7%口径不变）；季度统计不生成离散事件"
+  },
+  {
+   "source_id": "techstars",
+   "attempted_at": "2026-10-26T00:02:16+00:00",
+   "status": "success_zero_output",
+   "evidence_url": "https://www.techstars.com/portfolio",
+   "notes": "组合目录页可读（256KB，HTTP 200）；独角兽名录与组合统计，目录收录不生成融资事件；窗口内无融资信息"
+  },
+  {
+   "source_id": "company_official",
+   "attempted_at": "2026-10-26T00:02:16+00:00",
+   "status": "success_zero_output",
+   "evidence_url": null,
+   "notes": "本窗口无新事件候选，未触发事件核验"
+  }
+ ],
+ "exclusions_in_window": 1,
+ "exclusions_detail": [
+  {
+   "url": "https://sifted.eu/articles/alex-depledge-quits-uk-startups-scaleups-sideshow/",
+   "source_id": "sifted",
+   "published_at": "2026-10-25T18:43:50+00:00",
+   "reason": "人员变动/行业新闻（Alex Depledge辞去英国财政部初创企业相关职务）；正文页403（Cloudflare），基于RSS标题与元数据判断为非融资披露，excluded_not_event"
+  }
+ ],
+ "new_events": [],
+ "corrections": [],
+ "historical_backfill_note": "无"
+}

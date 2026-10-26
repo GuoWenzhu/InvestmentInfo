@@ -266,6 +266,20 @@
    "report_path": "reports/2026-10-25-daily.md",
    "publication_comment_id": "01a17061-da54-7535-9df6-a5dc15ed643b",
    "publication_note": "已交付Issue评论并附报告/采集附件（2026-10-25T00:07:03Z）；同Issue不重复发布。窗口内零新增零更正零回补（真实零事件日，8入口全部成功读取）。"
+  },
+  {
+   "date": "2026-10-26",
+   "run_key": "2026-10-26",
+   "issue_id": "01a17582-28aa-703c-b601-8990db34ee22",
+   "issue_identifier": "TECH-67",
+   "event_ids": [],
+   "revision": 1,
+   "status": "ready_for_delivery",
+   "window_start": "2026-10-24T00:00:26Z",
+   "window_end": "2026-10-26T00:00:26Z",
+   "report_path": "reports/2026-10-26-daily.md",
+   "publication_comment_id": null,
+   "publication_note": "报告已验证并准备交付；发布回执以对应Issue最终评论为准，重试必须先查评论。"
   }
  ]
 }

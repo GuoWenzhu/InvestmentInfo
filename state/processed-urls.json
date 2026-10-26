@@ -3219,6 +3219,18 @@
    "event_id": null,
    "status": "excluded_not_event",
    "revision": 1
+  },
+  {
+   "url": "https://sifted.eu/articles/alex-depledge-quits-uk-startups-scaleups-sideshow/",
+   "canonical_url": "https://sifted.eu/articles/alex-depledge-quits-uk-startups-scaleups-sideshow/",
+   "source_id": "sifted",
+   "first_collected_at": "2026-10-26T00:02:16+00:00",
+   "last_collected_at": "2026-10-26T00:02:16+00:00",
+   "issue_id": "01a17582-28aa-703c-b601-8990db34ee22",
+   "event_id": null,
+   "status": "excluded_not_event",
+   "revision": 1,
+   "note": "人员变动/行业新闻（10-25）；正文页403，基于RSS标题与元数据排除"
   }
  ]
 }
