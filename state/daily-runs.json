@@ -274,12 +274,12 @@
    "issue_identifier": "TECH-67",
    "event_ids": [],
    "revision": 1,
-   "status": "ready_for_delivery",
+   "status": "delivered",
    "window_start": "2026-10-24T00:00:26Z",
    "window_end": "2026-10-26T00:00:26Z",
    "report_path": "reports/2026-10-26-daily.md",
-   "publication_comment_id": null,
-   "publication_note": "报告已验证并准备交付；发布回执以对应Issue最终评论为准，重试必须先查评论。"
+   "publication_comment_id": "01a17588-ae37-79a3-9461-f0057db26b4f",
+   "publication_note": "已交付Issue评论并附报告/采集/追踪附件（2026-10-26T00:07:34Z）；同Issue不重复发布。窗口内零新增零更正零回补（真实零事件日，8入口全部成功读取）。"
   }
  ]
 }
