@@ -214,3 +214,12 @@
 {"investor_id": "craft-ventures", "name": "Craft Ventures", "aliases": [], "parent_id": null}
 {"investor_id": "shopify-ventures", "name": "Shopify Ventures", "aliases": [], "parent_id": null}
 {"investor_id": "flint-capital", "name": "Flint Capital", "aliases": [], "parent_id": null}
+{"investor_id": "eqt-ventures", "name": "EQT Ventures", "aliases": [], "parent_id": "eqt"}
+{"investor_id": "quantumlight", "name": "QuantumLight", "aliases": ["QuantumLight Capital"], "parent_id": null}
+{"investor_id": "ribbit", "name": "Ribbit Capital", "aliases": [], "parent_id": null}
+{"investor_id": "charles-schwab", "name": "Charles Schwab Corporation（战略投资）", "aliases": ["Schwab"], "parent_id": null}
+{"investor_id": "heartcore", "name": "Heartcore Capital", "aliases": [], "parent_id": null}
+{"investor_id": "mosaic-ventures", "name": "Mosaic Ventures", "aliases": [], "parent_id": null}
+{"investor_id": "chalfen-ventures", "name": "Chalfen Ventures", "aliases": [], "parent_id": null}
+{"investor_id": "joyance-partners", "name": "Joyance Partners", "aliases": [], "parent_id": null}
+{"investor_id": "bain-future-back", "name": "Future Back Ventures（Bain & Company）", "aliases": ["Bain Future Back Ventures"], "parent_id": null}

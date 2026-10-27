@@ -1,0 +1,85 @@
+{
+ "issue_id": "01a17aa8-8528-74d4-8ef2-8cd2d3e0fd4a",
+ "issue_identifier": "TECH-70",
+ "collected_at": "2026-10-27T00:07:22+00:00",
+ "window_start": "2026-10-25T00:00:26Z",
+ "window_end": "2026-10-27T00:00:26Z",
+ "source_attempts": [
+  {
+   "source_id": "crunchbase_news",
+   "attempted_at": "2026-10-27T00:01:00+00:00",
+   "status": "success_with_update",
+   "evidence_url": "https://news.crunchbase.com/feed/",
+   "notes": "RSS成功（103KB，10条，HTTP 200）+首页（169KB，HTTP 200）。窗口内新增3条（均10-26）：Anthropic IPO filing观察（20:10Z，IPO评论排除）、Joonko法律专栏（11:00Z排除）、加州2026融资总量统计（11:00Z排除）；10-23周榜/专栏为TECH-60已处理"
+  },
+  {
+   "source_id": "techcrunch",
+   "attempted_at": "2026-10-27T00:01:00+00:00",
+   "status": "success_zero_output",
+   "evidence_url": "https://techcrunch.com/category/startups/",
+   "notes": "栏目页可读（303KB，HTTP 200，curl直连）。窗口内3条：10-24 AI Graveyard清单、10-25 Grok产品演示、10-26 Databricks联创访谈，均非融资，排除登记"
+  },
+  {
+   "source_id": "sifted",
+   "attempted_at": "2026-10-27T00:01:00+00:00",
+   "status": "success_with_update",
+   "evidence_url": "https://sifted.eu/feed",
+   "notes": "RSS成功（10KB，24条，HTTP 200）。窗口内12条新条目：3条事件（Nevis $70M Series B 16:57Z、Nous $17M独家 05:00Z、Evertrace收购Veck 10:54Z）经官方域名+媒体交叉核验后录入；8条排除（分析/访谈/观点/产品发布/统计）；10-25 Depledge条目上窗口已登记。正文页3次尝试均403（Cloudflare JS质询，与既往一致）"
+  },
+  {
+   "source_id": "accel",
+   "attempted_at": "2026-10-27T00:01:00+00:00",
+   "status": "success_zero_output",
+   "evidence_url": "https://www.accel.com/news",
+   "notes": "新闻列表可读（546KB，HTTP 200）。文档序顶部仍为Zetwerk IPO评论/Our Investment in Arda/Origin/Modal（均已处理）；窗口内无新投资公告"
+  },
+  {
+   "source_id": "qiming",
+   "attempted_at": "2026-10-27T00:01:00+00:00",
+   "status": "success_zero_output",
+   "evidence_url": "https://www.qimingvc.com/cn/newsroom",
+   "notes": "新闻室可读（53KB，HTTP 200）。最新日期条目仍为Vol.32周报（2026.10.21）；顶部5条启明观点为观点类目（邝子平/胡旭波/周志峰等，非融资）；窗口内无新融资条目"
+  },
+  {
+   "source_id": "nvca",
+   "attempted_at": "2026-10-27T00:01:00+00:00",
+   "status": "success_zero_output",
+   "evidence_url": "https://nvca.org/pitchbook-nvca-venture-monitor/",
+   "notes": "首次请求403（瞬时），同分钟重试200（174KB）；Q3 2026 Venture Monitor未变；季度统计不生成离散事件"
+  },
+  {
+   "source_id": "techstars",
+   "attempted_at": "2026-10-27T00:01:00+00:00",
+   "status": "success_zero_output",
+   "evidence_url": "https://www.techstars.com/portfolio",
+   "notes": "组合目录页可读（251KB，HTTP 200）；目录收录不生成融资事件；窗口内无融资信息"
+  },
+  {
+   "source_id": "company_official",
+   "attempted_at": "2026-10-27T00:07:22+00:00",
+   "status": "success_with_update",
+   "evidence_url": null,
+   "notes": "3起事件触发官方域名核验：neviswealth.com/blog公告（38.5KB，HTTP 200）、nous.co/blog公告（102KB，HTTP 200）、evertrace.ai/blog-post公告（88.6KB，HTTP 200），均确认官方域名、读取公告原文并登记证据"
+  }
+ ],
+ "exclusions_in_window": 14,
+ "exclusions_detail": [
+  {"url": "https://news.crunchbase.com/public/anthropic-ipo-filing-ai-earnings-growth-risks/", "source_id": "crunchbase_news", "published_at": "2026-10-26T20:10:57+00:00", "reason": "IPO filing评论/分析，excluded_not_event"},
+  {"url": "https://news.crunchbase.com/startups/personal-exposure-securities-fraud-joonko-jeziorski-founder-shield/", "source_id": "crunchbase_news", "published_at": "2026-10-26T11:00:38+00:00", "reason": "法律专栏，excluded_not_event"},
+  {"url": "https://news.crunchbase.com/venture/california-startups-most-us-funding-2026-openai-anthropic/", "source_id": "crunchbase_news", "published_at": "2026-10-26T11:00:35+00:00", "reason": "年度聚合统计，excluded_not_event"},
+  {"url": "https://sifted.eu/articles/revolut-lending-personal-watershed-challenge-banks/", "source_id": "sifted", "published_at": "2026-10-26T17:03:39+00:00", "reason": "业务分析（正文403，RSS标题判定），excluded_not_event"},
+  {"url": "https://sifted.eu/articles/revolut-ceo-slams-dangerous-vcs/", "source_id": "sifted", "published_at": "2026-10-26T14:37:13+00:00", "reason": "访谈/观点，excluded_not_event"},
+  {"url": "https://sifted.eu/articles/ai-takes-the-easy-decisions-leaders-brnd/", "source_id": "sifted", "published_at": "2026-10-26T10:38:23+00:00", "reason": "品牌内容/观点，excluded_not_event"},
+  {"url": "https://sifted.eu/articles/strawberrys-charles-maddock-lessons-anton-osika-legoras-junestrand-general-catalyst/", "source_id": "sifted", "published_at": "2026-10-26T10:21:40+00:00", "reason": "高管访谈，excluded_not_event"},
+  {"url": "https://sifted.eu/articles/sovereignty-comes-to-pan-european-spinout-event-stage-two/", "source_id": "sifted", "published_at": "2026-10-26T05:00:16+00:00", "reason": "活动报道，excluded_not_event"},
+  {"url": "https://sifted.eu/articles/follow-jensens-money-not-his-mouth/", "source_id": "sifted", "published_at": "2026-10-26T05:00:12+00:00", "reason": "专栏观点，excluded_not_event"},
+  {"url": "https://sifted.eu/articles/strawberry-browser-1-0/", "source_id": "sifted", "published_at": "2026-10-26T05:00:08+00:00", "reason": "产品发布新闻，excluded_not_event"},
+  {"url": "https://sifted.eu/articles/europe-third-consecutive-record-quarter-paris-munich-outstrip-london/", "source_id": "sifted", "published_at": "2026-10-26T05:00:00+00:00", "reason": "季度聚合统计，excluded_not_event"},
+  {"url": "https://techcrunch.com/2026/10/24/the-ai-graveyard-a-running-list-of-projects-and-startups-that-didnt-make-it/", "source_id": "techcrunch", "published_at": "2026-10-24", "reason": "行业清单，excluded_not_event"},
+  {"url": "https://techcrunch.com/2026/10/25/grok-releases-the-first-seven-minutes-of-its-ai-generated-odyssey/", "source_id": "techcrunch", "published_at": "2026-10-25", "reason": "产品新闻，excluded_not_event"},
+  {"url": "https://techcrunch.com/2026/10/26/databricks-co-founder-shares-his-secrets-for-winning-big-enterprises-customers/", "source_id": "techcrunch", "published_at": "2026-10-26", "reason": "访谈/观点，excluded_not_event"}
+ ],
+ "new_events": ["nevis-20261026-equity", "nous-20261026-equity", "veck-20261026-acquisition"],
+ "corrections": [],
+ "historical_backfill_note": "无"
+}

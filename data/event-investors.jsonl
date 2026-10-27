@@ -261,3 +261,14 @@
 {"event_id": "whop-20261021-equity", "investor_id": "sequoia", "role": "co_lead", "investment_amount": null, "currency": "UNK", "evidence_ids": ["whop-official-1", "whop-cb-1"]}
 {"event_id": "whop-20261021-equity", "investor_id": "shopify-ventures", "role": "co_lead", "investment_amount": null, "currency": "UNK", "evidence_ids": ["whop-official-1", "whop-cb-1"]}
 {"event_id": "mika-games-20261021-equity", "investor_id": "flint-capital", "role": "lead", "investment_amount": null, "currency": "UNK", "evidence_ids": ["mika-techeu-1", "mika-cb-1"]}
+{"event_id": "nevis-20261026-equity", "investor_id": "eqt-ventures", "role": "lead", "investment_amount": null, "currency": "UNK", "evidence_ids": ["nevis-official-1", "nevis-dr-1"]}
+{"event_id": "nevis-20261026-equity", "investor_id": "charles-schwab", "role": "participant", "investment_amount": null, "currency": "UNK", "evidence_ids": ["nevis-official-1", "nevis-dr-1"]}
+{"event_id": "nevis-20261026-equity", "investor_id": "quantumlight", "role": "participant", "investment_amount": null, "currency": "UNK", "evidence_ids": ["nevis-official-1", "nevis-sifted-1"]}
+{"event_id": "nevis-20261026-equity", "investor_id": "sequoia", "role": "participant", "investment_amount": null, "currency": "UNK", "evidence_ids": ["nevis-official-1"]}
+{"event_id": "nevis-20261026-equity", "investor_id": "iconiq", "role": "participant", "investment_amount": null, "currency": "UNK", "evidence_ids": ["nevis-official-1"]}
+{"event_id": "nevis-20261026-equity", "investor_id": "ribbit", "role": "participant", "investment_amount": null, "currency": "UNK", "evidence_ids": ["nevis-official-1"]}
+{"event_id": "nous-20261026-equity", "investor_id": "heartcore", "role": "lead", "investment_amount": null, "currency": "UNK", "evidence_ids": ["nous-official-1", "nous-techeu-1"]}
+{"event_id": "nous-20261026-equity", "investor_id": "mosaic-ventures", "role": "participant", "investment_amount": null, "currency": "UNK", "evidence_ids": ["nous-official-1", "nous-techeu-1"]}
+{"event_id": "nous-20261026-equity", "investor_id": "chalfen-ventures", "role": "participant", "investment_amount": null, "currency": "UNK", "evidence_ids": ["nous-official-1", "nous-techeu-1"]}
+{"event_id": "nous-20261026-equity", "investor_id": "joyance-partners", "role": "participant", "investment_amount": null, "currency": "UNK", "evidence_ids": ["nous-official-1", "nous-techeu-1"]}
+{"event_id": "nous-20261026-equity", "investor_id": "bain-future-back", "role": "participant", "investment_amount": null, "currency": "UNK", "evidence_ids": ["nous-official-1", "nous-techeu-1"]}
