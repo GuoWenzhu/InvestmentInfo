@@ -292,12 +292,12 @@
     "veck-20261026-acquisition"
    ],
    "revision": 1,
-   "status": "ready_for_delivery",
+   "status": "delivered",
    "window_start": "2026-10-25T00:00:26Z",
    "window_end": "2026-10-27T00:00:26Z",
    "report_path": "reports/2026-10-27-daily.md",
-   "publication_comment_id": null,
-   "publication_note": "报告已验证并准备交付；发布回执以对应Issue最终评论为准，重试必须先查评论。"
+   "publication_comment_id": "01a17ab3-e1cd-7450-af95-1fcbb3b297a7",
+   "publication_note": "已交付Issue评论并附报告/追踪附件（2026-10-27T00:12:51Z）；同Issue不重复发布。窗口内新增3条（nevis-20261026-equity、nous-20261026-equity、veck-20261026-acquisition）。"
   }
  ]
 }
