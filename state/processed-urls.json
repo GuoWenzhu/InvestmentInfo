@@ -3512,6 +3512,226 @@
    "status": "excluded_not_event",
    "revision": 1,
    "note": "Databricks联创访谈（10-26）；观点/访谈非融资"
+  },
+  {
+   "url": "https://techcrunch.com/2026/10/27/guidewire-buys-hyperexponential-for-1-7b-in-cash/",
+   "canonical_url": "https://techcrunch.com/2026/10/27/guidewire-buys-hyperexponential-for-1-7b-in-cash/",
+   "source_id": "techcrunch",
+   "first_collected_at": "2026-10-28T00:15:27+00:00",
+   "last_collected_at": "2026-10-28T00:15:27+00:00",
+   "issue_id": "01a17fce-a40c-718e-aadf-d649b6d000e0",
+   "event_id": "hyperexponential-20261027-acquisition",
+   "status": "accepted",
+   "revision": 1
+  },
+  {
+   "url": "https://techcrunch.com/2026/10/27/rebuild-which-spun-out-slate-auto-raises-2-1b/",
+   "canonical_url": "https://techcrunch.com/2026/10/27/rebuild-which-spun-out-slate-auto-raises-2-1b/",
+   "source_id": "techcrunch",
+   "first_collected_at": "2026-10-28T00:15:27+00:00",
+   "last_collected_at": "2026-10-28T00:15:27+00:00",
+   "issue_id": "01a17fce-a40c-718e-aadf-d649b6d000e0",
+   "event_id": "rebuild-20261027-equity",
+   "status": "accepted",
+   "revision": 1
+  },
+  {
+   "url": "https://techcrunch.com/2026/10/27/disruptive-raises-10b-fund-to-make-big-bets-on-at-least-10-companies/",
+   "canonical_url": "https://techcrunch.com/2026/10/27/disruptive-raises-10b-fund-to-make-big-bets-on-at-least-10-companies/",
+   "source_id": "techcrunch",
+   "first_collected_at": "2026-10-28T00:15:27+00:00",
+   "last_collected_at": "2026-10-28T00:15:27+00:00",
+   "issue_id": "01a17fce-a40c-718e-aadf-d649b6d000e0",
+   "event_id": "disruptive-20261027-fund",
+   "status": "accepted",
+   "revision": 1
+  },
+  {
+   "url": "https://techcrunch.com/2026/10/27/nvidia-backs-indian-startup-helping-companies-run-ai-models-with-fewer-gpus/",
+   "canonical_url": "https://techcrunch.com/2026/10/27/nvidia-backs-indian-startup-helping-companies-run-ai-models-with-fewer-gpus/",
+   "source_id": "techcrunch",
+   "first_collected_at": "2026-10-28T00:15:27+00:00",
+   "last_collected_at": "2026-10-28T00:15:27+00:00",
+   "issue_id": "01a17fce-a40c-718e-aadf-d649b6d000e0",
+   "event_id": "simplismart-20261027-equity",
+   "status": "accepted",
+   "revision": 1
+  },
+  {
+   "url": "https://sifted.eu/articles/sequoia-general-catalyst-22one-ai-police-startup/",
+   "canonical_url": "https://sifted.eu/articles/sequoia-general-catalyst-22one-ai-police-startup/",
+   "source_id": "sifted",
+   "first_collected_at": "2026-10-28T00:15:27+00:00",
+   "last_collected_at": "2026-10-28T00:15:27+00:00",
+   "issue_id": "01a17fce-a40c-718e-aadf-d649b6d000e0",
+   "event_id": "22one-20261027-equity",
+   "status": "accepted",
+   "revision": 1
+  },
+  {
+   "url": "https://www.hyperexponential.com/newsroom/guidewire-signs-definitive-agreement-to-acquire-hyperexponential",
+   "canonical_url": "https://www.hyperexponential.com/newsroom/guidewire-signs-definitive-agreement-to-acquire-hyperexponential",
+   "source_id": "company_official",
+   "first_collected_at": "2026-10-28T00:15:27+00:00",
+   "last_collected_at": "2026-10-28T00:15:27+00:00",
+   "issue_id": "01a17fce-a40c-718e-aadf-d649b6d000e0",
+   "event_id": "hyperexponential-20261027-acquisition",
+   "status": "evidence",
+   "revision": 1
+  },
+  {
+   "url": "https://rebuildmanufacturing.com/newsroom/news/rebuild-2-1-billion-reindustrialize-america/",
+   "canonical_url": "https://rebuildmanufacturing.com/newsroom/news/rebuild-2-1-billion-reindustrialize-america/",
+   "source_id": "company_official",
+   "first_collected_at": "2026-10-28T00:15:27+00:00",
+   "last_collected_at": "2026-10-28T00:15:27+00:00",
+   "issue_id": "01a17fce-a40c-718e-aadf-d649b6d000e0",
+   "event_id": "rebuild-20261027-equity",
+   "status": "evidence",
+   "revision": 1
+  },
+  {
+   "url": "https://simplismart.ai/blog/nvidia-backs-our-14m-series-b",
+   "canonical_url": "https://simplismart.ai/blog/nvidia-backs-our-14m-series-b",
+   "source_id": "company_official",
+   "first_collected_at": "2026-10-28T00:15:27+00:00",
+   "last_collected_at": "2026-10-28T00:15:27+00:00",
+   "issue_id": "01a17fce-a40c-718e-aadf-d649b6d000e0",
+   "event_id": "simplismart-20261027-equity",
+   "status": "evidence",
+   "revision": 1
+  },
+  {
+   "url": "https://22one.ai/",
+   "canonical_url": "https://22one.ai/",
+   "source_id": "company_official",
+   "first_collected_at": "2026-10-28T00:15:27+00:00",
+   "last_collected_at": "2026-10-28T00:15:27+00:00",
+   "issue_id": "01a17fce-a40c-718e-aadf-d649b6d000e0",
+   "event_id": "22one-20261027-equity",
+   "status": "evidence",
+   "revision": 1
+  },
+  {
+   "url": "https://news.crunchbase.com/venture/q3-2026-us-china-robotics-startup-funding-jumps-physical-ai-push/",
+   "canonical_url": "https://news.crunchbase.com/venture/q3-2026-us-china-robotics-startup-funding-jumps-physical-ai-push/",
+   "source_id": "crunchbase_news",
+   "first_collected_at": "2026-10-28T00:15:27+00:00",
+   "last_collected_at": "2026-10-28T00:15:27+00:00",
+   "issue_id": "01a17fce-a40c-718e-aadf-d649b6d000e0",
+   "event_id": null,
+   "status": "excluded_not_event",
+   "revision": 1
+  },
+  {
+   "url": "https://news.crunchbase.com/real-estate-property-tech/agentic-ai-staffing-coo-folgmann-get-covered/",
+   "canonical_url": "https://news.crunchbase.com/real-estate-property-tech/agentic-ai-staffing-coo-folgmann-get-covered/",
+   "source_id": "crunchbase_news",
+   "first_collected_at": "2026-10-28T00:15:27+00:00",
+   "last_collected_at": "2026-10-28T00:15:27+00:00",
+   "issue_id": "01a17fce-a40c-718e-aadf-d649b6d000e0",
+   "event_id": null,
+   "status": "excluded_not_event",
+   "revision": 1
+  },
+  {
+   "url": "https://techcrunch.com/2026/10/27/meta-ai-director-rohit-patel-leaves-to-take-on-microsoft-office-and-google-workspace/",
+   "canonical_url": "https://techcrunch.com/2026/10/27/meta-ai-director-rohit-patel-leaves-to-take-on-microsoft-office-and-google-workspace/",
+   "source_id": "techcrunch",
+   "first_collected_at": "2026-10-28T00:15:27+00:00",
+   "last_collected_at": "2026-10-28T00:15:27+00:00",
+   "issue_id": "01a17fce-a40c-718e-aadf-d649b6d000e0",
+   "event_id": null,
+   "status": "excluded_not_event",
+   "revision": 1
+  },
+  {
+   "url": "https://techcrunch.com/2026/10/27/billionaire-palmer-luckey-isnt-leaving-california-over-the-wealth-tax/",
+   "canonical_url": "https://techcrunch.com/2026/10/27/billionaire-palmer-luckey-isnt-leaving-california-over-the-wealth-tax/",
+   "source_id": "techcrunch",
+   "first_collected_at": "2026-10-28T00:15:27+00:00",
+   "last_collected_at": "2026-10-28T00:15:27+00:00",
+   "issue_id": "01a17fce-a40c-718e-aadf-d649b6d000e0",
+   "event_id": null,
+   "status": "excluded_not_event",
+   "revision": 1
+  },
+  {
+   "url": "https://techcrunch.com/2026/10/27/anduril-qualcomm-launch-bluechip-a-new-kind-of-us-made-laptop/",
+   "canonical_url": "https://techcrunch.com/2026/10/27/anduril-qualcomm-launch-bluechip-a-new-kind-of-us-made-laptop/",
+   "source_id": "techcrunch",
+   "first_collected_at": "2026-10-28T00:15:27+00:00",
+   "last_collected_at": "2026-10-28T00:15:27+00:00",
+   "issue_id": "01a17fce-a40c-718e-aadf-d649b6d000e0",
+   "event_id": null,
+   "status": "excluded_not_event",
+   "revision": 1
+  },
+  {
+   "url": "https://techcrunch.com/2026/10/27/from-8vc-to-benchmark-heres-whats-hiding-in-october-sec-filings/",
+   "canonical_url": "https://techcrunch.com/2026/10/27/from-8vc-to-benchmark-heres-whats-hiding-in-october-sec-filings/",
+   "source_id": "techcrunch",
+   "first_collected_at": "2026-10-28T00:15:27+00:00",
+   "last_collected_at": "2026-10-28T00:15:27+00:00",
+   "issue_id": "01a17fce-a40c-718e-aadf-d649b6d000e0",
+   "event_id": null,
+   "status": "excluded_not_event",
+   "revision": 1
+  },
+  {
+   "url": "https://sifted.eu/articles/revolut-faces-bank-of-england-scrutiny-over-product-approval-process-reports-say/",
+   "canonical_url": "https://sifted.eu/articles/revolut-faces-bank-of-england-scrutiny-over-product-approval-process-reports-say/",
+   "source_id": "sifted",
+   "first_collected_at": "2026-10-28T00:15:27+00:00",
+   "last_collected_at": "2026-10-28T00:15:27+00:00",
+   "issue_id": "01a17fce-a40c-718e-aadf-d649b6d000e0",
+   "event_id": null,
+   "status": "excluded_not_event",
+   "revision": 1
+  },
+  {
+   "url": "https://sifted.eu/articles/are-vcs-as-dangerous-as-nik-storonsky-thinks-they-are/",
+   "canonical_url": "https://sifted.eu/articles/are-vcs-as-dangerous-as-nik-storonsky-thinks-they-are/",
+   "source_id": "sifted",
+   "first_collected_at": "2026-10-28T00:15:27+00:00",
+   "last_collected_at": "2026-10-28T00:15:27+00:00",
+   "issue_id": "01a17fce-a40c-718e-aadf-d649b6d000e0",
+   "event_id": null,
+   "status": "excluded_not_event",
+   "revision": 1
+  },
+  {
+   "url": "https://sifted.eu/articles/repeat-fintech-founders-face-ai/",
+   "canonical_url": "https://sifted.eu/articles/repeat-fintech-founders-face-ai/",
+   "source_id": "sifted",
+   "first_collected_at": "2026-10-28T00:15:27+00:00",
+   "last_collected_at": "2026-10-28T00:15:27+00:00",
+   "issue_id": "01a17fce-a40c-718e-aadf-d649b6d000e0",
+   "event_id": null,
+   "status": "excluded_not_event",
+   "revision": 1
+  },
+  {
+   "url": "https://sifted.eu/articles/the-used-car-industry-is-europes-untapped-asset-brnd/",
+   "canonical_url": "https://sifted.eu/articles/the-used-car-industry-is-europes-untapped-asset-brnd/",
+   "source_id": "sifted",
+   "first_collected_at": "2026-10-28T00:15:27+00:00",
+   "last_collected_at": "2026-10-28T00:15:27+00:00",
+   "issue_id": "01a17fce-a40c-718e-aadf-d649b6d000e0",
+   "event_id": null,
+   "status": "excluded_not_event",
+   "revision": 1
+  },
+  {
+   "url": "https://sifted.eu/articles/new-funds-in-europe-in-q3-2026/",
+   "canonical_url": "https://sifted.eu/articles/new-funds-in-europe-in-q3-2026/",
+   "source_id": "sifted",
+   "first_collected_at": "2026-10-28T00:15:27+00:00",
+   "last_collected_at": "2026-10-28T00:15:27+00:00",
+   "issue_id": "01a17fce-a40c-718e-aadf-d649b6d000e0",
+   "event_id": null,
+   "status": "excluded_not_event",
+   "revision": 1
   }
  ]
 }

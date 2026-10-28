@@ -1,0 +1,135 @@
+{
+ "issue_id": "01a17fce-a40c-718e-aadf-d649b6d000e0",
+ "issue_identifier": "TECH-73",
+ "collected_at": "2026-10-28T00:16:24+00:00",
+ "window_start": "2026-10-26T00:00:11Z",
+ "window_end": "2026-10-28T00:00:11Z",
+ "source_attempts": [
+  {
+   "source_id": "crunchbase_news",
+   "attempted_at": "2026-10-28T00:02:02+00:00",
+   "status": "success_zero_output",
+   "evidence_url": "https://news.crunchbase.com/feed/",
+   "notes": "RSS成功（103KB，10条，HTTP 200）+首页。窗口内新增2条（均10-27）：Q3机器人融资统计185%（11:00:53Z，聚合统计排除）、AI代理COO专栏（11:00:44Z，观点排除）；10-26 Anthropic IPO filing/Joonko/加州统计为TECH-70已处理"
+  },
+  {
+   "source_id": "techcrunch",
+   "attempted_at": "2026-10-28T00:02:02+00:00",
+   "status": "success",
+   "evidence_url": "https://techcrunch.com/category/startups/",
+   "notes": "Startups栏目可读（305KB，HTTP 200，curl直连），另核Venture流1条。窗口内8条（10-27为主）：4条录入——Guidewire收购hyperexponential $1.7B（22:26Z）、Re:Build $2.1B（20:31Z）、Disruptive $10B基金（18:55Z）、NVIDIA参投Simplismart $14M B轮（11:00Z），均全文逐篇核验并经官方域名+交叉媒体验证；4条排除——Meta AI总监离职人事（人事）、Palmer Luckey（人物/观点）、Anduril-Qualcomm Bluechip笔记本（产品发布）、10月SEC文件分析（分析，22:17Z）；10-26 Databricks联创访谈为TECH-70已处理"
+  },
+  {
+   "source_id": "sifted",
+   "attempted_at": "2026-10-28T00:02:02+00:00",
+   "status": "success",
+   "evidence_url": "https://sifted.eu/feed",
+   "notes": "RSS成功（10KB，24条，HTTP 200，lastBuildDate 10-28T00:01:27Z）。窗口内新增6条：22one（12:21Z）经Sifted标题/导语+FT/The Times/TFN/Dealroom头条交叉+官网22one.ai stealth确认后录入（置信中，投资方名单各媒体有差异已留痕）；5条排除——Revolut BoE监管新闻（22:38Z）、Storonsky VC访谈（16:00Z）、fintech创始人分析（11:00Z）、used-car赞助内容（09:10Z）、Q3欧洲新基金聚合（05:00Z，聚合统计不生成离散基金事件）；10-26及更早条目为TECH-70已处理。正文页curl 403（Cloudflare）+fetch工具部分可读（标题/导语可读、正文混淆字符，未尝试解绕，付费墙保护内容不以绕过方式获取）"
+  },
+  {
+   "source_id": "accel",
+   "attempted_at": "2026-10-28T00:02:02+00:00",
+   "status": "success_zero_output",
+   "evidence_url": "https://www.accel.com/news",
+   "notes": "新闻列表可读（546,596B，HTTP 200，与TECH-70完全同尺寸）；顶部仍为Zetwerk IPO评论/Arda/Origin/Modal（已处理），页面内最晚日期2026-09-17；窗口内无新投资公告"
+  },
+  {
+   "source_id": "qiming",
+   "attempted_at": "2026-10-28T00:02:02+00:00",
+   "status": "success_zero_output",
+   "evidence_url": "https://www.qimingvc.com/cn/newsroom",
+   "notes": "新闻室可读（54KB，HTTP 200）。最新条目仍为Vol.32周报（2026.10.21）；顶部5条启明观点（观点类目非融资）；窗口内无新融资条目"
+  },
+  {
+   "source_id": "nvca",
+   "attempted_at": "2026-10-28T00:02:30+00:00",
+   "status": "failure",
+   "evidence_url": "https://nvca.org/pitchbook-nvca-venture-monitor/",
+   "notes": "三次尝试均403（Cloudflare JS质询1486B；首试+3s重试+20s重试均失败）——首次真实失败（既往模式为'首次瞬时403同分钟重试即200'）；连续失败1次<3次门槛，未转观察，清单无改动；季度统计不生成离散事件，对当日事件产出无影响"
+  },
+  {
+   "source_id": "techstars",
+   "attempted_at": "2026-10-28T00:02:02+00:00",
+   "status": "success_zero_output",
+   "evidence_url": "https://www.techstars.com/portfolio",
+   "notes": "组合目录页可读（251KB，HTTP 200，标题正常）；目录收录不生成融资事件；窗口内无融资信息"
+  },
+  {
+   "source_id": "company_official",
+   "attempted_at": "2026-10-28T00:16:24+00:00",
+   "status": "success",
+   "evidence_url": null,
+   "notes": "5起事件触发核验：hyperexponential.com newsroom公告（457KB，200，全文已读，确证$1.7B基数+$400M或有）、rebuildmanufacturing.com新闻稿（285KB，200，全文已读，确证$2.1B与GC/JPMorgan SIG领投）、simplismart.ai博客（40KB，200，sitemap定位，全文已读，确证$14M B轮与DVC领投/NVIDIA等跟投）、22one.ai（200，title '22one'，desc 'In Stealth'，确认域名与stealth、无公告）；disruptive.com直连SSL失败（官方域名未确认，登记null），Disruptive事件以TechCrunch全文+Google News RSS多家头条（Bloomberg/Axios/Forbes/PRN）交叉核验"
+  }
+ ],
+ "exclusions_in_window": 11,
+ "exclusions_detail": [
+  {
+   "url": "https://news.crunchbase.com/venture/q3-2026-us-china-robotics-startup-funding-jumps-physical-ai-push/",
+   "source_id": "crunchbase_news",
+   "published_at": "2026-10-27T11:00:53+00:00",
+   "reason": "Q3季度融资统计，excluded_not_event"
+  },
+  {
+   "url": "https://news.crunchbase.com/real-estate-property-tech/agentic-ai-staffing-coo-folgmann-get-covered/",
+   "source_id": "crunchbase_news",
+   "published_at": "2026-10-27T11:00:44+00:00",
+   "reason": "观点专栏，excluded_not_event"
+  },
+  {
+   "url": "https://techcrunch.com/2026/10/27/meta-ai-director-rohit-patel-leaves-to-take-on-microsoft-office-and-google-workspace/",
+   "source_id": "techcrunch",
+   "published_at": "2026-10-27",
+   "reason": "人事变动，excluded_not_event"
+  },
+  {
+   "url": "https://techcrunch.com/2026/10/27/billionaire-palmer-luckey-isnt-leaving-california-over-the-wealth-tax/",
+   "source_id": "techcrunch",
+   "published_at": "2026-10-27",
+   "reason": "人物/观点，excluded_not_event"
+  },
+  {
+   "url": "https://techcrunch.com/2026/10/27/anduril-qualcomm-launch-bluechip-a-new-kind-of-us-made-laptop/",
+   "source_id": "techcrunch",
+   "published_at": "2026-10-27",
+   "reason": "产品发布，excluded_not_event"
+  },
+  {
+   "url": "https://techcrunch.com/2026/10/27/from-8vc-to-benchmark-heres-whats-hiding-in-october-sec-filings/",
+   "source_id": "techcrunch",
+   "published_at": "2026-10-27T22:17:18+00:00",
+   "reason": "SEC文件分析，excluded_not_event"
+  },
+  {
+   "url": "https://sifted.eu/articles/revolut-faces-bank-of-england-scrutiny-over-product-approval-process-reports-say/",
+   "source_id": "sifted",
+   "published_at": "2026-10-27T22:38:01+00:00",
+   "reason": "监管新闻，excluded_not_event"
+  },
+  {
+   "url": "https://sifted.eu/articles/are-vcs-as-dangerous-as-nik-storonsky-thinks-they-are/",
+   "source_id": "sifted",
+   "published_at": "2026-10-27T16:00:01+00:00",
+   "reason": "访谈/观点，excluded_not_event"
+  },
+  {
+   "url": "https://sifted.eu/articles/repeat-fintech-founders-face-ai/",
+   "source_id": "sifted",
+   "published_at": "2026-10-27T11:00:12+00:00",
+   "reason": "行业分析，excluded_not_event"
+  },
+  {
+   "url": "https://sifted.eu/articles/the-used-car-industry-is-europes-untapped-asset-brnd/",
+   "source_id": "sifted",
+   "published_at": "2026-10-27T09:10:47+00:00",
+   "reason": "赞助内容(brnd)，excluded_not_event"
+  },
+  {
+   "url": "https://sifted.eu/articles/new-funds-in-europe-in-q3-2026/",
+   "source_id": "sifted",
+   "published_at": "2026-10-27T05:00:23+00:00",
+   "reason": "Q3新基金聚合统计，不生成离散基金事件，excluded_not_event"
+  }
+ ],
+ "nvca_failure_note": "NVCA首次真实失败，consecutive_failures=1，门槛3次，无清单改动"
+}

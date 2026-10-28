@@ -272,3 +272,13 @@
 {"event_id": "nous-20261026-equity", "investor_id": "chalfen-ventures", "role": "participant", "investment_amount": null, "currency": "UNK", "evidence_ids": ["nous-official-1", "nous-techeu-1"]}
 {"event_id": "nous-20261026-equity", "investor_id": "joyance-partners", "role": "participant", "investment_amount": null, "currency": "UNK", "evidence_ids": ["nous-official-1", "nous-techeu-1"]}
 {"event_id": "nous-20261026-equity", "investor_id": "bain-future-back", "role": "participant", "investment_amount": null, "currency": "UNK", "evidence_ids": ["nous-official-1", "nous-techeu-1"]}
+{"event_id": "rebuild-20261027-equity", "investor_id": "general-catalyst", "role": "co_lead", "investment_amount": null, "currency": "UNK", "evidence_ids": ["rebuild-official-1", "rebuild-tc-1"]}
+{"event_id": "rebuild-20261027-equity", "investor_id": "jpmorgan-sig", "role": "co_lead", "investment_amount": null, "currency": "UNK", "evidence_ids": ["rebuild-official-1", "rebuild-tc-1"]}
+{"event_id": "simplismart-20261027-equity", "investor_id": "dallas-venture-capital", "role": "lead", "investment_amount": null, "currency": "UNK", "evidence_ids": ["simplismart-official-1", "simplismart-tc-1"]}
+{"event_id": "simplismart-20261027-equity", "investor_id": "nvidia", "role": "participant", "investment_amount": null, "currency": "UNK", "evidence_ids": ["simplismart-official-1", "simplismart-tc-1"]}
+{"event_id": "simplismart-20261027-equity", "investor_id": "accel", "role": "participant", "investment_amount": null, "currency": "UNK", "evidence_ids": ["simplismart-official-1", "simplismart-tc-1"]}
+{"event_id": "simplismart-20261027-equity", "investor_id": "shastra-vc", "role": "participant", "investment_amount": null, "currency": "UNK", "evidence_ids": ["simplismart-official-1", "simplismart-tc-1"]}
+{"event_id": "simplismart-20261027-equity", "investor_id": "micromax", "role": "participant", "investment_amount": null, "currency": "UNK", "evidence_ids": ["simplismart-official-1", "simplismart-tc-1"]}
+{"event_id": "22one-20261027-equity", "investor_id": "sequoia", "role": "undisclosed", "investment_amount": null, "currency": "UNK", "evidence_ids": ["22one-sifted-1", "22one-official-1", "22one-gn-1"]}
+{"event_id": "22one-20261027-equity", "investor_id": "general-catalyst", "role": "undisclosed", "investment_amount": null, "currency": "UNK", "evidence_ids": ["22one-sifted-1", "22one-official-1", "22one-gn-1"]}
+{"event_id": "22one-20261027-equity", "investor_id": "lux", "role": "undisclosed", "investment_amount": null, "currency": "UNK", "evidence_ids": ["22one-sifted-1", "22one-official-1", "22one-gn-1"]}

@@ -223,3 +223,8 @@
 {"investor_id": "chalfen-ventures", "name": "Chalfen Ventures", "aliases": [], "parent_id": null}
 {"investor_id": "joyance-partners", "name": "Joyance Partners", "aliases": [], "parent_id": null}
 {"investor_id": "bain-future-back", "name": "Future Back Ventures（Bain & Company）", "aliases": ["Bain Future Back Ventures"], "parent_id": null}
+{"investor_id": "battery-ventures", "name": "Battery Ventures", "aliases": [], "parent_id": null}
+{"investor_id": "jpmorgan-sig", "name": "JPMorganChase战略投资集团（Strategic Investment Group）", "aliases": ["JPMorganChase Strategic Investment Group"], "parent_id": null}
+{"investor_id": "dallas-venture-capital", "name": "Dallas Venture Capital", "aliases": [], "parent_id": null}
+{"investor_id": "shastra-vc", "name": "Shastra VC", "aliases": [], "parent_id": null}
+{"investor_id": "micromax", "name": "Micromax", "aliases": [], "parent_id": null}
