@@ -312,12 +312,12 @@
     "22one-20261027-equity"
    ],
    "revision": 1,
-   "status": "in_progress",
+   "status": "delivered",
    "window_start": "2026-10-26T00:00:11Z",
    "window_end": "2026-10-28T00:00:11Z",
    "report_path": "reports/2026-10-28-daily.md",
-   "publication_comment_id": null,
-   "publication_note": "采集中：窗口内新增5条（hyperexponential并购、rebuild/disruptive/simplismart/22one）"
+   "publication_comment_id": "01a17fe0-60c4-7691-b707-03038ec9fef7",
+   "publication_note": "已交付Issue评论并附日报/采集日志/追踪附件（2026-10-28T00:26Z）；同Issue不重复发布。窗口内新增5条（hyperexponential并购$1.7B、rebuild $2.1B、disruptive $10B基金、simplismart $14M、22one未披露），排除11条；NVCA首次真实失败403×3（1次<门槛，清单无改动）；提交97d790a已推送。"
   }
  ]
 }
