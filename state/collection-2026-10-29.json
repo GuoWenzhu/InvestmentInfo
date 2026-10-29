@@ -1,0 +1,81 @@
+{
+ "issue_id": "01a184f5-0b91-7668-9627-8bf4cefff7a3",
+ "issue_identifier": "TECH-76",
+ "collected_at": "2026-10-29T00:11:44+00:00",
+ "window_start": "2026-10-28T00:00:11Z",
+ "window_end": "2026-10-29T00:00:11Z",
+ "source_attempts": [
+  {
+   "source_id": "techcrunch",
+   "attempted_at": "2026-10-29T00:03:20+00:00",
+   "status": "success",
+   "evidence_url": "https://techcrunch.com/category/startups/",
+   "notes": "Startups栏目可读（306KB，HTTP 200，curl直连）+主feed核查（17.5KB，20条）。窗口内新增：Upwind $400M Series C（10-28T23:15Z，全文逐篇核验+官方PR引文+Axios/Reuters/Globes交叉+upwind.io官方域名确认，置信高）；排除1条：Founder Summit活动推广。主feed其余窗口内条目为产品发布/财报/安全事件/政府贷款（DOE $5B核电站贷款——政府项目融资非创业风险融资，已登记排除），不构成融资线索；10-27条目为TECH-73已处理"
+  },
+  {
+   "source_id": "crunchbase_news",
+   "attempted_at": "2026-10-29T00:03:20+00:00",
+   "status": "success",
+   "evidence_url": "https://news.crunchbase.com/feed/",
+   "notes": "RSS成功（87KB，10条，HTTP 200）。窗口内新增1条（10-28）：Numeracle $28M（12:00:48Z，全文核验+官网PR全文，置信高）——录入；3条排除：layoffs常设追踪页、企业价值观点专栏（/ma/）、非技术创始人故事；10-27及更早条目为TECH-70/73已处理"
+  },
+  {
+   "source_id": "sifted",
+   "attempted_at": "2026-10-29T00:03:20+00:00",
+   "status": "success_zero_output",
+   "evidence_url": "https://sifted.eu/feed",
+   "notes": "RSS成功（9.9KB，24条，HTTP 200）。窗口内（10-28）8条全部排除：7条常规排除（人才评论brnd、英国预算案政策、AI human context brnd、市场扩张赞助内容、LinkedIn趣味栏目、气候科技增速分析聚合、机器人融资建议赞助）；1条重点研判：Lovable员工$80M股份回购（$13.3B估值=8月Series C定价，05:00Z独家）——员工二级转让/流动性事件，资金流向员工而非公司，非primary新融资，不录事件表（Breakit同日独立报道交叉）；如公司后续确认primary轮再补录。正文页仍403（Cloudflare，fetch工具拒），按标题/导语+交叉媒体核验；10-27及更早条目为TECH-70/73已处理"
+  },
+  {
+   "source_id": "accel",
+   "attempted_at": "2026-10-29T00:03:20+00:00",
+   "status": "success_zero_output",
+   "evidence_url": "https://www.accel.com/news",
+   "notes": "新闻列表可读（546,596B，HTTP 200，与TECH-70/73完全同尺寸）；页面内最晚日期仍2026-10-23；窗口内无新投资公告"
+  },
+  {
+   "source_id": "qiming",
+   "attempted_at": "2026-10-29T00:03:20+00:00",
+   "status": "success_zero_output",
+   "evidence_url": "https://www.qimingvc.com/cn/newsroom",
+   "notes": "新闻室可读（54KB，HTTP 200）。新条目：启明周报Vol.33（2026.10.28，投资企业要闻十条——周度聚合digest，不生成离散融资事件，已登记排除）+启明荣誉（优必选/壁仞上榜《财富》全球未来120强——目录荣誉类，非融资）；窗口内无融资条目"
+  },
+  {
+   "source_id": "nvca",
+   "attempted_at": "2026-10-29T00:03:20+00:00",
+   "status": "success_zero_output",
+   "evidence_url": "https://nvca.org/pitchbook-nvca-venture-monitor/",
+   "notes": "恢复可达（HTTP 200，174KB页面正常）——连续失败计数清零（TECH-73曾1次403，未达观察门槛，清单无改动）；季度统计页，本不生成离散事件"
+  },
+  {
+   "source_id": "techstars",
+   "attempted_at": "2026-10-29T00:03:20+00:00",
+   "status": "success_zero_output",
+   "evidence_url": "https://www.techstars.com/portfolio",
+   "notes": "组合目录页可读（251KB，HTTP 200，标题正常）；目录收录不生成融资事件；窗口内无融资信息"
+  },
+  {
+   "source_id": "company_official",
+   "attempted_at": "2026-10-29T00:03:20+00:00",
+   "status": "success",
+   "evidence_url": "per-event",
+   "notes": "两起事件经官方域名核验：upwind.io newsroom（Bloomberg头条'AI Cybersecurity Startup Upwind Raises at $3.8 Billion Value'+2026/10配图；GlobeNewswire PR直连403/Akamai，正文经搜索引文+多源交叉，未绕过）确认upwind-20261028-equity；numeracle.com PR全文直接读取（$28M growth investment led by Edison Partners，正文dateline 10-15与发布10-28差异留痕）确认numeracle-20261028-equity"
+  }
+ ],
+ "dedup": {
+  "cross_window": "10-27及更早条目（TC的guidewire/rebuild/disruptive/simplismart等、CB的Q3机器人/COO专栏、Sifted的Revolut BoE/Storonsky/22one/Q3基金聚合）均为TECH-70/73已处理，逐条比对无遗漏；2条新事件与存量52事件无公司+轮次+类型疑似重复组",
+  "note": "Lovable为二级转让非新融资，未与8月Series C（非本台账事件）混同"
+ },
+ "accepted_events": [
+  "upwind-20261028-equity",
+  "numeracle-20261028-equity"
+ ],
+ "excluded_count": 14,
+ "processed_urls_delta": {
+  "total": 342,
+  "added": 22,
+  "accepted": 2,
+  "accepted_event_evidence": 6,
+  "excluded_not_event": 14
+ }
+}

@@ -282,3 +282,17 @@
 {"event_id": "22one-20261027-equity", "investor_id": "sequoia", "role": "undisclosed", "investment_amount": null, "currency": "UNK", "evidence_ids": ["22one-sifted-1", "22one-official-1", "22one-gn-1"]}
 {"event_id": "22one-20261027-equity", "investor_id": "general-catalyst", "role": "undisclosed", "investment_amount": null, "currency": "UNK", "evidence_ids": ["22one-sifted-1", "22one-official-1", "22one-gn-1"]}
 {"event_id": "22one-20261027-equity", "investor_id": "lux", "role": "undisclosed", "investment_amount": null, "currency": "UNK", "evidence_ids": ["22one-sifted-1", "22one-official-1", "22one-gn-1"]}
+{"event_id": "upwind-20261028-equity", "investor_id": "bessemer", "role": "lead", "investment_amount": null, "currency": "USD", "evidence_ids": ["upwind-pr-1", "upwind-tc-1", "upwind-cross-1"]}
+{"event_id": "upwind-20261028-equity", "investor_id": "canapi-ventures", "role": "participant", "investment_amount": null, "currency": "USD", "evidence_ids": ["upwind-pr-1", "upwind-cross-1"]}
+{"event_id": "upwind-20261028-equity", "investor_id": "greylock-partners", "role": "participant", "investment_amount": null, "currency": "USD", "evidence_ids": ["upwind-pr-1", "upwind-cross-1"]}
+{"event_id": "upwind-20261028-equity", "investor_id": "craft-ventures", "role": "participant", "investment_amount": null, "currency": "USD", "evidence_ids": ["upwind-pr-1", "upwind-cross-1"]}
+{"event_id": "upwind-20261028-equity", "investor_id": "cyberstarts", "role": "participant", "investment_amount": null, "currency": "USD", "evidence_ids": ["upwind-pr-1", "upwind-cross-1"]}
+{"event_id": "upwind-20261028-equity", "investor_id": "salesforce-ventures", "role": "participant", "investment_amount": null, "currency": "USD", "evidence_ids": ["upwind-pr-1", "upwind-cross-1"]}
+{"event_id": "upwind-20261028-equity", "investor_id": "tcv", "role": "participant", "investment_amount": null, "currency": "USD", "evidence_ids": ["upwind-pr-1", "upwind-cross-1"]}
+{"event_id": "upwind-20261028-equity", "investor_id": "leaders-fund", "role": "participant", "investment_amount": null, "currency": "USD", "evidence_ids": ["upwind-pr-1", "upwind-cross-1"]}
+{"event_id": "upwind-20261028-equity", "investor_id": "alta-park-capital", "role": "participant", "investment_amount": null, "currency": "USD", "evidence_ids": ["upwind-pr-1", "upwind-cross-1"]}
+{"event_id": "upwind-20261028-equity", "investor_id": "penny-jar-capital", "role": "participant", "investment_amount": null, "currency": "USD", "evidence_ids": ["upwind-pr-1", "upwind-cross-1"]}
+{"event_id": "upwind-20261028-equity", "investor_id": "picture-capital", "role": "participant", "investment_amount": null, "currency": "USD", "evidence_ids": ["upwind-cross-1"]}
+{"event_id": "upwind-20261028-equity", "investor_id": "swish-ventures", "role": "participant", "investment_amount": null, "currency": "USD", "evidence_ids": ["upwind-cross-1"]}
+{"event_id": "upwind-20261028-equity", "investor_id": "cerca-partners", "role": "participant", "investment_amount": null, "currency": "USD", "evidence_ids": ["upwind-cross-1"]}
+{"event_id": "numeracle-20261028-equity", "investor_id": "edison-partners", "role": "lead", "investment_amount": null, "currency": "USD", "evidence_ids": ["numeracle-official-1", "numeracle-cb-1"]}

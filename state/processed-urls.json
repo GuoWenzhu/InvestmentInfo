@@ -3732,6 +3732,248 @@
    "event_id": null,
    "status": "excluded_not_event",
    "revision": 1
+  },
+  {
+   "url": "https://techcrunch.com/2026/10/28/upwind-raises-400m-after-walking-away-from-datadog-acquisition-offer/",
+   "canonical_url": "https://techcrunch.com/2026/10/28/upwind-raises-400m-after-walking-away-from-datadog-acquisition-offer/",
+   "source_id": "techcrunch",
+   "first_collected_at": "2026-10-29T00:11:44+00:00",
+   "last_collected_at": "2026-10-29T00:11:44+00:00",
+   "issue_id": "01a184f5-0b91-7668-9627-8bf4cefff7a3",
+   "event_id": "upwind-20261028-equity",
+   "status": "accepted",
+   "revision": 1
+  },
+  {
+   "url": "https://news.crunchbase.com/venture/numeracle-raise-edison-ai-spam-communications-johnson/",
+   "canonical_url": "https://news.crunchbase.com/venture/numeracle-raise-edison-ai-spam-communications-johnson/",
+   "source_id": "crunchbase_news",
+   "first_collected_at": "2026-10-29T00:11:44+00:00",
+   "last_collected_at": "2026-10-29T00:11:44+00:00",
+   "issue_id": "01a184f5-0b91-7668-9627-8bf4cefff7a3",
+   "event_id": "numeracle-20261028-equity",
+   "status": "accepted",
+   "revision": 1
+  },
+  {
+   "url": "https://www.globenewswire.com/news-release/2026/10/28/3390753/0/en/upwind-closes-400-million-series-c-at-3-8-billion-valuation-as-revenue-quadruples-in-2026.html",
+   "canonical_url": "https://www.globenewswire.com/news-release/2026/10/28/3390753/0/en/upwind-closes-400-million-series-c-at-3-8-billion-valuation-as-revenue-quadruples-in-2026.html",
+   "source_id": "company_official",
+   "first_collected_at": "2026-10-29T00:11:44+00:00",
+   "last_collected_at": "2026-10-29T00:11:44+00:00",
+   "issue_id": "01a184f5-0b91-7668-9627-8bf4cefff7a3",
+   "event_id": "upwind-20261028-equity",
+   "status": "accepted_event_evidence",
+   "revision": 1
+  },
+  {
+   "url": "https://www.upwind.io/newsroom",
+   "canonical_url": "https://www.upwind.io/newsroom",
+   "source_id": "company_official",
+   "first_collected_at": "2026-10-29T00:11:44+00:00",
+   "last_collected_at": "2026-10-29T00:11:44+00:00",
+   "issue_id": "01a184f5-0b91-7668-9627-8bf4cefff7a3",
+   "event_id": "upwind-20261028-equity",
+   "status": "accepted_event_evidence",
+   "revision": 1
+  },
+  {
+   "url": "https://www.axios.com/pro/enterprise-software-deals/2026/10/28/upwind-security-bessemer-cyber",
+   "canonical_url": "https://www.axios.com/pro/enterprise-software-deals/2026/10/28/upwind-security-bessemer-cyber",
+   "source_id": "techcrunch",
+   "first_collected_at": "2026-10-29T00:11:44+00:00",
+   "last_collected_at": "2026-10-29T00:11:44+00:00",
+   "issue_id": "01a184f5-0b91-7668-9627-8bf4cefff7a3",
+   "event_id": "upwind-20261028-equity",
+   "status": "accepted_event_evidence",
+   "revision": 1
+  },
+  {
+   "url": "https://en.globes.co.il/en/article-upwind-raises-400m-at-38b-valuation-1001561122",
+   "canonical_url": "https://en.globes.co.il/en/article-upwind-raises-400m-at-38b-valuation-1001561122",
+   "source_id": "techcrunch",
+   "first_collected_at": "2026-10-29T00:11:44+00:00",
+   "last_collected_at": "2026-10-29T00:11:44+00:00",
+   "issue_id": "01a184f5-0b91-7668-9627-8bf4cefff7a3",
+   "event_id": "upwind-20261028-equity",
+   "status": "accepted_event_evidence",
+   "revision": 1
+  },
+  {
+   "url": "https://www.numeracle.com/press-releases/edison-partners-28m-growth-investment",
+   "canonical_url": "https://www.numeracle.com/press-releases/edison-partners-28m-growth-investment",
+   "source_id": "company_official",
+   "first_collected_at": "2026-10-29T00:11:44+00:00",
+   "last_collected_at": "2026-10-29T00:11:44+00:00",
+   "issue_id": "01a184f5-0b91-7668-9627-8bf4cefff7a3",
+   "event_id": "numeracle-20261028-equity",
+   "status": "accepted_event_evidence",
+   "revision": 1
+  },
+  {
+   "url": "https://www.accessnewswire.com/newsroom/en/telecommunications/numeracle-secures-28m-growth-investment-to-scale-verified-identity-across-every-1242975",
+   "canonical_url": "https://www.accessnewswire.com/newsroom/en/telecommunications/numeracle-secures-28m-growth-investment-to-scale-verified-identity-across-every-1242975",
+   "source_id": "company_official",
+   "first_collected_at": "2026-10-29T00:11:44+00:00",
+   "last_collected_at": "2026-10-29T00:11:44+00:00",
+   "issue_id": "01a184f5-0b91-7668-9627-8bf4cefff7a3",
+   "event_id": "numeracle-20261028-equity",
+   "status": "accepted_event_evidence",
+   "revision": 1
+  },
+  {
+   "url": "https://sifted.eu/articles/executive-talent-market-is-divided-in-two-brnd/",
+   "canonical_url": "https://sifted.eu/articles/executive-talent-market-is-divided-in-two-brnd/",
+   "source_id": "sifted",
+   "first_collected_at": "2026-10-29T00:11:44+00:00",
+   "last_collected_at": "2026-10-29T00:11:44+00:00",
+   "issue_id": "01a184f5-0b91-7668-9627-8bf4cefff7a3",
+   "event_id": null,
+   "status": "excluded_not_event",
+   "revision": 1
+  },
+  {
+   "url": "https://sifted.eu/articles/uk-autumn-budget-2026-startups/",
+   "canonical_url": "https://sifted.eu/articles/uk-autumn-budget-2026-startups/",
+   "source_id": "sifted",
+   "first_collected_at": "2026-10-29T00:11:44+00:00",
+   "last_collected_at": "2026-10-29T00:11:44+00:00",
+   "issue_id": "01a184f5-0b91-7668-9627-8bf4cefff7a3",
+   "event_id": null,
+   "status": "excluded_not_event",
+   "revision": 1
+  },
+  {
+   "url": "https://sifted.eu/articles/why-the-smartest-ai-models-still-need-human-context-brnd/",
+   "canonical_url": "https://sifted.eu/articles/why-the-smartest-ai-models-still-need-human-context-brnd/",
+   "source_id": "sifted",
+   "first_collected_at": "2026-10-29T00:11:44+00:00",
+   "last_collected_at": "2026-10-29T00:11:44+00:00",
+   "issue_id": "01a184f5-0b91-7668-9627-8bf4cefff7a3",
+   "event_id": null,
+   "status": "excluded_not_event",
+   "revision": 1
+  },
+  {
+   "url": "https://sifted.eu/articles/how-to-expand-into-new-markets/",
+   "canonical_url": "https://sifted.eu/articles/how-to-expand-into-new-markets/",
+   "source_id": "sifted",
+   "first_collected_at": "2026-10-29T00:11:44+00:00",
+   "last_collected_at": "2026-10-29T00:11:44+00:00",
+   "issue_id": "01a184f5-0b91-7668-9627-8bf4cefff7a3",
+   "event_id": null,
+   "status": "excluded_not_event",
+   "revision": 1
+  },
+  {
+   "url": "https://sifted.eu/articles/best-linkedin-photo-in-european-tech/",
+   "canonical_url": "https://sifted.eu/articles/best-linkedin-photo-in-european-tech/",
+   "source_id": "sifted",
+   "first_collected_at": "2026-10-29T00:11:44+00:00",
+   "last_collected_at": "2026-10-29T00:11:44+00:00",
+   "issue_id": "01a184f5-0b91-7668-9627-8bf4cefff7a3",
+   "event_id": null,
+   "status": "excluded_not_event",
+   "revision": 1
+  },
+  {
+   "url": "https://sifted.eu/articles/climate-tech-growth/",
+   "canonical_url": "https://sifted.eu/articles/climate-tech-growth/",
+   "source_id": "sifted",
+   "first_collected_at": "2026-10-29T00:11:44+00:00",
+   "last_collected_at": "2026-10-29T00:11:44+00:00",
+   "issue_id": "01a184f5-0b91-7668-9627-8bf4cefff7a3",
+   "event_id": null,
+   "status": "excluded_not_event",
+   "revision": 1
+  },
+  {
+   "url": "https://sifted.eu/articles/lovable-employee-share-sale/",
+   "canonical_url": "https://sifted.eu/articles/lovable-employee-share-sale/",
+   "source_id": "sifted",
+   "first_collected_at": "2026-10-29T00:11:44+00:00",
+   "last_collected_at": "2026-10-29T00:11:44+00:00",
+   "issue_id": "01a184f5-0b91-7668-9627-8bf4cefff7a3",
+   "event_id": null,
+   "status": "excluded_not_event",
+   "revision": 1
+  },
+  {
+   "url": "https://sifted.eu/articles/how-to-fund-your-robotics-company/",
+   "canonical_url": "https://sifted.eu/articles/how-to-fund-your-robotics-company/",
+   "source_id": "sifted",
+   "first_collected_at": "2026-10-29T00:11:44+00:00",
+   "last_collected_at": "2026-10-29T00:11:44+00:00",
+   "issue_id": "01a184f5-0b91-7668-9627-8bf4cefff7a3",
+   "event_id": null,
+   "status": "excluded_not_event",
+   "revision": 1
+  },
+  {
+   "url": "https://news.crunchbase.com/startups/tech-layoffs/",
+   "canonical_url": "https://news.crunchbase.com/startups/tech-layoffs/",
+   "source_id": "crunchbase_news",
+   "first_collected_at": "2026-10-29T00:11:44+00:00",
+   "last_collected_at": "2026-10-29T00:11:44+00:00",
+   "issue_id": "01a184f5-0b91-7668-9627-8bf4cefff7a3",
+   "event_id": null,
+   "status": "excluded_not_event",
+   "revision": 1
+  },
+  {
+   "url": "https://news.crunchbase.com/ma/grow-revenue-lose-enterprise-value-sagie/",
+   "canonical_url": "https://news.crunchbase.com/ma/grow-revenue-lose-enterprise-value-sagie/",
+   "source_id": "crunchbase_news",
+   "first_collected_at": "2026-10-29T00:11:44+00:00",
+   "last_collected_at": "2026-10-29T00:11:44+00:00",
+   "issue_id": "01a184f5-0b91-7668-9627-8bf4cefff7a3",
+   "event_id": null,
+   "status": "excluded_not_event",
+   "revision": 1
+  },
+  {
+   "url": "https://news.crunchbase.com/startups/nontech-founder-government-ai-software-chen-fsh/",
+   "canonical_url": "https://news.crunchbase.com/startups/nontech-founder-government-ai-software-chen-fsh/",
+   "source_id": "crunchbase_news",
+   "first_collected_at": "2026-10-29T00:11:44+00:00",
+   "last_collected_at": "2026-10-29T00:11:44+00:00",
+   "issue_id": "01a184f5-0b91-7668-9627-8bf4cefff7a3",
+   "event_id": null,
+   "status": "excluded_not_event",
+   "revision": 1
+  },
+  {
+   "url": "https://techcrunch.com/2026/10/28/7-days-until-techcrunch-founder-summit-save-up-to-100-before-doors-open/",
+   "canonical_url": "https://techcrunch.com/2026/10/28/7-days-until-techcrunch-founder-summit-save-up-to-100-before-doors-open/",
+   "source_id": "techcrunch",
+   "first_collected_at": "2026-10-29T00:11:44+00:00",
+   "last_collected_at": "2026-10-29T00:11:44+00:00",
+   "issue_id": "01a184f5-0b91-7668-9627-8bf4cefff7a3",
+   "event_id": null,
+   "status": "excluded_not_event",
+   "revision": 1
+  },
+  {
+   "url": "https://techcrunch.com/2026/10/28/trump-doe-loans-5b-to-nuclear-plants-that-will-power-data-centers/",
+   "canonical_url": "https://techcrunch.com/2026/10/28/trump-doe-loans-5b-to-nuclear-plants-that-will-power-data-centers/",
+   "source_id": "techcrunch",
+   "first_collected_at": "2026-10-29T00:11:44+00:00",
+   "last_collected_at": "2026-10-29T00:11:44+00:00",
+   "issue_id": "01a184f5-0b91-7668-9627-8bf4cefff7a3",
+   "event_id": null,
+   "status": "excluded_not_event",
+   "revision": 1
+  },
+  {
+   "url": "https://www.qimingvc.com/cn/news/%E5%90%AF%E6%98%8E%E5%91%A8%E6%8A%A5%EF%BD%9C%E5%90%AF%E6%98%8E%E5%88%9B%E6%8A%95%E6%8A%95%E8%B5%84%E4%BC%81%E4%B8%9A%E8%A6%81%E9%97%BB%E5%8D%81%E6%9D%A1-vol33-20261028",
+   "canonical_url": "https://www.qimingvc.com/cn/news/%E5%90%AF%E6%98%8E%E5%91%A8%E6%8A%A5%EF%BD%9C%E5%90%AF%E6%98%8E%E5%88%9B%E6%8A%95%E6%8A%95%E8%B5%84%E4%BC%81%E4%B8%9A%E8%A6%81%E9%97%BB%E5%8D%81%E6%9D%A1-vol33-20261028",
+   "source_id": "qiming",
+   "first_collected_at": "2026-10-29T00:11:44+00:00",
+   "last_collected_at": "2026-10-29T00:11:44+00:00",
+   "issue_id": "01a184f5-0b91-7668-9627-8bf4cefff7a3",
+   "event_id": null,
+   "status": "excluded_not_event",
+   "revision": 1
   }
  ]
 }
