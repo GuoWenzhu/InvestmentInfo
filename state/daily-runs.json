@@ -353,12 +353,12 @@
     "investinor-20261029-fund"
    ],
    "revision": 1,
-   "status": "ready_for_delivery",
+   "status": "delivered",
    "window_start": "2026-10-28T00:00:14Z",
    "window_end": "2026-10-30T00:00:14Z",
    "report_path": "reports/2026-10-30-daily.md",
-   "publication_comment_id": null,
-   "publication_note": "报告已验证待交付；同Issue不重复发布，重试先查评论。"
+   "publication_comment_id": "01a18a2b-a582-7a14-80a5-4840cab45ba4",
+   "publication_note": "已交付Issue评论并附日报/采集日志/追踪附件（2026-10-30T00:17:58Z）；同Issue不重复发布。窗口内新增9条（股权7：fractile £540M中置信/muray €7.1M混合/bleu-robotics €5M/dream $17M/superme $20M/mintive $7M/wabi $55M@$1.25B官方PR双源；并购1：thrive-adt $7.6B；基金募集1：investinor目标€200-300M中置信）；Spiko $90M为10-06旧公告排除；NVCA连续第2次403（替代入口可达，未达门槛，清单无改动）；提交534135b已推送。"
   }
  ]
 }
