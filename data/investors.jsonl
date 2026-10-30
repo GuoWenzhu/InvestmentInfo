@@ -239,3 +239,23 @@
 {"investor_id": "swish-ventures", "name": "Swish Ventures", "aliases": [], "parent_id": null}
 {"investor_id": "cerca-partners", "name": "Cerca Partners", "aliases": [], "parent_id": null}
 {"investor_id": "edison-partners", "name": "Edison Partners", "aliases": [], "parent_id": null}
+{"investor_id": "zigg-capital", "name": "Zigg Capital", "aliases": [], "parent_id": null}
+{"investor_id": "cowboy-ventures", "name": "Cowboy Ventures", "aliases": [], "parent_id": null}
+{"investor_id": "operator-collective", "name": "Operator Collective", "aliases": [], "parent_id": null}
+{"investor_id": "hustle-fund", "name": "Hustle Fund", "aliases": [], "parent_id": null}
+{"investor_id": "frederic-kerrest", "name": "Frederic Kerrest", "aliases": ["Okta co-founder"], "parent_id": null}
+{"investor_id": "jeff-dean", "name": "Jeff Dean", "aliases": ["Discovery Loop co-founder, former Google Chief Scientist"], "parent_id": null}
+{"investor_id": "andrej-karpathy", "name": "Andrej Karpathy", "aliases": ["OpenAI co-founder"], "parent_id": null}
+{"investor_id": "marc-benioff", "name": "Marc Benioff", "aliases": ["Salesforce CEO"], "parent_id": null}
+{"investor_id": "marissa-mayer", "name": "Marissa Mayer", "aliases": ["former Yahoo! CEO"], "parent_id": null}
+{"investor_id": "dick-costolo", "name": "Dick Costolo", "aliases": ["former Twitter CEO"], "parent_id": null}
+{"investor_id": "alex-pall", "name": "Alex Pall", "aliases": ["The Chainsmokers"], "parent_id": null}
+{"investor_id": "amazon-alexa-fund", "name": "Amazon Alexa Fund", "aliases": ["Alexa Fund"], "parent_id": null}
+{"investor_id": "first-momentum-ventures", "name": "First Momentum Ventures", "aliases": [], "parent_id": null}
+{"investor_id": "caelora", "name": "Caelora", "aliases": ["Marvel Fusion subsidiary"], "parent_id": null}
+{"investor_id": "contrarian-ventures", "name": "Contrarian Ventures", "aliases": [], "parent_id": null}
+{"investor_id": "ovni-capital", "name": "OVNI Capital", "aliases": [], "parent_id": null}
+{"investor_id": "kvanted", "name": "Kvanted", "aliases": [], "parent_id": null}
+{"investor_id": "wepa-ventures", "name": "WEPA Ventures", "aliases": [], "parent_id": null}
+{"investor_id": "motier-ventures", "name": "Motier Ventures", "aliases": [], "parent_id": null}
+{"investor_id": "charlie-songhurst", "name": "Charlie Songhurst", "aliases": [], "parent_id": null}

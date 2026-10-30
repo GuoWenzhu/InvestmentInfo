@@ -296,3 +296,33 @@
 {"event_id": "upwind-20261028-equity", "investor_id": "swish-ventures", "role": "participant", "investment_amount": null, "currency": "USD", "evidence_ids": ["upwind-cross-1"]}
 {"event_id": "upwind-20261028-equity", "investor_id": "cerca-partners", "role": "participant", "investment_amount": null, "currency": "USD", "evidence_ids": ["upwind-cross-1"]}
 {"event_id": "numeracle-20261028-equity", "investor_id": "edison-partners", "role": "lead", "investment_amount": null, "currency": "USD", "evidence_ids": ["numeracle-official-1", "numeracle-cb-1"]}
+{"event_id": "dream-20261029-equity", "investor_id": "a16z", "role": "lead", "investment_amount": null, "currency": "USD", "evidence_ids": ["dream-tc-1"]}
+{"event_id": "dream-20261029-equity", "investor_id": "svangel", "role": "participant", "investment_amount": null, "currency": "USD", "evidence_ids": ["dream-tc-1"]}
+{"event_id": "dream-20261029-equity", "investor_id": "xyz-venture-capital", "role": "participant", "investment_amount": null, "currency": "USD", "evidence_ids": ["dream-tc-1"]}
+{"event_id": "dream-20261029-equity", "investor_id": "zigg-capital", "role": "participant", "investment_amount": null, "currency": "USD", "evidence_ids": ["dream-tc-1"]}
+{"event_id": "superme-20261029-equity", "investor_id": "forerunner", "role": "lead", "investment_amount": null, "currency": "USD", "evidence_ids": ["superme-tc-1"]}
+{"event_id": "superme-20261029-equity", "investor_id": "greylock-partners", "role": "participant", "investment_amount": null, "currency": "USD", "evidence_ids": ["superme-tc-1"]}
+{"event_id": "mintive-20261029-equity", "investor_id": "cowboy-ventures", "role": "lead", "investment_amount": null, "currency": "USD", "evidence_ids": ["mintive-tc-1"]}
+{"event_id": "mintive-20261029-equity", "investor_id": "coatue", "role": "participant", "investment_amount": null, "currency": "USD", "evidence_ids": ["mintive-tc-1"]}
+{"event_id": "mintive-20261029-equity", "investor_id": "operator-collective", "role": "participant", "investment_amount": null, "currency": "USD", "evidence_ids": ["mintive-tc-1"]}
+{"event_id": "mintive-20261029-equity", "investor_id": "hustle-fund", "role": "participant", "investment_amount": null, "currency": "USD", "evidence_ids": ["mintive-tc-1"]}
+{"event_id": "mintive-20261029-equity", "investor_id": "frederic-kerrest", "role": "participant", "investment_amount": null, "currency": "USD", "evidence_ids": ["mintive-tc-1"]}
+{"event_id": "mintive-20261029-equity", "investor_id": "jeff-dean", "role": "participant", "investment_amount": null, "currency": "USD", "evidence_ids": ["mintive-tc-1"]}
+{"event_id": "mintive-20261029-equity", "investor_id": "andrej-karpathy", "role": "participant", "investment_amount": null, "currency": "USD", "evidence_ids": ["mintive-tc-1"]}
+{"event_id": "wabi-20261029-equity", "investor_id": "ivp", "role": "lead", "investment_amount": null, "currency": "USD", "evidence_ids": ["wabi-official-1", "wabi-tc-1"]}
+{"event_id": "wabi-20261029-equity", "investor_id": "a16z", "role": "participant", "investment_amount": null, "currency": "USD", "evidence_ids": ["wabi-official-1"]}
+{"event_id": "wabi-20261029-equity", "investor_id": "forerunner", "role": "participant", "investment_amount": null, "currency": "USD", "evidence_ids": ["wabi-official-1"]}
+{"event_id": "wabi-20261029-equity", "investor_id": "amazon-alexa-fund", "role": "participant", "investment_amount": null, "currency": "USD", "evidence_ids": ["wabi-official-1"]}
+{"event_id": "wabi-20261029-equity", "investor_id": "tobi-lutke", "role": "participant", "investment_amount": null, "currency": "USD", "evidence_ids": ["wabi-official-1"]}
+{"event_id": "wabi-20261029-equity", "investor_id": "marc-benioff", "role": "participant", "investment_amount": null, "currency": "USD", "evidence_ids": ["wabi-official-1"]}
+{"event_id": "wabi-20261029-equity", "investor_id": "marissa-mayer", "role": "participant", "investment_amount": null, "currency": "USD", "evidence_ids": ["wabi-official-1"]}
+{"event_id": "wabi-20261029-equity", "investor_id": "dick-costolo", "role": "participant", "investment_amount": null, "currency": "USD", "evidence_ids": ["wabi-official-1"]}
+{"event_id": "wabi-20261029-equity", "investor_id": "alex-pall", "role": "participant", "investment_amount": null, "currency": "USD", "evidence_ids": ["wabi-official-1"]}
+{"event_id": "muray-20261029-equity", "investor_id": "first-momentum-ventures", "role": "lead", "investment_amount": null, "currency": "EUR", "evidence_ids": ["muray-sifted-1"]}
+{"event_id": "muray-20261029-equity", "investor_id": "caelora", "role": "co_lead", "investment_amount": null, "currency": "EUR", "evidence_ids": ["muray-sifted-1"]}
+{"event_id": "bleu-robotics-20261029-equity", "investor_id": "contrarian-ventures", "role": "co_lead", "investment_amount": null, "currency": "EUR", "evidence_ids": ["bleu-sifted-1"]}
+{"event_id": "bleu-robotics-20261029-equity", "investor_id": "ovni-capital", "role": "co_lead", "investment_amount": null, "currency": "EUR", "evidence_ids": ["bleu-sifted-1"]}
+{"event_id": "bleu-robotics-20261029-equity", "investor_id": "kvanted", "role": "participant", "investment_amount": null, "currency": "EUR", "evidence_ids": ["bleu-sifted-1"]}
+{"event_id": "bleu-robotics-20261029-equity", "investor_id": "wepa-ventures", "role": "participant", "investment_amount": null, "currency": "EUR", "evidence_ids": ["bleu-sifted-1"]}
+{"event_id": "bleu-robotics-20261029-equity", "investor_id": "motier-ventures", "role": "participant", "investment_amount": null, "currency": "EUR", "evidence_ids": ["bleu-sifted-1"]}
+{"event_id": "bleu-robotics-20261029-equity", "investor_id": "charlie-songhurst", "role": "participant", "investment_amount": null, "currency": "EUR", "evidence_ids": ["bleu-sifted-1"]}

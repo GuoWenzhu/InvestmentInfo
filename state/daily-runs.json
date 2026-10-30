@@ -335,6 +335,30 @@
    "report_path": "reports/2026-10-29-daily.md",
    "publication_comment_id": "01a18502-9939-70fe-af53-c5705509699d",
    "publication_note": "已交付Issue评论并附日报/追踪附件（2026-10-29T00:2xZ）；同Issue不重复发布。窗口内新增2条（upwind-20261028-equity $400M Series C、numeracle-20261028-equity $28M增长投资，均高置信）；Lovable员工$80M二级股份回购排除（非primary新融资）；8入口全部成功，NVCA恢复可达；提交dc69fbd已推送。"
+  },
+  {
+   "date": "2026-10-30",
+   "run_key": "2026-10-30",
+   "issue_id": "01a18a1b-6938-7463-a7b2-0110ff55ffd5",
+   "issue_identifier": "TECH-79",
+   "event_ids": [
+    "fractile-20261029-equity",
+    "muray-20261029-equity",
+    "bleu-robotics-20261029-equity",
+    "dream-20261029-equity",
+    "superme-20261029-equity",
+    "mintive-20261029-equity",
+    "wabi-20261029-equity",
+    "thrive-adt-20261029-acquisition",
+    "investinor-20261029-fund"
+   ],
+   "revision": 1,
+   "status": "ready_for_delivery",
+   "window_start": "2026-10-28T00:00:14Z",
+   "window_end": "2026-10-30T00:00:14Z",
+   "report_path": "reports/2026-10-30-daily.md",
+   "publication_comment_id": null,
+   "publication_note": "报告已验证待交付；同Issue不重复发布，重试先查评论。"
   }
  ]
 }

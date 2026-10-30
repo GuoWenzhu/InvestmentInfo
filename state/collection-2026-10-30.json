@@ -1,0 +1,65 @@
+{
+ "issue_id": "01a18a1b-6938-7463-a7b2-0110ff55ffd5",
+ "issue_identifier": "TECH-79",
+ "collected_at": "2026-10-30T00:12:00+00:00",
+ "window_start": "2026-10-28T00:00:14Z",
+ "window_end": "2026-10-30T00:00:14Z",
+ "source_attempts": [
+  {
+   "source_id": "techcrunch",
+   "attempted_at": "2026-10-30T00:04:00+00:00",
+   "status": "success",
+   "evidence_url": "https://techcrunch.com/category/startups/",
+   "notes": "Startups栏目（306KB，HTTP 200）+主feed（17.3KB，20条）。窗口内（10-29全天）新增5条：Dream $17M seed（a16z领投，全文核验）、SuperMe $20M（Forerunner领投，全文核验）、Mintive $7M seed（Cowboy领投，全文核验）、Wabi $55M@$1.25B（IVP领投，全文+官方PRNewswire核验）、Thrive Holdings收购ADT（$10/股≈$7.6B股权价值，全文核验）；排除：财报×2（Amazon/AWS）、Binance安全事件、GM和解、Rivian JV扩展、Mistral权重发布、Granola功能、Reddit策略、Meta产品、AO3、Airbnb gala、Nvidia间谍案、Musk/Putin等非融资条目；10-28条目为TECH-76已处理"
+  },
+  {
+   "source_id": "crunchbase_news",
+   "attempted_at": "2026-10-30T00:03:30+00:00",
+   "status": "success_zero_output",
+   "evidence_url": "https://news.crunchbase.com/feed/",
+   "notes": "RSS成功（83.7KB，10条，HTTP 200）。窗口内（10-29）2条均为统计方法论分析（Series B up deals down、Jumbo Series A vs seed squeeze），按规则排除；10-28条目（Numeracle等）为TECH-76已处理"
+  },
+  {
+   "source_id": "sifted",
+   "attempted_at": "2026-10-30T00:03:30+00:00",
+   "status": "success",
+   "evidence_url": "https://sifted.eu/feed",
+   "notes": "RSS成功（10.1KB，24条，HTTP 200）。窗口内新增4条：Fractile £540m Series C（Companies House申报口径，Dealroom算£577.4m、公司未官宣、投资方转述矛盾→medium，金额冲突留痕）、MuRay €7.1M（€3.5M私人+€3.6M公共资助，Sifted/Tech.eu/TNW一致）、Bleu Robotics €5M pre-seed（Contrarian+OVNI联合领投，三家一致）、Investinor新LP基金（目标€200-300M募集中，fundraising事件）；排除：Spiko $90M回访访谈（10-06旧公告，out_of_window）、政策访谈×2、brnd×2、VC方法论、招聘观点；正文页仍403（Cloudflare），按RSS标题/导语+交叉媒体核验；10-28及更早为TECH-76已处理"
+  },
+  {
+   "source_id": "accel",
+   "attempted_at": "2026-10-30T00:05:00+00:00",
+   "status": "success_zero_output",
+   "evidence_url": "https://www.accel.com/news",
+   "notes": "新闻列表可读（546,596B，HTTP 200，与近三次完全同尺寸）；页面内最晚日期仍2026-10-23；窗口内无新投资公告"
+  },
+  {
+   "source_id": "qiming",
+   "attempted_at": "2026-10-30T00:05:00+00:00",
+   "status": "success_zero_output",
+   "evidence_url": "https://www.qimingvc.com/cn/newsroom",
+   "notes": "新闻室可读（53.7KB，HTTP 200）；10/2026组无新增条目（Vol.33周报10-28为TECH-76已处理）；窗口内无融资条目"
+  },
+  {
+   "source_id": "nvca",
+   "attempted_at": "2026-10-30T00:05:30+00:00",
+   "status": "failure",
+   "evidence_url": "https://nvca.org/pitchbook-nvca-venture-monitor/",
+   "notes": "季度统计页403（HTTP 403，5.7KB错误页）——连续第2次真实失败（TECH-76曾恢复清零）；替代入口nvca.org首页同日HTTP 200可达（200KB），按report-health门槛（连续3次失败且替代入口也失败才转观察）不转观察、清单无改动；季度统计页本不生成离散事件"
+  },
+  {
+   "source_id": "techstars",
+   "attempted_at": "2026-10-30T00:05:30+00:00",
+   "status": "success_zero_output",
+   "evidence_url": "https://www.techstars.com/portfolio",
+   "notes": "组合目录页可读（251KB，HTTP 200）；目录收录不生成融资事件；窗口内无融资信息"
+  },
+  {
+   "source_id": "company_official",
+   "attempted_at": "2026-10-30T00:08:00+00:00",
+   "status": "success",
+   "evidence_url": "https://www.prnewswire.com/news-releases/wabi-raises-55-million-at-a-1-25-billion-valuation-following-strong-early-demand-302923254.html",
+   "notes": "Wabi官方PRNewswire新闻稿全文核验（SOURCE Wabi，分发2026-10-29）：$55M、IVP领投、$1.25B估值、参投方与天使名单、wabi.ai官方域名确认；其余候选公司官网域名未逐个核验，留待核验项"
+  }
+ ]
+}
