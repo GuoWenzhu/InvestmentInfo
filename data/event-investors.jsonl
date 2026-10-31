@@ -326,3 +326,46 @@
 {"event_id": "bleu-robotics-20261029-equity", "investor_id": "wepa-ventures", "role": "participant", "investment_amount": null, "currency": "EUR", "evidence_ids": ["bleu-sifted-1"]}
 {"event_id": "bleu-robotics-20261029-equity", "investor_id": "motier-ventures", "role": "participant", "investment_amount": null, "currency": "EUR", "evidence_ids": ["bleu-sifted-1"]}
 {"event_id": "bleu-robotics-20261029-equity", "investor_id": "charlie-songhurst", "role": "participant", "investment_amount": null, "currency": "EUR", "evidence_ids": ["bleu-sifted-1"]}
+{"event_id": "kalshi-20261029-equity", "investor_id": "wellington-capital", "role": "co_lead", "investment_amount": null, "currency": "USD", "evidence_ids": ["kalshi-kalshinews-1", "kalshi-axios-1"]}
+{"event_id": "kalshi-20261029-equity", "investor_id": "sequoia", "role": "co_lead", "investment_amount": null, "currency": "USD", "evidence_ids": ["kalshi-kalshinews-1", "kalshi-axios-1"]}
+{"event_id": "kalshi-20261029-equity", "investor_id": "baillie-gifford", "role": "participant", "investment_amount": null, "currency": "USD", "evidence_ids": ["kalshi-kalshinews-1", "kalshi-axios-1"]}
+{"event_id": "kalshi-20261029-equity", "investor_id": "stripes", "role": "participant", "investment_amount": null, "currency": "USD", "evidence_ids": ["kalshi-kalshinews-1", "kalshi-axios-1"]}
+{"event_id": "kalshi-20261029-equity", "investor_id": "a16z", "role": "participant", "investment_amount": null, "currency": "USD", "evidence_ids": ["kalshi-kalshinews-1", "kalshi-axios-1"]}
+{"event_id": "kalshi-20261029-equity", "investor_id": "coatue", "role": "participant", "investment_amount": null, "currency": "USD", "evidence_ids": ["kalshi-kalshinews-1", "kalshi-axios-1"]}
+{"event_id": "kalshi-20261029-equity", "investor_id": "capitalg", "role": "participant", "investment_amount": null, "currency": "USD", "evidence_ids": ["kalshi-kalshinews-1", "kalshi-axios-1"]}
+{"event_id": "kalshi-20261029-equity", "investor_id": "morgan-stanley-investment-management", "role": "participant", "investment_amount": null, "currency": "USD", "evidence_ids": ["kalshi-kalshinews-1", "kalshi-axios-1"]}
+{"event_id": "kalshi-20261029-equity", "investor_id": "hudson-river-trading", "role": "participant", "investment_amount": null, "currency": "USD", "evidence_ids": ["kalshi-kalshinews-1", "kalshi-axios-1"]}
+{"event_id": "kalshi-20261029-equity", "investor_id": "balyasny-asset-management", "role": "participant", "investment_amount": null, "currency": "USD", "evidence_ids": ["kalshi-kalshinews-1", "kalshi-axios-1"]}
+{"event_id": "kalshi-20261029-equity", "investor_id": "layer-global", "role": "participant", "investment_amount": null, "currency": "USD", "evidence_ids": ["kalshi-kalshinews-1", "kalshi-axios-1"]}
+{"event_id": "kalshi-20261029-equity", "investor_id": "sequoia-global-equities", "role": "participant", "investment_amount": null, "currency": "USD", "evidence_ids": ["kalshi-kalshinews-1", "kalshi-axios-1"]}
+{"event_id": "serval-20261029-equity", "investor_id": "sequoia", "role": "lead", "investment_amount": null, "currency": "USD", "evidence_ids": ["serval-bizwire-1", "serval-axios-1"]}
+{"event_id": "serval-20261029-equity", "investor_id": "elad-gil", "role": "participant", "investment_amount": null, "currency": "USD", "evidence_ids": ["serval-bizwire-1", "serval-axios-1"]}
+{"event_id": "serval-20261029-equity", "investor_id": "evantic", "role": "participant", "investment_amount": null, "currency": "USD", "evidence_ids": ["serval-bizwire-1", "serval-axios-1"]}
+{"event_id": "serval-20261029-equity", "investor_id": "first-round-capital", "role": "participant", "investment_amount": null, "currency": "USD", "evidence_ids": ["serval-bizwire-1", "serval-axios-1"]}
+{"event_id": "serval-20261029-equity", "investor_id": "general-catalyst", "role": "participant", "investment_amount": null, "currency": "USD", "evidence_ids": ["serval-bizwire-1", "serval-axios-1"]}
+{"event_id": "serval-20261029-equity", "investor_id": "redpoint", "role": "participant", "investment_amount": null, "currency": "USD", "evidence_ids": ["serval-bizwire-1", "serval-axios-1"]}
+{"event_id": "serval-20261029-equity", "investor_id": "conviction", "role": "participant", "investment_amount": null, "currency": "USD", "evidence_ids": ["serval-bizwire-1", "serval-axios-1"]}
+{"event_id": "dren-bio-20261029-equity", "investor_id": "juvia-group", "role": "co_lead", "investment_amount": null, "currency": "USD", "evidence_ids": ["drenbio-bizwire-1"]}
+{"event_id": "dren-bio-20261029-equity", "investor_id": "lightspeed-venture-partners", "role": "co_lead", "investment_amount": null, "currency": "USD", "evidence_ids": ["drenbio-bizwire-1"]}
+{"event_id": "bedrock-robotics-20261026-equity", "investor_id": "capitalg", "role": "co_lead", "investment_amount": null, "currency": "USD", "evidence_ids": ["bedrock-gnw-1"]}
+{"event_id": "bedrock-robotics-20261026-equity", "investor_id": "emergence-capital-partners", "role": "co_lead", "investment_amount": null, "currency": "USD", "evidence_ids": ["bedrock-gnw-1"]}
+{"event_id": "bedrock-robotics-20261026-equity", "investor_id": "bessemer", "role": "participant", "investment_amount": null, "currency": "USD", "evidence_ids": ["bedrock-gnw-1"]}
+{"event_id": "hex-technologies-20261027-equity", "investor_id": "peak-xv-partners", "role": "co_lead", "investment_amount": null, "currency": "USD", "evidence_ids": ["hex-li-1"]}
+{"event_id": "hex-technologies-20261027-equity", "investor_id": "137-ventures", "role": "co_lead", "investment_amount": null, "currency": "USD", "evidence_ids": ["hex-li-1"]}
+{"event_id": "hex-technologies-20261027-equity", "investor_id": "avra", "role": "participant", "investment_amount": null, "currency": "USD", "evidence_ids": ["hex-li-1"]}
+{"event_id": "hex-technologies-20261027-equity", "investor_id": "a16z", "role": "participant", "investment_amount": null, "currency": "USD", "evidence_ids": ["hex-li-1"]}
+{"event_id": "hex-technologies-20261027-equity", "investor_id": "next-legacy-ventures", "role": "participant", "investment_amount": null, "currency": "USD", "evidence_ids": ["hex-li-1"]}
+{"event_id": "hex-technologies-20261027-equity", "investor_id": "redpoint", "role": "participant", "investment_amount": null, "currency": "USD", "evidence_ids": ["hex-li-1"]}
+{"event_id": "hex-technologies-20261027-equity", "investor_id": "sequoia", "role": "participant", "investment_amount": null, "currency": "USD", "evidence_ids": ["hex-li-1"]}
+{"event_id": "hex-technologies-20261027-equity", "investor_id": "zero-prime-ventures", "role": "participant", "investment_amount": null, "currency": "USD", "evidence_ids": ["hex-li-1"]}
+{"event_id": "hex-technologies-20261027-equity", "investor_id": "amplify-partners", "role": "participant", "investment_amount": null, "currency": "USD", "evidence_ids": ["hex-li-1"]}
+{"event_id": "machenta-20261027-equity", "investor_id": "creandum", "role": "co_lead", "investment_amount": null, "currency": "USD", "evidence_ids": ["machenta-imperial-1", "machenta-creandum-1"]}
+{"event_id": "machenta-20261027-equity", "investor_id": "usv", "role": "co_lead", "investment_amount": null, "currency": "USD", "evidence_ids": ["machenta-imperial-1", "machenta-creandum-1"]}
+{"event_id": "firehawk-aerospace-20261028-equity", "investor_id": "advent-international", "role": "co_lead", "investment_amount": null, "currency": "USD", "evidence_ids": ["firehawk-bizwire-1"]}
+{"event_id": "firehawk-aerospace-20261028-equity", "investor_id": "rochefort-asset-management", "role": "co_lead", "investment_amount": null, "currency": "USD", "evidence_ids": ["firehawk-bizwire-1"]}
+{"event_id": "general-compute-20261027-equity", "investor_id": "blackbird", "role": "co_lead", "investment_amount": null, "currency": "USD", "evidence_ids": ["gc-blog-1"]}
+{"event_id": "general-compute-20261027-equity", "investor_id": "abstract", "role": "co_lead", "investment_amount": null, "currency": "USD", "evidence_ids": ["gc-blog-1"]}
+{"event_id": "general-compute-20261027-equity", "investor_id": "fuse-venture-partners", "role": "participant", "investment_amount": null, "currency": "USD", "evidence_ids": ["gc-blog-1"]}
+{"event_id": "general-compute-20261027-equity", "investor_id": "village-global", "role": "participant", "investment_amount": null, "currency": "USD", "evidence_ids": ["gc-blog-1"]}
+{"event_id": "foundry-robotics-20261028-equity", "investor_id": "marlinspike-partners", "role": "lead", "investment_amount": null, "currency": "USD", "evidence_ids": ["foundry-bizwire-1"]}
+{"event_id": "foundry-robotics-20261028-equity", "investor_id": "khosla-ventures", "role": "participant", "investment_amount": null, "currency": "USD", "evidence_ids": ["foundry-bizwire-1"]}

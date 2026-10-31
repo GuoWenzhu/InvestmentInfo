@@ -359,6 +359,32 @@
    "report_path": "reports/2026-10-30-daily.md",
    "publication_comment_id": "01a18a2b-a582-7a14-80a5-4840cab45ba4",
    "publication_note": "已交付Issue评论并附日报/采集日志/追踪附件（2026-10-30T00:17:58Z）；同Issue不重复发布。窗口内新增9条（股权7：fractile £540M中置信/muray €7.1M混合/bleu-robotics €5M/dream $17M/superme $20M/mintive $7M/wabi $55M@$1.25B官方PR双源；并购1：thrive-adt $7.6B；基金募集1：investinor目标€200-300M中置信）；Spiko $90M为10-06旧公告排除；NVCA连续第2次403（替代入口可达，未达门槛，清单无改动）；提交534135b已推送。"
+  },
+  {
+   "date": "2026-10-31",
+   "run_key": "2026-10-31",
+   "issue_id": "01a18f41-f8fb-790a-9c64-33f1a25d05f4",
+   "issue_identifier": "TECH-82",
+   "event_ids": [
+    "kalshi-20261029-equity",
+    "serval-20261029-equity",
+    "dren-bio-20261029-equity",
+    "group14-20261029-equity",
+    "rune-salesforce-20261030-acquisition",
+    "bedrock-robotics-20261026-equity",
+    "hex-technologies-20261027-equity",
+    "machenta-20261027-equity",
+    "firehawk-aerospace-20261028-equity",
+    "general-compute-20261027-equity",
+    "foundry-robotics-20261028-equity"
+   ],
+   "revision": 1,
+   "status": "ready_for_delivery",
+   "window_start": "2026-10-29T00:00:27Z",
+   "window_end": "2026-10-31T00:00:27Z",
+   "report_path": "reports/2026-10-31-daily.md",
+   "publication_comment_id": null,
+   "publication_note": "报告已验证并准备交付；发布回执以对应Issue最终评论为准，重试必须先查评论。窗口内新增5条（kalshi/serval/dren-bio/group14/rune并购）+历史回补6条（bedrock/hex/machenta/firehawk/general-compute/foundry，10-26/27/28披露、当时面板未覆盖，经Crunchbase周榜与Sifted题录线索回查官方原文核验）。NVCA恢复可达（403×2清零）。"
   }
  ]
 }

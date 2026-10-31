@@ -259,3 +259,27 @@
 {"investor_id": "wepa-ventures", "name": "WEPA Ventures", "aliases": [], "parent_id": null}
 {"investor_id": "motier-ventures", "name": "Motier Ventures", "aliases": [], "parent_id": null}
 {"investor_id": "charlie-songhurst", "name": "Charlie Songhurst", "aliases": [], "parent_id": null}
+{"investor_id": "baillie-gifford", "name": "Baillie Gifford", "aliases": [], "parent_id": null}
+{"investor_id": "capitalg", "name": "CapitalG", "aliases": ["Google Capital"], "parent_id": null}
+{"investor_id": "morgan-stanley-investment-management", "name": "Morgan Stanley Investment Management", "aliases": [], "parent_id": "morgan-stanley"}
+{"investor_id": "hudson-river-trading", "name": "Hudson River Trading", "aliases": [], "parent_id": null}
+{"investor_id": "balyasny-asset-management", "name": "Balyasny Asset Management", "aliases": [], "parent_id": null}
+{"investor_id": "layer-global", "name": "Layer Global", "aliases": [], "parent_id": null}
+{"investor_id": "sequoia-global-equities", "name": "Sequoia Global Equities", "aliases": [], "parent_id": null}
+{"investor_id": "elad-gil", "name": "Elad Gil", "aliases": [], "parent_id": null}
+{"investor_id": "evantic", "name": "Evantic", "aliases": [], "parent_id": null}
+{"investor_id": "juvia-group", "name": "Juvia Group", "aliases": [], "parent_id": null}
+{"investor_id": "creandum", "name": "Creandum", "aliases": [], "parent_id": null}
+{"investor_id": "usv", "name": "Union Square Ventures", "aliases": ["USV"], "parent_id": null}
+{"investor_id": "emergence-capital-partners", "name": "Emergence Capital", "aliases": ["Emergence"], "parent_id": null}
+{"investor_id": "137-ventures", "name": "137 Ventures", "aliases": [], "parent_id": null}
+{"investor_id": "avra", "name": "avra", "aliases": [], "parent_id": null}
+{"investor_id": "next-legacy-ventures", "name": "Next Legacy Ventures", "aliases": ["Next Legacy"], "parent_id": null}
+{"investor_id": "zero-prime-ventures", "name": "Zero Prime Ventures", "aliases": [], "parent_id": null}
+{"investor_id": "advent-international", "name": "Advent International", "aliases": ["Advent"], "parent_id": null}
+{"investor_id": "rochefort-asset-management", "name": "Rochefort Asset Management", "aliases": ["Rochefort"], "parent_id": null}
+{"investor_id": "blackbird", "name": "Blackbird", "aliases": ["Blackbird Ventures"], "parent_id": null}
+{"investor_id": "abstract", "name": "Abstract", "aliases": [], "parent_id": null}
+{"investor_id": "fuse-venture-partners", "name": "Fuse Venture Partners", "aliases": [], "parent_id": null}
+{"investor_id": "village-global", "name": "Village Global", "aliases": [], "parent_id": null}
+{"investor_id": "marlinspike-partners", "name": "Marlinspike Partners", "aliases": ["Marlinspike"], "parent_id": null}

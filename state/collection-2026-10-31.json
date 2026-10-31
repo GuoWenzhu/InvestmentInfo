@@ -1,0 +1,65 @@
+{
+ "issue_id": "01a18f41-f8fb-790a-9c64-33f1a25d05f4",
+ "issue_identifier": "TECH-82",
+ "collected_at": "2026-10-31T00:40:00+00:00",
+ "window_start": "2026-10-29T00:00:27Z",
+ "window_end": "2026-10-31T00:00:27Z",
+ "source_attempts": [
+  {
+   "source_id": "techcrunch",
+   "attempted_at": "2026-10-31T00:03:00+00:00",
+   "status": "success",
+   "evidence_url": "https://techcrunch.com/category/startups/",
+   "notes": "Startups栏目+主feed（HTTP 200，lastBuild 10-31T00:00:53Z）。窗口内（10-30全天）录入1条：Salesforce收购Rune Technologies（$375M reported，In Brief全文核验，官方PR交叉）；排除14条非融资：Ollie关闭、Intel股价、Anthropic垃圾评级预期、Applebee's安全事件、万圣节、AI支出分析、Crosby收购Weil资产竞价（非融资，其$60M Series B为2026-03旧轮）、Satlyt技术里程碑（其$8M为10-13旧轮）、Zest产品、Google卫星、Theranos观点、Binance被盗、DoorDash、Waymo/Toyota、Runware扩张计划（'plans to raise Series B'为意向非事件）、Founder Summit推广×2、AI支出裂痕分析；10-29条目为TECH-79已处理"
+  },
+  {
+   "source_id": "crunchbase_news",
+   "attempted_at": "2026-10-31T00:04:00+00:00",
+   "status": "success",
+   "evidence_url": "https://news.crunchbase.com/feed/",
+   "notes": "RSS成功（HTTP 200，10-30T16:33Z）。本周Top10融资榜（10-24/30美国公司大额轮榜单）为发现路径：逐笔回查官方原文后录入9条——窗口内新增4条（Kalshi $1B G、Serval $150M C、Dren Bio $350M、Group14 €150M D-ext）+历史回补5条（Bedrock $600M C@10-26、Hex $100M D@10-27、Firehawk $150M+ D@10-28、General Compute $100M A@10-27、Foundry $100M A@10-28）；Re:Build $2.1B为rebuild-20261027-equity已在台账（TECH-73）；另1条Travel Tech Sector Snapshot为统计方法论分析排除；10-29两条（Series B统计、Series A/seed挤压）为TECH-79已处理"
+  },
+  {
+   "source_id": "sifted",
+   "attempted_at": "2026-10-31T00:04:30+00:00",
+   "status": "success",
+   "evidence_url": "https://sifted.eu/feed",
+   "notes": "RSS成功（HTTP 200）。窗口内（10-30）7条：录入历史回补1条——Creandum/USV $40M seed进Machenta分析文（Imperial官方新闻+Tech.eu+双方投资机构官方札记交叉核验；正文Pro门控仅题录可读，未绕过）；排除6条：韩国brnd、Doreen Huber转职Interface Capital（人员变动）、欧洲AI人才调查、Macron评论、AI agent安全综述、（另10-29条目为TECH-79已处理）"
+  },
+  {
+   "source_id": "accel",
+   "attempted_at": "2026-10-31T00:05:00+00:00",
+   "status": "success_zero_output",
+   "evidence_url": "https://www.accel.com/news",
+   "notes": "新闻列表可读（HTTP 200）；最晚条目仍2026-10-23（Zetwerk IPO评论）；窗口内无新投资公告"
+  },
+  {
+   "source_id": "qiming",
+   "attempted_at": "2026-10-31T00:05:00+00:00",
+   "status": "success_zero_output",
+   "evidence_url": "https://www.qimingvc.com/cn/newsroom",
+   "notes": "新闻室可读（HTTP 200）；10/2026组最晚仍Vol.33（10-28，TECH-76已处理）与生物医药榜单；窗口内无融资条目"
+  },
+  {
+   "source_id": "nvca",
+   "attempted_at": "2026-10-31T00:05:30+00:00",
+   "status": "success_zero_output",
+   "evidence_url": "https://nvca.org/pitchbook-nvca-venture-monitor/",
+   "notes": "季度统计页恢复可达（HTTP 200，此前连续2次403→清零）：Q3 2026 PitchBook-NVCA Venture Monitor已发布（美国VC前三季$515.8B、AI占交易额82.7%、基金募集$108.5B等）；季度统计不生成离散事件，success_zero_output"
+  },
+  {
+   "source_id": "techstars",
+   "attempted_at": "2026-10-31T00:05:30+00:00",
+   "status": "success_zero_output",
+   "evidence_url": "https://www.techstars.com/portfolio",
+   "notes": "组合目录页可读（HTTP 200，独角兽名录静态页）；目录收录不生成融资事件；窗口内无融资信息"
+  },
+  {
+   "source_id": "company_official",
+   "attempted_at": "2026-10-31T00:08:00+00:00",
+   "status": "success",
+   "evidence_url": "https://www.salesforce.com/news/stories/salesforce-signs-definitive-agreement-to-acquire-rune-technologies/",
+   "notes": "官方域名核验5处：salesforce.com官方新闻稿全文核验Rune收购（对价未披露，$375M为Resilience Media报道口径）；kalshi.com（news.kalshi.com官方公告）、group14.technology（€150M PR）、generalcompute.com（$100M Series A博客）、drenbio.com（news页PR同步）、machenta.com（官方博客）均确认为公司官方域名；其余候选公司官网域名未逐个核验，留待核验项"
+  }
+ ]
+}
