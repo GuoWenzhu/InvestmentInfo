@@ -379,12 +379,12 @@
     "foundry-robotics-20261028-equity"
    ],
    "revision": 1,
-   "status": "ready_for_delivery",
+   "status": "delivered",
    "window_start": "2026-10-29T00:00:27Z",
    "window_end": "2026-10-31T00:00:27Z",
    "report_path": "reports/2026-10-31-daily.md",
-   "publication_comment_id": null,
-   "publication_note": "报告已验证并准备交付；发布回执以对应Issue最终评论为准，重试必须先查评论。窗口内新增5条（kalshi/serval/dren-bio/group14/rune并购）+历史回补6条（bedrock/hex/machenta/firehawk/general-compute/foundry，10-26/27/28披露、当时面板未覆盖，经Crunchbase周榜与Sifted题录线索回查官方原文核验）。NVCA恢复可达（403×2清零）。"
+   "publication_comment_id": "01a18f56-85c8-703d-aba4-e8f4b4f6904c",
+   "publication_note": "已交付Issue评论并附日报/采集日志/追踪附件（2026-10-31T00:22:54Z）；同Issue不重复发布。窗口内新增5条（kalshi $1B G/serval $150M C/dren-bio $350M/group14 €150M D-ext/rune并购$375M reported）+历史回补6条（bedrock/hex/machenta/firehawk/general-compute/foundry，10-26/27/28披露经官方原文核验）。发现路径新增Crunchbase周榜回查；NVCA恢复可达（403×2清零）；提交037d82e已推送，回执提交随后。"
   }
  ]
 }
