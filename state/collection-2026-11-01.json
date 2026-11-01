@@ -1,0 +1,65 @@
+{
+ "issue_id": "01a19468-2c18-7a2e-943f-047ca57954b6",
+ "issue_identifier": "TECH-86",
+ "collected_at": "2026-11-01T00:20:00+00:00",
+ "window_start": "2026-10-30T00:00:20Z",
+ "window_end": "2026-11-01T00:00:20Z",
+ "source_attempts": [
+  {
+   "source_id": "techcrunch",
+   "attempted_at": "2026-11-01T00:02:00+00:00",
+   "status": "success_zero_output",
+   "evidence_url": "https://techcrunch.com/feed/",
+   "notes": "主feed（HTTP 200，lastBuild 10-31T21:41:05Z）+Startups栏目页逐条比对。10-31全天8条均为非融资：Apple CEO表态、Founder Summit推广、xAI诉讼、OpenAI融资目标下调（未关闭轮次媒体报道，FT/WSJ口径，不作事件、留观待官宣）、TikTok产品分析、iPhone评测、LP/VC观点（Pile-ins）、Nvidia拟为Nscale共同签字（'weighs'意向）；10-30条目18条为TECH-79/82已处理（Rune已录入）；Startups栏目页无10-31新条目"
+  },
+  {
+   "source_id": "crunchbase_news",
+   "attempted_at": "2026-11-01T00:03:00+00:00",
+   "status": "success_zero_output",
+   "evidence_url": "https://news.crunchbase.com/feed/",
+   "notes": "RSS成功（HTTP 200，lastBuild 10-30T16:33:59Z）。最新3条（周榜、Travel Tech、Series B统计）均已处理；10-31（周六）全天无新发文。周榜下一期预计11-06发布（覆盖10-31/11-06）"
+  },
+  {
+   "source_id": "sifted",
+   "attempted_at": "2026-11-01T00:03:30+00:00",
+   "status": "success_zero_output",
+   "evidence_url": "https://sifted.eu/feed",
+   "notes": "RSS成功（HTTP 200，lastBuild 11-01T00:00:03Z）。最新条目仍10-30T14:26Z（South Korea brnd），10-30全部6条（5排除+1条Machenta回补线索）为TECH-82已处理；10-31全天无新发文"
+  },
+  {
+   "source_id": "accel",
+   "attempted_at": "2026-11-01T00:04:00+00:00",
+   "status": "success_zero_output",
+   "evidence_url": "https://www.accel.com/news",
+   "notes": "新闻列表可读（HTTP 200）；最晚条目仍2026-10-23（Zetwerk IPO评论）；窗口内无新投资公告"
+  },
+  {
+   "source_id": "qiming",
+   "attempted_at": "2026-11-01T00:04:00+00:00",
+   "status": "success_zero_output",
+   "evidence_url": "https://www.qimingvc.com/cn/newsroom",
+   "notes": "新闻室可读（HTTP 200）；10/2026组最晚仍Vol.33（10-28，TECH-76已处理）与生物医药榜单；窗口内无融资条目"
+  },
+  {
+   "source_id": "nvca",
+   "attempted_at": "2026-11-01T00:04:30+00:00",
+   "status": "success_zero_output",
+   "evidence_url": "https://nvca.org/pitchbook-nvca-venture-monitor/",
+   "notes": "季度统计页可达（HTTP 200）；内容仍Q3 2026 Venture Monitor（前三季$515.8B、AI占82.7%等）；季度统计不生成离散事件"
+  },
+  {
+   "source_id": "techstars",
+   "attempted_at": "2026-11-01T00:04:30+00:00",
+   "status": "success_zero_output",
+   "evidence_url": "https://www.techstars.com/portfolio",
+   "notes": "组合目录页可读（HTTP 200，独角兽名录静态页）；目录收录不生成融资事件；窗口内无融资信息"
+  },
+  {
+   "source_id": "company_official",
+   "attempted_at": "2026-11-01T00:20:00+00:00",
+   "status": "success_zero_output",
+   "evidence_url": null,
+   "notes": "窗口内无新事件候选，未触发官方域名核验；无新增待核验项"
+  }
+ ]
+}
