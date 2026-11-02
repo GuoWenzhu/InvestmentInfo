@@ -409,12 +409,12 @@
     "prescalar-20261022-equity"
    ],
    "revision": 1,
-   "status": "ready_for_delivery",
+   "status": "delivered",
    "window_start": "2026-10-31T00:00:19Z",
    "window_end": "2026-11-02T00:00:19Z",
    "report_path": "reports/2026-11-02-daily.md",
-   "publication_comment_id": null,
-   "publication_note": "报告已验证并准备交付；发布回执以对应Issue最终评论为准，重试必须先查评论。窗口内零新增融资；历史回补1条（prescalar-20261022-equity $7M seed，披露10-22经TechCrunch Mobility线索回查官方原文）。"
+   "publication_comment_id": "01a19998-66c5-714a-ae9f-50f8d59df21d",
+   "publication_note": "已交付Issue评论并附日报/采集日志/追踪附件（2026-11-02T00:11:04Z）；同Issue不重复发布。窗口内零新增融资；历史回补1条（prescalar-20261022-equity $7M seed，披露10-22，官方博客+PRNewswire双源核验）；排除+10（含DoorDash/Instacart公开公司并购留痕、OpenAI留观延续）；提交69c73a6已推送，回执提交随后。"
   }
  ]
 }
