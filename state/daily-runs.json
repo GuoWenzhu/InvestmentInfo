@@ -399,6 +399,22 @@
    "report_path": "reports/2026-11-01-daily.md",
    "publication_comment_id": "01a1946e-7c4a-722b-83b6-dcce44c40678",
    "publication_note": "已交付Issue评论并附日报/采集日志/追踪附件（2026-11-01T00:07Z）；同Issue不重复发布。窗口内零新增零更正零回补（真实零事件日，8入口全部成功读取）；排除线索+8（含OpenAI未关闭轮次留观项）；提交702411a已推送，回执提交随后。"
+  },
+  {
+   "date": "2026-11-02",
+   "run_key": "2026-11-02",
+   "issue_id": "01a1998e-90a7-7d6d-93a7-15ea63606472",
+   "issue_identifier": "TECH-89",
+   "event_ids": [
+    "prescalar-20261022-equity"
+   ],
+   "revision": 1,
+   "status": "ready_for_delivery",
+   "window_start": "2026-10-31T00:00:19Z",
+   "window_end": "2026-11-02T00:00:19Z",
+   "report_path": "reports/2026-11-02-daily.md",
+   "publication_comment_id": null,
+   "publication_note": "报告已验证并准备交付；发布回执以对应Issue最终评论为准，重试必须先查评论。窗口内零新增融资；历史回补1条（prescalar-20261022-equity $7M seed，披露10-22经TechCrunch Mobility线索回查官方原文）。"
   }
  ]
 }

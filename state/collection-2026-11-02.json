@@ -1,0 +1,65 @@
+{
+ "issue_id": "01a1998e-90a7-7d6d-93a7-15ea63606472",
+ "issue_identifier": "TECH-89",
+ "collected_at": "2026-11-02T00:06:53+00:00",
+ "window_start": "2026-10-31T00:00:19Z",
+ "window_end": "2026-11-02T00:00:19Z",
+ "source_attempts": [
+  {
+   "source_id": "techcrunch",
+   "attempted_at": "2026-11-02T00:01:00+00:00",
+   "status": "success_with_output",
+   "evidence_url": "https://techcrunch.com/feed/",
+   "notes": "主feed（HTTP 200，lastBuild 11-01T21:55:31Z）+Startups栏目页逐条比对。10-31（周六）条目已在TECH-86全部处理；本窗口新增11-01（周日）7条均非融资（OpenAI更名讨论、Equity播客、Mobility周报、币安安全事件、Pixel评测、Everbloom材料里程碑、数据中心政策）；Mobility 'Deals!'栏目提供PreScalar $7M seed线索（发布于10-22，公司官方博客+PRNewswire核验后历史回补）；栏内Re:Build/Bedrock已在台账；另补登10-29 DoorDash/Instacart $17B公开公司并购排除项（TECH-79账面遗漏留痕）"
+  },
+  {
+   "source_id": "crunchbase_news",
+   "attempted_at": "2026-11-02T00:02:00+00:00",
+   "status": "success_zero_output",
+   "evidence_url": "https://news.crunchbase.com/feed/",
+   "notes": "RSS成功（HTTP 200，lastBuild仍10-30T16:33:59Z）。最新仍周榜（10-24→10-30，10笔已处理）与Travel Tech、Series B统计；10-31/11-01周末无新发文；下期周榜预计11-06（覆盖10-31/11-06，可回补本窗口后半段）"
+  },
+  {
+   "source_id": "sifted",
+   "attempted_at": "2026-11-02T00:02:30+00:00",
+   "status": "success_zero_output",
+   "evidence_url": "https://sifted.eu/feed",
+   "notes": "RSS成功（HTTP 200，lastBuild 11-01T23:58:30Z但无新条目，为feed重建）。最新条目仍10-30T14:26Z（South Korea brnd），10-30全部6条已处理；10-31/11-01周末无新发文"
+  },
+  {
+   "source_id": "accel",
+   "attempted_at": "2026-11-02T00:03:00+00:00",
+   "status": "success_zero_output",
+   "evidence_url": "https://www.accel.com/news",
+   "notes": "新闻列表可读（HTTP 200）；最晚条目仍2026-10-23（Zetwerk IPO评论）；窗口内无新投资公告"
+  },
+  {
+   "source_id": "qiming",
+   "attempted_at": "2026-11-02T00:03:00+00:00",
+   "status": "success_zero_output",
+   "evidence_url": "https://www.qimingvc.com/cn/newsroom",
+   "notes": "新闻室可读（HTTP 200）；10/2026组最晚仍Vol.33（10-28）与生物医药榜单，均已处理；窗口内无融资条目"
+  },
+  {
+   "source_id": "nvca",
+   "attempted_at": "2026-11-02T00:03:30+00:00",
+   "status": "success_zero_output",
+   "evidence_url": "https://nvca.org/pitchbook-nvca-venture-monitor/",
+   "notes": "季度统计页可达（HTTP 200）；内容仍Q3 2026 Venture Monitor（前三季$515.8B、AI占82.7%）；季度统计不生成离散事件"
+  },
+  {
+   "source_id": "techstars",
+   "attempted_at": "2026-11-02T00:03:30+00:00",
+   "status": "success_zero_output",
+   "evidence_url": "https://www.techstars.com/portfolio",
+   "notes": "组合目录页可读（HTTP 200，独角兽名录静态页）；目录收录不生成融资事件；窗口内无融资信息"
+  },
+  {
+   "source_id": "company_official",
+   "attempted_at": "2026-11-02T00:06:00+00:00",
+   "status": "success_with_output",
+   "evidence_url": "https://www.prescalar.ai/post/we-raised-7-million-to-build-the-software-layer-for-the-modern-factory",
+   "notes": "触发1次官方域名核验：prescalar.ai（TechCrunch Mobility线索指向，官方域名与公司名一致，PRNewswire 'SOURCE PreScalar, Inc.'互证）；官方博客+PRNewswire双源全文核验后补录prescalar-20261022-equity"
+  }
+ ]
+}

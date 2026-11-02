@@ -369,3 +369,8 @@
 {"event_id": "general-compute-20261027-equity", "investor_id": "village-global", "role": "participant", "investment_amount": null, "currency": "USD", "evidence_ids": ["gc-blog-1"]}
 {"event_id": "foundry-robotics-20261028-equity", "investor_id": "marlinspike-partners", "role": "lead", "investment_amount": null, "currency": "USD", "evidence_ids": ["foundry-bizwire-1"]}
 {"event_id": "foundry-robotics-20261028-equity", "investor_id": "khosla-ventures", "role": "participant", "investment_amount": null, "currency": "USD", "evidence_ids": ["foundry-bizwire-1"]}
+{"event_id": "prescalar-20261022-equity", "investor_id": "dynamo-ventures", "role": "co_lead", "investment_amount": null, "currency": "USD", "evidence_ids": ["prescalar-blog-1", "prescalar-pr-1"]}
+{"event_id": "prescalar-20261022-equity", "investor_id": "bmw-i-ventures", "role": "co_lead", "investment_amount": null, "currency": "USD", "evidence_ids": ["prescalar-blog-1", "prescalar-pr-1"]}
+{"event_id": "prescalar-20261022-equity", "investor_id": "blue-wire-capital", "role": "participant", "investment_amount": null, "currency": "USD", "evidence_ids": ["prescalar-blog-1", "prescalar-pr-1"]}
+{"event_id": "prescalar-20261022-equity", "investor_id": "uplift-ventures", "role": "participant", "investment_amount": null, "currency": "USD", "evidence_ids": ["prescalar-blog-1", "prescalar-pr-1"]}
+{"event_id": "prescalar-20261022-equity", "investor_id": "antler", "role": "participant", "investment_amount": null, "currency": "USD", "evidence_ids": ["prescalar-blog-1", "prescalar-pr-1"]}

@@ -283,3 +283,8 @@
 {"investor_id": "fuse-venture-partners", "name": "Fuse Venture Partners", "aliases": [], "parent_id": null}
 {"investor_id": "village-global", "name": "Village Global", "aliases": [], "parent_id": null}
 {"investor_id": "marlinspike-partners", "name": "Marlinspike Partners", "aliases": ["Marlinspike"], "parent_id": null}
+{"investor_id": "dynamo-ventures", "name": "Dynamo Ventures", "aliases": ["Dynamo"], "parent_id": null}
+{"investor_id": "bmw-i-ventures", "name": "BMW i Ventures", "aliases": [], "parent_id": null}
+{"investor_id": "blue-wire-capital", "name": "Blue Wire Capital", "aliases": [], "parent_id": null}
+{"investor_id": "uplift-ventures", "name": "Uplift Ventures", "aliases": [], "parent_id": null}
+{"investor_id": "antler", "name": "Antler", "aliases": [], "parent_id": null}

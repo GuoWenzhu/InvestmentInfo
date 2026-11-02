@@ -5224,6 +5224,126 @@
    "status": "excluded_not_event",
    "reason": "'weighs'考虑中的意向报道（Nvidia为Nscale WV数据中心共同签字，发布于2026-10-31T01:20Z，上轮采集后），非已发生融资事件",
    "revision": 1
+  },
+  {
+   "url": "https://techcrunch.com/2026/11/01/openai-might-rebrand-its-data-centers-as-ai-compute-campuses/",
+   "canonical_url": "https://techcrunch.com/2026/11/01/openai-might-rebrand-its-data-centers-as-ai-compute-campuses/",
+   "source_id": "techcrunch",
+   "first_collected_at": "2026-11-02T00:06:53+00:00",
+   "last_collected_at": "2026-11-02T00:06:53+00:00",
+   "issue_id": "01a1998e-90a7-7d6d-93a7-15ea63606472",
+   "event_id": null,
+   "status": "excluded_not_event",
+   "reason": "品牌/政策表态（OpenAI数据中心更名'AI compute campuses'的公关讨论，发布11-01T21:55Z）；OpenAI未关闭轮次留观项延续，仍非官宣交割",
+   "revision": 1
+  },
+  {
+   "url": "https://techcrunch.com/2026/11/01/ai-can-make-tech-ceos-lives-easier-what-about-everyone-else/",
+   "canonical_url": "https://techcrunch.com/2026/11/01/ai-can-make-tech-ceos-lives-easier-what-about-everyone-else/",
+   "source_id": "techcrunch",
+   "first_collected_at": "2026-11-02T00:06:53+00:00",
+   "last_collected_at": "2026-11-02T00:06:53+00:00",
+   "issue_id": "01a1998e-90a7-7d6d-93a7-15ea63606472",
+   "event_id": null,
+   "status": "excluded_not_event",
+   "reason": "Equity播客文字稿（科技CEO言论讨论，发布11-01T20:57Z），非融资披露",
+   "revision": 1
+  },
+  {
+   "url": "https://techcrunch.com/2026/11/01/techcrunch-mobility-a-new-bigger-av-boom-is-here/",
+   "canonical_url": "https://techcrunch.com/2026/11/01/techcrunch-mobility-a-new-bigger-av-boom-is-here/",
+   "source_id": "techcrunch",
+   "first_collected_at": "2026-11-02T00:06:53+00:00",
+   "last_collected_at": "2026-11-02T00:06:53+00:00",
+   "issue_id": "01a1998e-90a7-7d6d-93a7-15ea63606472",
+   "event_id": "prescalar-20261022-equity",
+   "status": "accepted",
+   "reason": "TechCrunch Mobility周报（发布11-01T17:04Z）：'Deals!'栏目PreScalar $7M seed线索，回查公司官方博客+PRNewswire核验后补录prescalar-20261022-equity；栏内Re:Build $2.1B/Bedrock $600M已在台账不重复；Trucks VC 81家AV初创pitch统计为机构观点非融资事件",
+   "revision": 1
+  },
+  {
+   "url": "https://techcrunch.com/2026/11/01/binance-resumes-withdrawals-following-6-3-billion-breach/",
+   "canonical_url": "https://techcrunch.com/2026/11/01/binance-resumes-withdrawals-following-6-3-billion-breach/",
+   "source_id": "techcrunch",
+   "first_collected_at": "2026-11-02T00:06:53+00:00",
+   "last_collected_at": "2026-11-02T00:06:53+00:00",
+   "issue_id": "01a1998e-90a7-7d6d-93a7-15ea63606472",
+   "event_id": null,
+   "status": "excluded_not_event",
+   "reason": "安全事件后续（币安$6.3B被盗后恢复提款，发布11-01T16:20Z），非融资披露",
+   "revision": 1
+  },
+  {
+   "url": "https://techcrunch.com/2026/11/01/pixel-11-pro-fold-sturdy-rectengale-in-a-wide-wide-world/",
+   "canonical_url": "https://techcrunch.com/2026/11/01/pixel-11-pro-fold-sturdy-rectengale-in-a-wide-wide-world/",
+   "source_id": "techcrunch",
+   "first_collected_at": "2026-11-02T00:06:53+00:00",
+   "last_collected_at": "2026-11-02T00:06:53+00:00",
+   "issue_id": "01a1998e-90a7-7d6d-93a7-15ea63606472",
+   "event_id": null,
+   "status": "excluded_not_event",
+   "reason": "产品评测（Pixel 11 Pro Fold），非融资披露",
+   "revision": 1
+  },
+  {
+   "url": "https://techcrunch.com/2026/11/01/heres-what-renoa-the-first-new-fiber-in-25-years-feels-like/",
+   "canonical_url": "https://techcrunch.com/2026/11/01/heres-what-renoa-the-first-new-fiber-in-25-years-feels-like/",
+   "source_id": "techcrunch",
+   "first_collected_at": "2026-11-02T00:06:53+00:00",
+   "last_collected_at": "2026-11-02T00:06:53+00:00",
+   "issue_id": "01a1998e-90a7-7d6d-93a7-15ea63606472",
+   "event_id": null,
+   "status": "excluded_not_event",
+   "reason": "Everbloom新材料renoa产品/材料里程碑（FTC纤维分类批准，发布11-01T14:00Z），全文核验无新融资披露",
+   "revision": 1
+  },
+  {
+   "url": "https://techcrunch.com/2026/10/31/data-centers-are-now-a-midterm-issue-even-in-brooklyn/",
+   "canonical_url": "https://techcrunch.com/2026/10/31/data-centers-are-now-a-midterm-issue-even-in-brooklyn/",
+   "source_id": "techcrunch",
+   "first_collected_at": "2026-11-02T00:06:53+00:00",
+   "last_collected_at": "2026-11-02T00:06:53+00:00",
+   "issue_id": "01a1998e-90a7-7d6d-93a7-15ea63606472",
+   "event_id": null,
+   "status": "excluded_not_event",
+   "reason": "数据中心政策报道（发布11-01T02:22Z），非融资披露",
+   "revision": 1
+  },
+  {
+   "url": "https://techcrunch.com/2026/10/29/doordash-to-acquire-instacart-for-17b/",
+   "canonical_url": "https://techcrunch.com/2026/10/29/doordash-to-acquire-instacart-for-17b/",
+   "source_id": "techcrunch",
+   "first_collected_at": "2026-11-02T00:06:53+00:00",
+   "last_collected_at": "2026-11-02T00:06:53+00:00",
+   "issue_id": "01a1998e-90a7-7d6d-93a7-15ea63606472",
+   "event_id": null,
+   "status": "excluded_not_event",
+   "reason": "DoorDash（NASDAQ:DASH）协议收购Instacart/Maplebear（NASDAQ:CART）$17B：公开上市公司间并购、交易双方均为已上市公司且无创投机构作为交易方，不属于创业融资事件表口径；披露于2026-10-29（既往窗口TECH-79排除清单未点名、账面遗漏），11-01 Mobility转述为回顾，本条留痕备查",
+   "revision": 1
+  },
+  {
+   "url": "https://www.prescalar.ai/post/we-raised-7-million-to-build-the-software-layer-for-the-modern-factory",
+   "canonical_url": "https://www.prescalar.ai/post/we-raised-7-million-to-build-the-software-layer-for-the-modern-factory",
+   "source_id": "company_official",
+   "first_collected_at": "2026-11-02T00:06:53+00:00",
+   "last_collected_at": "2026-11-02T00:06:53+00:00",
+   "issue_id": "01a1998e-90a7-7d6d-93a7-15ea63606472",
+   "event_id": "prescalar-20261022-equity",
+   "status": "accepted",
+   "reason": "PreScalar官方博客（prescalar.ai官方域名核验）：$7M Seed官宣全文，录入prescalar-20261022-equity",
+   "revision": 1
+  },
+  {
+   "url": "https://www.prnewswire.com/news-releases/prescalar-raises-7m-to-build-the-software-layer-for-the-modern-factory-302912384.html",
+   "canonical_url": "https://www.prnewswire.com/news-releases/prescalar-raises-7m-to-build-the-software-layer-for-the-modern-factory-302912384.html",
+   "source_id": "company_official",
+   "first_collected_at": "2026-11-02T00:06:53+00:00",
+   "last_collected_at": "2026-11-02T00:06:53+00:00",
+   "issue_id": "01a1998e-90a7-7d6d-93a7-15ea63606472",
+   "event_id": "prescalar-20261022-equity",
+   "status": "accepted",
+   "reason": "PRNewswire官方分发稿（SOURCE PreScalar, Inc.，传输号202610220900=2026-10-22 09:00 ET）：$7M Seed官宣全文，录入prescalar-20261022-equity",
+   "revision": 1
   }
  ]
 }
