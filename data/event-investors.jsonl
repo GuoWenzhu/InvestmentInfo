@@ -374,3 +374,16 @@
 {"event_id": "prescalar-20261022-equity", "investor_id": "blue-wire-capital", "role": "participant", "investment_amount": null, "currency": "USD", "evidence_ids": ["prescalar-blog-1", "prescalar-pr-1"]}
 {"event_id": "prescalar-20261022-equity", "investor_id": "uplift-ventures", "role": "participant", "investment_amount": null, "currency": "USD", "evidence_ids": ["prescalar-blog-1", "prescalar-pr-1"]}
 {"event_id": "prescalar-20261022-equity", "investor_id": "antler", "role": "participant", "investment_amount": null, "currency": "USD", "evidence_ids": ["prescalar-blog-1", "prescalar-pr-1"]}
+{"event_id": "trajectory-20261102-equity", "investor_id": "sequoia", "role": "lead", "investment_amount": null, "currency": "USD", "evidence_ids": ["traj-tc-1", "traj-site-1"]}
+{"event_id": "trajectory-20261102-equity", "investor_id": "nvidia", "role": "participant", "investment_amount": null, "currency": "USD", "evidence_ids": ["traj-tc-1", "traj-site-1"]}
+{"event_id": "trajectory-20261102-equity", "investor_id": "bessemer", "role": "participant", "investment_amount": null, "currency": "USD", "evidence_ids": ["traj-tc-1", "traj-site-1"]}
+{"event_id": "trajectory-20261102-equity", "investor_id": "bain-capital-ventures", "role": "participant", "investment_amount": null, "currency": "USD", "evidence_ids": ["traj-tc-1", "traj-site-1"]}
+{"event_id": "42ai-20261102-equity", "investor_id": "infinity-group", "role": "undisclosed", "investment_amount": null, "currency": "USD", "evidence_ids": ["ai42-tc-1", "ai42-site-1"]}
+{"event_id": "northwood-space-20261102-equity", "investor_id": "a16z", "role": "co_lead", "investment_amount": null, "currency": "USD", "evidence_ids": ["northwood-blog-1", "northwood-tc-1"]}
+{"event_id": "northwood-space-20261102-equity", "investor_id": "dfj-growth", "role": "co_lead", "investment_amount": null, "currency": "USD", "evidence_ids": ["northwood-blog-1", "northwood-tc-1"]}
+{"event_id": "northwood-space-20261102-equity", "investor_id": "washington-harbour-partners", "role": "participant", "investment_amount": null, "currency": "USD", "evidence_ids": ["northwood-blog-1", "northwood-tc-1"]}
+{"event_id": "northwood-space-20261102-equity", "investor_id": "alpine-space-ventures", "role": "participant", "investment_amount": null, "currency": "USD", "evidence_ids": ["northwood-blog-1", "northwood-tc-1"]}
+{"event_id": "northwood-space-20261102-equity", "investor_id": "stepstone", "role": "participant", "investment_amount": null, "currency": "USD", "evidence_ids": ["northwood-blog-1", "northwood-tc-1"]}
+{"event_id": "northwood-space-20261102-equity", "investor_id": "iqt", "role": "participant", "investment_amount": null, "currency": "USD", "evidence_ids": ["northwood-blog-1", "northwood-tc-1"]}
+{"event_id": "hypersonica-20261102-equity", "investor_id": "lightspeed-venture-partners", "role": "co_lead", "investment_amount": null, "currency": "EUR", "evidence_ids": ["hypersonica-sifted-1"]}
+{"event_id": "hypersonica-20261102-equity", "investor_id": "general-catalyst", "role": "co_lead", "investment_amount": null, "currency": "EUR", "evidence_ids": ["hypersonica-sifted-1"]}

@@ -1,0 +1,65 @@
+{
+ "issue_id": "01a19eb5-0de3-7b7c-b938-6f23fd1f5ab4",
+ "issue_identifier": "TECH-92",
+ "collected_at": "2026-11-03T00:08:18+00:00",
+ "window_start": "2026-11-01T00:00:20Z",
+ "window_end": "2026-11-03T00:00:20Z",
+ "source_attempts": [
+  {
+   "source_id": "techcrunch",
+   "attempted_at": "2026-11-03T00:01:00+00:00",
+   "status": "success_with_output",
+   "evidence_url": "https://techcrunch.com/feed/",
+   "notes": "主feed（HTTP 200，lastBuild 11-02T23:52:58Z）逐条比对。窗口内11-02（周一）20条：4条融资事件（Trajectory $45M A、42AI $62.5M seed、Northwood Space $375M C、Omen AI/Aquatic Labs $16M并购）经全文+官方核验后录入；Marvell/Lumentum $115B公开公司间并购排除留痕（比照DoorDash/Instacart先例）、SpaceX/Boost传闻排除；其余14条非融资。10-31/11-01条目已在此前窗口（TECH-86/89）处理"
+  },
+  {
+   "source_id": "crunchbase_news",
+   "attempted_at": "2026-11-03T00:02:00+00:00",
+   "status": "success_zero_output",
+   "evidence_url": "https://news.crunchbase.com/feed/",
+   "notes": "RSS成功（HTTP 200）。窗口内新增1条：11-02T12:00Z Q3统计图表文（More Money, Fewer Checks）——季度统计不生成离散事件，文中大额轮均已在台账；周榜仍10-30（已处理），下期预计11-06"
+  },
+  {
+   "source_id": "sifted",
+   "attempted_at": "2026-11-03T00:02:30+00:00",
+   "status": "success_with_output",
+   "evidence_url": "https://sifted.eu/feed",
+   "notes": "RSS成功（HTTP 200，lastBuild 11-02T23:59Z）。窗口内新增8条（11-02周一）：2条融资（Creandum $750m基金官网双源高置信；Hypersonica €100M B轮导语免费可见、正文反爬混淆单源中置信）；6条观点/榜单/生态文排除。10-30及以前条目已处理"
+  },
+  {
+   "source_id": "accel",
+   "attempted_at": "2026-11-03T00:03:00+00:00",
+   "status": "success_zero_output",
+   "evidence_url": "https://www.accel.com/news",
+   "notes": "新闻列表可读（HTTP 200）；最晚条目仍2026-10-23（Zetwerk IPO评论）；窗口内无新投资公告"
+  },
+  {
+   "source_id": "qiming",
+   "attempted_at": "2026-11-03T00:03:00+00:00",
+   "status": "success_zero_output",
+   "evidence_url": "https://www.qimingvc.com/cn/newsroom",
+   "notes": "新闻室可读（HTTP 200）；新增11/2026组1条：被投企业Sharpa人物观点（非融资）；10/2026组无新增（Vol.33已处理）"
+  },
+  {
+   "source_id": "nvca",
+   "attempted_at": "2026-11-03T00:03:30+00:00",
+   "status": "success_zero_output",
+   "evidence_url": "https://nvca.org/pitchbook-nvca-venture-monitor/",
+   "notes": "季度统计页可达（HTTP 200）；内容仍Q3 2026 Venture Monitor（前三季$515.8B、AI占82.7%、基金募集$108.5B集中头部）；季度统计不生成离散事件"
+  },
+  {
+   "source_id": "techstars",
+   "attempted_at": "2026-11-03T00:03:30+00:00",
+   "status": "success_zero_output",
+   "evidence_url": "https://www.techstars.com/portfolio",
+   "notes": "组合目录页可读（HTTP 200，独角兽名录静态页）；目录收录不生成融资事件；窗口内无融资信息"
+  },
+  {
+   "source_id": "company_official",
+   "attempted_at": "2026-11-03T00:05:00+00:00",
+   "status": "success_with_output",
+   "evidence_url": null,
+   "notes": "触发4次核验：northwoodspace.io官方博客全文（$375M C轮官方确认）；creandum.com官网公告全文（Creandum VIII $750m关账确认）；trajectory.ai与42ai.com官方域名核验（产品页与报道一致，无融资PR，作佐证证据）"
+  }
+ ]
+}
