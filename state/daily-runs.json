@@ -436,6 +436,28 @@
    "report_path": "reports/2026-11-03-daily.md",
    "publication_comment_id": "01a19ebe-d1ee-78f1-b5d6-02eb708859d1",
    "publication_note": "已交付Issue评论并附日报/追踪附件（2026-11-03T00:11:08Z）；同Issue不重复发布。窗口内新增6条（股权4：trajectory $45M/42ai $62.5M三年累计口径/northwood $375M/hypersonica €100M中置信；并购1：omen-aquatic $16M；基金募集1：creandum $750m官网双源）；排除+34（Marvell/Lumentum公开公司并购、SpaceX传闻留痕）；提交493180e已推送，回执提交随后。"
+  },
+  {
+   "date": "2026-11-04",
+   "run_key": "2026-11-04",
+   "issue_id": "01a1a3db-78bd-7950-b137-d3f0678cb84d",
+   "issue_identifier": "TECH-95",
+   "event_ids": [
+    "fal-20261103-equity-f",
+    "fal-20261103-equity-e",
+    "evertrue-20261103-fund",
+    "ballistic-20261103-fund",
+    "enjosim-20261103-equity",
+    "noitom-robotics-20261103-equity",
+    "deepseek-20261022-equity"
+   ],
+   "revision": 1,
+   "status": "ready_for_delivery",
+   "window_start": "2026-11-02T00:00:20Z",
+   "window_end": "2026-11-04T00:00:20Z",
+   "report_path": "reports/2026-11-04-daily.md",
+   "publication_comment_id": null,
+   "publication_note": "报告已验证并准备交付；发布回执以对应Issue最终评论为准，重试必须先查评论。"
   }
  ]
 }

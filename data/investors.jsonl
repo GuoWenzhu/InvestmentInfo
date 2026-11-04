@@ -293,3 +293,6 @@
 {"investor_id": "washington-harbour-partners", "name": "Washington Harbour Partners", "aliases": [], "parent_id": null}
 {"investor_id": "alpine-space-ventures", "name": "Alpine Space Ventures", "aliases": [], "parent_id": null}
 {"investor_id": "stepstone", "name": "StepStone", "aliases": ["Stepstone"], "parent_id": null}
+{"investor_id": "sound-ventures", "name": "Sound Ventures", "aliases": [], "parent_id": null}
+{"investor_id": "tencent", "name": "腾讯（Tencent Holdings）", "aliases": ["Tencent", "腾讯"], "parent_id": null}
+{"investor_id": "catl", "name": "宁德时代（CATL）", "aliases": ["Contemporary Amperex Technology Co., Limited", "CATL", "宁德时代"], "parent_id": null}

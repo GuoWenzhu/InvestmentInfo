@@ -1,0 +1,65 @@
+{
+ "issue_id": "01a1a3db-78bd-7950-b137-d3f0678cb84d",
+ "issue_identifier": "TECH-95",
+ "collected_at": "2026-11-04T00:20:00+00:00",
+ "window_start": "2026-11-02T00:00:20Z",
+ "window_end": "2026-11-04T00:00:20Z",
+ "source_attempts": [
+  {
+   "source_id": "techcrunch",
+   "attempted_at": "2026-11-04T00:01:30+00:00",
+   "status": "success_with_output",
+   "evidence_url": "https://techcrunch.com/feed/",
+   "notes": "主feed（HTTP 200，lastBuild 11-04T00:01:18Z）逐条比对。窗口内新增11-03（周二）20条：4条融资/募资相关经全文核验录入（Fal Series F $1.3B+Series E联合官宣、Evertrue $17M首期基金关账、Ballistic Ventures $490M目标SEC Form D按investinor先例录fund_target_open）；CrowdStrike收购Fiddler(~$400M)+Dreadnode(~$95M)为公开上市公司并购按DoorDash/Instacart先例排除留痕；其余15条为产品/财报/安全/活动等非融资（Orbital Matter全文核验仅背景提及旧seed轮）。DeepSeek 10-22报道为10月条目，经Crunchbase月度文线索触发回补核验（见crunchbase_news条目）"
+  },
+  {
+   "source_id": "crunchbase_news",
+   "attempted_at": "2026-11-04T00:02:00+00:00",
+   "status": "success_with_output",
+   "evidence_url": "https://news.crunchbase.com/feed/",
+   "notes": "RSS成功（HTTP 200）。窗口内新增1条：11-03T12:00Z 10月月度统计文（$59B、+45%、DeepSeek $15.9B@$90B为最大中国融资）——统计文不生成离散事件，但暴露台账缺口：DeepSeek第二轮（10-22 Bloomberg/Reuters/WSJ/TC多源报道、公司未官方确认）未曾在当时窗口录入。经TC 10-22原文+21经济网10-30细节文交叉核验后作历史回补（deepseek-20261022-equity，medium置信、金额口径冲突留痕）；周榜仍10-30（已处理），下期预计11-06"
+  },
+  {
+   "source_id": "sifted",
+   "attempted_at": "2026-11-04T00:02:30+00:00",
+   "status": "success_with_output",
+   "evidence_url": "https://sifted.eu/feed",
+   "notes": "RSS成功（HTTP 200，lastBuild 11-04T00:03:20Z）。窗口内新增4条（11-03）：Evertrue $17m首期基金（导语免费可见，与TC全文双源）；Lovable安全文、BRND/Prefrontal赞助内容（paid-for，无融资披露）、光子学榜单文排除；11-02及以前条目已在此前窗口处理"
+  },
+  {
+   "source_id": "accel",
+   "attempted_at": "2026-11-04T00:03:00+00:00",
+   "status": "success_zero_output",
+   "evidence_url": "https://www.accel.com/news",
+   "notes": "新闻列表可读（HTTP 200）；最晚条目仍2026-10-23（Zetwerk IPO评论）；窗口内无新投资公告"
+  },
+  {
+   "source_id": "qiming",
+   "attempted_at": "2026-11-04T00:03:30+00:00",
+   "status": "success_with_output",
+   "evidence_url": "https://www.qimingvc.com/cn/newsroom",
+   "notes": "新闻室可读（HTTP 200）；11/2026组新增Vol.34周报（2026.11.3发布，Vol.33已处理）全文核验：2条融资录入（英捷信医疗2亿元B轮启明参与、诺亦腾机器人Pre-A+++轮金额投资方未披露）；其余8条为授权协议/战略合作/产品发布/临床数据/赛事等非融资；Sharpa人物观点条目已在上窗口处理"
+  },
+  {
+   "source_id": "nvca",
+   "attempted_at": "2026-11-04T00:04:00+00:00",
+   "status": "success_zero_output",
+   "evidence_url": "https://nvca.org/pitchbook-nvca-venture-monitor/",
+   "notes": "季度统计页可达（HTTP 200）；内容仍Q3 2026 Venture Monitor（前三季$515.8B、AI占82.7%）；季度统计不生成离散事件；连续5次可达"
+  },
+  {
+   "source_id": "techstars",
+   "attempted_at": "2026-11-04T00:04:30+00:00",
+   "status": "success_zero_output",
+   "evidence_url": "https://www.techstars.com/portfolio",
+   "notes": "组合目录页可读（HTTP 200，独角兽名录静态页）；目录不生成融资事件；窗口内无融资信息"
+  },
+  {
+   "source_id": "company_official",
+   "attempted_at": "2026-11-04T00:05:30+00:00",
+   "status": "success_with_output",
+   "evidence_url": null,
+   "notes": "触发1次核验：fal.ai官方博客全文（Series E Sequoia领投+Series F Bessemer领投/NVIDIA战略投资双轮确认，为Fal两事件双源之一，官方域名fal.ai核验）；英捷信/诺亦腾官网域名未核验（登记null待补）"
+  }
+ ]
+}

@@ -387,3 +387,11 @@
 {"event_id": "northwood-space-20261102-equity", "investor_id": "iqt", "role": "participant", "investment_amount": null, "currency": "USD", "evidence_ids": ["northwood-blog-1", "northwood-tc-1"]}
 {"event_id": "hypersonica-20261102-equity", "investor_id": "lightspeed-venture-partners", "role": "co_lead", "investment_amount": null, "currency": "EUR", "evidence_ids": ["hypersonica-sifted-1"]}
 {"event_id": "hypersonica-20261102-equity", "investor_id": "general-catalyst", "role": "co_lead", "investment_amount": null, "currency": "EUR", "evidence_ids": ["hypersonica-sifted-1"]}
+{"event_id": "fal-20261103-equity-f", "investor_id": "bessemer", "role": "lead", "investment_amount": null, "currency": "USD", "evidence_ids": ["fal-tc-1", "fal-blog-1"]}
+{"event_id": "fal-20261103-equity-f", "investor_id": "nvidia", "role": "participant", "investment_amount": null, "currency": "USD", "evidence_ids": ["fal-tc-1", "fal-blog-1"]}
+{"event_id": "fal-20261103-equity-f", "investor_id": "sound-ventures", "role": "participant", "investment_amount": null, "currency": "USD", "evidence_ids": ["fal-tc-1"]}
+{"event_id": "fal-20261103-equity-f", "investor_id": "t-rowe-price", "role": "participant", "investment_amount": null, "currency": "USD", "evidence_ids": ["fal-tc-1"]}
+{"event_id": "fal-20261103-equity-e", "investor_id": "sequoia", "role": "lead", "investment_amount": null, "currency": "USD", "evidence_ids": ["fal-blog-1", "fal-tc-1"]}
+{"event_id": "enjosim-20261103-equity", "investor_id": "qiming", "role": "participant", "investment_amount": null, "currency": "CNY", "evidence_ids": ["enjosim-qiming-1"]}
+{"event_id": "deepseek-20261022-equity", "investor_id": "tencent", "role": "undisclosed", "investment_amount": null, "currency": "USD", "evidence_ids": ["deepseek-tc-1", "deepseek-cb-1"]}
+{"event_id": "deepseek-20261022-equity", "investor_id": "catl", "role": "undisclosed", "investment_amount": null, "currency": "USD", "evidence_ids": ["deepseek-tc-1", "deepseek-cb-1"]}
