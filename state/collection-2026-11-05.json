@@ -1,0 +1,65 @@
+{
+ "issue_id": "01a1a901-d3da-7c1e-8654-618fd0159c91",
+ "issue_identifier": "TECH-98",
+ "collected_at": "2026-11-05T00:10:00+00:00",
+ "window_start": "2026-11-03T00:00:31Z",
+ "window_end": "2026-11-05T00:00:31Z",
+ "source_attempts": [
+  {
+   "source_id": "techcrunch",
+   "attempted_at": "2026-11-05T00:02:00+00:00",
+   "status": "success_with_output",
+   "evidence_url": "https://techcrunch.com/feed/",
+   "notes": "主feed（HTTP 200，lastBuild 11-04T23:14Z）逐条比对。窗口内新增11-04（周三）18条+11-03尾部1条（Anthropic FlashProve 22:41Z，上窗口未单独登记本窗口闭合）：3条融资经全文核验录入（EloElo $80M Series C、Titan OS $46M股权+债务混合、Sequoia ~$10B新基金含官方备忘录全文转载）；Meta收购Conductor为公开上市公司并购按CrowdStrike/DoorDash先例排除留痕（金额未披露）；Revolut $115B估值股份出售为纯secondary（'brought no new money into Revolut'）按Lovable先例排除留痕；FlashProve为产品发布排除登记；其余13条为产品/政策/安全/活动/裁员等非融资（AI PACs、Nothing设备、Uber AI agents、Snapchat订阅、OpenAI选举、DreamHost攻击、HF视频、DDG学校、Waymo-Uber、Holmes纪录片、Siri Recaps、Google学校争议、TC Summit、Canva裁员）不逐条登记"
+  },
+  {
+   "source_id": "sifted",
+   "attempted_at": "2026-11-05T00:03:00+00:00",
+   "status": "success_with_output",
+   "evidence_url": "https://sifted.eu/feed",
+   "notes": "RSS成功（HTTP 200，lastBuild 11-05T00:00:44Z）。窗口内新增11-04七条：Sequoia伦敦关闭文（标题+导语免费可见，与TC双源佐证sequoia-capital-20261104-fund，正文反爬混淆仅标题/导语可用）；前Hummingbird投资人拟筹新基金为传闻级意向（'in early talks, sources say'）排除留痕；其余5条（Starling CEO离职、求职AI化、创始人雇佣观点、spinout投资观点、科技媒体讨论）为人事/观点/行业讨论非融资。11-03及以前条目已在此前窗口处理"
+  },
+  {
+   "source_id": "crunchbase_news",
+   "attempted_at": "2026-11-05T00:04:00+00:00",
+   "status": "success_zero_output",
+   "evidence_url": "https://news.crunchbase.com/feed/",
+   "notes": "RSS成功（HTTP 200，lastBuild 11-04T19:48Z）。窗口内新增3条均为分析/追踪类，按方法论不生成离散事件：红州资金占比分析（<2%）、亿万富翁创始人集中度分析（7家公司占美国seed-growth超50%、$260B+）、裁员追踪页更新（URL已登记过，不重复）；10月月度统计文（11-03）上窗口已处理；周榜仍10-30（已处理），下期预计11-06"
+  },
+  {
+   "source_id": "accel",
+   "attempted_at": "2026-11-05T00:05:00+00:00",
+   "status": "success_zero_output",
+   "evidence_url": "https://www.accel.com/news",
+   "notes": "新闻列表可读（HTTP 200）；最晚条目仍2026-10-23（Zetwerk IPO评论）；窗口内无新投资公告；连续14次零产出（距降级门槛30尚远）"
+  },
+  {
+   "source_id": "qiming",
+   "attempted_at": "2026-11-05T00:06:00+00:00",
+   "status": "success_with_output",
+   "evidence_url": "https://www.qimingvc.com/cn/newsroom",
+   "notes": "新闻室可读（HTTP 200）；11/2026组新增1条独立'启明星'文章（凌川科技10亿元B轮联合领投，页面头部日期2026/11/04，晚于Vol.34周报2026.11.3）全文核验录入为lingchuan-20261104-equity（台账第3条CN事件，亦庄国投屹唐盛和基金/启明创投/朝晖资本联合领投）；Vol.34及Sharpa等其余条目此前窗口已处理"
+  },
+  {
+   "source_id": "nvca",
+   "attempted_at": "2026-11-05T00:07:00+00:00",
+   "status": "success_zero_output",
+   "evidence_url": "https://nvca.org/pitchbook-nvca-venture-monitor/",
+   "notes": "季度统计页可达（HTTP 200）；内容仍Q3 2026 Venture Monitor（前三季$515.8B、AI占82.7%、$500M+基金占募资78.1%）；季度统计不生成离散事件；连续6次可达"
+  },
+  {
+   "source_id": "techstars",
+   "attempted_at": "2026-11-05T00:07:30+00:00",
+   "status": "success_zero_output",
+   "evidence_url": "https://www.techstars.com/portfolio",
+   "notes": "组合目录页可读（HTTP 200，独角兽名录静态页29家）；目录不生成融资事件；连续25个成功采集日零产出（降级门槛为连续30日，未达）"
+  },
+  {
+   "source_id": "company_official",
+   "attempted_at": "2026-11-05T00:08:30+00:00",
+   "status": "success_with_output",
+   "evidence_url": null,
+   "notes": "触发1次核验：Sequoia官方X账号@sequoia公告'The Sequoia of Tomorrow'（经TechCrunch全文转载逐字核验，含'Firepower'节'~$10Bn in new funds'原话；官方账号渠道登记具体原文URL x.com/sequoia/status/2117961312143855764，sequoiacap.com官网域名已在其组合公开信息核验）；凌川/EloElo/Titan OS官方域名未核验（null待补，不扩张常规来源清单）"
+  }
+ ]
+}

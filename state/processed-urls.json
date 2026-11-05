@@ -6082,11 +6082,155 @@
    "event_id": null,
    "status": "excluded_not_event",
    "revision": 1
+  },
+  {
+   "url": "https://www.qimingvc.com/cn/news/%E5%90%AF%E6%98%8E%E6%98%9F-%E5%BF%AB%E6%89%8B%E7%B3%BB%E8%8A%AF%E7%89%87%E5%85%AC%E5%8F%B8%E5%87%8C%E5%B7%9D%E7%A7%91%E6%8A%80%E5%AE%8C%E6%88%9010%E4%BA%BF%E5%85%83b%E8%BD%AE%E8%9E%8D%E8%B5%84%EF%BC%8C%E5%90%AF%E6%98%8E%E5%88%9B%E6%8A%95%E8%81%94%E5%90%88%E9%A2%86%E6%8A%95",
+   "canonical_url": "https://www.qimingvc.com/cn/news/%E5%90%AF%E6%98%8E%E6%98%9F-%E5%BF%AB%E6%89%8B%E7%B3%BB%E8%8A%AF%E7%89%87%E5%85%AC%E5%8F%B8%E5%87%8C%E5%B7%9D%E7%A7%91%E6%8A%80%E5%AE%8C%E6%88%9010%E4%BA%BF%E5%85%83b%E8%BD%AE%E8%9E%8D%E8%B5%84%EF%BC%8C%E5%90%AF%E6%98%8E%E5%88%9B%E6%8A%95%E8%81%94%E5%90%88%E9%A2%86%E6%8A%95",
+   "source_id": "qiming",
+   "first_collected_at": "2026-11-05T00:09:28+00:00",
+   "last_collected_at": "2026-11-05T00:09:28+00:00",
+   "issue_id": "01a1a901-d3da-7c1e-8654-618fd0159c91",
+   "event_id": "lingchuan-20261104-equity",
+   "status": "accepted",
+   "revision": 1,
+   "note": "10亿元B轮联合领投；2026/11/04发布"
+  },
+  {
+   "url": "https://techcrunch.com/2026/11/03/indias-eloelo-nabs-80m-from-nbc-universal-to-bet-on-the-countrys-rising-microdrama-market/",
+   "canonical_url": "https://techcrunch.com/2026/11/03/indias-eloelo-nabs-80m-from-nbc-universal-to-bet-on-the-countrys-rising-microdrama-market/",
+   "source_id": "techcrunch",
+   "first_collected_at": "2026-11-05T00:09:28+00:00",
+   "last_collected_at": "2026-11-05T00:09:28+00:00",
+   "issue_id": "01a1a901-d3da-7c1e-8654-618fd0159c91",
+   "event_id": "eloelo-20261104-equity",
+   "status": "accepted",
+   "revision": 1,
+   "note": "$80M Series C；pubDate 11-04T04:45Z（slug 11-03）"
+  },
+  {
+   "url": "https://techcrunch.com/2026/11/04/titan-os-raises-46-million-to-expand-its-smart-tv-os-internationally/",
+   "canonical_url": "https://techcrunch.com/2026/11/04/titan-os-raises-46-million-to-expand-its-smart-tv-os-internationally/",
+   "source_id": "techcrunch",
+   "first_collected_at": "2026-11-05T00:09:28+00:00",
+   "last_collected_at": "2026-11-05T00:09:28+00:00",
+   "issue_id": "01a1a901-d3da-7c1e-8654-618fd0159c91",
+   "event_id": "titan-os-20261104-mixed",
+   "status": "accepted",
+   "revision": 1,
+   "note": "$46M股权+债务混合"
+  },
+  {
+   "url": "https://techcrunch.com/2026/11/04/sequoia-hits-rewind-undoing-20-years-of-expansion/",
+   "canonical_url": "https://techcrunch.com/2026/11/04/sequoia-hits-rewind-undoing-20-years-of-expansion/",
+   "source_id": "techcrunch",
+   "first_collected_at": "2026-11-05T00:09:28+00:00",
+   "last_collected_at": "2026-11-05T00:09:28+00:00",
+   "issue_id": "01a1a901-d3da-7c1e-8654-618fd0159c91",
+   "event_id": "sequoia-capital-20261104-fund",
+   "status": "accepted",
+   "revision": 1,
+   "note": "~$10B新基金+架构收缩全文含官方备忘录"
+  },
+  {
+   "url": "https://x.com/sequoia/status/2117961312143855764",
+   "canonical_url": "https://x.com/sequoia/status/2117961312143855764",
+   "source_id": "company_official",
+   "first_collected_at": "2026-11-05T00:09:28+00:00",
+   "last_collected_at": "2026-11-05T00:09:28+00:00",
+   "issue_id": "01a1a901-d3da-7c1e-8654-618fd0159c91",
+   "event_id": "sequoia-capital-20261104-fund",
+   "status": "accepted",
+   "revision": 1,
+   "note": "官方X公告'The Sequoia of Tomorrow'（经TC全文转载核验）"
+  },
+  {
+   "url": "https://sifted.eu/articles/sequoia-closes-london-office/",
+   "canonical_url": "https://sifted.eu/articles/sequoia-closes-london-office/",
+   "source_id": "sifted",
+   "first_collected_at": "2026-11-05T00:09:28+00:00",
+   "last_collected_at": "2026-11-05T00:09:28+00:00",
+   "issue_id": "01a1a901-d3da-7c1e-8654-618fd0159c91",
+   "event_id": "sequoia-capital-20261104-fund",
+   "status": "accepted",
+   "revision": 1,
+   "note": "伦敦关闭佐证；正文反爬混淆仅标题/导语可用"
+  },
+  {
+   "url": "https://techcrunch.com/2026/11/04/meta-acquires-ai-coding-startup-conductor/",
+   "canonical_url": "https://techcrunch.com/2026/11/04/meta-acquires-ai-coding-startup-conductor/",
+   "source_id": "techcrunch",
+   "first_collected_at": "2026-11-05T00:09:28+00:00",
+   "last_collected_at": "2026-11-05T00:09:28+00:00",
+   "issue_id": "01a1a901-d3da-7c1e-8654-618fd0159c91",
+   "event_id": null,
+   "status": "excluded",
+   "revision": 1,
+   "note": "Meta（NASDAQ:META）收购AI编码初创Conductor（Axios首发、Conductor官方博客确认）；公开上市公司并购按CrowdStrike/DoorDash/Marvell先例排除留痕；金额未披露"
+  },
+  {
+   "url": "https://techcrunch.com/2026/11/04/revoluts-valuation-jumps-53-to-115b-in-new-share-sale-as-it-prepares-to-launch-us-bank/",
+   "canonical_url": "https://techcrunch.com/2026/11/04/revoluts-valuation-jumps-53-to-115b-in-new-share-sale-as-it-prepares-to-launch-us-bank/",
+   "source_id": "techcrunch",
+   "first_collected_at": "2026-11-05T00:09:28+00:00",
+   "last_collected_at": "2026-11-05T00:09:28+00:00",
+   "issue_id": "01a1a901-d3da-7c1e-8654-618fd0159c91",
+   "event_id": null,
+   "status": "excluded",
+   "revision": 1,
+   "note": "Revolut二级股份出售@$115B估值（Glade Brook/Coatue/Durable/T. Rowe Price/Baillie Gifford牵头）——'brought no new money into Revolut'为纯secondary非primary新融资，按Lovable $80M secondary先例排除留痕；估值跳升53%留观其IPO路径"
+  },
+  {
+   "url": "https://techcrunch.com/2026/11/03/anthropic-is-working-on-a-system-to-prove-ai-models-identity/",
+   "canonical_url": "https://techcrunch.com/2026/11/03/anthropic-is-working-on-a-system-to-prove-ai-models-identity/",
+   "source_id": "techcrunch",
+   "first_collected_at": "2026-11-05T00:09:28+00:00",
+   "last_collected_at": "2026-11-05T00:09:28+00:00",
+   "issue_id": "01a1a901-d3da-7c1e-8654-618fd0159c91",
+   "event_id": null,
+   "status": "excluded",
+   "revision": 1,
+   "note": "Anthropic FlashProve AI模型身份验证系统——产品/技术发布非融资；11-03T22:41Z窗口尾部条目（上窗口未单独登记，本窗口闭合登记）"
+  },
+  {
+   "url": "https://sifted.eu/articles/ex-hummingbird-new-vc-firm/",
+   "canonical_url": "https://sifted.eu/articles/ex-hummingbird-new-vc-firm/",
+   "source_id": "sifted",
+   "first_collected_at": "2026-11-05T00:09:28+00:00",
+   "last_collected_at": "2026-11-05T00:09:28+00:00",
+   "issue_id": "01a1a901-d3da-7c1e-8654-618fd0159c91",
+   "event_id": null,
+   "status": "excluded",
+   "revision": 1,
+   "note": "前Hummingbird投资人Haya Hanna拟筹办新基金（'in early talks to raise her own fund, sources say'）——传闻级意向、无目标确认无关账，不构成基金募集事件；仅留痕"
+  },
+  {
+   "url": "https://news.crunchbase.com/venture/2026-post-election-funding-red-states-drops/",
+   "canonical_url": "https://news.crunchbase.com/venture/2026-post-election-funding-red-states-drops/",
+   "source_id": "crunchbase_news",
+   "first_collected_at": "2026-11-05T00:09:28+00:00",
+   "last_collected_at": "2026-11-05T00:09:28+00:00",
+   "issue_id": "01a1a901-d3da-7c1e-8654-618fd0159c91",
+   "event_id": null,
+   "status": "excluded",
+   "revision": 1,
+   "note": "选举后红州创投资金占比<2%分析——统计文按方法论不生成离散事件（蓝州$481B/紫州$28.6B/红州$8.6B口径留痕）"
+  },
+  {
+   "url": "https://news.crunchbase.com/venture/startup-billionaire-founders-ai-defense-anthropic-spcx/",
+   "canonical_url": "https://news.crunchbase.com/venture/startup-billionaire-founders-ai-defense-anthropic-spcx/",
+   "source_id": "crunchbase_news",
+   "first_collected_at": "2026-11-05T00:09:28+00:00",
+   "last_collected_at": "2026-11-05T00:09:28+00:00",
+   "issue_id": "01a1a901-d3da-7c1e-8654-618fd0159c91",
+   "event_id": null,
+   "status": "excluded",
+   "revision": 1,
+   "note": "亿万富翁创始人公司获大部分VC分析（7家公司$260B+占美国seed-growth超50%）——统计文不生成离散事件；文中Prometheus/Databricks/Wonder等均为历史或背景引用非新披露"
   }
  ],
  "_meta": {
-  "last_updated": "2026-11-04T00:20:00+00:00",
-  "issue_id": "01a1a3db-78bd-7950-b137-d3f0678cb84d",
-  "total": 523
+  "last_updated": "2026-11-05T00:09:28+00:00",
+  "issue_id": "01a1a901-d3da-7c1e-8654-618fd0159c91",
+  "total": 535
  }
 }

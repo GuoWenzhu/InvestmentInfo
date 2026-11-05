@@ -395,3 +395,16 @@
 {"event_id": "enjosim-20261103-equity", "investor_id": "qiming", "role": "participant", "investment_amount": null, "currency": "CNY", "evidence_ids": ["enjosim-qiming-1"]}
 {"event_id": "deepseek-20261022-equity", "investor_id": "tencent", "role": "undisclosed", "investment_amount": null, "currency": "USD", "evidence_ids": ["deepseek-tc-1", "deepseek-cb-1"]}
 {"event_id": "deepseek-20261022-equity", "investor_id": "catl", "role": "undisclosed", "investment_amount": null, "currency": "USD", "evidence_ids": ["deepseek-tc-1", "deepseek-cb-1"]}
+{"event_id": "lingchuan-20261104-equity", "investor_id": "yizhuang-gitang-fund", "role": "co_lead", "investment_amount": null, "currency": "CNY", "evidence_ids": ["lingchuan-qiming-1"]}
+{"event_id": "lingchuan-20261104-equity", "investor_id": "qiming", "role": "co_lead", "investment_amount": null, "currency": "CNY", "evidence_ids": ["lingchuan-qiming-1"]}
+{"event_id": "lingchuan-20261104-equity", "investor_id": "zhaohui-capital", "role": "co_lead", "investment_amount": null, "currency": "CNY", "evidence_ids": ["lingchuan-qiming-1"]}
+{"event_id": "eloelo-20261104-equity", "investor_id": "hornbill-capital", "role": "undisclosed", "investment_amount": null, "currency": "USD", "evidence_ids": ["eloelo-tc-1"]}
+{"event_id": "eloelo-20261104-equity", "investor_id": "nbcuniversal", "role": "undisclosed", "investment_amount": null, "currency": "USD", "evidence_ids": ["eloelo-tc-1"]}
+{"event_id": "eloelo-20261104-equity", "investor_id": "mit-investment-co", "role": "undisclosed", "investment_amount": null, "currency": "USD", "evidence_ids": ["eloelo-tc-1"]}
+{"event_id": "eloelo-20261104-equity", "investor_id": "kalaari-capital", "role": "undisclosed", "investment_amount": null, "currency": "USD", "evidence_ids": ["eloelo-tc-1"]}
+{"event_id": "eloelo-20261104-equity", "investor_id": "play-ventures", "role": "undisclosed", "investment_amount": null, "currency": "USD", "evidence_ids": ["eloelo-tc-1"]}
+{"event_id": "eloelo-20261104-equity", "investor_id": "waterbridge-ventures", "role": "undisclosed", "investment_amount": null, "currency": "USD", "evidence_ids": ["eloelo-tc-1"]}
+{"event_id": "eloelo-20261104-equity", "investor_id": "griffin-gaming-partners", "role": "undisclosed", "investment_amount": null, "currency": "USD", "evidence_ids": ["eloelo-tc-1"]}
+{"event_id": "titan-os-20261104-mixed", "investor_id": "blackrock", "role": "undisclosed", "investment_amount": null, "currency": "USD", "evidence_ids": ["titan-os-tc-1"]}
+{"event_id": "titan-os-20261104-mixed", "investor_id": "highland-europe", "role": "undisclosed", "investment_amount": null, "currency": "USD", "evidence_ids": ["titan-os-tc-1"]}
+{"event_id": "titan-os-20261104-mixed", "investor_id": "mangrove-capital-partners", "role": "undisclosed", "investment_amount": null, "currency": "USD", "evidence_ids": ["titan-os-tc-1"]}

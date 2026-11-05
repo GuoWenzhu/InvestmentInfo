@@ -296,3 +296,15 @@
 {"investor_id": "sound-ventures", "name": "Sound Ventures", "aliases": [], "parent_id": null}
 {"investor_id": "tencent", "name": "腾讯（Tencent Holdings）", "aliases": ["Tencent", "腾讯"], "parent_id": null}
 {"investor_id": "catl", "name": "宁德时代（CATL）", "aliases": ["Contemporary Amperex Technology Co., Limited", "CATL", "宁德时代"], "parent_id": null}
+{"investor_id": "blackrock", "name": "BlackRock（贝莱德）", "aliases": ["BlackRock Inc.", "贝莱德"], "parent_id": null}
+{"investor_id": "highland-europe", "name": "Highland Europe", "aliases": ["Highland Capital Partners Europe"], "parent_id": null}
+{"investor_id": "mangrove-capital-partners", "name": "Mangrove Capital Partners", "aliases": ["Mangrove"], "parent_id": null}
+{"investor_id": "nbcuniversal", "name": "NBCUniversal", "aliases": ["NBCU", "Comcast-NBCUniversal"], "parent_id": null}
+{"investor_id": "hornbill-capital", "name": "Hornbill Capital", "aliases": ["Hornbill"], "parent_id": null}
+{"investor_id": "kalaari-capital", "name": "Kalaari Capital", "aliases": ["Kalaari"], "parent_id": null}
+{"investor_id": "play-ventures", "name": "Play Ventures", "aliases": ["Play Ventures VC"], "parent_id": null}
+{"investor_id": "waterbridge-ventures", "name": "WaterBridge Ventures", "aliases": ["WaterBridge"], "parent_id": null}
+{"investor_id": "griffin-gaming-partners", "name": "Griffin Gaming Partners", "aliases": ["Griffin Gaming"], "parent_id": null}
+{"investor_id": "mit-investment-co", "name": "MIT Investment Co.", "aliases": ["MIT Investment"], "parent_id": null}
+{"investor_id": "yizhuang-gitang-fund", "name": "亦庄国投屹唐盛和基金", "aliases": ["屹唐盛和基金", "北京屹唐盛和"], "parent_id": null}
+{"investor_id": "zhaohui-capital", "name": "朝晖资本", "aliases": ["Zhaohui Capital"], "parent_id": null}
