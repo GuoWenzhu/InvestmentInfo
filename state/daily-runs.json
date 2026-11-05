@@ -471,12 +471,12 @@
     "sequoia-capital-20261104-fund"
    ],
    "revision": 1,
-   "status": "ready_for_delivery",
+   "status": "delivered",
    "window_start": "2026-11-03T00:00:31Z",
    "window_end": "2026-11-05T00:00:31Z",
    "report_path": "reports/2026-11-05-daily.md",
-   "publication_comment_id": null,
-   "publication_note": "报告已验证并准备交付；发布回执以对应Issue最终评论为准，重试必须先查评论。"
+   "publication_comment_id": "01a1a90c-9f1a-799b-90b5-e3cc3491a577",
+   "publication_note": "已交付Issue评论并附日报/采集日志/追踪附件（2026-11-05T00:12:18Z）；同Issue不重复发布。窗口内新增4条（凌川科技¥1B B轮三方联合领投、EloElo $80M C轮、Titan OS $46M混合、Sequoia ~$10B新基金approximate）；排除+11（Meta-Conductor公开公司并购、Revolut secondary、Hummingbird基金传闻、Crunchbase统计3条等）；提交2f5df1c已推送，回执提交随后。"
   }
  ]
 }
