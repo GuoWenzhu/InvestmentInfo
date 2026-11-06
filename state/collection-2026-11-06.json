@@ -1,0 +1,65 @@
+{
+ "issue_id": "01a1ae28-3224-7ed9-90c5-9f2877fec0ae",
+ "issue_identifier": "TECH-101",
+ "collected_at": "2026-11-06T00:10:00+00:00",
+ "window_start": "2026-11-04T00:00:32Z",
+ "window_end": "2026-11-06T00:00:32Z",
+ "source_attempts": [
+  {
+   "source_id": "techcrunch",
+   "attempted_at": "2026-11-06T00:01:30+00:00",
+   "status": "success_with_output",
+   "evidence_url": "https://techcrunch.com/feed/",
+   "notes": "主feed可读（HTTP 200，lastBuild 11-05T23:51Z）20条均11-05发布，逐条比对：4条融资经全文核验录入（Zipline $1.5B@$21.5B、Harbinger $240M Series D、RadianX $5M seed、Brightmind Partners第二支基金target~$250M）；Dropbox-Tigris $350M为公开上市公司并购按先例排除留痕、Wonder IPO申请排除、OpenAI IPO表态排除；其余13条为产品/政策/安全/活动类非融资不逐条登记"
+  },
+  {
+   "source_id": "sifted",
+   "attempted_at": "2026-11-06T00:02:30+00:00",
+   "status": "success_with_output",
+   "evidence_url": "https://sifted.eu/feed",
+   "notes": "RSS成功（HTTP 200，lastBuild 11-06T00:01Z）24条。窗口内新增11-05四条+11-04已处理：Mindmax £2.5M pre-seed经免费部分（标题/导语/首段）+页面快照字段核验录入、Haido出stealth获融资录入（正文反爬混淆金额不可核验→amount=null中置信留审）；欧洲硬件长文为观点排除；11-04七条上窗口已处理"
+  },
+  {
+   "source_id": "crunchbase_news",
+   "attempted_at": "2026-11-06T00:03:30+00:00",
+   "status": "success_with_output",
+   "evidence_url": "https://news.crunchbase.com/feed/",
+   "notes": "RSS成功（HTTP 200，lastBuild 11-05T19:02Z）。窗口内新增3条：Siggy $6M pre-seed独家全文核验录入；Dropbox-Tigris并购（公开上市公司排除）；建筑机器人赛道统计（不生成离散事件，Bedrock $600M@$4.1B与本台账一致无更正）；周榜仍10-30（已处理），下期预计11-06"
+  },
+  {
+   "source_id": "accel",
+   "attempted_at": "2026-11-06T00:04:30+00:00",
+   "status": "success_zero_output",
+   "evidence_url": "https://www.accel.com/news",
+   "notes": "新闻列表可读（HTTP 200，53条链接）；最晚条目仍2026-10-23（Zetwerk IPO评论）；窗口内无新投资公告；连续15次零产出（距降级门槛30尚远）"
+  },
+  {
+   "source_id": "qiming",
+   "attempted_at": "2026-11-06T00:05:00+00:00",
+   "status": "success_zero_output",
+   "evidence_url": "https://www.qimingvc.com/cn/newsroom",
+   "notes": "新闻室可读（HTTP 200）；11/2026组最新仍凌川科技（11-04，上窗口已录）与Vol.34（11-03，已处理）；无新增条目"
+  },
+  {
+   "source_id": "nvca",
+   "attempted_at": "2026-11-06T00:05:30+00:00",
+   "status": "success_zero_output",
+   "evidence_url": "https://nvca.org/pitchbook-nvca-venture-monitor/",
+   "notes": "季度统计页可达（HTTP 200）；仍Q3 2026 Venture Monitor页；季度统计不生成离散事件；连续7次可达"
+  },
+  {
+   "source_id": "techstars",
+   "attempted_at": "2026-11-06T00:06:00+00:00",
+   "status": "success_zero_output",
+   "evidence_url": "https://www.techstars.com/portfolio",
+   "notes": "组合目录页可读（HTTP 200，静态独角兽名录）；目录不生成融资事件；连续26个成功采集日零产出（降级门槛为连续30日，未达）"
+  },
+  {
+   "source_id": "company_official",
+   "attempted_at": "2026-11-06T00:07:00+00:00",
+   "status": "success_with_output",
+   "evidence_url": null,
+   "notes": "触发2次核验：Zipline官方PR（zipline.com官方域名核验，正文'$1.5 billion raise at a $21.5 billion post-money valuation, led by Paradigm, WCM Investment Management, and Layer Global'与TC一致；PR引言确认Paradigm为Matt Huang机构）登记具体原文URL；Harbinger官方PR（harbingermotors.com官方域名核验，正文'co-led by Tiger Global, Capricorn's Technology Impact Fund and Ridgeline'，官方标题'Led by Tiger Global'+TG引言'We led this financing'侧重留痕）登记具体原文URL；RadianX/Siggy/Brightmind/Mindmax/Haido官方域名未核验（null待补，不扩张常规来源清单）"
+  }
+ ]
+}

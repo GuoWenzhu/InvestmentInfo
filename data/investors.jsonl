@@ -308,3 +308,34 @@
 {"investor_id": "mit-investment-co", "name": "MIT Investment Co.", "aliases": ["MIT Investment"], "parent_id": null}
 {"investor_id": "yizhuang-gitang-fund", "name": "亦庄国投屹唐盛和基金", "aliases": ["屹唐盛和基金", "北京屹唐盛和"], "parent_id": null}
 {"investor_id": "zhaohui-capital", "name": "朝晖资本", "aliases": ["Zhaohui Capital"], "parent_id": null}
+{"investor_id": "paradigm", "name": "Paradigm", "aliases": [], "parent_id": null}
+{"investor_id": "wcm-investment-management", "name": "WCM Investment Management", "aliases": ["WCM"], "parent_id": null}
+{"investor_id": "valor-equity-partners", "name": "Valor Equity Partners", "aliases": [], "parent_id": null}
+{"investor_id": "tiger-global", "name": "Tiger Global", "aliases": ["Tiger Global Management"], "parent_id": null}
+{"investor_id": "uber", "name": "Uber", "aliases": ["Uber Technologies"], "parent_id": null}
+{"investor_id": "capricorn-technology-impact-fund", "name": "Capricorn Technology Impact Fund（Capricorn Investment Group旗下技术影响基金）", "aliases": ["Capricorn's Technology Impact Fund"], "parent_id": null}
+{"investor_id": "ridgeline", "name": "Ridgeline", "aliases": [], "parent_id": null}
+{"investor_id": "fedex", "name": "FedEx", "aliases": ["Federal Express"], "parent_id": null}
+{"investor_id": "maniv", "name": "Maniv", "aliases": ["Maniv Mobility"], "parent_id": null}
+{"investor_id": "greycroft", "name": "Greycroft", "aliases": [], "parent_id": null}
+{"investor_id": "leitmotif", "name": "Leitmotif", "aliases": [], "parent_id": null}
+{"investor_id": "sosv", "name": "SOSV", "aliases": [], "parent_id": null}
+{"investor_id": "one-small-planet", "name": "One Small Planet", "aliases": [], "parent_id": null}
+{"investor_id": "sachsen-ventures", "name": "Sachsen Ventures", "aliases": [], "parent_id": null}
+{"investor_id": "avila-vc", "name": "Avila VC", "aliases": [], "parent_id": null}
+{"investor_id": "california-innovation-fund", "name": "California Innovation Fund", "aliases": [], "parent_id": null}
+{"investor_id": "quantumedge", "name": "quantumEDGE", "aliases": [], "parent_id": null}
+{"investor_id": "riceberg-ventures", "name": "Riceberg Ventures", "aliases": [], "parent_id": null}
+{"investor_id": "psymed-ventures", "name": "PsyMed Ventures", "aliases": [], "parent_id": null}
+{"investor_id": "mystic-ventures", "name": "Mystic Ventures", "aliases": [], "parent_id": null}
+{"investor_id": "coalition-operators", "name": "Coalition Operators", "aliases": [], "parent_id": null}
+{"investor_id": "albert-wenger", "name": "Albert Wenger（个人，Union Square Ventures联合创始人）", "aliases": [], "parent_id": null}
+{"investor_id": "immad-akhund", "name": "Immad Akhund（个人，Mercury联合创始人/CEO）", "aliases": [], "parent_id": null}
+{"investor_id": "gokul-rajaram", "name": "Gokul Rajaram（个人）", "aliases": [], "parent_id": null}
+{"investor_id": "concept-ventures", "name": "Concept Ventures", "aliases": [], "parent_id": null}
+{"investor_id": "torsten-reil", "name": "Torsten Reil（个人，Helsing联合创始人/CEO）", "aliases": [], "parent_id": null}
+{"investor_id": "maria-raga", "name": "Maria Raga（个人，前Depop CEO）", "aliases": [], "parent_id": null}
+{"investor_id": "eileen-burbidge", "name": "Eileen Burbidge（个人，Passion Capital合伙人）", "aliases": [], "parent_id": null}
+{"investor_id": "redrice-ventures", "name": "Redrice Ventures", "aliases": [], "parent_id": null}
+{"investor_id": "daybreak-ventures", "name": "Daybreak Ventures", "aliases": [], "parent_id": null}
+{"investor_id": "lerer-hippeau", "name": "Lerer Hippeau", "aliases": [], "parent_id": null}

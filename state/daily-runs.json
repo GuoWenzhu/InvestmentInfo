@@ -477,6 +477,28 @@
    "report_path": "reports/2026-11-05-daily.md",
    "publication_comment_id": "01a1a90c-9f1a-799b-90b5-e3cc3491a577",
    "publication_note": "已交付Issue评论并附日报/采集日志/追踪附件（2026-11-05T00:12:18Z）；同Issue不重复发布。窗口内新增4条（凌川科技¥1B B轮三方联合领投、EloElo $80M C轮、Titan OS $46M混合、Sequoia ~$10B新基金approximate）；排除+11（Meta-Conductor公开公司并购、Revolut secondary、Hummingbird基金传闻、Crunchbase统计3条等）；提交2f5df1c已推送，回执提交随后。"
+  },
+  {
+   "date": "2026-11-06",
+   "run_key": "2026-11-06",
+   "issue_id": "01a1ae28-3224-7ed9-90c5-9f2877fec0ae",
+   "issue_identifier": "TECH-101",
+   "event_ids": [
+    "zipline-20261105-equity",
+    "harbinger-20261105-equity",
+    "radianx-20261105-equity",
+    "siggy-20261105-equity",
+    "brightmind-partners-20261105-fund",
+    "mindmax-20261105-equity",
+    "haido-20261105-equity"
+   ],
+   "revision": 1,
+   "status": "ready_for_delivery",
+   "window_start": "2026-11-04T00:00:32Z",
+   "window_end": "2026-11-06T00:00:32Z",
+   "report_path": "reports/2026-11-06-daily.md",
+   "publication_comment_id": null,
+   "publication_note": "报告已验证并准备交付；发布回执以对应Issue最终评论为准，重试必须先查评论。窗口内新增7条（股权6：Zipline $1.5B/Harbinger $240M D/RadianX $5M seed/Siggy $6M pre-seed/Mindmax £2.5M pre-seed/Haido金额未披露中置信；基金募集1：Brightmind target~$250M未关账）。"
   }
  ]
 }

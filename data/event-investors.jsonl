@@ -408,3 +408,44 @@
 {"event_id": "titan-os-20261104-mixed", "investor_id": "blackrock", "role": "undisclosed", "investment_amount": null, "currency": "USD", "evidence_ids": ["titan-os-tc-1"]}
 {"event_id": "titan-os-20261104-mixed", "investor_id": "highland-europe", "role": "undisclosed", "investment_amount": null, "currency": "USD", "evidence_ids": ["titan-os-tc-1"]}
 {"event_id": "titan-os-20261104-mixed", "investor_id": "mangrove-capital-partners", "role": "undisclosed", "investment_amount": null, "currency": "USD", "evidence_ids": ["titan-os-tc-1"]}
+{"event_id": "zipline-20261105-equity", "investor_id": "paradigm", "role": "co_lead", "investment_amount": null, "currency": "USD", "evidence_ids": ["zipline-zp-pr-1", "zipline-tc-1"]}
+{"event_id": "zipline-20261105-equity", "investor_id": "wcm-investment-management", "role": "co_lead", "investment_amount": null, "currency": "USD", "evidence_ids": ["zipline-zp-pr-1", "zipline-tc-1"]}
+{"event_id": "zipline-20261105-equity", "investor_id": "layer-global", "role": "co_lead", "investment_amount": null, "currency": "USD", "evidence_ids": ["zipline-zp-pr-1", "zipline-tc-1"]}
+{"event_id": "zipline-20261105-equity", "investor_id": "valor-equity-partners", "role": "participant", "investment_amount": null, "currency": "USD", "evidence_ids": ["zipline-zp-pr-1", "zipline-tc-1"]}
+{"event_id": "zipline-20261105-equity", "investor_id": "fidelity", "role": "participant", "investment_amount": null, "currency": "USD", "evidence_ids": ["zipline-zp-pr-1", "zipline-tc-1"]}
+{"event_id": "zipline-20261105-equity", "investor_id": "uber", "role": "participant", "investment_amount": null, "currency": "USD", "evidence_ids": ["zipline-zp-pr-1", "zipline-tc-1"]}
+{"event_id": "zipline-20261105-equity", "investor_id": "tiger-global", "role": "participant", "investment_amount": null, "currency": "USD", "evidence_ids": ["zipline-zp-pr-1", "zipline-tc-1"]}
+{"event_id": "zipline-20261105-equity", "investor_id": "jpmorgan", "role": "participant", "investment_amount": null, "currency": "USD", "evidence_ids": ["zipline-zp-pr-1", "zipline-tc-1"]}
+{"event_id": "zipline-20261105-equity", "investor_id": "ark-invest", "role": "participant", "investment_amount": null, "currency": "USD", "evidence_ids": ["zipline-zp-pr-1", "zipline-tc-1"]}
+{"event_id": "zipline-20261105-equity", "investor_id": "salesforce-ventures", "role": "participant", "investment_amount": null, "currency": "USD", "evidence_ids": ["zipline-zp-pr-1", "zipline-tc-1"]}
+{"event_id": "harbinger-20261105-equity", "investor_id": "tiger-global", "role": "co_lead", "investment_amount": null, "currency": "USD", "evidence_ids": ["harbinger-hb-pr-1", "harbinger-tc-1"]}
+{"event_id": "harbinger-20261105-equity", "investor_id": "capricorn-technology-impact-fund", "role": "co_lead", "investment_amount": null, "currency": "USD", "evidence_ids": ["harbinger-hb-pr-1", "harbinger-tc-1"]}
+{"event_id": "harbinger-20261105-equity", "investor_id": "ridgeline", "role": "co_lead", "investment_amount": null, "currency": "USD", "evidence_ids": ["harbinger-hb-pr-1", "harbinger-tc-1"]}
+{"event_id": "harbinger-20261105-equity", "investor_id": "fedex", "role": "participant", "investment_amount": null, "currency": "USD", "evidence_ids": ["harbinger-hb-pr-1", "harbinger-tc-1"]}
+{"event_id": "harbinger-20261105-equity", "investor_id": "maniv", "role": "participant", "investment_amount": null, "currency": "USD", "evidence_ids": ["harbinger-hb-pr-1", "harbinger-tc-1"]}
+{"event_id": "harbinger-20261105-equity", "investor_id": "greycroft", "role": "participant", "investment_amount": null, "currency": "USD", "evidence_ids": ["harbinger-hb-pr-1", "harbinger-tc-1"]}
+{"event_id": "harbinger-20261105-equity", "investor_id": "leitmotif", "role": "participant", "investment_amount": null, "currency": "USD", "evidence_ids": ["harbinger-hb-pr-1", "harbinger-tc-1"]}
+{"event_id": "harbinger-20261105-equity", "investor_id": "fidelity", "role": "participant", "investment_amount": null, "currency": "USD", "evidence_ids": ["harbinger-hb-pr-1", "harbinger-tc-1"]}
+{"event_id": "radianx-20261105-equity", "investor_id": "sosv", "role": "co_lead", "investment_amount": null, "currency": "USD", "evidence_ids": ["radianx-tc-1"]}
+{"event_id": "radianx-20261105-equity", "investor_id": "twynam", "role": "co_lead", "investment_amount": null, "currency": "USD", "evidence_ids": ["radianx-tc-1"]}
+{"event_id": "radianx-20261105-equity", "investor_id": "one-small-planet", "role": "participant", "investment_amount": null, "currency": "USD", "evidence_ids": ["radianx-tc-1"]}
+{"event_id": "radianx-20261105-equity", "investor_id": "sachsen-ventures", "role": "participant", "investment_amount": null, "currency": "USD", "evidence_ids": ["radianx-tc-1"]}
+{"event_id": "radianx-20261105-equity", "investor_id": "avila-vc", "role": "participant", "investment_amount": null, "currency": "USD", "evidence_ids": ["radianx-tc-1"]}
+{"event_id": "radianx-20261105-equity", "investor_id": "california-innovation-fund", "role": "participant", "investment_amount": null, "currency": "USD", "evidence_ids": ["radianx-tc-1"]}
+{"event_id": "radianx-20261105-equity", "investor_id": "quantumedge", "role": "participant", "investment_amount": null, "currency": "USD", "evidence_ids": ["radianx-tc-1"]}
+{"event_id": "radianx-20261105-equity", "investor_id": "riceberg-ventures", "role": "participant", "investment_amount": null, "currency": "USD", "evidence_ids": ["radianx-tc-1"]}
+{"event_id": "radianx-20261105-equity", "investor_id": "alumni-ventures", "role": "participant", "investment_amount": null, "currency": "USD", "evidence_ids": ["radianx-tc-1"]}
+{"event_id": "siggy-20261105-equity", "investor_id": "village-global", "role": "lead", "investment_amount": null, "currency": "USD", "evidence_ids": ["siggy-cb-1"]}
+{"event_id": "siggy-20261105-equity", "investor_id": "albert-wenger", "role": "participant", "investment_amount": null, "currency": "USD", "evidence_ids": ["siggy-cb-1"]}
+{"event_id": "siggy-20261105-equity", "investor_id": "immad-akhund", "role": "participant", "investment_amount": null, "currency": "USD", "evidence_ids": ["siggy-cb-1"]}
+{"event_id": "siggy-20261105-equity", "investor_id": "coalition-operators", "role": "participant", "investment_amount": null, "currency": "USD", "evidence_ids": ["siggy-cb-1"]}
+{"event_id": "siggy-20261105-equity", "investor_id": "psymed-ventures", "role": "participant", "investment_amount": null, "currency": "USD", "evidence_ids": ["siggy-cb-1"]}
+{"event_id": "siggy-20261105-equity", "investor_id": "mystic-ventures", "role": "participant", "investment_amount": null, "currency": "USD", "evidence_ids": ["siggy-cb-1"]}
+{"event_id": "siggy-20261105-equity", "investor_id": "gokul-rajaram", "role": "participant", "investment_amount": null, "currency": "USD", "evidence_ids": ["siggy-cb-1"]}
+{"event_id": "mindmax-20261105-equity", "investor_id": "concept-ventures", "role": "lead", "investment_amount": null, "currency": "GBP", "evidence_ids": ["mindmax-sifted-1"]}
+{"event_id": "mindmax-20261105-equity", "investor_id": "redrice-ventures", "role": "participant", "investment_amount": null, "currency": "GBP", "evidence_ids": ["mindmax-sifted-1"]}
+{"event_id": "mindmax-20261105-equity", "investor_id": "daybreak-ventures", "role": "participant", "investment_amount": null, "currency": "GBP", "evidence_ids": ["mindmax-sifted-1"]}
+{"event_id": "mindmax-20261105-equity", "investor_id": "lerer-hippeau", "role": "participant", "investment_amount": null, "currency": "GBP", "evidence_ids": ["mindmax-sifted-1"]}
+{"event_id": "mindmax-20261105-equity", "investor_id": "maria-raga", "role": "participant", "investment_amount": null, "currency": "GBP", "evidence_ids": ["mindmax-sifted-1"]}
+{"event_id": "mindmax-20261105-equity", "investor_id": "torsten-reil", "role": "participant", "investment_amount": null, "currency": "GBP", "evidence_ids": ["mindmax-sifted-1"]}
+{"event_id": "haido-20261105-equity", "investor_id": "eileen-burbidge", "role": "participant", "investment_amount": null, "currency": "UNK", "evidence_ids": ["haido-sifted-1"]}
