@@ -493,12 +493,12 @@
     "haido-20261105-equity"
    ],
    "revision": 1,
-   "status": "ready_for_delivery",
+   "status": "delivered",
    "window_start": "2026-11-04T00:00:32Z",
    "window_end": "2026-11-06T00:00:32Z",
    "report_path": "reports/2026-11-06-daily.md",
-   "publication_comment_id": null,
-   "publication_note": "报告已验证并准备交付；发布回执以对应Issue最终评论为准，重试必须先查评论。窗口内新增7条（股权6：Zipline $1.5B/Harbinger $240M D/RadianX $5M seed/Siggy $6M pre-seed/Mindmax £2.5M pre-seed/Haido金额未披露中置信；基金募集1：Brightmind target~$250M未关账）。"
+   "publication_comment_id": "01a1ae35-203b-7823-b5ef-f7d575b0be69",
+   "publication_note": "已交付Issue评论并附日报/采集日志/追踪附件（2026-11-06T00:14:39Z）；同Issue不重复发布。窗口内新增7条（股权6：Zipline $1.5B@$21.5B/Harbinger $240M D/RadianX $5M seed/Siggy $6M pre-seed/Mindmax £2.5M pre-seed/Haido未披露中置信；基金募集1：Brightmind target~$250M未关账）；排除+6（Dropbox-Tigris公开公司并购、Wonder IPO、OpenAI表态、建筑机器人统计等）；Zipline/Harbinger官方PR域名核验双源；提交efdce76已推送，回执提交随后。"
   }
  ]
 }
