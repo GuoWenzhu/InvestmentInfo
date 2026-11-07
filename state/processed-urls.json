@@ -6406,6 +6406,138 @@
    "status": "excluded",
    "revision": 1,
    "note": "欧洲硬件去中国化长文——行业分析观点非融资"
+  },
+  {
+   "url": "https://shield.ai/shield-to-acquire-echodyne-in-a-transaction-valued-at-5-3-billion-and-raise-2-5-billion-at-a-28-8-billion-valuation/",
+   "canonical_url": "https://shield.ai/shield-to-acquire-echodyne-in-a-transaction-valued-at-5-3-billion-and-raise-2-5-billion-at-a-28-8-billion-valuation/",
+   "source_id": "company_official",
+   "status": "accepted",
+   "event_id": "shield-ai-20261105-mixed",
+   "first_collected_at": "2026-11-07T00:09:27+00:00",
+   "last_collected_at": "2026-11-07T00:09:27+00:00",
+   "issue_id": "01a1b34e-7e44-7ab5-97bd-33cbf60d11b9",
+   "revision": 1
+  },
+  {
+   "url": "https://news.crunchbase.com/venture/biggest-startup-rounds-ai-defense-space-tech-shield-zipline/",
+   "canonical_url": "https://news.crunchbase.com/venture/biggest-startup-rounds-ai-defense-space-tech-shield-zipline/",
+   "source_id": "crunchbase_news",
+   "status": "accepted",
+   "event_id": "shield-ai-20261105-mixed",
+   "first_collected_at": "2026-11-07T00:09:27+00:00",
+   "last_collected_at": "2026-11-07T00:09:27+00:00",
+   "issue_id": "01a1b34e-7e44-7ab5-97bd-33cbf60d11b9",
+   "revision": 1
+  },
+  {
+   "url": "https://techcrunch.com/2026/11/06/physicl-raises-10m-to-make-the-digital-world-real-enough-for-robots/",
+   "canonical_url": "https://techcrunch.com/2026/11/06/physicl-raises-10m-to-make-the-digital-world-real-enough-for-robots/",
+   "source_id": "techcrunch",
+   "status": "accepted",
+   "event_id": "physicl-20261106-equity",
+   "first_collected_at": "2026-11-07T00:09:27+00:00",
+   "last_collected_at": "2026-11-07T00:09:27+00:00",
+   "issue_id": "01a1b34e-7e44-7ab5-97bd-33cbf60d11b9",
+   "revision": 1
+  },
+  {
+   "url": "https://techcrunch.com/2026/11/06/openai-reportedly-raises-an-additional-11-billion-at-a-1-25-trillion-valuation/",
+   "canonical_url": "https://techcrunch.com/2026/11/06/openai-reportedly-raises-an-additional-11-billion-at-a-1-25-trillion-valuation/",
+   "source_id": "techcrunch",
+   "status": "excluded_not_event",
+   "event_id": null,
+   "first_collected_at": "2026-11-07T00:09:27+00:00",
+   "last_collected_at": "2026-11-07T00:09:27+00:00",
+   "issue_id": "01a1b34e-7e44-7ab5-97bd-33cbf60d11b9",
+   "revision": 1
+  },
+  {
+   "url": "https://techcrunch.com/2026/11/06/pentagon-offers-battery-startup-6k-250m-loan-to-build-u-s-factory/",
+   "canonical_url": "https://techcrunch.com/2026/11/06/pentagon-offers-battery-startup-6k-250m-loan-to-build-u-s-factory/",
+   "source_id": "techcrunch",
+   "status": "excluded_not_event",
+   "event_id": null,
+   "first_collected_at": "2026-11-07T00:09:27+00:00",
+   "last_collected_at": "2026-11-07T00:09:27+00:00",
+   "issue_id": "01a1b34e-7e44-7ab5-97bd-33cbf60d11b9",
+   "revision": 1
+  },
+  {
+   "url": "https://techcrunch.com/2026/11/06/fox-completes-its-22b-acquisition-of-roku/",
+   "canonical_url": "https://techcrunch.com/2026/11/06/fox-completes-its-22b-acquisition-of-roku/",
+   "source_id": "techcrunch",
+   "status": "excluded_not_event",
+   "event_id": null,
+   "first_collected_at": "2026-11-07T00:09:27+00:00",
+   "last_collected_at": "2026-11-07T00:09:27+00:00",
+   "issue_id": "01a1b34e-7e44-7ab5-97bd-33cbf60d11b9",
+   "revision": 1
+  },
+  {
+   "url": "https://techcrunch.com/2026/11/05/palo-alto-networks-in-talks-to-buy-ai-agent-security-startup-clutch-for-500m/",
+   "canonical_url": "https://techcrunch.com/2026/11/05/palo-alto-networks-in-talks-to-buy-ai-agent-security-startup-clutch-for-500m/",
+   "source_id": "techcrunch",
+   "status": "excluded_not_event",
+   "event_id": null,
+   "first_collected_at": "2026-11-07T00:09:27+00:00",
+   "last_collected_at": "2026-11-07T00:09:27+00:00",
+   "issue_id": "01a1b34e-7e44-7ab5-97bd-33cbf60d11b9",
+   "revision": 1
+  },
+  {
+   "url": "https://techcrunch.com/2026/11/05/the-new-york-times-reportedly-in-talks-to-buy-letterboxd-for-330-million/",
+   "canonical_url": "https://techcrunch.com/2026/11/05/the-new-york-times-reportedly-in-talks-to-buy-letterboxd-for-330-million/",
+   "source_id": "techcrunch",
+   "status": "excluded_not_event",
+   "event_id": null,
+   "first_collected_at": "2026-11-07T00:09:27+00:00",
+   "last_collected_at": "2026-11-07T00:09:27+00:00",
+   "issue_id": "01a1b34e-7e44-7ab5-97bd-33cbf60d11b9",
+   "revision": 1
+  },
+  {
+   "url": "https://news.crunchbase.com/venture/october-2026-lead-startup-investors/",
+   "canonical_url": "https://news.crunchbase.com/venture/october-2026-lead-startup-investors/",
+   "source_id": "crunchbase_news",
+   "status": "excluded_not_event",
+   "event_id": null,
+   "first_collected_at": "2026-11-07T00:09:27+00:00",
+   "last_collected_at": "2026-11-07T00:09:27+00:00",
+   "issue_id": "01a1b34e-7e44-7ab5-97bd-33cbf60d11b9",
+   "revision": 1
+  },
+  {
+   "url": "https://news.crunchbase.com/ai/challenging-monopolies-semiconductors-anand-tensordyn/",
+   "canonical_url": "https://news.crunchbase.com/ai/challenging-monopolies-semiconductors-anand-tensordyn/",
+   "source_id": "crunchbase_news",
+   "status": "excluded_not_event",
+   "event_id": null,
+   "first_collected_at": "2026-11-07T00:09:27+00:00",
+   "last_collected_at": "2026-11-07T00:09:27+00:00",
+   "issue_id": "01a1b34e-7e44-7ab5-97bd-33cbf60d11b9",
+   "revision": 1
+  },
+  {
+   "url": "https://sifted.eu/articles/sequoia-is-leaving-london-should-europe-be-worried/",
+   "canonical_url": "https://sifted.eu/articles/sequoia-is-leaving-london-should-europe-be-worried/",
+   "source_id": "sifted",
+   "status": "excluded_not_event",
+   "event_id": null,
+   "first_collected_at": "2026-11-07T00:09:27+00:00",
+   "last_collected_at": "2026-11-07T00:09:27+00:00",
+   "issue_id": "01a1b34e-7e44-7ab5-97bd-33cbf60d11b9",
+   "revision": 1
+  },
+  {
+   "url": "https://sifted.eu/articles/onstage-w26-cohort/",
+   "canonical_url": "https://sifted.eu/articles/onstage-w26-cohort/",
+   "source_id": "sifted",
+   "status": "excluded_not_event",
+   "event_id": null,
+   "first_collected_at": "2026-11-07T00:09:27+00:00",
+   "last_collected_at": "2026-11-07T00:09:27+00:00",
+   "issue_id": "01a1b34e-7e44-7ab5-97bd-33cbf60d11b9",
+   "revision": 1
   }
  ],
  "_meta": {

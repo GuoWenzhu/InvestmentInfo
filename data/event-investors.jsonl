@@ -449,3 +449,26 @@
 {"event_id": "mindmax-20261105-equity", "investor_id": "maria-raga", "role": "participant", "investment_amount": null, "currency": "GBP", "evidence_ids": ["mindmax-sifted-1"]}
 {"event_id": "mindmax-20261105-equity", "investor_id": "torsten-reil", "role": "participant", "investment_amount": null, "currency": "GBP", "evidence_ids": ["mindmax-sifted-1"]}
 {"event_id": "haido-20261105-equity", "investor_id": "eileen-burbidge", "role": "participant", "investment_amount": null, "currency": "UNK", "evidence_ids": ["haido-sifted-1"]}
+{"event_id": "shield-ai-20261105-mixed", "investor_id": "disruptive", "role": "co_lead", "investment_amount": null, "currency": "USD", "evidence_ids": ["shieldai-pr-1", "shieldai-cbn-1"]}
+{"event_id": "shield-ai-20261105-mixed", "investor_id": "innovation-x-capital", "role": "co_lead", "investment_amount": null, "currency": "USD", "evidence_ids": ["shieldai-pr-1", "shieldai-cbn-1"]}
+{"event_id": "shield-ai-20261105-mixed", "investor_id": "blackstone", "role": "participant", "investment_amount": null, "currency": "USD", "evidence_ids": ["shieldai-pr-1", "shieldai-cbn-1"]}
+{"event_id": "shield-ai-20261105-mixed", "investor_id": "jpmorgan", "role": "lead", "investment_amount": null, "currency": "USD", "evidence_ids": ["shieldai-pr-1", "shieldai-cbn-1"]}
+{"event_id": "shield-ai-20261105-mixed", "investor_id": "jpmorgan-sri", "role": "participant", "investment_amount": null, "currency": "USD", "evidence_ids": ["shieldai-pr-1", "shieldai-cbn-1"]}
+{"event_id": "shield-ai-20261105-mixed", "investor_id": "advent", "role": "participant", "investment_amount": null, "currency": "USD", "evidence_ids": ["shieldai-pr-1", "shieldai-cbn-1"]}
+{"event_id": "shield-ai-20261105-mixed", "investor_id": "snowpoint-ventures", "role": "participant", "investment_amount": null, "currency": "USD", "evidence_ids": ["shieldai-pr-1", "shieldai-cbn-1"]}
+{"event_id": "shield-ai-20261105-mixed", "investor_id": "apandion", "role": "participant", "investment_amount": null, "currency": "USD", "evidence_ids": ["shieldai-pr-1", "shieldai-cbn-1"]}
+{"event_id": "shield-ai-20261105-mixed", "investor_id": "center15-capital", "role": "participant", "investment_amount": null, "currency": "USD", "evidence_ids": ["shieldai-pr-1", "shieldai-cbn-1"]}
+{"event_id": "cesiumastro-20261106-mixed", "investor_id": "janus-henderson", "role": "lead", "investment_amount": null, "currency": "USD", "evidence_ids": ["cesiumastro-cbn-1"]}
+{"event_id": "cesiumastro-20261106-mixed", "investor_id": "jpmorgan", "role": "participant", "investment_amount": null, "currency": "USD", "evidence_ids": ["cesiumastro-cbn-1"]}
+{"event_id": "cesiumastro-20261106-mixed", "investor_id": "export-import-bank-of-us", "role": "participant", "investment_amount": null, "currency": "USD", "evidence_ids": ["cesiumastro-cbn-1"]}
+{"event_id": "applied-compute-20261106-equity", "investor_id": "elad-gil", "role": "lead", "investment_amount": null, "currency": "USD", "evidence_ids": ["appliedcompute-cbn-1"]}
+{"event_id": "applied-compute-20261106-equity", "investor_id": "nvidia", "role": "participant", "investment_amount": null, "currency": "USD", "evidence_ids": ["appliedcompute-cbn-1"]}
+{"event_id": "sentra-20261106-equity", "investor_id": "capital-one-ventures", "role": "lead", "investment_amount": null, "currency": "USD", "evidence_ids": ["sentra-cbn-1"]}
+{"event_id": "traversal-20261106-equity", "investor_id": "kleiner-perkins", "role": "co_lead", "investment_amount": null, "currency": "USD", "evidence_ids": ["traversal-cbn-1"]}
+{"event_id": "traversal-20261106-equity", "investor_id": "redpoint-ventures", "role": "co_lead", "investment_amount": null, "currency": "USD", "evidence_ids": ["traversal-cbn-1"]}
+{"event_id": "traversal-20261106-equity", "investor_id": "khosla-ventures", "role": "co_lead", "investment_amount": null, "currency": "USD", "evidence_ids": ["traversal-cbn-1"]}
+{"event_id": "ocient-20261106-equity", "investor_id": "boka-capital", "role": "co_lead", "investment_amount": null, "currency": "USD", "evidence_ids": ["ocient-cbn-1"]}
+{"event_id": "ocient-20261106-equity", "investor_id": "oca-ventures", "role": "co_lead", "investment_amount": null, "currency": "USD", "evidence_ids": ["ocient-cbn-1"]}
+{"event_id": "tutor-intelligence-20261106-equity", "investor_id": "a16z", "role": "lead", "investment_amount": null, "currency": "USD", "evidence_ids": ["tutor-cbn-1"]}
+{"event_id": "kalepa-20261106-equity", "investor_id": "updata-partners", "role": "lead", "investment_amount": null, "currency": "USD", "evidence_ids": ["kalepa-cbn-1"]}
+{"event_id": "physicl-20261106-equity", "investor_id": "inovia-capital", "role": "lead", "investment_amount": null, "currency": "USD", "evidence_ids": ["physicl-tc-1"]}

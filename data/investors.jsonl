@@ -339,3 +339,18 @@
 {"investor_id": "redrice-ventures", "name": "Redrice Ventures", "aliases": [], "parent_id": null}
 {"investor_id": "daybreak-ventures", "name": "Daybreak Ventures", "aliases": [], "parent_id": null}
 {"investor_id": "lerer-hippeau", "name": "Lerer Hippeau", "aliases": [], "parent_id": null}
+{"investor_id": "blackstone", "name": "Blackstone（通过旗下管理的基金投资）", "aliases": ["Blackstone Inc."], "parent_id": null}
+{"investor_id": "disruptive", "name": "Disruptive", "aliases": ["Disruptive Technology Advisers"], "parent_id": null}
+{"investor_id": "innovation-x-capital", "name": "Innovation X Capital", "aliases": [], "parent_id": null}
+{"investor_id": "advent", "name": "Advent", "aliases": [], "parent_id": null}
+{"investor_id": "snowpoint-ventures", "name": "Snowpoint Ventures", "aliases": [], "parent_id": null}
+{"investor_id": "apandion", "name": "Apandion", "aliases": [], "parent_id": null}
+{"investor_id": "center15-capital", "name": "Center15 Capital", "aliases": [], "parent_id": null}
+{"investor_id": "jpmorgan-sri", "name": "JPMorganChase Strategic Investment Group（Security and Resiliency Initiative）", "aliases": [], "parent_id": "jpmorgan"}
+{"investor_id": "export-import-bank-of-us", "name": "Export-Import Bank of the United States（美国进出口银行，政策性债务融资）", "aliases": ["EXIM"], "parent_id": null}
+{"investor_id": "inovia-capital", "name": "Inovia Capital", "aliases": ["iNovia Capital"], "parent_id": null}
+{"investor_id": "capital-one-ventures", "name": "Capital One Ventures", "aliases": [], "parent_id": null}
+{"investor_id": "redpoint-ventures", "name": "Redpoint", "aliases": ["Redpoint Ventures"], "parent_id": null}
+{"investor_id": "boka-capital", "name": "BOKA Capital", "aliases": [], "parent_id": null}
+{"investor_id": "oca-ventures", "name": "OCA Ventures", "aliases": [], "parent_id": null}
+{"investor_id": "updata-partners", "name": "Updata Partners", "aliases": [], "parent_id": null}

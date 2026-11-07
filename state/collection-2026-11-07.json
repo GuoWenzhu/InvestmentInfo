@@ -1,0 +1,99 @@
+{
+ "issue_id": "01a1b34e-7e44-7ab5-97bd-33cbf60d11b9",
+ "issue_identifier": "TECH-104",
+ "collected_at": "2026-11-07T00:09:27+00:00",
+ "window_start": "2026-11-05T00:00:28Z",
+ "window_end": "2026-11-07T00:00:28Z",
+ "source_attempts": [
+  {
+   "source_id": "techcrunch",
+   "attempted_at": "2026-11-07T00:01:00+00:00",
+   "status": "success_with_output",
+   "evidence_url": "https://techcrunch.com/feed/",
+   "notes": "主feed可读（HTTP 200，lastBuild 11-06T23:32Z）20条均11-05/11-06发布逐条比对：Physicl $10M seed独家全文核验录入；OpenAI reportedly $11B@$1.25T（Bloomberg转引、轮次未关账）与6K $250M国防部有条件贷款承诺、Fox-Roku $22B公开公司并购、PaloAlto-Clutch/NYT-Letterboxd公开买方洽购均按先例排除留痕；其余为产品/政策/安全/活动类非融资不逐条登记"
+  },
+  {
+   "source_id": "sifted",
+   "attempted_at": "2026-11-07T00:02:00+00:00",
+   "status": "success_zero_output",
+   "evidence_url": "https://sifted.eu/feed",
+   "notes": "RSS成功（HTTP 200，lastBuild 11-06T23:56Z）24条。窗口内11-06四条（Sequoia伦敦分析×2、国防rollup观点、Onstage W26批次名录）与11-05两条（欧洲硬件长文、工程未来观点）均为分析/观点/目录，不生成离散事件；11-05 Haido/Mindmax已在上窗口录入；零新增"
+  },
+  {
+   "source_id": "crunchbase_news",
+   "attempted_at": "2026-11-07T00:03:00+00:00",
+   "status": "success_with_output",
+   "evidence_url": "https://news.crunchbase.com/feed/",
+   "notes": "RSS成功（HTTP 200，lastBuild 11-06T19:29Z）。周榜11-06发布（覆盖10-31~11-06宣布轮次）：9条新事件录入（Shield AI $2.5B混合+Shield-Echodyne $5.3B并购、CesiumAstro $830M混合、Applied Compute $350M、Sentra $150M、Traversal $120M、Ocient $100M、Tutor $75M、Kalepa $75M）；Northwood $375M（11-02已录）、Zipline/Harbinger（11-05已录）与本台账交叉核对一致无更正；10月月度统计×2与Tensordyne客座观点排除留痕；Siggy独家与建筑机器人统计为11-05已处理条目"
+  },
+  {
+   "source_id": "accel",
+   "attempted_at": "2026-11-07T00:04:00+00:00",
+   "status": "success_zero_output",
+   "evidence_url": "https://www.accel.com/news",
+   "notes": "新闻列表可读（HTTP 200）；最晚条目仍2026-10-23（Zetwerk IPO评论）；窗口内无新投资公告；连续16次零产出（距降级门槛30尚远）"
+  },
+  {
+   "source_id": "qiming",
+   "attempted_at": "2026-11-07T00:05:00+00:00",
+   "status": "success_zero_output",
+   "evidence_url": "https://www.qimingvc.com/cn/newsroom",
+   "notes": "新闻室可读（HTTP 200）；11/2026组最新仍凌川科技（11-04，上窗口已录）、Vol.34周报（11-03，已处理）与Sharpa李一帆观点文；无新增条目，连续2次零产出"
+  },
+  {
+   "source_id": "nvca",
+   "attempted_at": "2026-11-07T00:05:30+00:00",
+   "status": "success_zero_output",
+   "evidence_url": "https://nvca.org/pitchbook-nvca-venture-monitor/",
+   "notes": "季度统计页可达（HTTP 200）；仍Q3 2026 Venture Monitor页（Q3数据：美国VC投资$515.8B、AI占82.7%）；季度统计不生成离散事件；连续8次可达"
+  },
+  {
+   "source_id": "techstars",
+   "attempted_at": "2026-11-07T00:06:00+00:00",
+   "status": "success_zero_output",
+   "evidence_url": "https://www.techstars.com/portfolio",
+   "notes": "组合目录页可读（HTTP 200，静态独角兽名录，无日期条目）；目录不生成融资事件；连续27个成功采集日零产出（降级门槛为连续30日，未达）"
+  },
+  {
+   "source_id": "company_official",
+   "attempted_at": "2026-11-07T00:07:00+00:00",
+   "status": "success_with_output",
+   "evidence_url": null,
+   "notes": "触发2次核验：Shield AI官方PR（shield.ai官方域名核验，2026-11-05 dateline，$2.5B分项与$5.3B收购细节同文披露，与CBN周榜双源一致）登记具体原文URL；CesiumAstro官方新闻室（cesiumastro.com）核验——无本次Series D PR（最新为2026-03内容），事件维持单源中置信留审；Physicl域名physicl.ai经TC文章链接确认（未做官方正文核验，null待补）"
+  }
+ ],
+ "excluded_candidates": [
+  {
+   "name": "OpenAI",
+   "reason": "TechCrunch转引Bloomberg：'reportedly raised $11B so far'@$1.25T，轮次未关账（目标约$20B，9月末曾称目标$30B@$1.4T）——无官方公告，按10-22/10-31 OpenAI未关账轮次先例排除留痕，待关账或官方确认后录入"
+  },
+  {
+   "name": "6K",
+   "reason": "公司官方PR宣布获国防部$250M贷款有条件承诺(conditional commitment)建田纳西工厂——政府债务承诺未关账，本窗口确认融资已达10条上限，按确认融资优先原则不录入，待正式关账后录入（官方PR URL已在processed-urls留痕）"
+  },
+  {
+   "name": "Fox-Roku",
+   "reason": "$22B并购完成为公开上市公司(NASDAQ:FOX)间交易，按公开公司并购先例排除"
+  },
+  {
+   "name": "Palo Alto Networks-Clutch",
+   "reason": "公开上市公司(NASDAQ:PANW)洽购$500M'in talks'传闻阶段，按公开公司并购+传闻先例排除"
+  },
+  {
+   "name": "NYT-Letterboxd",
+   "reason": "公开上市公司(NYSE:NYT) reportedly洽购$330M传闻阶段，排除"
+  },
+  {
+   "name": "Axiom/Ramp/Icon/Gravis等10月轮次",
+   "reason": "CBN 10月月度统计（11-06发布）提及Axiom $2B Series A、Ramp $1.9B Series G、Icon $200M D、Gravis $200M A等——原始披露均在窗口外10月，按Axiom 10-11先例（缺窗口内原始披露证据，待审不入事件）继续留审"
+  },
+  {
+   "name": "Sequoia伦敦办公室关闭",
+   "reason": "机构组织变动+欧洲影响分析（Sifted 11-06三篇），非融资事件"
+  },
+  {
+   "name": "Onstage W26批次",
+   "reason": "Sifted 11-06批次名录（12家受关注初创），目录不生成离散融资事件"
+  }
+ ]
+}
