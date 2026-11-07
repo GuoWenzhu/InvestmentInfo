@@ -518,12 +518,12 @@
     "physicl-20261106-equity"
    ],
    "revision": 1,
-   "status": "report_written",
+   "status": "delivered",
    "window_start": "2026-11-05T00:00:28Z",
    "window_end": "2026-11-07T00:00:28Z",
    "report_path": "reports/2026-11-07-daily.md",
-   "publication_comment_id": null,
-   "publication_note": null
+   "publication_comment_id": "01a1b35b-901b-76f0-a1c8-ee7cc26b49e3",
+   "publication_note": "已交付Issue评论并附日报/采集日志/追踪附件（2026-11-07T00:14:44Z）；同Issue不重复发布。窗口内新增10条（混合2：Shield AI $2.5B官方PR双源、CesiumAstro $830M单源中置信；并购1：Shield AI-Echodyne $5.3B含$500M对赌；股权7条）；排除+9（OpenAI reportedly $11B未关账按先例排除、6K $250M国防部有条件承诺待关账、Fox-Roku公开公司并购、两起公开买方洽购、10月统计轮次按Axiom先例留审、Sequoia伦敦变动、Onstage名录）；Northwood/Zipline/Harbinger交叉核对一致无更正；提交6655569已推送，回执提交随后。"
   }
  ]
 }
