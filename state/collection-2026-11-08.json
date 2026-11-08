@@ -1,0 +1,75 @@
+{
+ "issue_id": "01a1b874-da48-7b3d-8ee7-6aacce7a639d",
+ "issue_identifier": "TECH-108",
+ "collected_at": "2026-11-08T00:04:13+00:00",
+ "window_start": "2026-11-06T00:00:28Z",
+ "window_end": "2026-11-08T00:00:28Z",
+ "source_attempts": [
+  {
+   "source_id": "techcrunch",
+   "attempted_at": "2026-11-08T00:01:00+00:00",
+   "status": "success_zero_output",
+   "evidence_url": "https://techcrunch.com/feed/",
+   "notes": "主feed可读（HTTP 200，lastBuild 11-07T22:07:30Z）20条均11-06/11-07发布逐条比对：本窗口新增期（11-07T00:09Z上次采集之后）共8条，其中6条为中期选举/产品/评测/安全/人事类非融资不逐条登记；Crusoe出售未完工怀俄明数据中心项目予Google（11-07T01:40Z，金额未披露、买方为上市公司、资产出售非公司并购或融资）排除留痕并经crusoe.ai官方newsroom佐证；Sequoia关停Scouts计划（11-07T05:01Z，VC组织变动）排除留痕；11-06发布的OpenAI/6K/Fox-Roku/Physicl等条目与TECH-104台账逐URL一致，无遗漏无重复"
+  },
+  {
+   "source_id": "crunchbase_news",
+   "attempted_at": "2026-11-08T00:02:00+00:00",
+   "status": "success_zero_output",
+   "evidence_url": "https://news.crunchbase.com/feed/",
+   "notes": "RSS成功（HTTP 200，lastBuild 11-06T19:29:50Z，与TECH-104采集时快照一致）。前4条（11-06周榜、Tensordyne客座观点、10月领投机构统计、11-05 Siggy独家）均为此前窗口已处理条目；上次采集后无新发文。下期周榜预计11-13发布（覆盖11-07~11-13），本窗口后半段（11-07/11-08周末）大额轮按历史节奏预计经下期周榜回补"
+  },
+  {
+   "source_id": "sifted",
+   "attempted_at": "2026-11-08T00:02:30+00:00",
+   "status": "success_zero_output",
+   "evidence_url": "https://sifted.eu/feed",
+   "notes": "RSS成功（HTTP 200，lastBuild 11-07T23:58:08Z）。最新条目仍11-06T13:36Z（Sequoia伦敦分析），上次采集后无新发文；11-06各条（Sequoia×3、国防rollup、Onstage W26、硬件长文）均TECH-104已处理；11-07全天无新发文"
+  },
+  {
+   "source_id": "accel",
+   "attempted_at": "2026-11-08T00:03:00+00:00",
+   "status": "success_zero_output",
+   "evidence_url": "https://www.accel.com/news",
+   "notes": "新闻列表可读（HTTP 200）；最晚条目仍2026-10-23（Zetwerk IPO评论）；窗口内无新投资公告；连续17次零产出（距降级门槛30尚远）"
+  },
+  {
+   "source_id": "qiming",
+   "attempted_at": "2026-11-08T00:03:30+00:00",
+   "status": "success_zero_output",
+   "evidence_url": "https://www.qimingvc.com/cn/newsroom",
+   "notes": "新闻室可读（HTTP 200）；11/2026组最新仍凌川科技10亿元B轮（11-04，已录入）、Vol.34周报（11-03，已处理）与Sharpa李一帆观点文；无新增条目，连续3次零产出"
+  },
+  {
+   "source_id": "nvca",
+   "attempted_at": "2026-11-08T00:04:00+00:00",
+   "status": "success_zero_output",
+   "evidence_url": "https://nvca.org/pitchbook-nvca-venture-monitor/",
+   "notes": "季度统计页可达（HTTP 200）；内容仍Q3 2026 Venture Monitor页（modified 2026-10-08T15:33Z，美国VC投资前三季创纪录、AI主导+少数超大轮驱动）；季度统计不生成离散事件；连续9次可达"
+  },
+  {
+   "source_id": "techstars",
+   "attempted_at": "2026-11-08T00:04:20+00:00",
+   "status": "success_zero_output",
+   "evidence_url": "https://www.techstars.com/portfolio",
+   "notes": "组合目录页可读（HTTP 200，静态独角兽名录29家，无日期条目）；目录不生成融资事件；连续28个成功采集日零产出（降级门槛为连续30日，未达；若后续2个采集日仍零产出将达门槛，需按rules/report-health.md处置）"
+  },
+  {
+   "source_id": "company_official",
+   "attempted_at": "2026-11-08T00:04:40+00:00",
+   "status": "success_zero_output",
+   "evidence_url": null,
+   "notes": "触发1次核验：CesiumAstro官方newsroom（cesiumastro.com/newsroom，官方域名）复查——最新仍2026-03合作内容，无本次$730M Series D PR，11-06单源中置信事件（CesiumAstro等7条）维持中置信留审；Crusoe官方newsroom（crusoe.ai）怀俄明项目更新页作为资产出售排除项的官方佐证登记留痕；无新增待核验事件"
+  }
+ ],
+ "excluded_candidates": [
+  {
+   "name": "Crusoe→Google 怀俄明数据中心项目",
+   "reason": "Crusoe（丹佛私营AI数据中心开发商，9月曾$3.9B融资@$30.9B估值，窗口外）确认将怀俄明州东南部未完工数据中心项目出售予Google（上市公司）；Google未披露收购对价，仅宣布拟投$17B开发该园区。资产/项目出售，非初创公司并购，亦非股权/债务融资事件；买方为公开上市公司，按公开公司并购+非融资事件先例排除留痕（TechCrunch 11-07报道+Crusoe官方newsroom确认URL均登记）"
+  },
+  {
+   "name": "Sequoia关停Scouts计划",
+   "reason": "TechCrunch 11-07：Sequoia关停scouts模式计划，VC组织机制变动（延续11-04~11-06 Sequoia伦敦办公室关闭系列报道），非融资事件"
+  }
+ ]
+}

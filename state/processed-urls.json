@@ -6538,6 +6538,42 @@
    "last_collected_at": "2026-11-07T00:09:27+00:00",
    "issue_id": "01a1b34e-7e44-7ab5-97bd-33cbf60d11b9",
    "revision": 1
+  },
+  {
+   "url": "https://techcrunch.com/2026/11/07/crusoe-sells-troubled-wyoming-data-center-project-to-google/",
+   "canonical_url": "https://techcrunch.com/2026/11/07/crusoe-sells-troubled-wyoming-data-center-project-to-google/",
+   "source_id": "techcrunch",
+   "first_collected_at": "2026-11-08T00:04:13+00:00",
+   "last_collected_at": "2026-11-08T00:04:13+00:00",
+   "issue_id": "01a1b874-da48-7b3d-8ee7-6aacce7a639d",
+   "event_id": null,
+   "status": "excluded_not_event",
+   "exclusion_note": "Crusoe出售未完工怀俄明数据中心项目予Google：资产出售、对价未披露、买方上市公司，非融资事件",
+   "revision": 1
+  },
+  {
+   "url": "https://www.crusoe.ai/resources/newsroom/crusoe-wyoming-data-center-campus-update",
+   "canonical_url": "https://www.crusoe.ai/resources/newsroom/crusoe-wyoming-data-center-campus-update",
+   "source_id": "company_official",
+   "first_collected_at": "2026-11-08T00:04:13+00:00",
+   "last_collected_at": "2026-11-08T00:04:13+00:00",
+   "issue_id": "01a1b874-da48-7b3d-8ee7-6aacce7a639d",
+   "event_id": null,
+   "status": "excluded_not_event",
+   "exclusion_note": "Crusoe官方newsroom确认怀俄明项目园区更新（官方域名核验，佐证资产出售排除项）",
+   "revision": 1
+  },
+  {
+   "url": "https://techcrunch.com/2026/11/06/sequoia-shutting-down-its-scouts-program-marks-the-end-of-an-era/",
+   "canonical_url": "https://techcrunch.com/2026/11/06/sequoia-shutting-down-its-scouts-program-marks-the-end-of-an-era/",
+   "source_id": "techcrunch",
+   "first_collected_at": "2026-11-08T00:04:13+00:00",
+   "last_collected_at": "2026-11-08T00:04:13+00:00",
+   "issue_id": "01a1b874-da48-7b3d-8ee7-6aacce7a639d",
+   "event_id": null,
+   "status": "excluded_not_event",
+   "exclusion_note": "Sequoia关停Scouts计划：VC组织机制变动，非融资事件",
+   "revision": 1
   }
  ],
  "_meta": {
