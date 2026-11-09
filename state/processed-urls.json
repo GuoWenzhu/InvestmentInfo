@@ -6574,11 +6574,23 @@
    "status": "excluded_not_event",
    "exclusion_note": "Sequoia关停Scouts计划：VC组织机制变动，非融资事件",
    "revision": 1
+  },
+  {
+   "url": "https://techcrunch.com/2026/11/08/sequoia-partners-reportedly-blindsided-when-roelof-botha-joined-spacex-board/",
+   "canonical_url": "https://techcrunch.com/2026/11/08/sequoia-partners-reportedly-blindsided-when-roelof-botha-joined-spacex-board/",
+   "source_id": "techcrunch",
+   "first_collected_at": "2026-11-09T00:05:16+00:00",
+   "last_collected_at": "2026-11-09T00:05:16+00:00",
+   "issue_id": "01a1bd9b-4557-71f0-add6-f133a1450082",
+   "event_id": null,
+   "status": "excluded_not_event",
+   "exclusion_note": "Sequoia合伙人据报道对Botha加入SpaceX董事会感到意外：VC机构治理与人事变动，非融资事件（延续Sequoia伦敦关闭/Scouts关停系列）",
+   "revision": 1
   }
  ],
  "_meta": {
-  "last_updated": "2026-11-06T00:10:00+00:00",
-  "issue_id": "01a1ae28-3224-7ed9-90c5-9f2877fec0ae",
-  "total": 550
+  "last_updated": "2026-11-09T00:05:16+00:00",
+  "issue_id": "01a1bd9b-4557-71f0-add6-f133a1450082",
+  "total": 566
  }
 }
