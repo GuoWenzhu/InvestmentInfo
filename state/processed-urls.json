@@ -6586,11 +6586,110 @@
    "status": "excluded_not_event",
    "exclusion_note": "Sequoia合伙人据报道对Botha加入SpaceX董事会感到意外：VC机构治理与人事变动，非融资事件（延续Sequoia伦敦关闭/Scouts关停系列）",
    "revision": 1
+  },
+  {
+   "url": "https://techcrunch.com/2026/11/09/ai-hardware-startup-nominal-triples-valuation-to-3b-in-8-months/",
+   "canonical_url": "https://techcrunch.com/2026/11/09/ai-hardware-startup-nominal-triples-valuation-to-3b-in-8-months/",
+   "source_id": "techcrunch",
+   "first_collected_at": "2026-11-10T00:10:00+00:00",
+   "last_collected_at": "2026-11-10T00:10:00+00:00",
+   "issue_id": "01a1c2c1-92df-7e7a-b193-e00d8aa7ccf5",
+   "event_id": "nominal-20261109-equity",
+   "status": "accepted",
+   "note": "TC全文：$240M Series C@$3B，Lightspeed领投/Insight Partners co-lead；与官方博客nominal.io双源一致，高置信"
+  },
+  {
+   "url": "https://nominal.io/blog/series-c",
+   "canonical_url": "https://nominal.io/blog/series-c",
+   "source_id": "company_official",
+   "first_collected_at": "2026-11-10T00:10:00+00:00",
+   "last_collected_at": "2026-11-10T00:10:00+00:00",
+   "issue_id": "01a1c2c1-92df-7e7a-b193-e00d8aa7ccf5",
+   "event_id": "nominal-20261109-equity",
+   "status": "accepted",
+   "note": "官方博客（nominal.io官方域名核验）：'$240 million Series C at a $3B valuation, led by Lightspeed Venture Partners and co-led by Insight Partners'，2026-11-09署名；同日news帖佐证"
+  },
+  {
+   "url": "https://sifted.eu/articles/onodrim-300-european-defence-rollup/",
+   "canonical_url": "https://sifted.eu/articles/onodrim-300-european-defence-rollup/",
+   "source_id": "sifted",
+   "first_collected_at": "2026-11-10T00:10:00+00:00",
+   "last_collected_at": "2026-11-10T00:10:00+00:00",
+   "issue_id": "01a1c2c1-92df-7e7a-b193-e00d8aa7ccf5",
+   "event_id": "onodrim-20261109-equity",
+   "status": "accepted",
+   "note": "Sifted导语：$300m Series A收购整合防务/航天/工业制造初创（rollup）；正文反爬字体混淆，投资人未核验，中置信留审待CBN周榜/官宣复核"
+  },
+  {
+   "url": "https://sifted.eu/articles/monzo-to-raise-up-to-500m/",
+   "canonical_url": "https://sifted.eu/articles/monzo-to-raise-up-to-500m/",
+   "source_id": "sifted",
+   "first_collected_at": "2026-11-10T00:10:00+00:00",
+   "last_collected_at": "2026-11-10T00:10:00+00:00",
+   "issue_id": "01a1c2c1-92df-7e7a-b193-e00d8aa7ccf5",
+   "event_id": null,
+   "status": "excluded",
+   "exclusion_note": "Monzo据报道洽谈募集£300m-£500m@$7bn估值（DE Shaw reportedly拟领投）——'in talks/reportedly say'传闻级、无官宣无关账，按Hummingbird基金传闻与OpenAI reportedly先例排除留痕；若官方或权威第二来源确认再按事件核验"
+  },
+  {
+   "url": "https://techcrunch.com/2026/11/09/fervo-now-has-12b-in-orders-for-its-geothermal-power-tech/",
+   "canonical_url": "https://techcrunch.com/2026/11/09/fervo-now-has-12b-in-orders-for-its-geothermal-power-tech/",
+   "source_id": "techcrunch",
+   "first_collected_at": "2026-11-10T00:10:00+00:00",
+   "last_collected_at": "2026-11-10T00:10:00+00:00",
+   "issue_id": "01a1c2c1-92df-7e7a-b193-e00d8aa7ccf5",
+   "event_id": null,
+   "status": "excluded_not_event",
+   "exclusion_note": "Fervo地热订单累计$12B——客户订单/商业里程碑非融资事件，含'$/B'字样易与融资混淆故留痕"
+  },
+  {
+   "url": "https://news.crunchbase.com/venture/series-a-2026-startup-capital-up-deals-steady/",
+   "canonical_url": "https://news.crunchbase.com/venture/series-a-2026-startup-capital-up-deals-steady/",
+   "source_id": "crunchbase_news",
+   "first_collected_at": "2026-11-10T00:10:00+00:00",
+   "last_collected_at": "2026-11-10T00:10:00+00:00",
+   "issue_id": "01a1c2c1-92df-7e7a-b193-e00d8aa7ccf5",
+   "event_id": null,
+   "status": "excluded_not_event",
+   "exclusion_note": "CBN年度Series A统计（美国前10月$42B、同比+60%、轮次数持平~1200笔/年、10%轮次≥$75M）——统计文按方法论不生成离散事件，口径留痕供趋势面板使用"
+  },
+  {
+   "url": "https://news.crunchbase.com/ai/building-unicorn-multimarket-cap-table-shazhaev-dizzaract/",
+   "canonical_url": "https://news.crunchbase.com/ai/building-unicorn-multimarket-cap-table-shazhaev-dizzaract/",
+   "source_id": "crunchbase_news",
+   "first_collected_at": "2026-11-10T00:10:00+00:00",
+   "last_collected_at": "2026-11-10T00:10:00+00:00",
+   "issue_id": "01a1c2c1-92df-7e7a-b193-e00d8aa7ccf5",
+   "event_id": null,
+   "status": "excluded_not_event",
+   "exclusion_note": "CBN客座观点（Dizzaract创始人Shazhaev：营收型独角兽与跨区域cap table）——T4观点文非投资证据；文中援引1001 AI $30M Series A（Lux领投/Sanabil参投）为已披露旧轮，URL未单独核验不重复登记"
+  },
+  {
+   "url": "https://sifted.eu/articles/ucl-spinouts-looking-to-raise/",
+   "canonical_url": "https://sifted.eu/articles/ucl-spinouts-looking-to-raise/",
+   "source_id": "sifted",
+   "first_collected_at": "2026-11-10T00:10:00+00:00",
+   "last_collected_at": "2026-11-10T00:10:00+00:00",
+   "issue_id": "01a1c2c1-92df-7e7a-b193-e00d8aa7ccf5",
+   "event_id": null,
+   "status": "excluded_not_event",
+   "exclusion_note": "UCL拟募资spinout名录（'looking to raise'）——募资意向非已宣布/已关账轮次，名录不生成融资事件"
+  },
+  {
+   "url": "https://www.qimingvc.com/cn/news/启明星-英矽智能任峰：做最懂ai的制药公司",
+   "canonical_url": "https://www.qimingvc.com/cn/news/%E5%90%AF%E6%98%8E%E6%98%9F-%E8%8B%B1%E7%9F%BD%E6%99%BA%E8%83%BD%E4%BB%BB%E5%B3%B0%EF%BC%9A%E5%81%9A%E6%9C%80%E6%87%82ai%E7%9A%84%E5%88%B6%E8%8D%AF%E5%85%AC%E5%8F%B8",
+   "source_id": "qiming",
+   "first_collected_at": "2026-11-10T00:10:00+00:00",
+   "last_collected_at": "2026-11-10T00:10:00+00:00",
+   "issue_id": "01a1c2c1-92df-7e7a-b193-e00d8aa7ccf5",
+   "event_id": null,
+   "status": "excluded_not_event",
+   "exclusion_note": "启明投资企业新闻：英矽智能任峰观点文（'做最懂AI的制药公司'）——投资企业人物观点非融资事件"
   }
  ],
  "_meta": {
-  "last_updated": "2026-11-09T00:05:16+00:00",
-  "issue_id": "01a1bd9b-4557-71f0-add6-f133a1450082",
-  "total": 566
+  "last_updated": "2026-11-10T00:10:00+00:00",
+  "issue_id": "01a1c2c1-92df-7e7a-b193-e00d8aa7ccf5",
+  "total": 575
  }
 }

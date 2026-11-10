@@ -552,6 +552,23 @@
    "report_path": "reports/2026-11-09-daily.md",
    "publication_comment_id": "01a1bda2-ea90-7238-a023-e72e49c93a60",
    "publication_note": "已交付Issue评论并附日报/追踪附件（2026-11-09T00:08:53Z）；同Issue不重复发布。窗口内零新增零更正零回补（真实零事件日，8入口全部成功读取）；排除+2（Sequoia-Botha SpaceX董事会治理人事、Cognition $170M reportedly第三方口径留痕）；Brightmind TC专访同URL原位更新无字段变化不修订；Techstars连续29日零产出距门槛30差1日；提交004b7bd已推送，回执提交随后。"
+  },
+  {
+   "date": "2026-11-10",
+   "run_key": "2026-11-10",
+   "issue_id": "01a1c2c1-92df-7e7a-b193-e00d8aa7ccf5",
+   "issue_identifier": "TECH-114",
+   "event_ids": [
+    "nominal-20261109-equity",
+    "onodrim-20261109-equity"
+   ],
+   "revision": 1,
+   "status": "ready_for_delivery",
+   "window_start": "2026-11-08T00:00:28Z",
+   "window_end": "2026-11-10T00:00:28Z",
+   "report_path": "reports/2026-11-10-daily.md",
+   "publication_comment_id": null,
+   "publication_note": "报告已验证并准备交付；发布回执以对应Issue最终评论为准，重试必须先查评论。"
   }
  ]
 }

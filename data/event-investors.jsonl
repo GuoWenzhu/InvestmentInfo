@@ -472,3 +472,5 @@
 {"event_id": "tutor-intelligence-20261106-equity", "investor_id": "a16z", "role": "lead", "investment_amount": null, "currency": "USD", "evidence_ids": ["tutor-cbn-1"]}
 {"event_id": "kalepa-20261106-equity", "investor_id": "updata-partners", "role": "lead", "investment_amount": null, "currency": "USD", "evidence_ids": ["kalepa-cbn-1"]}
 {"event_id": "physicl-20261106-equity", "investor_id": "inovia-capital", "role": "lead", "investment_amount": null, "currency": "USD", "evidence_ids": ["physicl-tc-1"]}
+{"event_id": "nominal-20261109-equity", "investor_id": "lightspeed-venture-partners", "role": "lead", "investment_amount": null, "currency": "USD", "evidence_ids": ["nominal-official-1", "nominal-tc-1"]}
+{"event_id": "nominal-20261109-equity", "investor_id": "insight-partners", "role": "co_lead", "investment_amount": null, "currency": "USD", "evidence_ids": ["nominal-official-1", "nominal-tc-1"]}

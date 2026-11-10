@@ -354,3 +354,4 @@
 {"investor_id": "boka-capital", "name": "BOKA Capital", "aliases": [], "parent_id": null}
 {"investor_id": "oca-ventures", "name": "OCA Ventures", "aliases": [], "parent_id": null}
 {"investor_id": "updata-partners", "name": "Updata Partners", "aliases": [], "parent_id": null}
+{"investor_id": "insight-partners", "name": "Insight Partners", "aliases": ["Insight Venture Partners"], "parent_id": null}

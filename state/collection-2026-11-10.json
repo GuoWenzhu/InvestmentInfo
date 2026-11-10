@@ -1,0 +1,75 @@
+{
+ "issue_id": "01a1c2c1-92df-7e7a-b193-e00d8aa7ccf5",
+ "issue_identifier": "TECH-114",
+ "collected_at": "2026-11-10T00:10:00+00:00",
+ "window_start": "2026-11-08T00:00:28Z",
+ "window_end": "2026-11-10T00:00:28Z",
+ "source_attempts": [
+  {
+   "source_id": "techcrunch",
+   "attempted_at": "2026-11-10T00:02:00+00:00",
+   "status": "success_with_output",
+   "evidence_url": "https://techcrunch.com/feed/",
+   "notes": "主feed可读（HTTP 200，lastBuild 11-09T23:37:21Z）。本次新增期（上次采集2026-11-09T00:05Z之后）20条，全部为11-09发布，逐条比对：1条融资事件录入（Nominal $240M Series C@$3B，Lightspeed领投/Insight co-lead，官方博客nominal.io双源核验，高置信）；1条排除留痕（Fervo $12B为客户订单非融资）；其余18条为Nvidia丑闻系列（PR公司/做空报告/诉讼/中国市场影响/退出活动）/Wyndham数据泄露/France-Iran网络攻击/YouTube-Billboard/Anthropic模型发布与$3.4B燃气轮机采购/Meta Muse Ember与年龄识别/Waymo调查/Medium TK/Drops音乐/Automattic Spacefast/Tesla Cybertruck等非融资类不逐条登记"
+  },
+  {
+   "source_id": "crunchbase_news",
+   "attempted_at": "2026-11-10T00:03:00+00:00",
+   "status": "success_zero_output",
+   "evidence_url": "https://news.crunchbase.com/feed/",
+   "notes": "RSS成功（HTTP 200，lastBuild仍11-06T19:29:50Z）。新增2条（均11-09T12:00Z发布，注意lastBuild字段滞后于条目pubDate）：①年度Series A统计——统计文按方法论不生成离散事件，口径留痕（前10月$42B/+60%，轮次数持平，$75M+轮占比升至10%）；②客座观点（Dizzaract创始人）——T4观点排除。上期11-06周榜已TECH-104处理；下期周榜预计11-13（覆盖11-07~11-13），周末及周一（11-09）宣布轮次如Nominal/Onodrim或经其回补复核。连续3次零产出"
+  },
+  {
+   "source_id": "sifted",
+   "attempted_at": "2026-11-10T00:04:00+00:00",
+   "status": "success_with_output",
+   "evidence_url": "https://sifted.eu/feed",
+   "notes": "RSS成功（HTTP 200，lastBuild 11-10T00:01:23Z）。11-09新增6条逐条比对：1条录入（Onodrim $300M Series A，导语可核读、正文反爬混淆，中置信留审）；1条排除留痕（Monzo in talks £300-500M reportedly，传闻级未官宣）；1条排除（UCL拟募资名录）；3条为AI agent内容营销文/金融科技增长分析/Rise沙龙报道非融资不逐条登记；11-06及更早条目均已处理"
+  },
+  {
+   "source_id": "accel",
+   "attempted_at": "2026-11-10T00:05:00+00:00",
+   "status": "success_zero_output",
+   "evidence_url": "https://www.accel.com/news",
+   "notes": "新闻列表可读（HTTP 200）；最晚条目仍2026-10-23（Zetwerk IPO评论）；窗口内无新投资公告；连续19次零产出（距降级门槛30尚远）"
+  },
+  {
+   "source_id": "qiming",
+   "attempted_at": "2026-11-10T00:05:40+00:00",
+   "status": "success_zero_output",
+   "evidence_url": "https://www.qimingvc.com/cn/newsroom",
+   "notes": "新闻室可读（HTTP 200）；11/2026组新增1条：英矽智能任峰观点文（排除留痕，URL已登记）；融资相关仍凌川科技10亿元B轮（11-04已录入）与Vol.34周报；连续5次零产出"
+  },
+  {
+   "source_id": "nvca",
+   "attempted_at": "2026-11-10T00:06:10+00:00",
+   "status": "success_zero_output",
+   "evidence_url": "https://nvca.org/pitchbook-nvca-venture-monitor/",
+   "notes": "季度统计页可达（HTTP 200）；内容仍Q3 2026 Venture Monitor（Q3投资$98.4B/5012笔、前三季$515.8B、AI占82.7%、$500M+基金拿走78.1%募资额、首募基金81支、Q3仅18家IPO）；季度统计不生成离散事件；连续11次可达零产出"
+  },
+  {
+   "source_id": "techstars",
+   "attempted_at": "2026-11-10T00:06:40+00:00",
+   "status": "success_zero_output",
+   "evidence_url": "https://www.techstars.com/portfolio",
+   "notes": "组合目录页可读（HTTP 200，静态独角兽名录仍29家，无日期条目）；目录不生成融资事件；连续30个成功采集日零产出——按rules/report-health.md降级门槛（连续30个成功采集日无产出才降级）今日达门槛；清单降级处置需任务授权，本次不改config/sources.json，仅登记门槛达成与建议（见maintenance-log.md），采集继续维持观察"
+  },
+  {
+   "source_id": "company_official",
+   "attempted_at": "2026-11-10T00:08:00+00:00",
+   "status": "success_with_output",
+   "evidence_url": null,
+   "notes": "触发1次核验：Nominal官方博客nominal.io/blog/series-c（nominal.io官方域名核验：公司博客同域公告+同日news帖+llms.txt声明链接佐证，正文'$240 million Series C at a $3B valuation, led by Lightspeed Venture Partners and co-led by Insight Partners'与TC一致）登记具体原文URL，事件升高置信双源；Onodrim官方域名未核验（null待补，不扩张常规来源清单）；CesiumAstro等7条11-06单源中置信事件留审状态延续（下期CBN周榜或官方PR发布时复查）"
+  }
+ ],
+ "excluded_candidates": [
+  {
+   "name": "Monzo reportedly洽谈募集£300m–£500m@$7bn估值（DE Shaw reportedly拟领投）",
+   "reason": "Sifted 11-09T16:56Z：'in talks to raise between £300m and £500m at a valuation of around £7bn, reports say'——传闻级洽谈、无官宣无关账，按Hummingbird基金传闻（TECH-98）与OpenAI reportedly（TECH-104）先例排除留痕；若官方或权威第二来源确认再按事件核验；URL登记excluded"
+  },
+  {
+   "name": "Fervo Energy地热订单累计$12B",
+   "reason": "TechCrunch 11-09T20:55Z：客户订单/商业里程碑（'now has $12B in orders for its geothermal power tech'），非融资事件；含大额'$/B'字样易与融资混淆，登记excluded_not_event留痕"
+  }
+ ]
+}
