@@ -355,3 +355,9 @@
 {"investor_id": "oca-ventures", "name": "OCA Ventures", "aliases": [], "parent_id": null}
 {"investor_id": "updata-partners", "name": "Updata Partners", "aliases": [], "parent_id": null}
 {"investor_id": "insight-partners", "name": "Insight Partners", "aliases": ["Insight Venture Partners"], "parent_id": null}
+{"investor_id": "singular", "name": "Singular", "aliases": [], "parent_id": null}
+{"investor_id": "plural", "name": "Plural", "aliases": ["Plural Capital"], "parent_id": null}
+{"investor_id": "bertelsmann-healthcare-investments", "name": "Bertelsmann Healthcare Investments", "aliases": [], "parent_id": null}
+{"investor_id": "nan-li", "name": "Nan Li（个人，Dimension Capital联合创始人）", "aliases": [], "parent_id": null}
+{"investor_id": "zavain-dar", "name": "Zavain Dar（个人，Dimension Capital联合创始人）", "aliases": [], "parent_id": null}
+{"investor_id": "amy-abernethy", "name": "Amy Abernethy（个人，Highlander Health联合创始人、前FDA首席副专员）", "aliases": [], "parent_id": null}

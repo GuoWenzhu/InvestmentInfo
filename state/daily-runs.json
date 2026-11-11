@@ -569,6 +569,26 @@
    "report_path": "reports/2026-11-10-daily.md",
    "publication_comment_id": "01a1c2ce-0457-79bf-b2c3-d8161d328bb4",
    "publication_note": "已交付Issue评论并附日报/采集日志/追踪附件（2026-11-10T00:14:03Z）；同Issue不重复发布。窗口内新增2条股权（Nominal $240M Series C@$3B Lightspeed领投/Insight co-lead官方博客双源高置信；Onodrim $300M Series A欧洲防务rollup单源中置信留审）；排除+6（Monzo in-talks传闻、Fervo订单、CBN统计与客座观点、UCL名录、启明观点文，processed-urls累计575）；Techstars 30日零产出门槛达成未改清单待授权；提交0fe7010已推送，回执提交随后。"
+  },
+  {
+   "date": "2026-11-11",
+   "run_key": "2026-11-11",
+   "issue_id": "01a1c7e7-fc6a-7bef-b1de-710113fa7fbb",
+   "issue_identifier": "TECH-117",
+   "event_ids": [
+    "hiverge-20261110-equity",
+    "sumary-20261110-equity",
+    "proximal-ventures-20261110-fundraising",
+    "oura-counsel-health-20261110-acquisition",
+    "openai-odessia-20261110-acquisition"
+   ],
+   "revision": 1,
+   "status": "ready_for_delivery",
+   "window_start": "2026-11-09T00:00:31Z",
+   "window_end": "2026-11-11T00:00:31Z",
+   "report_path": "reports/2026-11-11-daily.md",
+   "publication_comment_id": null,
+   "publication_note": "报告已验证并准备交付；发布回执以对应Issue最终评论为准，重试必须先查评论。"
   }
  ]
 }

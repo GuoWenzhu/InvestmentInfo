@@ -6685,11 +6685,148 @@
    "event_id": null,
    "status": "excluded_not_event",
    "exclusion_note": "启明投资企业新闻：英矽智能任峰观点文（'做最懂AI的制药公司'）——投资企业人物观点非融资事件"
+  },
+  {
+   "url": "https://sifted.eu/articles/nvidia-bet-hiverge-plural-raise/",
+   "canonical_url": "https://sifted.eu/articles/nvidia-bet-hiverge-plural-raise/",
+   "source_id": "sifted",
+   "first_collected_at": "2026-11-11T00:10:00+00:00",
+   "last_collected_at": "2026-11-11T00:10:00+00:00",
+   "issue_id": "01a1c7e7-fc6a-7bef-b1de-710113fa7fbb",
+   "status": "accepted",
+   "event_id": "hiverge-20261110-equity",
+   "exclusion_note": "Sifted独家：$19.4M按company filings，Plural支持、Nvidia既有投资方，更大Series A待官宣；导语可核读、正文反爬混淆；单源中置信留审"
+  },
+  {
+   "url": "https://sifted.eu/articles/sumary-seed-fundraise/",
+   "canonical_url": "https://sifted.eu/articles/sumary-seed-fundraise/",
+   "source_id": "sifted",
+   "first_collected_at": "2026-11-11T00:10:00+00:00",
+   "last_collected_at": "2026-11-11T00:10:00+00:00",
+   "issue_id": "01a1c7e7-fc6a-7bef-b1de-710113fa7fbb",
+   "status": "accepted",
+   "event_id": "sumary-20261110-equity",
+   "exclusion_note": "Sifted Pro：$25M seed Singular领投、天使含Qonto/Synthesia联创；导语可核读、正文反爬混淆；单源中置信留审"
+  },
+  {
+   "url": "https://techcrunch.com/2026/11/10/proximal-ventures-raises-debut-fund-to-back-startups-bringing-ai-to-drug-development/",
+   "canonical_url": "https://techcrunch.com/2026/11/10/proximal-ventures-raises-debut-fund-to-back-startups-bringing-ai-to-drug-development/",
+   "source_id": "techcrunch",
+   "first_collected_at": "2026-11-11T00:10:00+00:00",
+   "last_collected_at": "2026-11-11T00:10:00+00:00",
+   "issue_id": "01a1c7e7-fc6a-7bef-b1de-710113fa7fbb",
+   "status": "accepted",
+   "event_id": "proximal-ventures-20261110-fundraising",
+   "exclusion_note": "TC全文：$27.5M首支基金，LP/thesis/check size明确；proximal.vc官方双源"
+  },
+  {
+   "url": "https://proximal.vc/",
+   "canonical_url": "https://proximal.vc/",
+   "source_id": "company_official",
+   "first_collected_at": "2026-11-11T00:10:00+00:00",
+   "last_collected_at": "2026-11-11T00:10:00+00:00",
+   "issue_id": "01a1c7e7-fc6a-7bef-b1de-710113fa7fbb",
+   "status": "accepted",
+   "event_id": "proximal-ventures-20261110-fundraising",
+   "exclusion_note": "官方域名核验：check size $500K-$1.5M/pre-seed-seed/life sciences AI与TC一致"
+  },
+  {
+   "url": "https://techcrunch.com/2026/11/10/oura-to-acquire-ai-native-primary-care-startup-counsel-health-for-625m/",
+   "canonical_url": "https://techcrunch.com/2026/11/10/oura-to-acquire-ai-native-primary-care-startup-counsel-health-for-625m/",
+   "source_id": "techcrunch",
+   "first_collected_at": "2026-11-11T00:10:00+00:00",
+   "last_collected_at": "2026-11-11T00:10:00+00:00",
+   "issue_id": "01a1c7e7-fc6a-7bef-b1de-710113fa7fbb",
+   "status": "accepted",
+   "event_id": "oura-counsel-health-20261110-acquisition",
+   "exclusion_note": "TC全文：Oura $625M收购Counsel Health，2027年底前交割预期；Business Wire官方PR双源"
+  },
+  {
+   "url": "https://www.businesswire.com/news/home/20261110737835/en/Oura-to-Acquire-Counsel-Health-Advancing-Vision-for-More-Connected-Personalized-Healthcare",
+   "canonical_url": "https://www.businesswire.com/news/home/20261110737835/en/Oura-to-Acquire-Counsel-Health-Advancing-Vision-for-More-Connected-Personalized-Healthcare",
+   "source_id": "company_official",
+   "first_collected_at": "2026-11-11T00:10:00+00:00",
+   "last_collected_at": "2026-11-11T00:10:00+00:00",
+   "issue_id": "01a1c7e7-fc6a-7bef-b1de-710113fa7fbb",
+   "status": "accepted",
+   "event_id": "oura-counsel-health-20261110-acquisition",
+   "exclusion_note": "Oura官方新闻稿（Business Wire分发），TC直接引用为announcement出处"
+  },
+  {
+   "url": "https://techcrunch.com/2026/11/10/openai-acquires-odessia-travel-startup-created-by-sonder-founder/",
+   "canonical_url": "https://techcrunch.com/2026/11/10/openai-acquires-odessia-travel-startup-created-by-sonder-founder/",
+   "source_id": "techcrunch",
+   "first_collected_at": "2026-11-11T00:10:00+00:00",
+   "last_collected_at": "2026-11-11T00:10:00+00:00",
+   "issue_id": "01a1c7e7-fc6a-7bef-b1de-710113fa7fbb",
+   "status": "accepted",
+   "event_id": "openai-odessia-20261110-acquisition",
+   "exclusion_note": "TC全文：创始人官宣+OpenAI发言人确认（人职），条款未披露，acqui-hire性质"
+  },
+  {
+   "url": "https://news.crunchbase.com/ai/anthropic-record-ipo-ant-public-market-debut-spcx/",
+   "canonical_url": "https://news.crunchbase.com/ai/anthropic-record-ipo-ant-public-market-debut-spcx/",
+   "source_id": "crunchbase_news",
+   "first_collected_at": "2026-11-11T00:10:00+00:00",
+   "last_collected_at": "2026-11-11T00:10:00+00:00",
+   "issue_id": "01a1c7e7-fc6a-7bef-b1de-710113fa7fbb",
+   "status": "excluded_not_event",
+   "exclusion_note": "Anthropic IPO报道：S-1更新，IPO拟售约8亿股@$70-78（高端约$62.5B）+IPO后私募约$26B（AMD/Broadcom/Google/Micron/Microsoft/Nvidia/TSMC参与），合计至多$88.5B@$1.4T fully diluted；IPO及IPO关联私募不生成离散事件（Zetwerk/MoneyView/Amagi先例），留痕供退出面板；TC同日price range报道同口径一并登记"
+  },
+  {
+   "url": "https://news.crunchbase.com/venture/october-2026-unicorn-board-gains-34-tops-1900-ai-defense/",
+   "canonical_url": "https://news.crunchbase.com/venture/october-2026-unicorn-board-gains-34-tops-1900-ai-defense/",
+   "source_id": "crunchbase_news",
+   "first_collected_at": "2026-11-11T00:10:00+00:00",
+   "last_collected_at": "2026-11-11T00:10:00+00:00",
+   "issue_id": "01a1c7e7-fc6a-7bef-b1de-710113fa7fbb",
+   "status": "excluded_not_event",
+   "exclusion_note": "10月独角兽榜统计（+34家至1900家、10月新增$14.8B total funding口径）：统计文不生成离散事件；所涉10月轮次（TypeSafe AI $870M Series A/Manus $500M/Arda $160M Series A等）披露日在窗口外且已过面板采集期，按TECH-104 Axiom先例留审不回补"
+  },
+  {
+   "url": "https://news.crunchbase.com/ai/startup-founder-diy-patents-legal-liabiity-drapkin-mutter-landfall/",
+   "canonical_url": "https://news.crunchbase.com/ai/startup-founder-diy-patents-legal-liabiity-drapkin-mutter-landfall/",
+   "source_id": "crunchbase_news",
+   "first_collected_at": "2026-11-11T00:10:00+00:00",
+   "last_collected_at": "2026-11-11T00:10:00+00:00",
+   "issue_id": "01a1c7e7-fc6a-7bef-b1de-710113fa7fbb",
+   "status": "excluded_not_event",
+   "exclusion_note": "客座观点（AI专利申请法律分析）：T4观点排除"
+  },
+  {
+   "url": "https://techcrunch.com/2026/11/10/anthropic-sets-ipo-price-range-of-70-to-78-per-share-to-reach-an-implied-valuation-of-1-404-trillion/",
+   "canonical_url": "https://techcrunch.com/2026/11/10/anthropic-sets-ipo-price-range-of-70-to-78-per-share-to-reach-an-implied-valuation-of-1-404-trillion/",
+   "source_id": "techcrunch",
+   "first_collected_at": "2026-11-11T00:10:00+00:00",
+   "last_collected_at": "2026-11-11T00:10:00+00:00",
+   "issue_id": "01a1c7e7-fc6a-7bef-b1de-710113fa7fbb",
+   "status": "excluded_not_event",
+   "exclusion_note": "Anthropic IPO定价区间$70-78（implied $1.404T fully diluted）：IPO不生成离散事件（先例同CBN Anthropic条目）；同日founders cash out ~$250M/人为IPO减持报道非融资"
+  },
+  {
+   "url": "https://sifted.eu/articles/private-markets-startups-to-watch/",
+   "canonical_url": "https://sifted.eu/articles/private-markets-startups-to-watch/",
+   "source_id": "sifted",
+   "first_collected_at": "2026-11-11T00:10:00+00:00",
+   "last_collected_at": "2026-11-11T00:10:00+00:00",
+   "issue_id": "01a1c7e7-fc6a-7bef-b1de-710113fa7fbb",
+   "status": "excluded_not_event",
+   "exclusion_note": "VC推荐名录（10 private markets startups to watch）：观点性名录非已宣布轮次，留痕防误录"
+  },
+  {
+   "url": "https://www.qimingvc.com/cn/news/%E5%90%AF%E6%98%8E%E6%98%9F-%E8%AF%BA%E4%BA%A6%E8%85%BE%E6%9C%BA%E5%99%A8%E4%BA%BA%E6%88%B4%E8%8B%A5%E7%8A%81%EF%BC%9A%E5%85%B7%E8%BA%AB%E6%99%BA%E8%83%BD%E5%88%B0%E5%BA%95%E9%9C%80%E8%A6%81%E4%BB%80%E4%B9%88%E6%A0%B7%E7%9A%84%E6%95%B0%E6%8D%AE%EF%BC%9F",
+   "canonical_url": "https://www.qimingvc.com/cn/news/%E5%90%AF%E6%98%8E%E6%98%9F-%E8%AF%BA%E4%BA%A6%E8%85%BE%E6%9C%BA%E5%99%A8%E4%BA%BA%E6%88%B4%E8%8B%A5%E7%8A%81%EF%BC%9A%E5%85%B7%E8%BA%AB%E6%99%BA%E8%83%BD%E5%88%B0%E5%BA%95%E9%9C%80%E8%A6%81%E4%BB%80%E4%B9%88%E6%A0%B7%E7%9A%84%E6%95%B0%E6%8D%AE%EF%BC%9F",
+   "source_id": "qiming",
+   "first_collected_at": "2026-11-11T00:10:00+00:00",
+   "last_collected_at": "2026-11-11T00:10:00+00:00",
+   "issue_id": "01a1c7e7-fc6a-7bef-b1de-710113fa7fbb",
+   "status": "excluded_not_event",
+   "exclusion_note": "启明投资企业观点文（诺亦腾机器人戴若犁谈具身智能数据）：T4观点排除，不生成融资事件"
   }
  ],
  "_meta": {
-  "last_updated": "2026-11-10T00:10:00+00:00",
-  "issue_id": "01a1c2c1-92df-7e7a-b193-e00d8aa7ccf5",
-  "total": 575
+  "last_updated": "2026-11-11T00:10:00+00:00",
+  "issue_id": "01a1c7e7-fc6a-7bef-b1de-710113fa7fbb",
+  "total": 588
  }
 }
