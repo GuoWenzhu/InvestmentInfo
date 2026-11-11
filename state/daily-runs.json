@@ -583,12 +583,12 @@
     "openai-odessia-20261110-acquisition"
    ],
    "revision": 1,
-   "status": "ready_for_delivery",
+   "status": "delivered",
    "window_start": "2026-11-09T00:00:31Z",
    "window_end": "2026-11-11T00:00:31Z",
    "report_path": "reports/2026-11-11-daily.md",
-   "publication_comment_id": null,
-   "publication_note": "报告已验证并准备交付；发布回执以对应Issue最终评论为准，重试必须先查评论。"
+   "publication_comment_id": "01a1c7f8-5293-7cf9-af04-abbbd42c1277",
+   "publication_note": "已交付Issue评论并附日报/采集日志/追踪附件（2026-11-11T00:18:22Z）；同Issue不重复发布。窗口内新增5条（股权2：Hiverge $19.4M filings口径Plural支持event_group_id预登记防重复、Sumary $25M seed Singular领投，均Sifted单源中置信留审；并购2：Oura $625M收购Counsel Health官方PR双源高置信、OpenAI收购Odessia条款未披露双party确认；基金募集1：Proximal Ventures $27.5M首支基金官方双源高置信）；排除+13（Anthropic IPO $88.5B=IPO+私募按先例不生成离散事件、10月独角兽榜统计窗口外留审、客座观点与名录等，processed-urls累计588）；存量111条复核无更正，Onodrim待11-13周榜；Techstars 31日零产出处置仍待授权；提交728a07a已推送，回执提交随后。"
   }
  ]
 }
