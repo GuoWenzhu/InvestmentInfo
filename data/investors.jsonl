@@ -361,3 +361,33 @@
 {"investor_id": "nan-li", "name": "Nan Li（个人，Dimension Capital联合创始人）", "aliases": [], "parent_id": null}
 {"investor_id": "zavain-dar", "name": "Zavain Dar（个人，Dimension Capital联合创始人）", "aliases": [], "parent_id": null}
 {"investor_id": "amy-abernethy", "name": "Amy Abernethy（个人，Highlander Health联合创始人、前FDA首席副专员）", "aliases": [], "parent_id": null}
+{"investor_id": "cometa", "name": "Cometa", "aliases": [], "parent_id": null}
+{"investor_id": "volpe-capital", "name": "Volpe Capital", "aliases": [], "parent_id": null}
+{"investor_id": "clocktower-technology-ventures", "name": "Clocktower Technology Ventures", "aliases": [], "parent_id": null}
+{"investor_id": "tekton-ventures", "name": "Tekton Ventures", "aliases": [], "parent_id": null}
+{"investor_id": "simma-capital", "name": "Simma Capital", "aliases": [], "parent_id": null}
+{"investor_id": "yango-ventures", "name": "Yango Ventures", "aliases": [], "parent_id": null}
+{"investor_id": "17sigma", "name": "17Sigma", "aliases": [], "parent_id": null}
+{"investor_id": "nido-ventures", "name": "Nido Ventures", "aliases": [], "parent_id": null}
+{"investor_id": "norte-ventures", "name": "Norte Ventures", "aliases": [], "parent_id": null}
+{"investor_id": "chicago-ventures", "name": "Chicago Ventures", "aliases": [], "parent_id": null}
+{"investor_id": "bam-ventures", "name": "BAM Ventures", "aliases": [], "parent_id": null}
+{"investor_id": "aglae-ventures", "name": "Aglaé Ventures", "aliases": ["Aglae Ventures"], "parent_id": null}
+{"investor_id": "corazon-capital", "name": "Corazon Capital", "aliases": [], "parent_id": null}
+{"investor_id": "press-on-ventures", "name": "Press On Ventures", "aliases": [], "parent_id": null}
+{"investor_id": "tusk-ventures", "name": "Tusk Ventures", "aliases": [], "parent_id": null}
+{"investor_id": "yonder-ventures", "name": "Yonder Ventures", "aliases": [], "parent_id": null}
+{"investor_id": "rule-30", "name": "Rule 30", "aliases": [], "parent_id": null}
+{"investor_id": "brown-angel-group", "name": "Brown Angel Group", "aliases": [], "parent_id": null}
+{"investor_id": "dag-kittlaus", "name": "Dag Kittlaus", "aliases": ["Siri co-founder"], "parent_id": null}
+{"investor_id": "team8", "name": "Team8", "aliases": [], "parent_id": null}
+{"investor_id": "u-and-i", "name": "U&I", "aliases": [], "parent_id": null}
+{"investor_id": "velocity", "name": "Velocity", "aliases": [], "parent_id": null}
+{"investor_id": "mercer", "name": "Mercer", "aliases": [], "parent_id": null}
+{"investor_id": "reah-miyara", "name": "Reah Miyara", "aliases": ["Google DeepMind researcher"], "parent_id": null}
+{"investor_id": "seedcamp", "name": "Seedcamp", "aliases": [], "parent_id": null}
+{"investor_id": "nssif", "name": "NSSIF", "aliases": ["National Security Strategic Investment Fund", "英国国家安全战略投资基金"], "parent_id": null}
+{"investor_id": "unity", "name": "Unity", "aliases": ["Unity Software"], "parent_id": null}
+{"investor_id": "nventures", "name": "NVentures", "aliases": ["NVIDIA investment arm"], "parent_id": "nvidia"}
+{"investor_id": "sovereign-ai", "name": "UK Government Sovereign AI Venture Fund", "aliases": ["Sovereign AI"], "parent_id": null}
+{"investor_id": "british-business-bank", "name": "British Business Bank", "aliases": ["BBB"], "parent_id": null}

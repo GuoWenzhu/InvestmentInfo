@@ -1,0 +1,65 @@
+{
+ "issue_id": "01a1cd0e-55c3-7c28-8290-e34c89258ef6",
+ "issue_identifier": "TECH-120",
+ "collected_at": "2026-11-12T00:30:00+00:00",
+ "window_start": "2026-11-10T00:00:31Z",
+ "window_end": "2026-11-12T00:00:31Z",
+ "source_attempts": [
+  {
+   "source_id": "techcrunch",
+   "attempted_at": "2026-11-12T00:02:00+00:00",
+   "status": "success_with_output",
+   "evidence_url": "https://techcrunch.com/feed/",
+   "notes": "主feed可读（HTTP 200，lastBuild 11-11T23:59:42Z）。新增期（上次快照11-11T00:02Z之后）20条逐条比对：3条录入——①Helix $6.2M（Chicago Ventures领投+8家参与+Dag Kittlaus个人支持任顾问，TC全文可读，高置信）；②Plurai $13M seed（Team8领投+U&I/Velocity/Mercer+DeepMind研究员天使，TC独家全文可读，高置信）；③RedBlue Capital二期基金首次关账（GP自述总额至少$50M下界口径，TC专访全文，amount=null比照fund_target先例，中置信）；1条修订证据——Fractile Series C官宣（TC口径$720M/Thrive-FF-Lightspeed-Redpoint领投/估值或$7bn，链接gov.uk公告与公司LinkedIn，10-29同一轮确认非新事件，事件置信中→高）；其余16条非融资类不逐条登记（Jensen Huang相关5条/OpenAI季度营收$10B/CoreWeave Q3财报/Congress传唤/Meta基建VP离职/Databricks Genie/X剪裁功能/纽约AI安全法/X-energy核电许可/Olaf Sakkers其余内容为基金背景等）"
+  },
+  {
+   "source_id": "sifted",
+   "attempted_at": "2026-11-12T00:03:00+00:00",
+   "status": "success_with_output",
+   "evidence_url": "https://sifted.eu/feed",
+   "notes": "RSS成功（HTTP 200，lastBuild 11-12T00:01:22Z）。11-11新增9条逐条比对：2条录入——①Mistt £5M（伦敦防务4D数据地图'下一代GPS'，Seedcamp+NSSIF参与；导语可读+投资方段落外链与标签词长解码一致，正文Pro门控+反爬混淆，单源中置信留审）；②Emulate $700m（伦敦DeepMind分拆世界模型公司，Unity+NVentures加入，估值$3.7bn；仅标题导语可读，关账状态不可核读留审，单源中置信）；1条修订证据——Fractile官宣确认文（'confirms £540m raise'，导语+标签CapitalG/Lightspeed/Nvidia/Redpoint，正文混淆）；6条排除——Nscale拟推迟$35bn IPO（reportedly）、Jobs of the future、deeptech brnd赞助、Palantir NHS采购分析、欧洲113家芯片名录、AI创始人开会计律所趋势特写；11-09/11-10条目（Monzo/Onodrim/Hiverge/Sumary/Mistral/Huang峰会等）已按TECH-114/117台账处理"
+  },
+  {
+   "source_id": "crunchbase_news",
+   "attempted_at": "2026-11-12T00:04:00+00:00",
+   "status": "success_with_output",
+   "evidence_url": "https://news.crunchbase.com/feed/",
+   "notes": "RSS成功（HTTP 200；lastBuild字段滞后仍11-10T21:08:13Z，新增条目pubDate 11-11T13:00:04Z在窗口内）。新增1条：Palomma $10M Series A录入——Cometa领投+新增5家+既有4家同轮参与，累计$14M含此前未公开$4M（累计口径不并入本轮），CEO采访+投资人邮件引述，正文全文经RSS content:encoded可核读，高置信；Anthropic S-1文（11-10T18:51）与10月独角兽榜（11-10T12:00）已按TECH-117台账处理不重复登记；下期周榜预计11-13，本周末/周一轮次（Emulate/Mistt/Hiverge/Sumary/Onodrim）待其回补复核"
+  },
+  {
+   "source_id": "accel",
+   "attempted_at": "2026-11-12T00:05:00+00:00",
+   "status": "success_zero_output",
+   "evidence_url": "https://www.accel.com/news",
+   "notes": "新闻列表可读（HTTP 200）；最晚条目仍2026-10-23（Zetwerk IPO评论）；窗口内无新投资公告；连续21次零产出（距降级门槛30尚远）"
+  },
+  {
+   "source_id": "qiming",
+   "attempted_at": "2026-11-12T00:05:40+00:00",
+   "status": "success_with_output",
+   "evidence_url": "https://www.qimingvc.com/cn/newsroom",
+   "notes": "新闻室可读（HTTP 200）。11/2026组新增启明周报Vol.35（2026.11.11）核读全文：录入自然选择（Nature Select）宣布完成新一轮融资（启明创投参与本轮；本轮金额/轮次名称未披露、累计融资超1亿美元——累计口径不当本轮金额；单源中置信留审）；周报其余9条为重磅合作/产品发布/临床进展非融资（明慧医药-ASKA日本权益许可$110M首付款、银河通用-保利战略合作、它石智航-Aptiv深化合作、原力灵机MaaS平台升级、文远知行/帕母医疗/大晓机器人/赜灵生物/熙源安健进展）不生成离散事件不逐条登记；诺亦腾观点文/英矽智能特写已按TECH-117处理；连续6次零产出中断"
+  },
+  {
+   "source_id": "nvca",
+   "attempted_at": "2026-11-12T00:06:10+00:00",
+   "status": "success_zero_output",
+   "evidence_url": "https://nvca.org/pitchbook-nvca-venture-monitor/",
+   "notes": "季度统计页可达（HTTP 200）；内容仍Q3 2026 Venture Monitor（Q3投资$98.4B/5012笔、前三季$515.8B、AI占82.7%等口径无变化）；季度统计不生成离散事件；连续13次可达零产出"
+  },
+  {
+   "source_id": "techstars",
+   "attempted_at": "2026-11-12T00:06:40+00:00",
+   "status": "success_zero_output",
+   "evidence_url": "https://www.techstars.com/portfolio",
+   "notes": "组合目录页可读（HTTP 200，静态独角兽名录仍29家、无日期条目）；目录不生成融资事件；连续32个成功采集日零产出——降级门槛已过（11-10达成），处置需任务授权（见maintenance-log.md），本次不改config/sources.json，采集继续维持观察"
+  },
+  {
+   "source_id": "company_official",
+   "attempted_at": "2026-11-12T00:08:00+00:00",
+   "status": "success_with_output",
+   "evidence_url": "per_event",
+   "notes": "触发4次核验：①Fractile官宣经gov.uk官方公告全文核读（'over £500 million'/估值'over £5 billion'/Series C/投资方'including CapitalG, Lightspeed and Redpoint'+Sovereign AI+British Business Bank），登记官方PR证据并作为10-29事件置信升高的主证据；②fractile.ai经TC文内公司链接核验，登记official_domain；③helix.id经TC文内公司链接核验，登记official_domain；④plurai.ai经TC文内公司博客链接核验，登记official_domain；Palomma/Mistt/Emulate/Nature Select官网域名未核验（null待补，不扩张常规来源清单）"
+  }
+ ]
+}

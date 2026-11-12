@@ -482,3 +482,40 @@
 {"event_id": "proximal-ventures-20261110-fundraising", "investor_id": "nan-li", "role": "participant", "investment_amount": null, "currency": "USD", "evidence_ids": ["proximal-tc-1", "proximal-official-1"]}
 {"event_id": "proximal-ventures-20261110-fundraising", "investor_id": "zavain-dar", "role": "participant", "investment_amount": null, "currency": "USD", "evidence_ids": ["proximal-tc-1", "proximal-official-1"]}
 {"event_id": "proximal-ventures-20261110-fundraising", "investor_id": "amy-abernethy", "role": "participant", "investment_amount": null, "currency": "USD", "evidence_ids": ["proximal-tc-1", "proximal-official-1"]}
+{"event_id": "palomma-20261111-equity", "investor_id": "cometa", "role": "lead", "investment_amount": null, "currency": "USD", "evidence_ids": ["palomma-cbn-1"]}
+{"event_id": "palomma-20261111-equity", "investor_id": "volpe-capital", "role": "participant", "investment_amount": null, "currency": "USD", "evidence_ids": ["palomma-cbn-1"]}
+{"event_id": "palomma-20261111-equity", "investor_id": "clocktower-technology-ventures", "role": "participant", "investment_amount": null, "currency": "USD", "evidence_ids": ["palomma-cbn-1"]}
+{"event_id": "palomma-20261111-equity", "investor_id": "tekton-ventures", "role": "participant", "investment_amount": null, "currency": "USD", "evidence_ids": ["palomma-cbn-1"]}
+{"event_id": "palomma-20261111-equity", "investor_id": "simma-capital", "role": "participant", "investment_amount": null, "currency": "USD", "evidence_ids": ["palomma-cbn-1"]}
+{"event_id": "palomma-20261111-equity", "investor_id": "yango-ventures", "role": "participant", "investment_amount": null, "currency": "USD", "evidence_ids": ["palomma-cbn-1"]}
+{"event_id": "palomma-20261111-equity", "investor_id": "y-combinator", "role": "participant", "investment_amount": null, "currency": "USD", "evidence_ids": ["palomma-cbn-1"]}
+{"event_id": "palomma-20261111-equity", "investor_id": "17sigma", "role": "participant", "investment_amount": null, "currency": "USD", "evidence_ids": ["palomma-cbn-1"]}
+{"event_id": "palomma-20261111-equity", "investor_id": "nido-ventures", "role": "participant", "investment_amount": null, "currency": "USD", "evidence_ids": ["palomma-cbn-1"]}
+{"event_id": "palomma-20261111-equity", "investor_id": "norte-ventures", "role": "participant", "investment_amount": null, "currency": "USD", "evidence_ids": ["palomma-cbn-1"]}
+{"event_id": "helix-20261111-equity", "investor_id": "chicago-ventures", "role": "lead", "investment_amount": null, "currency": "USD", "evidence_ids": ["helix-tc-1"]}
+{"event_id": "helix-20261111-equity", "investor_id": "bam-ventures", "role": "participant", "investment_amount": null, "currency": "USD", "evidence_ids": ["helix-tc-1"]}
+{"event_id": "helix-20261111-equity", "investor_id": "aglae-ventures", "role": "participant", "investment_amount": null, "currency": "USD", "evidence_ids": ["helix-tc-1"]}
+{"event_id": "helix-20261111-equity", "investor_id": "corazon-capital", "role": "participant", "investment_amount": null, "currency": "USD", "evidence_ids": ["helix-tc-1"]}
+{"event_id": "helix-20261111-equity", "investor_id": "press-on-ventures", "role": "participant", "investment_amount": null, "currency": "USD", "evidence_ids": ["helix-tc-1"]}
+{"event_id": "helix-20261111-equity", "investor_id": "tusk-ventures", "role": "participant", "investment_amount": null, "currency": "USD", "evidence_ids": ["helix-tc-1"]}
+{"event_id": "helix-20261111-equity", "investor_id": "yonder-ventures", "role": "participant", "investment_amount": null, "currency": "USD", "evidence_ids": ["helix-tc-1"]}
+{"event_id": "helix-20261111-equity", "investor_id": "rule-30", "role": "participant", "investment_amount": null, "currency": "USD", "evidence_ids": ["helix-tc-1"]}
+{"event_id": "helix-20261111-equity", "investor_id": "brown-angel-group", "role": "participant", "investment_amount": null, "currency": "USD", "evidence_ids": ["helix-tc-1"]}
+{"event_id": "helix-20261111-equity", "investor_id": "dag-kittlaus", "role": "undisclosed", "investment_amount": null, "currency": "USD", "evidence_ids": ["helix-tc-1"]}
+{"event_id": "plurai-20261111-equity", "investor_id": "team8", "role": "lead", "investment_amount": null, "currency": "USD", "evidence_ids": ["plurai-tc-1"]}
+{"event_id": "plurai-20261111-equity", "investor_id": "u-and-i", "role": "participant", "investment_amount": null, "currency": "USD", "evidence_ids": ["plurai-tc-1"]}
+{"event_id": "plurai-20261111-equity", "investor_id": "velocity", "role": "participant", "investment_amount": null, "currency": "USD", "evidence_ids": ["plurai-tc-1"]}
+{"event_id": "plurai-20261111-equity", "investor_id": "mercer", "role": "participant", "investment_amount": null, "currency": "USD", "evidence_ids": ["plurai-tc-1"]}
+{"event_id": "plurai-20261111-equity", "investor_id": "reah-miyara", "role": "undisclosed", "investment_amount": null, "currency": "USD", "evidence_ids": ["plurai-tc-1"]}
+{"event_id": "mistt-20261111-equity", "investor_id": "seedcamp", "role": "participant", "investment_amount": null, "currency": "GBP", "evidence_ids": ["mistt-sifted-1"]}
+{"event_id": "mistt-20261111-equity", "investor_id": "nssif", "role": "participant", "investment_amount": null, "currency": "GBP", "evidence_ids": ["mistt-sifted-1"]}
+{"event_id": "emulate-20261111-equity", "investor_id": "unity", "role": "participant", "investment_amount": null, "currency": "USD", "evidence_ids": ["emulate-sifted-1"]}
+{"event_id": "emulate-20261111-equity", "investor_id": "nventures", "role": "participant", "investment_amount": null, "currency": "USD", "evidence_ids": ["emulate-sifted-1"]}
+{"event_id": "nature-select-20261111-equity", "investor_id": "qiming", "role": "participant", "investment_amount": null, "currency": "UNK", "evidence_ids": ["natureselect-qiming-1"]}
+{"event_id": "fractile-20261029-equity", "investor_id": "thrive-capital", "role": "lead", "investment_amount": null, "currency": "GBP", "evidence_ids": ["fractile-tc-confirm-1"]}
+{"event_id": "fractile-20261029-equity", "investor_id": "founders-fund", "role": "lead", "investment_amount": null, "currency": "GBP", "evidence_ids": ["fractile-tc-confirm-1"]}
+{"event_id": "fractile-20261029-equity", "investor_id": "lightspeed-venture-partners", "role": "lead", "investment_amount": null, "currency": "GBP", "evidence_ids": ["fractile-tc-confirm-1", "fractile-govuk-1"]}
+{"event_id": "fractile-20261029-equity", "investor_id": "redpoint", "role": "lead", "investment_amount": null, "currency": "GBP", "evidence_ids": ["fractile-tc-confirm-1", "fractile-govuk-1"]}
+{"event_id": "fractile-20261029-equity", "investor_id": "sovereign-ai", "role": "participant", "investment_amount": null, "currency": "GBP", "evidence_ids": ["fractile-govuk-1"]}
+{"event_id": "fractile-20261029-equity", "investor_id": "british-business-bank", "role": "participant", "investment_amount": null, "currency": "GBP", "evidence_ids": ["fractile-govuk-1"]}
+{"event_id": "fractile-20261029-equity", "investor_id": "capitalg", "role": "participant", "investment_amount": null, "currency": "GBP", "evidence_ids": ["fractile-govuk-1"]}
