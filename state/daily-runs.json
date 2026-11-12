@@ -605,12 +605,12 @@
     "redblue-capital-20261111-fund"
    ],
    "revision": 1,
-   "status": "ready_for_delivery",
+   "status": "delivered",
    "window_start": "2026-11-10T00:00:31Z",
    "window_end": "2026-11-12T00:00:31Z",
    "report_path": "reports/2026-11-12-daily.md",
-   "publication_comment_id": null,
-   "publication_note": "报告已验证并准备交付；发布回执以对应Issue最终评论为准，重试必须先查评论。"
+   "publication_comment_id": "01a1cd1c-993d-76bb-950f-d6396be5b4c8",
+   "publication_note": "已交付Issue评论并附日报/采集日志/追踪附件（2026-11-12T00:16:05Z）；同Issue不重复发布。窗口内新增7条（股权6：Palomma $10M A/helix $6.2M/plurai $13M seed/mistt £5M/emulate $700M留审/nature-select未披露；基金募集1：redblue二基首次关账目标≥$50M下界）；修订1条：fractile-20261029-equity Series C经公司+gov.uk官宣确认（同一轮不重复计数、置信中→高、投资方落定留痕）；排除+6（Anthropic S-1先例留痕、Nscale推迟IPO reportedly等，processed-urls累计604）；Emulate/Mistt待11-13 CB周榜复核；提交f681f8d已推送，回执提交随后。"
   }
  ]
 }
