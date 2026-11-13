@@ -391,3 +391,17 @@
 {"investor_id": "nventures", "name": "NVentures", "aliases": ["NVIDIA investment arm"], "parent_id": "nvidia"}
 {"investor_id": "sovereign-ai", "name": "UK Government Sovereign AI Venture Fund", "aliases": ["Sovereign AI"], "parent_id": null}
 {"investor_id": "british-business-bank", "name": "British Business Bank", "aliases": ["BBB"], "parent_id": null}
+{"investor_id": "national-wealth-fund", "name": "UK National Wealth Fund", "aliases": ["NWF", "National Wealth Fund", "英国国家财富基金"], "parent_id": null}
+{"investor_id": "us-ukraine-reconstruction-investment-fund", "name": "U.S.-Ukraine Reconstruction Investment Fund", "aliases": ["URIF", "美乌重建投资基金"], "parent_id": null}
+{"investor_id": "xantium", "name": "Xantium", "aliases": [], "parent_id": null}
+{"investor_id": "hiro-capital", "name": "Hiro Capital", "aliases": [], "parent_id": null}
+{"investor_id": "shield-capital", "name": "Shield Capital", "aliases": [], "parent_id": null}
+{"investor_id": "ballistic-ventures", "name": "Ballistic Ventures", "aliases": [], "parent_id": null}
+{"investor_id": "lakestar", "name": "Lakestar", "aliases": [], "parent_id": null}
+{"investor_id": "squadra", "name": "Squadra", "aliases": [], "parent_id": null}
+{"investor_id": "softbank", "name": "SoftBank", "aliases": ["SoftBank Group", "软银"], "parent_id": null}
+{"investor_id": "t-capital", "name": "T.Capital", "aliases": ["T Capital"], "parent_id": null}
+{"investor_id": "keen-venture-partners", "name": "Keen Venture Partners", "aliases": ["Keen VC"], "parent_id": null}
+{"investor_id": "norrsken", "name": "Norrsken", "aliases": ["Norrsken VC"], "parent_id": null}
+{"investor_id": "hcvc", "name": "HCVC", "aliases": [], "parent_id": null}
+{"investor_id": "bpifrance", "name": "Bpifrance", "aliases": [], "parent_id": null}

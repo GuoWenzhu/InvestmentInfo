@@ -8,3 +8,10 @@
 
 - techstars：连续31个成功采集日零产出（降级门槛11-10已达成）。处置建议维持11-10登记（enabled→false转观察或降P2低频观察），需任务授权，本次不改config/sources.json；采集继续维持观察。
 - 来源清单无其他变更，未触发备份/替换流程。
+
+## 2026-11-13（TECH-123）
+
+- techstars：连续33个成功采集日零产出（降级门槛11-10已达成）。处置建议维持11-10登记（enabled→false转观察或降P2低频观察），需任务授权，本次不改config/sources.json；采集继续维持观察。
+- 来源清单无其他变更，未触发备份/替换流程。
+- 复核记录：Fractile官网发现主域现用fractile.com（fractile.ai仍可达同站、未改companies记录）；官方news页未见Series C领投名单公告，TECH-120遗留领投名单复核项维持TC口径待核。
+- Agile Robots/Orakl官网域名未核验（official_domain=null待补），不扩张常规来源清单。

@@ -1,0 +1,65 @@
+{
+ "issue_id": "01a1d234-8d9c-77ee-8a3a-4c8d622c789d",
+ "issue_identifier": "TECH-123",
+ "collected_at": "2026-11-13T00:50:00+00:00",
+ "window_start": "2026-11-11T00:00:31Z",
+ "window_end": "2026-11-13T00:00:21Z",
+ "source_attempts": [
+  {
+   "source_id": "techcrunch",
+   "attempted_at": "2026-11-13T00:20:00+00:00",
+   "status": "success_with_output",
+   "evidence_url": "https://techcrunch.com/feed/",
+   "notes": "主feed可读（HTTP 200，lastBuild 11-13T00:00:08Z）。新增期（上次快照11-12T00:02Z之后）20条逐条比对：1条录入——Norwest 18号基金$4B关账（TC全文可读+Jeff Crowe专访引语+norwest.com官方博客'Introducing Norwest 18'交叉，高置信）；1条专项排除——Nebius $40B支出计划（公开公司NBIS支出/融资结构报道非离散融资事件，登记排除留痕）；其余18条非融资类不逐条登记（Jensen Huang系列9条/Muse与Whoop与Phota产品发布/Google Search更新/Outlook宕机/United Airlines政策/SoftBank天然气分析/OpenAI开源与HF表态/Fireworks安全事件/Nectar产品等）"
+  },
+  {
+   "source_id": "sifted",
+   "attempted_at": "2026-11-13T00:25:00+00:00",
+   "status": "success_with_output",
+   "evidence_url": "https://sifted.eu/feed",
+   "notes": "RSS成功（HTTP 200，lastBuild 11-12T23:59:47Z）。11-12新增9条逐条比对：4条录入——①Uforce $700m Series A（Valor+NWF联合领投；导语可读，经uforce.com官方PR全文+NWF官方公告£113M双官方源交叉升级高置信）；②Agile Robots $500m Series F@$8.5bn（SoftBank领投，导语可读正文混淆，单源中置信留审）；③SE3 $30m Series A（Accel领投，导语可读+accel.com官方札记交叉，高置信）；④Orakl Oncology $34m Series A（Norrsken+Singular co-led副题，Pro门控正文混淆，单源中置信留审）；5条排除——欧洲芯片融资统计、15家德国初创名录、6位stealth科学家特写、采购AI赞助内容、Jensen Huang影响分析、Northzone播客；11-11及更早条目已按TECH-120台账处理"
+  },
+  {
+   "source_id": "crunchbase_news",
+   "attempted_at": "2026-11-13T00:30:00+00:00",
+   "status": "success_zero_output",
+   "evidence_url": "https://news.crunchbase.com/feed/",
+   "notes": "RSS成功（HTTP 200；lastBuild字段滞后仍11-10T21:08:13Z，新增条目pubDate 11-12T12:00:44Z/12:00:33Z在窗口内）。新增2条均为非事件：客座观点专栏（Intch平台风险）与蛋白赛道统计综述（内嵌榜单窗口外线索留痕：Medici $250M 9月B轮/Wilde $40M上月/Frozen One $8M+），按CBN统计与客座观点先例排除不逐条计入事件；Palomma（11-11）与Anthropic S-1、10月独角兽榜已按台账处理不重复登记；预计11-13周榜（覆盖11-07~11-13）本次采集时尚未出现在feed，Emulate/Mistt/Hiverge/Sumary/Onodrim复核顺延"
+  },
+  {
+   "source_id": "accel",
+   "attempted_at": "2026-11-13T00:32:00+00:00",
+   "status": "success_with_output",
+   "evidence_url": "https://www.accel.com/news",
+   "notes": "新闻列表可读（HTTP 200）。新增1条：11-12发布'Our investment in SE3: Spatial intelligence for autonomous systems'官方投资札记全文核验——确认Accel领投SE3 $30M Series A（'delighted to lead their $30M Series A'），含业务/客户（乌克兰与德国国防军合同、HENSOLDT/Auterion/ERC System）/创始团队细节；录入为se3-20261112-equity投资方渠道证据（与Sifted导语双源交叉高置信）；连续21次零产出中断"
+  },
+  {
+   "source_id": "qiming",
+   "attempted_at": "2026-11-13T00:34:00+00:00",
+   "status": "success_zero_output",
+   "evidence_url": "https://www.qimingvc.com/cn/newsroom",
+   "notes": "新闻室可读（HTTP 200）；11/2026组最晚仍为启明周报Vol.35（2026.11.11，TECH-120已处理，含Nature Select融资一条）；窗口内无新增条目；连续1次零产出"
+  },
+  {
+   "source_id": "nvca",
+   "attempted_at": "2026-11-13T00:35:00+00:00",
+   "status": "success_zero_output",
+   "evidence_url": "https://nvca.org/pitchbook-nvca-venture-monitor/",
+   "notes": "季度统计页可达（HTTP 200）；内容仍Q3 2026 Venture Monitor（Q3投资$98.4B/5012笔、前三季$515.8B、AI占82.7%、大基金占募资78.1%等口径无变化）；季度统计不生成离散事件；连续14次可达零产出"
+  },
+  {
+   "source_id": "techstars",
+   "attempted_at": "2026-11-13T00:36:00+00:00",
+   "status": "success_zero_output",
+   "evidence_url": "https://www.techstars.com/portfolio",
+   "notes": "组合目录页可读（HTTP 200，静态独角兽名录仍29家、无日期条目）；目录不生成融资事件；连续33个成功采集日零产出（降级门槛11-10已过，处置仍待任务授权，采集继续维持观察）"
+  },
+  {
+   "source_id": "company_official",
+   "attempted_at": "2026-11-13T00:45:00+00:00",
+   "status": "success_with_output",
+   "evidence_url": "per_event",
+   "notes": "触发4次核验：①uforce.com官方PR全文核读（$700M Series A@$6B/co-led Valor+NWF/URIF与Menlo/Xantium/Hiro参与/既有四家增持/Cavoli入董事会），官方域名uforce.com核验登记；②nationalwealthfund.org.uk官方公告（£113M投资'British-Ukrainian defence technology company'，作为$700M Series A组成部分）按per-event官方机构路径登记（比照gov.uk先例）；③norwest.com官方博客列表核验（'Introducing Norwest 18: $4 Billion'，11-12，Jeff Crowe/Jon Kossow署名），官方域名norwest.com核验登记；④fractile.ai/news复核尝试：页面可达但为旧域名，站内链接现指向fractile.com，官方news页未见Series C领投名单公告（仅FT 11-11 '$7bn valuation'报道，与gov.uk'超£5bn'口径一致）——TECH-120遗留的Fractile领投名单（TC口径Thrive/FF/Lightspeed/Redpoint vs gov.uk列举CapitalG/Lightspeed/Redpoint+两只官方基金）仍维持TC口径待核，公司域名记录暂不改（fractile.ai仍可达同站）"
+  }
+ ]
+}

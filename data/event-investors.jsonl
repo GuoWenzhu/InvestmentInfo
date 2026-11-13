@@ -519,3 +519,20 @@
 {"event_id": "fractile-20261029-equity", "investor_id": "sovereign-ai", "role": "participant", "investment_amount": null, "currency": "GBP", "evidence_ids": ["fractile-govuk-1"]}
 {"event_id": "fractile-20261029-equity", "investor_id": "british-business-bank", "role": "participant", "investment_amount": null, "currency": "GBP", "evidence_ids": ["fractile-govuk-1"]}
 {"event_id": "fractile-20261029-equity", "investor_id": "capitalg", "role": "participant", "investment_amount": null, "currency": "GBP", "evidence_ids": ["fractile-govuk-1"]}
+{"event_id": "uforce-20261112-equity", "investor_id": "valor-equity-partners", "role": "co_lead", "investment_amount": null, "currency": "USD", "evidence_ids": ["uforce-official-1", "uforce-nwf-1", "uforce-sifted-1"]}
+{"event_id": "uforce-20261112-equity", "investor_id": "national-wealth-fund", "role": "co_lead", "investment_amount": 113000000, "currency": "GBP", "evidence_ids": ["uforce-official-1", "uforce-nwf-1", "uforce-sifted-1"]}
+{"event_id": "uforce-20261112-equity", "investor_id": "us-ukraine-reconstruction-investment-fund", "role": "participant", "investment_amount": null, "currency": "USD", "evidence_ids": ["uforce-official-1", "uforce-nwf-1", "uforce-sifted-1"]}
+{"event_id": "uforce-20261112-equity", "investor_id": "menlo-ventures", "role": "participant", "investment_amount": null, "currency": "USD", "evidence_ids": ["uforce-official-1", "uforce-nwf-1", "uforce-sifted-1"]}
+{"event_id": "uforce-20261112-equity", "investor_id": "xantium", "role": "participant", "investment_amount": null, "currency": "USD", "evidence_ids": ["uforce-official-1", "uforce-nwf-1", "uforce-sifted-1"]}
+{"event_id": "uforce-20261112-equity", "investor_id": "hiro-capital", "role": "participant", "investment_amount": null, "currency": "USD", "evidence_ids": ["uforce-official-1", "uforce-nwf-1", "uforce-sifted-1"]}
+{"event_id": "uforce-20261112-equity", "investor_id": "shield-capital", "role": "participant", "investment_amount": null, "currency": "USD", "evidence_ids": ["uforce-official-1", "uforce-nwf-1", "uforce-sifted-1"]}
+{"event_id": "uforce-20261112-equity", "investor_id": "ballistic-ventures", "role": "participant", "investment_amount": null, "currency": "USD", "evidence_ids": ["uforce-official-1", "uforce-nwf-1", "uforce-sifted-1"]}
+{"event_id": "uforce-20261112-equity", "investor_id": "lakestar", "role": "participant", "investment_amount": null, "currency": "USD", "evidence_ids": ["uforce-official-1", "uforce-nwf-1", "uforce-sifted-1"]}
+{"event_id": "uforce-20261112-equity", "investor_id": "squadra", "role": "participant", "investment_amount": null, "currency": "USD", "evidence_ids": ["uforce-official-1", "uforce-nwf-1", "uforce-sifted-1"]}
+{"event_id": "agile-robots-20261112-equity", "investor_id": "softbank", "role": "lead", "investment_amount": null, "currency": "USD", "evidence_ids": ["agile-robots-sifted-1"]}
+{"event_id": "se3-20261112-equity", "investor_id": "accel", "role": "lead", "investment_amount": null, "currency": "USD", "evidence_ids": ["se3-accel-1", "se3-sifted-1"]}
+{"event_id": "se3-20261112-equity", "investor_id": "keen-venture-partners", "role": "participant", "investment_amount": null, "currency": "USD", "evidence_ids": ["se3-accel-1", "se3-sifted-1"]}
+{"event_id": "se3-20261112-equity", "investor_id": "seedcamp", "role": "participant", "investment_amount": null, "currency": "USD", "evidence_ids": ["se3-accel-1", "se3-sifted-1"]}
+{"event_id": "se3-20261112-equity", "investor_id": "lakestar", "role": "participant", "investment_amount": null, "currency": "USD", "evidence_ids": ["se3-accel-1", "se3-sifted-1"]}
+{"event_id": "orakl-oncology-20261112-equity", "investor_id": "norrsken", "role": "co_lead", "investment_amount": null, "currency": "USD", "evidence_ids": ["orakl-sifted-1"]}
+{"event_id": "orakl-oncology-20261112-equity", "investor_id": "singular", "role": "co_lead", "investment_amount": null, "currency": "USD", "evidence_ids": ["orakl-sifted-1"]}
