@@ -625,12 +625,12 @@
     "norwest-20261112-fund"
    ],
    "revision": 1,
-   "status": "ready_for_delivery",
+   "status": "delivered",
    "window_start": "2026-11-11T00:00:31Z",
    "window_end": "2026-11-13T00:00:21Z",
    "report_path": "reports/2026-11-13-daily.md",
-   "publication_comment_id": null,
-   "publication_note": "报告已验证并准备交付；发布回执以对应Issue最终评论为准，重试必须先查评论。"
+   "publication_comment_id": "01a1d240-3cad-7627-b342-3efdc3de5e53",
+   "publication_note": "已交付Issue评论并附日报/采集日志/追踪附件（2026-11-13T00:13:07Z）；同Issue不重复发布。窗口内新增5条（股权4：uforce $700M Series A@$6B官方双源/se3 $30M A双源高置信+agile-robots $500M F与orakl $34M A单源中置信留审；基金募集1：norwest 18号$4B关账官方双源）；排除+18（Nebius公开公司支出计划/CBN统计与客座/统计名录等，processed-urls累计622）；Fractile领投名单复核尝试维持TC口径待核；Agile/Orakl待CBN周榜或公司官宣交叉；提交5b633f6已推送，回执提交随后。"
   }
  ]
 }
