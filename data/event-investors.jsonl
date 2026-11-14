@@ -536,3 +536,105 @@
 {"event_id": "se3-20261112-equity", "investor_id": "lakestar", "role": "participant", "investment_amount": null, "currency": "USD", "evidence_ids": ["se3-accel-1", "se3-sifted-1"]}
 {"event_id": "orakl-oncology-20261112-equity", "investor_id": "norrsken", "role": "co_lead", "investment_amount": null, "currency": "USD", "evidence_ids": ["orakl-sifted-1"]}
 {"event_id": "orakl-oncology-20261112-equity", "investor_id": "singular", "role": "co_lead", "investment_amount": null, "currency": "USD", "evidence_ids": ["orakl-sifted-1"]}
+{"event_id": "langchain-20261113-equity", "investor_id": "capitalg", "role": "lead", "investment_amount": null, "currency": "USD", "evidence_ids": ["langchain-official-1", "langchain-tc-1", "langchain-cbn-1"]}
+{"event_id": "langchain-20261113-equity", "investor_id": "gic", "role": "participant", "investment_amount": null, "currency": "USD", "evidence_ids": ["langchain-official-1", "langchain-tc-1", "langchain-cbn-1"]}
+{"event_id": "langchain-20261113-equity", "investor_id": "dfj-growth", "role": "participant", "investment_amount": null, "currency": "USD", "evidence_ids": ["langchain-official-1", "langchain-tc-1", "langchain-cbn-1"]}
+{"event_id": "langchain-20261113-equity", "investor_id": "ivp", "role": "participant", "investment_amount": null, "currency": "USD", "evidence_ids": ["langchain-official-1", "langchain-tc-1", "langchain-cbn-1"]}
+{"event_id": "langchain-20261113-equity", "investor_id": "sapphire-ventures", "role": "participant", "investment_amount": null, "currency": "USD", "evidence_ids": ["langchain-official-1", "langchain-tc-1", "langchain-cbn-1"]}
+{"event_id": "langchain-20261113-equity", "investor_id": "salesforce-ventures", "role": "participant", "investment_amount": null, "currency": "USD", "evidence_ids": ["langchain-official-1", "langchain-tc-1", "langchain-cbn-1"]}
+{"event_id": "langchain-20261113-equity", "investor_id": "insight-partners", "role": "participant", "investment_amount": null, "currency": "USD", "evidence_ids": ["langchain-official-1", "langchain-tc-1", "langchain-cbn-1"]}
+{"event_id": "langchain-20261113-equity", "investor_id": "quantumlight", "role": "participant", "investment_amount": null, "currency": "USD", "evidence_ids": ["langchain-official-1", "langchain-tc-1", "langchain-cbn-1"]}
+{"event_id": "langchain-20261113-equity", "investor_id": "mongodb-ventures", "role": "participant", "investment_amount": null, "currency": "USD", "evidence_ids": ["langchain-official-1", "langchain-tc-1", "langchain-cbn-1"]}
+{"event_id": "langchain-20261113-equity", "investor_id": "sequoia", "role": "participant", "investment_amount": null, "currency": "USD", "evidence_ids": ["langchain-official-1", "langchain-tc-1", "langchain-cbn-1"]}
+{"event_id": "langchain-20261113-equity", "investor_id": "amplify", "role": "participant", "investment_amount": null, "currency": "USD", "evidence_ids": ["langchain-official-1", "langchain-tc-1", "langchain-cbn-1"]}
+{"event_id": "langchain-20261113-equity", "investor_id": "benchmark", "role": "participant", "investment_amount": null, "currency": "USD", "evidence_ids": ["langchain-official-1", "langchain-tc-1", "langchain-cbn-1"]}
+{"event_id": "drogue-20261113-equity", "investor_id": "xyz-venture-capital", "role": "undisclosed", "investment_amount": null, "currency": "USD", "evidence_ids": ["drogue-tc-1"]}
+{"event_id": "drogue-20261113-equity", "investor_id": "toyota-ventures", "role": "undisclosed", "investment_amount": null, "currency": "USD", "evidence_ids": ["drogue-tc-1"]}
+{"event_id": "drogue-20261113-equity", "investor_id": "tamarack-global", "role": "undisclosed", "investment_amount": null, "currency": "USD", "evidence_ids": ["drogue-tc-1"]}
+{"event_id": "drogue-20261113-equity", "investor_id": "dream", "role": "undisclosed", "investment_amount": null, "currency": "USD", "evidence_ids": ["drogue-tc-1"]}
+{"event_id": "drogue-20261113-equity", "investor_id": "fdvc", "role": "undisclosed", "investment_amount": null, "currency": "USD", "evidence_ids": ["drogue-tc-1"]}
+{"event_id": "drogue-20261113-equity", "investor_id": "garuda-ventures", "role": "undisclosed", "investment_amount": null, "currency": "USD", "evidence_ids": ["drogue-tc-1"]}
+{"event_id": "drogue-20261113-equity", "investor_id": "flexcap", "role": "undisclosed", "investment_amount": null, "currency": "USD", "evidence_ids": ["drogue-tc-1"]}
+{"event_id": "drogue-20261113-equity", "investor_id": "boost-vc", "role": "undisclosed", "investment_amount": null, "currency": "USD", "evidence_ids": ["drogue-tc-1"]}
+{"event_id": "drogue-20261113-equity", "investor_id": "slow-ventures", "role": "undisclosed", "investment_amount": null, "currency": "USD", "evidence_ids": ["drogue-tc-1"]}
+{"event_id": "mirendil-20261112-equity", "investor_id": "kleiner-perkins", "role": "co_lead", "investment_amount": null, "currency": "USD", "evidence_ids": ["mirendil-official-1", "mirendil-cbn-1"]}
+{"event_id": "mirendil-20261112-equity", "investor_id": "clearlake-capital", "role": "co_lead", "investment_amount": null, "currency": "USD", "evidence_ids": ["mirendil-official-1", "mirendil-cbn-1"]}
+{"event_id": "mirendil-20261112-equity", "investor_id": "battery-ventures", "role": "participant", "investment_amount": null, "currency": "USD", "evidence_ids": ["mirendil-official-1", "mirendil-cbn-1"]}
+{"event_id": "mirendil-20261112-equity", "investor_id": "doerr-capital", "role": "participant", "investment_amount": null, "currency": "USD", "evidence_ids": ["mirendil-official-1", "mirendil-cbn-1"]}
+{"event_id": "mirendil-20261112-equity", "investor_id": "gil-co", "role": "participant", "investment_amount": null, "currency": "USD", "evidence_ids": ["mirendil-official-1", "mirendil-cbn-1"]}
+{"event_id": "mirendil-20261112-equity", "investor_id": "google", "role": "participant", "investment_amount": null, "currency": "USD", "evidence_ids": ["mirendil-official-1", "mirendil-cbn-1"]}
+{"event_id": "mirendil-20261112-equity", "investor_id": "m13", "role": "participant", "investment_amount": null, "currency": "USD", "evidence_ids": ["mirendil-official-1", "mirendil-cbn-1"]}
+{"event_id": "mirendil-20261112-equity", "investor_id": "pear-vc", "role": "participant", "investment_amount": null, "currency": "USD", "evidence_ids": ["mirendil-official-1", "mirendil-cbn-1"]}
+{"event_id": "mirendil-20261112-equity", "investor_id": "s32", "role": "participant", "investment_amount": null, "currency": "USD", "evidence_ids": ["mirendil-official-1", "mirendil-cbn-1"]}
+{"event_id": "databento-20261112-equity", "investor_id": "fifth-down-capital", "role": "lead", "investment_amount": null, "currency": "USD", "evidence_ids": ["databento-official-blog-1", "databento-prnewswire-1", "databento-cbn-1"]}
+{"event_id": "databento-20261112-equity", "investor_id": "fitch-ventures", "role": "participant", "investment_amount": null, "currency": "USD", "evidence_ids": ["databento-official-blog-1", "databento-prnewswire-1"]}
+{"event_id": "databento-20261112-equity", "investor_id": "nea", "role": "participant", "investment_amount": null, "currency": "USD", "evidence_ids": ["databento-official-blog-1", "databento-prnewswire-1"]}
+{"event_id": "databento-20261112-equity", "investor_id": "drw-venture-capital", "role": "participant", "investment_amount": null, "currency": "USD", "evidence_ids": ["databento-official-blog-1", "databento-prnewswire-1"]}
+{"event_id": "databento-20261112-equity", "investor_id": "tribe-capital", "role": "participant", "investment_amount": null, "currency": "USD", "evidence_ids": ["databento-official-blog-1", "databento-prnewswire-1"]}
+{"event_id": "databento-20261112-equity", "investor_id": "redpoint-ventures", "role": "participant", "investment_amount": null, "currency": "USD", "evidence_ids": ["databento-official-blog-1", "databento-prnewswire-1"]}
+{"event_id": "databento-20261112-equity", "investor_id": "hedosophia", "role": "participant", "investment_amount": null, "currency": "USD", "evidence_ids": ["databento-official-blog-1", "databento-prnewswire-1"]}
+{"event_id": "databento-20261112-equity", "investor_id": "trousdale-ventures", "role": "participant", "investment_amount": null, "currency": "USD", "evidence_ids": ["databento-official-blog-1", "databento-prnewswire-1"]}
+{"event_id": "databento-20261112-equity", "investor_id": "cross-creek", "role": "participant", "investment_amount": null, "currency": "USD", "evidence_ids": ["databento-official-blog-1", "databento-prnewswire-1"]}
+{"event_id": "databento-20261112-equity", "investor_id": "operator-collective", "role": "participant", "investment_amount": null, "currency": "USD", "evidence_ids": ["databento-official-blog-1", "databento-prnewswire-1"]}
+{"event_id": "mercor-20261110-equity", "investor_id": "benchmark", "role": "participant", "investment_amount": null, "currency": "USD", "evidence_ids": ["mercor-official-blog-1", "mercor-bw-1", "mercor-cbn-1"]}
+{"event_id": "mercor-20261110-equity", "investor_id": "felicis", "role": "participant", "investment_amount": null, "currency": "USD", "evidence_ids": ["mercor-official-blog-1", "mercor-bw-1", "mercor-cbn-1"]}
+{"event_id": "mercor-20261110-equity", "investor_id": "fundomo", "role": "participant", "investment_amount": null, "currency": "USD", "evidence_ids": ["mercor-official-blog-1", "mercor-bw-1", "mercor-cbn-1"]}
+{"event_id": "mercor-20261110-equity", "investor_id": "apollo", "role": "participant", "investment_amount": null, "currency": "USD", "evidence_ids": ["mercor-official-blog-1", "mercor-bw-1", "mercor-cbn-1"]}
+{"event_id": "mercor-20261110-equity", "investor_id": "g-squared", "role": "participant", "investment_amount": null, "currency": "USD", "evidence_ids": ["mercor-official-blog-1", "mercor-bw-1", "mercor-cbn-1"]}
+{"event_id": "mercor-20261110-equity", "investor_id": "general-catalyst", "role": "participant", "investment_amount": null, "currency": "USD", "evidence_ids": ["mercor-official-blog-1", "mercor-bw-1", "mercor-cbn-1"]}
+{"event_id": "mercor-20261110-equity", "investor_id": "glade-brook-capital", "role": "participant", "investment_amount": null, "currency": "USD", "evidence_ids": ["mercor-official-blog-1", "mercor-bw-1", "mercor-cbn-1"]}
+{"event_id": "mercor-20261110-equity", "investor_id": "nvidia", "role": "participant", "investment_amount": null, "currency": "USD", "evidence_ids": ["mercor-official-blog-1", "mercor-bw-1", "mercor-cbn-1"]}
+{"event_id": "mercor-20261110-equity", "investor_id": "salesforce", "role": "participant", "investment_amount": null, "currency": "USD", "evidence_ids": ["mercor-official-blog-1", "mercor-bw-1", "mercor-cbn-1"]}
+{"event_id": "mercor-20261110-equity", "investor_id": "sapphire-ventures", "role": "participant", "investment_amount": null, "currency": "USD", "evidence_ids": ["mercor-official-blog-1", "mercor-bw-1", "mercor-cbn-1"]}
+{"event_id": "mercor-20261110-equity", "investor_id": "stepstone-group", "role": "participant", "investment_amount": null, "currency": "USD", "evidence_ids": ["mercor-official-blog-1", "mercor-bw-1", "mercor-cbn-1"]}
+{"event_id": "mercor-20261110-equity", "investor_id": "xtx-ventures", "role": "participant", "investment_amount": null, "currency": "USD", "evidence_ids": ["mercor-official-blog-1", "mercor-bw-1", "mercor-cbn-1"]}
+{"event_id": "mercor-20261110-equity", "investor_id": "zoom", "role": "participant", "investment_amount": null, "currency": "USD", "evidence_ids": ["mercor-official-blog-1", "mercor-bw-1", "mercor-cbn-1"]}
+{"event_id": "torus-20261111-equity", "investor_id": "magnetar-capital", "role": "lead", "investment_amount": null, "currency": "USD", "evidence_ids": ["torus-official-1", "torus-cbn-1"]}
+{"event_id": "torus-20261111-equity", "investor_id": "iconiq", "role": "participant", "investment_amount": null, "currency": "USD", "evidence_ids": ["torus-official-1", "torus-cbn-1"]}
+{"event_id": "torus-20261111-equity", "investor_id": "origin-ventures", "role": "participant", "investment_amount": null, "currency": "USD", "evidence_ids": ["torus-official-1", "torus-cbn-1"]}
+{"event_id": "torus-20261111-equity", "investor_id": "ridgeline-partners", "role": "participant", "investment_amount": null, "currency": "USD", "evidence_ids": ["torus-official-1", "torus-cbn-1"]}
+{"event_id": "torus-20261111-equity", "investor_id": "trinity-capital", "role": "participant", "investment_amount": null, "currency": "USD", "evidence_ids": ["torus-official-1", "torus-cbn-1"]}
+{"event_id": "path-robotics-20261110-equity", "investor_id": "georgian", "role": "lead", "investment_amount": null, "currency": "USD", "evidence_ids": ["path-official-1", "path-georgian-1", "path-cbn-1"]}
+{"event_id": "path-robotics-20261110-equity", "investor_id": "addition", "role": "participant", "investment_amount": null, "currency": "USD", "evidence_ids": ["path-official-1", "path-georgian-1"]}
+{"event_id": "path-robotics-20261110-equity", "investor_id": "drive-capital", "role": "participant", "investment_amount": null, "currency": "USD", "evidence_ids": ["path-official-1", "path-georgian-1"]}
+{"event_id": "path-robotics-20261110-equity", "investor_id": "ironarc-ventures", "role": "participant", "investment_amount": null, "currency": "USD", "evidence_ids": ["path-official-1", "path-georgian-1"]}
+{"event_id": "path-robotics-20261110-equity", "investor_id": "tiger-global", "role": "participant", "investment_amount": null, "currency": "USD", "evidence_ids": ["path-official-1", "path-georgian-1"]}
+{"event_id": "path-robotics-20261110-equity", "investor_id": "yamaha-motor-ventures", "role": "participant", "investment_amount": null, "currency": "USD", "evidence_ids": ["path-official-1", "path-georgian-1"]}
+{"event_id": "path-robotics-20261110-equity", "investor_id": "d-e-shaw-ventures", "role": "participant", "investment_amount": null, "currency": "USD", "evidence_ids": ["path-official-1", "path-georgian-1"]}
+{"event_id": "path-robotics-20261110-equity", "investor_id": "naver-ventures", "role": "participant", "investment_amount": null, "currency": "USD", "evidence_ids": ["path-official-1", "path-georgian-1"]}
+{"event_id": "imprint-20261111-equity", "investor_id": "khosla-ventures", "role": "lead", "investment_amount": null, "currency": "USD", "evidence_ids": ["imprint-bw-1", "imprint-cbn-1"]}
+{"event_id": "imprint-20261111-equity", "investor_id": "hedosophia", "role": "participant", "investment_amount": null, "currency": "USD", "evidence_ids": ["imprint-bw-1", "imprint-cbn-1"]}
+{"event_id": "imprint-20261111-equity", "investor_id": "ribbit-capital", "role": "participant", "investment_amount": null, "currency": "USD", "evidence_ids": ["imprint-bw-1", "imprint-cbn-1"]}
+{"event_id": "imprint-20261111-equity", "investor_id": "spice", "role": "participant", "investment_amount": null, "currency": "USD", "evidence_ids": ["imprint-bw-1", "imprint-cbn-1"]}
+{"event_id": "imprint-20261111-equity", "investor_id": "thrive-capital", "role": "participant", "investment_amount": null, "currency": "USD", "evidence_ids": ["imprint-bw-1", "imprint-cbn-1"]}
+{"event_id": "imprint-20261111-equity", "investor_id": "positive-sum", "role": "participant", "investment_amount": null, "currency": "USD", "evidence_ids": ["imprint-bw-1", "imprint-cbn-1"]}
+{"event_id": "mavria-20261109-equity", "investor_id": "paradigm", "role": "lead", "investment_amount": null, "currency": "USD", "evidence_ids": ["mavria-official-1", "mavria-cbn-1"]}
+{"event_id": "mavria-20261109-equity", "investor_id": "amp-pbc", "role": "participant", "investment_amount": null, "currency": "USD", "evidence_ids": ["mavria-official-1", "mavria-cbn-1"]}
+{"event_id": "mavria-20261109-equity", "investor_id": "liquid-2", "role": "participant", "investment_amount": null, "currency": "USD", "evidence_ids": ["mavria-official-1", "mavria-cbn-1"]}
+{"event_id": "mavria-20261109-equity", "investor_id": "critical-frontier", "role": "participant", "investment_amount": null, "currency": "USD", "evidence_ids": ["mavria-official-1", "mavria-cbn-1"]}
+{"event_id": "mavria-20261109-equity", "investor_id": "dream-ventures", "role": "participant", "investment_amount": null, "currency": "USD", "evidence_ids": ["mavria-official-1", "mavria-cbn-1"]}
+{"event_id": "delix-20261109-equity", "investor_id": "jjdc", "role": "co_lead", "investment_amount": null, "currency": "USD", "evidence_ids": ["delix-official-1", "delix-cbn-1"]}
+{"event_id": "delix-20261109-equity", "investor_id": "dementia-discovery-fund", "role": "co_lead", "investment_amount": null, "currency": "USD", "evidence_ids": ["delix-official-1", "delix-cbn-1"]}
+{"event_id": "delix-20261109-equity", "investor_id": "ra-capital", "role": "participant", "investment_amount": null, "currency": "USD", "evidence_ids": ["delix-official-1", "delix-cbn-1"]}
+{"event_id": "delix-20261109-equity", "investor_id": "uc-investments", "role": "participant", "investment_amount": null, "currency": "USD", "evidence_ids": ["delix-official-1", "delix-cbn-1"]}
+{"event_id": "delix-20261109-equity", "investor_id": "artis-ventures", "role": "participant", "investment_amount": null, "currency": "USD", "evidence_ids": ["delix-official-1", "delix-cbn-1"]}
+{"event_id": "delix-20261109-equity", "investor_id": "adage-capital-management", "role": "participant", "investment_amount": null, "currency": "USD", "evidence_ids": ["delix-official-1", "delix-cbn-1"]}
+{"event_id": "delix-20261109-equity", "investor_id": "hamilton-square", "role": "participant", "investment_amount": null, "currency": "USD", "evidence_ids": ["delix-official-1", "delix-cbn-1"]}
+{"event_id": "rox-20261111-equity", "investor_id": "general-catalyst", "role": "co_lead", "investment_amount": null, "currency": "USD", "evidence_ids": ["rox-prnewswire-1", "rox-cbn-1"]}
+{"event_id": "rox-20261111-equity", "investor_id": "march-capital", "role": "co_lead", "investment_amount": null, "currency": "USD", "evidence_ids": ["rox-prnewswire-1", "rox-cbn-1"]}
+{"event_id": "rox-20261111-equity", "investor_id": "sequoia", "role": "participant", "investment_amount": null, "currency": "USD", "evidence_ids": ["rox-prnewswire-1", "rox-cbn-1"]}
+{"event_id": "rox-20261111-equity", "investor_id": "factory", "role": "participant", "investment_amount": null, "currency": "USD", "evidence_ids": ["rox-prnewswire-1", "rox-cbn-1"]}
+{"event_id": "rox-20261111-equity", "investor_id": "prosperity7", "role": "participant", "investment_amount": null, "currency": "USD", "evidence_ids": ["rox-prnewswire-1", "rox-cbn-1"]}
+{"event_id": "rox-20261111-equity", "investor_id": "databricks-ventures", "role": "participant", "investment_amount": null, "currency": "USD", "evidence_ids": ["rox-official-databricks-1"]}
+{"event_id": "agile-robots-20261112-equity", "investor_id": "nvidia", "role": "participant", "investment_amount": null, "currency": "USD", "evidence_ids": ["agile-robots-official-1", "agile-robots-sifted-1"]}
+{"event_id": "agile-robots-20261112-equity", "investor_id": "hitachi", "role": "participant", "investment_amount": null, "currency": "USD", "evidence_ids": ["agile-robots-official-1", "agile-robots-sifted-1"]}
+{"event_id": "agile-robots-20261112-equity", "investor_id": "hitachi-ventures", "role": "participant", "investment_amount": null, "currency": "USD", "evidence_ids": ["agile-robots-official-1", "agile-robots-sifted-1"]}
+{"event_id": "agile-robots-20261112-equity", "investor_id": "t-capital", "role": "participant", "investment_amount": null, "currency": "USD", "evidence_ids": ["agile-robots-official-1", "agile-robots-sifted-1"]}
+{"event_id": "orakl-oncology-20261112-equity", "investor_id": "infravia", "role": "participant", "investment_amount": null, "currency": "USD", "evidence_ids": ["orakl-norrsken-1", "orakl-sifted-1"]}
+{"event_id": "orakl-oncology-20261112-equity", "investor_id": "serena", "role": "participant", "investment_amount": null, "currency": "USD", "evidence_ids": ["orakl-norrsken-1", "orakl-sifted-1"]}
+{"event_id": "orakl-oncology-20261112-equity", "investor_id": "bpifrance", "role": "participant", "investment_amount": null, "currency": "USD", "evidence_ids": ["orakl-norrsken-1", "orakl-sifted-1"]}
+{"event_id": "orakl-oncology-20261112-equity", "investor_id": "teampact-ventures", "role": "participant", "investment_amount": null, "currency": "USD", "evidence_ids": ["orakl-norrsken-1", "orakl-sifted-1"]}
+{"event_id": "orakl-oncology-20261112-equity", "investor_id": "plug-and-play", "role": "participant", "investment_amount": null, "currency": "USD", "evidence_ids": ["orakl-norrsken-1", "orakl-sifted-1"]}
+{"event_id": "orakl-oncology-20261112-equity", "investor_id": "verve-ventures", "role": "participant", "investment_amount": null, "currency": "USD", "evidence_ids": ["orakl-norrsken-1", "orakl-sifted-1"]}
+{"event_id": "orakl-oncology-20261112-equity", "investor_id": "speedinvest", "role": "participant", "investment_amount": null, "currency": "USD", "evidence_ids": ["orakl-norrsken-1", "orakl-sifted-1"]}
+{"event_id": "orakl-oncology-20261112-equity", "investor_id": "hcvc", "role": "participant", "investment_amount": null, "currency": "USD", "evidence_ids": ["orakl-norrsken-1", "orakl-sifted-1"]}

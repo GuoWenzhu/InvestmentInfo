@@ -1,0 +1,126 @@
+{
+ "issue_id": "01a1d75b-018c-7654-a687-2d751b186250",
+ "issue_identifier": "TECH-126",
+ "collected_at": "2026-11-14T00:55:00+00:00",
+ "window_start": "2026-11-12T00:00:31Z",
+ "window_end": "2026-11-14T00:00:28Z",
+ "source_attempts": [
+  {
+   "source_id": "techcrunch",
+   "attempted_at": "2026-11-14T00:06:00+00:00",
+   "status": "success_with_output",
+   "evidence_url": "https://techcrunch.com/feed/",
+   "notes": "主feed可读（lastBuild 11-14T00:01:14Z）。新增期（上次快照11-13T00:50Z之后）20条逐条比对：2条录入——LangChain $300M Series C@$3B（TC全文+官方博客langchain.com/blog/series-c交叉，CapitalG领投，高置信）；Drogue $20M（TC Exclusive，轮次/领投未披露，官网drogue.com无融资页，单源中置信留审）；1条专项排除——Huang离任对AI初创融资影响分析（情绪/环境类观点留痕）；其余18条非融资类不逐条登记（Jensen系列评论6条/Kindle与Muse与Nectar与ElevenLabs产品/微软宕机/Uber事件/美国航班停飞/以色列VC观察/出口管制研究等）；Nebius $40B延续TECH-123排除留痕"
+  },
+  {
+   "source_id": "sifted",
+   "attempted_at": "2026-11-14T00:10:00+00:00",
+   "status": "success_zero_output",
+   "evidence_url": "https://sifted.eu/feed",
+   "notes": "RSS成功（lastBuild 11-13T23:58:27Z）。新增期2条（11-13）逐条比对均非离散融资事件：①Samsung欧洲交易年度回顾分析；②GP Bullhound银行家观点（欧洲-亚洲五年展望）；11-12条目（Uforce/Agile/SE3/Orakl/统计/名录/stealth/赞助/Jensen影响/Northzone播客）已按TECH-123台账处理；连续1次零产出"
+  },
+  {
+   "source_id": "crunchbase_news",
+   "attempted_at": "2026-11-14T00:14:00+00:00",
+   "status": "success_with_output",
+   "evidence_url": "https://news.crunchbase.com/feed/",
+   "notes": "RSS成功（lastBuild 11-13T20:32:55Z）。11-13周榜《The Week's 10 Biggest Funding Rounds》（覆盖11-07~11-13美国公司）本次在feed出现：发现路径补录回补7条（Mercor $750M D@$20B、Torus $500M增长资本、Path Robotics $300M E@$2.45B、Imprint $130M@$1.9B、Mavria $130M累计@$1B、Delix $100M C、Rox $100M B@$1.3B，披露日11-09~11-11均在窗口外）+窗口内交叉3条（Mirendil $1B A/Databento $100M C/LangChain $300M C与TC+官方一致）；Nominal $240M@$3B交叉复核完全一致无更正；2条非事件排除（Nvidia+NVentures 2026年121笔投资统计与Huang离任分析——内嵌历史轮次窗口外已录或留观；蛋白食品口味测试特写）；上周顺延的欧洲标的复核（Emulate/Mistt/Hiverge/Sumary/Onodrim）因周榜为美国公司口径无法覆盖，继续留审"
+  },
+  {
+   "source_id": "accel",
+   "attempted_at": "2026-11-14T00:18:00+00:00",
+   "status": "success_zero_output",
+   "evidence_url": "https://www.accel.com/news",
+   "notes": "新闻列表可读（HTTP 200）；最新仍11-12 SE3投资札记（TECH-123已处理）；窗口内无新增；连续1次零产出"
+  },
+  {
+   "source_id": "qiming",
+   "attempted_at": "2026-11-14T00:20:00+00:00",
+   "status": "success_zero_output",
+   "evidence_url": "https://www.qimingvc.com/cn/newsroom",
+   "notes": "新闻室可读（HTTP 200）；最晚仍启明周报Vol.35（2026.11.11，已处理）；窗口内无新增条目；连续2次零产出"
+  },
+  {
+   "source_id": "nvca",
+   "attempted_at": "2026-11-14T00:22:00+00:00",
+   "status": "success_zero_output",
+   "evidence_url": "https://nvca.org/pitchbook-nvca-venture-monitor/",
+   "notes": "季度统计页可达（HTTP 200）；仍Q3 2026 Venture Monitor口径无变化；季度统计不生成离散事件；连续15次可达零产出"
+  },
+  {
+   "source_id": "techstars",
+   "attempted_at": "2026-11-14T00:24:00+00:00",
+   "status": "success_zero_output",
+   "evidence_url": "https://www.techstars.com/portfolio",
+   "notes": "组合目录页可读（HTTP 200）；静态独角兽名录仍29家无日期条目；目录不生成融资事件；连续34个成功采集日零产出（降级门槛已过，处置仍待授权）"
+  },
+  {
+   "source_id": "company_official",
+   "attempted_at": "2026-11-14T00:40:00+00:00",
+   "status": "success_with_output",
+   "evidence_url": "per_event",
+   "notes": "触发核验14处（详见source-health与processed-urls）：langchain/mirendil/databento/mercor/torus/path-robtics（含georgian.io）/imprint/mavria/delix/rox共10条新事件官方核验（drogue官网核验无融资页维持中置信）；修订2条——agile-robots.com官方PR（Agile Robots $500M F@$8.5B SoftBank领投+NVIDIA/Hitachi集团/T.Capital参与，中→高）、norrsken.vc官方札记（Orakl $34M A co-lead+完整参与方名单，中→高，orakl-oncology.com域名登记）；nominal交叉复核证据登记；Palomma/Mistt/Emulate/Nature Select官网域名仍未核验（不扩张常规来源清单）"
+  }
+ ],
+ "new_events": [
+  "langchain-20261113-equity",
+  "drogue-20261113-equity",
+  "mirendil-20261112-equity",
+  "databento-20261112-equity"
+ ],
+ "backfill_events": [
+  "mercor-20261110-equity",
+  "torus-20261111-equity",
+  "path-robotics-20261110-equity",
+  "imprint-20261111-equity",
+  "mavria-20261109-equity",
+  "delix-20261109-equity",
+  "rox-20261111-equity"
+ ],
+ "revisions": [
+  {
+   "event_id": "agile-robots-20261112-equity",
+   "change": "官方PR全文核验：SoftBank领投确认、NVIDIA/Hitachi集团（Hitachi与Hitachi Ventures）/T.Capital参与方由标签线索转正式登记并新增Hitachi、累计投入$2bn官方口径；置信中→高"
+  },
+  {
+   "event_id": "orakl-oncology-20261112-equity",
+   "change": "Norrsken官方札记核验：co-lead确认、新参与方InfraVia/Serena/Bpifrance（Patient Autonome Fund）/teampact.ventures/Plug and Play与既有Verve/Speedinvest/HCVC落定；置信中→高；orakl-oncology.com域名登记"
+  }
+ ],
+ "cross_checks": [
+  {
+   "event_id": "nominal-20261109-equity",
+   "result": "CBN周榜第6条与既有记录（官方博客+TC）完全一致，无更正"
+  },
+  {
+   "event_id": "fractile-20261029-equity",
+   "result": "Sifted确认文已在档（fractile-sifted-confirm-1），领投名单维持TC口径待公司完整名单，本次无改动"
+  },
+  {
+   "pending": "Emulate/Mistt/Hiverge/Sumary/Onodrim——CBN周榜仅美国公司口径无法覆盖，待Sifted后续报道或公司/投资方官宣"
+  }
+ ],
+ "exclusions_special": [
+  {
+   "url": "https://news.crunchbase.com/venture/huang-nvda-ai-startup-funding-record-2026/",
+   "reason": "统计/行业分析非离散事件"
+  },
+  {
+   "url": "https://techcrunch.com/2026/11/13/jensen-huangs-departure-blasts-big-hole-in-ai-startup-funding-vcs-and-founders-say/",
+   "reason": "融资环境情绪分析观点留痕（趋势反证素材）"
+  },
+  {
+   "url": "https://sifted.eu/articles/samsung-european-tech/",
+   "reason": "交易年度回顾分析"
+  },
+  {
+   "url": "https://sifted.eu/articles/why-european-tech-asia-get-closer-next-five-years-gp-bullhound/",
+   "reason": "银行家观点"
+  },
+  {
+   "url": "https://news.crunchbase.com/agtech-foodtech/protein-startup-snacks-drinks-sample-taste/",
+   "reason": "口味测试特写非融资"
+  }
+ ],
+ "git_note": "数据与台账变更待验证后本分支本地提交并push"
+}

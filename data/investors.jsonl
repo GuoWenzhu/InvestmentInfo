@@ -405,3 +405,73 @@
 {"investor_id": "norrsken", "name": "Norrsken", "aliases": ["Norrsken VC"], "parent_id": null}
 {"investor_id": "hcvc", "name": "HCVC", "aliases": [], "parent_id": null}
 {"investor_id": "bpifrance", "name": "Bpifrance", "aliases": [], "parent_id": null}
+{"investor_id": "sapphire-ventures", "name": "Sapphire Ventures", "aliases": [], "parent_id": null}
+{"investor_id": "mongodb-ventures", "name": "MongoDB Ventures", "aliases": [], "parent_id": null}
+{"investor_id": "amplify", "name": "Amplify", "aliases": [], "parent_id": null}
+{"investor_id": "clearlake-capital", "name": "Clearlake Capital", "aliases": ["Clearlake Capital Group"], "parent_id": null}
+{"investor_id": "google", "name": "Google", "aliases": ["Google LLC"], "parent_id": null}
+{"investor_id": "m13", "name": "M13", "aliases": [], "parent_id": null}
+{"investor_id": "pear-vc", "name": "Pear VC", "aliases": ["Pear"], "parent_id": null}
+{"investor_id": "s32", "name": "S32", "aliases": [], "parent_id": null}
+{"investor_id": "doerr-capital", "name": "Doerr Capital", "aliases": [], "parent_id": null}
+{"investor_id": "gil-co", "name": "Gil & Co", "aliases": [], "parent_id": null}
+{"investor_id": "fifth-down-capital", "name": "Fifth Down Capital", "aliases": [], "parent_id": null}
+{"investor_id": "fitch-ventures", "name": "Fitch Ventures", "aliases": [], "parent_id": null}
+{"investor_id": "nea", "name": "NEA", "aliases": ["New Enterprise Associates"], "parent_id": null}
+{"investor_id": "drw-venture-capital", "name": "DRW Venture Capital", "aliases": ["DRW"], "parent_id": null}
+{"investor_id": "tribe-capital", "name": "Tribe Capital", "aliases": [], "parent_id": null}
+{"investor_id": "hedosophia", "name": "Hedosophia", "aliases": [], "parent_id": null}
+{"investor_id": "trousdale-ventures", "name": "Trousdale Ventures", "aliases": [], "parent_id": null}
+{"investor_id": "cross-creek", "name": "Cross Creek", "aliases": ["Cross Creek Capital"], "parent_id": null}
+{"investor_id": "magnetar-capital", "name": "Magnetar Capital", "aliases": [], "parent_id": null}
+{"investor_id": "origin-ventures", "name": "Origin Ventures", "aliases": [], "parent_id": null}
+{"investor_id": "ridgeline-partners", "name": "Ridgeline Partners", "aliases": [], "parent_id": null}
+{"investor_id": "trinity-capital", "name": "Trinity Capital", "aliases": [], "parent_id": null}
+{"investor_id": "georgian", "name": "Georgian", "aliases": ["Georgian Partners"], "parent_id": null}
+{"investor_id": "addition", "name": "Addition", "aliases": [], "parent_id": null}
+{"investor_id": "drive-capital", "name": "Drive Capital", "aliases": [], "parent_id": null}
+{"investor_id": "ironarc-ventures", "name": "IronArc Ventures", "aliases": [], "parent_id": null}
+{"investor_id": "yamaha-motor-ventures", "name": "Yamaha Motor Ventures", "aliases": [], "parent_id": null}
+{"investor_id": "d-e-shaw-ventures", "name": "D.E. Shaw Ventures", "aliases": [], "parent_id": null}
+{"investor_id": "naver-ventures", "name": "NAVER Ventures", "aliases": [], "parent_id": null}
+{"investor_id": "ribbit-capital", "name": "Ribbit Capital", "aliases": [], "parent_id": null}
+{"investor_id": "spice", "name": "Spice", "aliases": [], "parent_id": null}
+{"investor_id": "positive-sum", "name": "Positive Sum", "aliases": ["Positive Sum Capital"], "parent_id": null}
+{"investor_id": "amp-pbc", "name": "AMP PBC", "aliases": [], "parent_id": null}
+{"investor_id": "liquid-2", "name": "Liquid 2", "aliases": ["Liquid 2 Ventures"], "parent_id": null}
+{"investor_id": "critical-frontier", "name": "Critical Frontier", "aliases": [], "parent_id": null}
+{"investor_id": "dream-ventures", "name": "Dream Ventures", "aliases": [], "parent_id": null}
+{"investor_id": "jjdc", "name": "Johnson & Johnson Innovation – JJDC", "aliases": ["JJDC"], "parent_id": null}
+{"investor_id": "sv-health-investors", "name": "SV Health Investors", "aliases": [], "parent_id": null}
+{"investor_id": "dementia-discovery-fund", "name": "Dementia Discovery Fund", "aliases": ["DDF"], "parent_id": "sv-health-investors"}
+{"investor_id": "uc-investments", "name": "UC Investments", "aliases": ["University of California Investments"], "parent_id": null}
+{"investor_id": "artis-ventures", "name": "Artis Ventures", "aliases": ["AV"], "parent_id": null}
+{"investor_id": "adage-capital-management", "name": "Adage Capital Management", "aliases": [], "parent_id": null}
+{"investor_id": "hamilton-square", "name": "Hamilton Square", "aliases": [], "parent_id": null}
+{"investor_id": "march-capital", "name": "March Capital", "aliases": ["March Capital Partners"], "parent_id": null}
+{"investor_id": "prosperity7", "name": "Prosperity7 Ventures", "aliases": ["Prosperity7"], "parent_id": null}
+{"investor_id": "databricks-ventures", "name": "Databricks Ventures", "aliases": [], "parent_id": null}
+{"investor_id": "toyota-ventures", "name": "Toyota Ventures", "aliases": [], "parent_id": null}
+{"investor_id": "tamarack-global", "name": "Tamarack Global", "aliases": [], "parent_id": null}
+{"investor_id": "dream", "name": "Dream", "aliases": ["Dream（投资方；与公司Dream同名，TC原文口径）"], "parent_id": null}
+{"investor_id": "fdvc", "name": "FDVC", "aliases": [], "parent_id": null}
+{"investor_id": "garuda-ventures", "name": "Garuda Ventures", "aliases": [], "parent_id": null}
+{"investor_id": "flexcap", "name": "Flexcap", "aliases": [], "parent_id": null}
+{"investor_id": "boost-vc", "name": "Boost VC", "aliases": [], "parent_id": null}
+{"investor_id": "slow-ventures", "name": "Slow Ventures", "aliases": [], "parent_id": null}
+{"investor_id": "hitachi", "name": "Hitachi", "aliases": ["Hitachi Group"], "parent_id": null}
+{"investor_id": "infravia", "name": "InfraVia", "aliases": ["InfraVia Capital Partners"], "parent_id": null}
+{"investor_id": "serena", "name": "Serena", "aliases": [], "parent_id": null}
+{"investor_id": "teampact-ventures", "name": "teampact.ventures", "aliases": [], "parent_id": null}
+{"investor_id": "plug-and-play", "name": "Plug and Play", "aliases": ["Plug and Play Tech Center"], "parent_id": null}
+{"investor_id": "verve-ventures", "name": "Verve Ventures", "aliases": [], "parent_id": null}
+{"investor_id": "speedinvest", "name": "Speedinvest", "aliases": [], "parent_id": null}
+{"investor_id": "fundomo", "name": "Fundomo", "aliases": [], "parent_id": null}
+{"investor_id": "apollo", "name": "Apollo", "aliases": ["funds managed by affiliates of Apollo"], "parent_id": null}
+{"investor_id": "g-squared", "name": "G Squared", "aliases": ["G Squared Capital"], "parent_id": null}
+{"investor_id": "glade-brook-capital", "name": "Glade Brook Capital", "aliases": ["Glade Brook Capital Partners"], "parent_id": null}
+{"investor_id": "stepstone-group", "name": "StepStone Group", "aliases": [], "parent_id": null}
+{"investor_id": "xtx-ventures", "name": "XTX Ventures", "aliases": [], "parent_id": null}
+{"investor_id": "zoom", "name": "Zoom", "aliases": ["Zoom Video Communications"], "parent_id": null}
+{"investor_id": "salesforce", "name": "Salesforce", "aliases": [], "parent_id": null}
+{"investor_id": "factory", "name": "Factory", "aliases": [], "parent_id": null}
