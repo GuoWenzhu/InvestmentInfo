@@ -651,12 +651,12 @@
     "rox-20261111-equity"
    ],
    "revision": 1,
-   "status": "ready_for_delivery",
+   "status": "delivered",
    "window_start": "2026-11-12T00:00:31Z",
    "window_end": "2026-11-14T00:00:28Z",
    "report_path": "reports/2026-11-14-daily.md",
-   "publication_comment_id": null,
-   "publication_note": "窗口内新增4条+历史回补7条+修订2条（Agile Robots/Orakl中→高）；报告验证后交付；发布回执以对应Issue最终评论为准。"
+   "publication_comment_id": "01a1d76c-22e6-7eb2-97ed-027981942ece",
+   "publication_note": "已交付Issue评论并附日报/采集日志/追踪附件（2026-11-14T00:19Z）；同Issue不重复发布。窗口内新增4条（LangChain/Drogue/Mirendil/Databento）+历史回补7条（Mercor/Torus/Path/Imprint/Mavria/Delix/Rox经CBN周榜发现路径）+修订2条（Agile Robots/Orakl中→高）；8入口全部成功；提交626cbd0已推送，回执提交随后。"
   }
  ]
 }
