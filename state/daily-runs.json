@@ -657,6 +657,23 @@
    "report_path": "reports/2026-11-14-daily.md",
    "publication_comment_id": "01a1d76c-22e6-7eb2-97ed-027981942ece",
    "publication_note": "已交付Issue评论并附日报/采集日志/追踪附件（2026-11-14T00:19Z）；同Issue不重复发布。窗口内新增4条（LangChain/Drogue/Mirendil/Databento）+历史回补7条（Mercor/Torus/Path/Imprint/Mavria/Delix/Rox经CBN周榜发现路径）+修订2条（Agile Robots/Orakl中→高）；8入口全部成功；提交626cbd0已推送，回执提交随后。"
+  },
+  {
+   "date": "2026-11-15",
+   "run_key": "2026-11-15",
+   "issue_id": "01a1dc81-3fba-7284-9b57-4ed02d9d9f1b",
+   "issue_identifier": "TECH-130",
+   "event_ids": [
+    "onodrim-20261109-equity",
+    "sumary-20261110-equity"
+   ],
+   "revision": 1,
+   "status": "ready_for_delivery",
+   "window_start": "2026-11-13T00:00:20Z",
+   "window_end": "2026-11-15T00:00:20Z",
+   "report_path": "reports/2026-11-15-daily.md",
+   "publication_comment_id": null,
+   "publication_note": "零新增事件日：窗口内新增0；修订2条（onodrim/sumary经官方渠道中→高）+4家官网域名核验落定；8入口全部成功读取；发布回执以本Issue最终评论为准，重试先查评论。"
   }
  ]
 }

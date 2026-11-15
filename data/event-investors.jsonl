@@ -638,3 +638,11 @@
 {"event_id": "orakl-oncology-20261112-equity", "investor_id": "verve-ventures", "role": "participant", "investment_amount": null, "currency": "USD", "evidence_ids": ["orakl-norrsken-1", "orakl-sifted-1"]}
 {"event_id": "orakl-oncology-20261112-equity", "investor_id": "speedinvest", "role": "participant", "investment_amount": null, "currency": "USD", "evidence_ids": ["orakl-norrsken-1", "orakl-sifted-1"]}
 {"event_id": "orakl-oncology-20261112-equity", "investor_id": "hcvc", "role": "participant", "investment_amount": null, "currency": "USD", "evidence_ids": ["orakl-norrsken-1", "orakl-sifted-1"]}
+{"event_id": "onodrim-20261109-equity", "investor_id": "lux-capital", "role": "lead", "investment_amount": null, "currency": "USD", "evidence_ids": ["onodrim-official-1"]}
+{"event_id": "onodrim-20261109-equity", "investor_id": "general-catalyst", "role": "participant", "investment_amount": null, "currency": "USD", "evidence_ids": ["onodrim-official-1"]}
+{"event_id": "onodrim-20261109-equity", "investor_id": "lakestar", "role": "participant", "investment_amount": null, "currency": "USD", "evidence_ids": ["onodrim-official-1"]}
+{"event_id": "onodrim-20261109-equity", "investor_id": "altimeter", "role": "participant", "investment_amount": null, "currency": "USD", "evidence_ids": ["onodrim-official-1"]}
+{"event_id": "onodrim-20261109-equity", "investor_id": "strike-capital", "role": "participant", "investment_amount": null, "currency": "USD", "evidence_ids": ["onodrim-official-1"]}
+{"event_id": "onodrim-20261109-equity", "investor_id": "137-ventures", "role": "participant", "investment_amount": null, "currency": "USD", "evidence_ids": ["onodrim-official-1"]}
+{"event_id": "onodrim-20261109-equity", "investor_id": "8090", "role": "participant", "investment_amount": null, "currency": "USD", "evidence_ids": ["onodrim-official-1"]}
+{"event_id": "onodrim-20261109-equity", "investor_id": "expeditions", "role": "participant", "investment_amount": null, "currency": "USD", "evidence_ids": ["onodrim-official-1"]}

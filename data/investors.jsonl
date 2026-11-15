@@ -475,3 +475,6 @@
 {"investor_id": "zoom", "name": "Zoom", "aliases": ["Zoom Video Communications"], "parent_id": null}
 {"investor_id": "salesforce", "name": "Salesforce", "aliases": [], "parent_id": null}
 {"investor_id": "factory", "name": "Factory", "aliases": [], "parent_id": null}
+{"investor_id": "strike-capital", "name": "Strike Capital", "aliases": [], "parent_id": null}
+{"investor_id": "8090", "name": "8090", "aliases": [], "parent_id": null}
+{"investor_id": "expeditions", "name": "Expeditions", "aliases": [], "parent_id": null}
