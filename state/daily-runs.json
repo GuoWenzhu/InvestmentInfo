@@ -668,12 +668,12 @@
     "sumary-20261110-equity"
    ],
    "revision": 1,
-   "status": "ready_for_delivery",
+   "status": "delivered",
    "window_start": "2026-11-13T00:00:20Z",
    "window_end": "2026-11-15T00:00:20Z",
    "report_path": "reports/2026-11-15-daily.md",
-   "publication_comment_id": null,
-   "publication_note": "零新增事件日：窗口内新增0；修订2条（onodrim/sumary经官方渠道中→高）+4家官网域名核验落定；8入口全部成功读取；发布回执以本Issue最终评论为准，重试先查评论。"
+   "publication_comment_id": "01a1dc8a-34af-79f9-b00b-0b5efc2dfa6a",
+   "publication_note": "已交付Issue评论并附日报/采集日志/追踪附件（2026-11-15T00:10Z）；同Issue不重复发布。零新增事件日：窗口内新增0（8入口全部成功读取）；修订2条（onodrim/sumary经官方渠道中→高+投资人/域名落定）+4家官网域名核验（hiverge.ai/emulate.ai/mistt.com/palomma.com）；processed-urls累计659；提交cb5c2e1已推送，回执提交随后。"
   }
  ]
 }
