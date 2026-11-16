@@ -1,0 +1,71 @@
+{
+ "issue_id": "01a1e1a7-a527-716e-9e99-d0b7b5f88547",
+ "issue_identifier": "TECH-133",
+ "collected_at": "2026-11-16T00:35:00+00:00",
+ "window_start": "2026-11-14T00:00:22Z",
+ "window_end": "2026-11-16T00:00:22Z",
+ "source_attempts": [
+  {
+   "source_id": "techcrunch",
+   "attempted_at": "2026-11-16T00:01:40+00:00",
+   "status": "success_with_output",
+   "evidence_url": "https://techcrunch.com/feed/",
+   "notes": "主feed可读（lastBuild 11-15T23:30:00Z）。上次快照（11-15T00:55Z，lastBuild 11-14T23:04:55Z）之后新增7条（11-15 00:08~23:30）：①Bharat Semi $24M seed（23:30，创立专访）→新增事件bharat-semi-20261115-equity；②Huang离任对AI产业影响分析（21:56）；③SNL科技大佬（20:20）；④Flaming Hydra Kickstarter众筹（18:29，众筹非离散融资事件）；⑤Mobility newsletter（17:05）；⑥假日产品导购（16:00）；⑦Nvidia安全评论（00:08）。②~⑦共6条登记excluded_not_event。11-14条目均已按TECH-130台账处理，无遗漏"
+  },
+  {
+   "source_id": "sifted",
+   "attempted_at": "2026-11-16T00:03:30+00:00",
+   "status": "success_zero_output",
+   "evidence_url": "https://sifted.eu/feed",
+   "notes": "RSS成功（lastBuild 11-15T23:57:51GMT）。上次快照后新增1条：11-15T16:33 Starling创始人Anne Boden拟自有资金投入新银行Lockwood（AI agents支付场景）——创始人个人资金、未披露轮次/金额/机构，登记excluded_not_event（正文反爬字符替换、可读段已核）。其余条目（Samsung回顾/GP Bullhound等）均为TECH-126/130已处理。连续3次零产出"
+  },
+  {
+   "source_id": "crunchbase_news",
+   "attempted_at": "2026-11-16T00:05:00+00:00",
+   "status": "success_zero_output",
+   "evidence_url": "https://news.crunchbase.com/feed/",
+   "notes": "经fetch_content读取完整RSS（curl直连仍被Cloudflare拦截，备用路径正常）。lastBuild 11-13T20:32:55Z与上两日快照完全一致：feed 4条（Nvidia 121笔统计/11-07~11-13周榜/蛋白口味测试/Intch客座）均TECH-126已处理，无新增条目。11-14~11-20周榜预计11-20/21出现。零新增；零产出计数2"
+  },
+  {
+   "source_id": "accel",
+   "attempted_at": "2026-11-16T00:07:00+00:00",
+   "status": "success_zero_output",
+   "evidence_url": "https://www.accel.com/news",
+   "notes": "新闻列表可读（HTTP 200，545KB）。最新条目_createdAt仍2026-11-12T08:55:30Z与11-12T07:53:48Z（SE3投资札记，TECH-123已处理），其后为11-05条目；窗口内无新增；连续3次零产出"
+  },
+  {
+   "source_id": "qiming",
+   "attempted_at": "2026-11-16T00:08:30+00:00",
+   "status": "success_zero_output",
+   "evidence_url": "https://www.qimingvc.com/cn/newsroom",
+   "notes": "新闻室可读（HTTP 200，53KB）。最晚条目仍启明周报Vol.35（2026.11.11，TECH-120已处理）；凌川科技10亿元B轮条目已在TECH-120按lingchuan-20261104-equity入账；诺亦腾/英矽智能人物观点已登记excluded_not_event；窗口内无新增条目；连续4次零产出"
+  },
+  {
+   "source_id": "nvca",
+   "attempted_at": "2026-11-16T00:10:00+00:00",
+   "status": "success_zero_output",
+   "evidence_url": "https://nvca.org/pitchbook-nvca-venture-monitor/",
+   "notes": "本次curl直连首次被Cloudflare拦截（Attention Required页，5.7KB）；经fetch_content备用路径成功读取完整页（HTTP 200）：仍Q3 2026 Venture Monitor口径（Q3-2026-PitchBook-NVCA-Venture-Monitor.pdf不变，Q3投资$98.4B/全年$515.8B、AI占82.7%）。季度统计不生成离散事件；主入口fetch_content路径正常；连续18次可达零产出；curl直连失败已留痕，若连续3次真实失败且备用路径失败才转观察（当前备用路径成功，不触发）"
+  },
+  {
+   "source_id": "techstars",
+   "attempted_at": "2026-11-16T00:11:00+00:00",
+   "status": "success_zero_output",
+   "evidence_url": "https://www.techstars.com/portfolio",
+   "notes": "组合目录页可读（HTTP 200，251KB）；静态目录无日期条目；目录不生成融资事件；连续36个成功采集日零产出（30日降级门槛已过，处置仍待授权）"
+  },
+  {
+   "source_id": "company_official",
+   "attempted_at": "2026-11-16T00:15:00+00:00",
+   "status": "success_with_output",
+   "evidence_url": "per_event",
+   "notes": "①Bharat Semi（新增事件回查）：bharatsemi.com为挂牌待售停放域名→排除；多源交叉定位官网bsemis.com（LinkedIn/Redstart组合页/f4.fund一致），直接抓取HTTP 200，title 'Bharat Semi: Intelligent Sensors for Physical AI'，backed-by区可见Info Edge/South Park Commons/Indusbridge Ventures/Valour Capital/Micromax标识与TC名单互证（未见Gaingels标识、无$24M公告文字）→event置信维持medium待官宣；Tracxn（非清单源）档案与TC轮次口径冲突已留痕（此前$4.63M Redstart）。②顺延队列复核：fractile.ai/news无Series C领投名单更新（页面新闻区为FT 11-11 $7bn估值报道，已在fractile-20261029-equity记录覆盖）、维持TC口径待官方公告；hiverge.ai仍无Series A官宣（新增'Announcing Hive integration with NVIDIA/Quantum/AWS'产品集成公告，非融资）；emulate.ai/mistt.com未复读（上轮已核验域名与静默状态，无新触发线索）"
+  }
+ ],
+ "new_event_ids": [
+  "bharat-semi-20261115-equity"
+ ],
+ "revised_event_ids": [],
+ "excluded_count": 8,
+ "notes": "窗口内新增1条（Bharat Semi $24M seed，TC专访单源中置信）；排除8条（TC 6+Sifted 1+bharatsemi.com停放域名1）；顺延队列Fractile/Hiverge无官方公告更新；processed-urls累计669"
+}

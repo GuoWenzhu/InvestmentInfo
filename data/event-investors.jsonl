@@ -646,3 +646,9 @@
 {"event_id": "onodrim-20261109-equity", "investor_id": "137-ventures", "role": "participant", "investment_amount": null, "currency": "USD", "evidence_ids": ["onodrim-official-1"]}
 {"event_id": "onodrim-20261109-equity", "investor_id": "8090", "role": "participant", "investment_amount": null, "currency": "USD", "evidence_ids": ["onodrim-official-1"]}
 {"event_id": "onodrim-20261109-equity", "investor_id": "expeditions", "role": "participant", "investment_amount": null, "currency": "USD", "evidence_ids": ["onodrim-official-1"]}
+{"event_id": "bharat-semi-20261115-equity", "investor_id": "info-edge", "role": "lead", "investment_amount": null, "currency": "USD", "evidence_ids": ["bharat-semi-tc-1", "bharat-semi-official-1"]}
+{"event_id": "bharat-semi-20261115-equity", "investor_id": "south-park-commons", "role": "lead", "investment_amount": null, "currency": "USD", "evidence_ids": ["bharat-semi-tc-1", "bharat-semi-official-1"]}
+{"event_id": "bharat-semi-20261115-equity", "investor_id": "indus-bridge-ventures", "role": "lead", "investment_amount": null, "currency": "USD", "evidence_ids": ["bharat-semi-tc-1", "bharat-semi-official-1"]}
+{"event_id": "bharat-semi-20261115-equity", "investor_id": "valour-capital", "role": "participant", "investment_amount": null, "currency": "USD", "evidence_ids": ["bharat-semi-tc-1", "bharat-semi-official-1"]}
+{"event_id": "bharat-semi-20261115-equity", "investor_id": "micromax", "role": "participant", "investment_amount": null, "currency": "USD", "evidence_ids": ["bharat-semi-tc-1", "bharat-semi-official-1"]}
+{"event_id": "bharat-semi-20261115-equity", "investor_id": "gaingels", "role": "participant", "investment_amount": null, "currency": "USD", "evidence_ids": ["bharat-semi-tc-1", "bharat-semi-official-1"]}

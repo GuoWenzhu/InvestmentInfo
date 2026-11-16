@@ -7662,11 +7662,131 @@
    "status": "excluded_not_event",
    "revision": 1,
    "reason": "亚洲政府对Huang离任反应——政策/舆论动态非融资事件"
+  },
+  {
+   "url": "https://techcrunch.com/2026/11/15/indian-chip-startup-bharat-semi-lands-24m-seed-round-as-it-eyes-global-ai-sensor-market/",
+   "canonical_url": "https://techcrunch.com/2026/11/15/indian-chip-startup-bharat-semi-lands-24m-seed-round-as-it-eyes-global-ai-sensor-market/",
+   "source_id": "techcrunch",
+   "first_collected_at": "2026-11-16T00:35:00+00:00",
+   "last_collected_at": "2026-11-16T00:35:00+00:00",
+   "issue_id": "01a1e1a7-a527-716e-9e99-d0b7b5f88547",
+   "event_id": "bharat-semi-20261115-equity",
+   "status": "accepted",
+   "revision": 1,
+   "reason": "新融资事件：Bharat Semi $24M全股票seed（Info Edge/South Park Commons/Indusbridge Ventures领投，Valour Capital/Micromax/Gaingels参与）——创立专访披露，event_id=bharat-semi-20261115-equity"
+  },
+  {
+   "url": "https://techcrunch.com/2026/11/15/is-bad-news-for-jensen-huang-also-bad-news-for-the-ai-industry/",
+   "canonical_url": "https://techcrunch.com/2026/11/15/is-bad-news-for-jensen-huang-also-bad-news-for-the-ai-industry/",
+   "source_id": "techcrunch",
+   "first_collected_at": "2026-11-16T00:35:00+00:00",
+   "last_collected_at": "2026-11-16T00:35:00+00:00",
+   "issue_id": "01a1e1a7-a527-716e-9e99-d0b7b5f88547",
+   "event_id": null,
+   "status": "excluded_not_event",
+   "revision": 1,
+   "reason": "Huang离任对AI产业影响的观点分析——评论/分析非融资事件"
+  },
+  {
+   "url": "https://techcrunch.com/2026/11/15/snl-gathers-all-the-tech-tycoons-for-a-lesson-in-dating-and-spycraft/",
+   "canonical_url": "https://techcrunch.com/2026/11/15/snl-gathers-all-the-tech-tycoons-for-a-lesson-in-dating-and-spycraft/",
+   "source_id": "techcrunch",
+   "first_collected_at": "2026-11-16T00:35:00+00:00",
+   "last_collected_at": "2026-11-16T00:35:00+00:00",
+   "issue_id": "01a1e1a7-a527-716e-9e99-d0b7b5f88547",
+   "event_id": null,
+   "status": "excluded_not_event",
+   "revision": 1,
+   "reason": "SNL娱乐内容——非融资事件"
+  },
+  {
+   "url": "https://techcrunch.com/2026/11/15/flaming-hydras-new-kickstarter-campaign-rethinks-e-book-ownership-and-digital-lending/",
+   "canonical_url": "https://techcrunch.com/2026/11/15/flaming-hydras-new-kickstarter-campaign-rethinks-e-book-ownership-and-digital-lending/",
+   "source_id": "techcrunch",
+   "first_collected_at": "2026-11-16T00:35:00+00:00",
+   "last_collected_at": "2026-11-16T00:35:00+00:00",
+   "issue_id": "01a1e1a7-a527-716e-9e99-d0b7b5f88547",
+   "event_id": null,
+   "status": "excluded_not_event",
+   "revision": 1,
+   "reason": "Flaming Hydra Kickstarter众筹产品活动——众筹非股权/债务/并购/基金募集离散融资事件，不生成event"
+  },
+  {
+   "url": "https://techcrunch.com/2026/11/15/techcrunch-mobility-the-nvidia-backup-plan-for-chinas-self-driving-industry/",
+   "canonical_url": "https://techcrunch.com/2026/11/15/techcrunch-mobility-the-nvidia-backup-plan-for-chinas-self-driving-industry/",
+   "source_id": "techcrunch",
+   "first_collected_at": "2026-11-16T00:35:00+00:00",
+   "last_collected_at": "2026-11-16T00:35:00+00:00",
+   "issue_id": "01a1e1a7-a527-716e-9e99-d0b7b5f88547",
+   "event_id": null,
+   "status": "excluded_not_event",
+   "revision": 1,
+   "reason": "TechCrunch Mobility newsletter（Nvidia与中国自动驾驶供应链分析）——newsletter非离散融资事件"
+  },
+  {
+   "url": "https://techcrunch.com/2026/11/15/the-tech-products-we-enthusiastically-recommend-this-holiday-season/",
+   "canonical_url": "https://techcrunch.com/2026/11/15/the-tech-products-we-enthusiastically-recommend-this-holiday-season/",
+   "source_id": "techcrunch",
+   "first_collected_at": "2026-11-16T00:35:00+00:00",
+   "last_collected_at": "2026-11-16T00:35:00+00:00",
+   "issue_id": "01a1e1a7-a527-716e-9e99-d0b7b5f88547",
+   "event_id": null,
+   "status": "excluded_not_event",
+   "revision": 1,
+   "reason": "假日产品导购——非融资事件"
+  },
+  {
+   "url": "https://techcrunch.com/2026/11/14/where-was-nvidias-security-team/",
+   "canonical_url": "https://techcrunch.com/2026/11/14/where-was-nvidias-security-team/",
+   "source_id": "techcrunch",
+   "first_collected_at": "2026-11-16T00:35:00+00:00",
+   "last_collected_at": "2026-11-16T00:35:00+00:00",
+   "issue_id": "01a1e1a7-a527-716e-9e99-d0b7b5f88547",
+   "event_id": null,
+   "status": "excluded_not_event",
+   "revision": 1,
+   "reason": "Nvidia安全事件评论分析——非融资事件"
+  },
+  {
+   "url": "https://sifted.eu/articles/starling-founder-anne-boden-plots-new-ai-powered-bank/",
+   "canonical_url": "https://sifted.eu/articles/starling-founder-anne-boden-plots-new-ai-powered-bank/",
+   "source_id": "sifted",
+   "first_collected_at": "2026-11-16T00:35:00+00:00",
+   "last_collected_at": "2026-11-16T00:35:00+00:00",
+   "issue_id": "01a1e1a7-a527-716e-9e99-d0b7b5f88547",
+   "event_id": null,
+   "status": "excluded_not_event",
+   "revision": 1,
+   "reason": "Starling创始人Anne Boden拟以出售Starling股份所得自有资金投入新银行项目Lockwood（面向AI agents支付场景）——创始人个人资金投入、未披露融资轮次/金额/机构投资方，不构成离散融资事件；正文反爬字符替换、可读段已核（Sifted 11-15，Martin Coulter署名）"
+  },
+  {
+   "url": "https://www.bsemis.com/",
+   "canonical_url": "https://www.bsemis.com/",
+   "source_id": "company_official",
+   "first_collected_at": "2026-11-16T00:35:00+00:00",
+   "last_collected_at": "2026-11-16T00:35:00+00:00",
+   "issue_id": "01a1e1a7-a527-716e-9e99-d0b7b5f88547",
+   "event_id": "bharat-semi-20261115-equity",
+   "status": "domain_verification",
+   "revision": 1,
+   "reason": "Bharat Semi官网域名核验（bsemis.com HTTP 200直接抓取，backed-by区投资方标识与TC名单部分互证；官方站暂无$24M公告文字）"
+  },
+  {
+   "url": "https://bharatsemi.com/",
+   "canonical_url": "https://bharatsemi.com/",
+   "source_id": "company_official",
+   "first_collected_at": "2026-11-16T00:35:00+00:00",
+   "last_collected_at": "2026-11-16T00:35:00+00:00",
+   "issue_id": "01a1e1a7-a527-716e-9e99-d0b7b5f88547",
+   "event_id": null,
+   "status": "excluded_not_event",
+   "revision": 1,
+   "reason": "bharatsemi.com为Spaceship挂牌待售停放域名——非Bharat Semi资产（官网为bsemis.com），防后续误登记"
   }
  ],
  "_meta": {
-  "last_updated": "2026-11-14T00:55:00+00:00",
-  "issue_id": "01a1d75b-018c-7654-a687-2d751b186250",
-  "total": 647
+  "last_updated": "2026-11-16T00:35:00+00:00",
+  "issue_id": "01a1e1a7-a527-716e-9e99-d0b7b5f88547",
+  "total": 669
  }
 }

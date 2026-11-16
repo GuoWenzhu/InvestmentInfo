@@ -478,3 +478,6 @@
 {"investor_id": "strike-capital", "name": "Strike Capital", "aliases": [], "parent_id": null}
 {"investor_id": "8090", "name": "8090", "aliases": [], "parent_id": null}
 {"investor_id": "expeditions", "name": "Expeditions", "aliases": [], "parent_id": null}
+{"investor_id": "info-edge", "name": "Info Edge", "aliases": ["Info Edge Group", "Info Edge Ventures"], "parent_id": null}
+{"investor_id": "indus-bridge-ventures", "name": "Indusbridge Ventures", "aliases": ["Indus Bridge Ventures"], "parent_id": null}
+{"investor_id": "valour-capital", "name": "Valour Capital", "aliases": [], "parent_id": null}

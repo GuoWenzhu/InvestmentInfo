@@ -674,6 +674,22 @@
    "report_path": "reports/2026-11-15-daily.md",
    "publication_comment_id": "01a1dc8a-34af-79f9-b00b-0b5efc2dfa6a",
    "publication_note": "已交付Issue评论并附日报/采集日志/追踪附件（2026-11-15T00:10Z）；同Issue不重复发布。零新增事件日：窗口内新增0（8入口全部成功读取）；修订2条（onodrim/sumary经官方渠道中→高+投资人/域名落定）+4家官网域名核验（hiverge.ai/emulate.ai/mistt.com/palomma.com）；processed-urls累计659；提交cb5c2e1已推送，回执提交随后。"
+  },
+  {
+   "date": "2026-11-16",
+   "run_key": "2026-11-16",
+   "issue_id": "01a1e1a7-a527-716e-9e99-d0b7b5f88547",
+   "issue_identifier": "TECH-133",
+   "event_ids": [
+    "bharat-semi-20261115-equity"
+   ],
+   "revision": 1,
+   "status": "ready_for_delivery",
+   "window_start": "2026-11-14T00:00:22Z",
+   "window_end": "2026-11-16T00:00:22Z",
+   "report_path": "reports/2026-11-16-daily.md",
+   "publication_comment_id": null,
+   "publication_note": "报告已验证并准备交付；发布回执以对应Issue最终评论为准，重试必须先查评论。"
   }
  ]
 }
