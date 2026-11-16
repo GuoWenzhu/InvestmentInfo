@@ -684,12 +684,12 @@
     "bharat-semi-20261115-equity"
    ],
    "revision": 1,
-   "status": "ready_for_delivery",
+   "status": "delivered",
    "window_start": "2026-11-14T00:00:22Z",
    "window_end": "2026-11-16T00:00:22Z",
    "report_path": "reports/2026-11-16-daily.md",
-   "publication_comment_id": null,
-   "publication_note": "报告已验证并准备交付；发布回执以对应Issue最终评论为准，重试必须先查评论。"
+   "publication_comment_id": "01a1e1b1-4a50-79cd-9144-f1761df17e06",
+   "publication_note": "已交付Issue评论并附日报/追踪附件（2026-11-16T00:10:54Z）；同Issue不重复发布。窗口内新增1条（bharat-semi-20261115-equity，$24M seed TC专访单源中置信）+域名核验1家（bsemis.com）；排除8条（TC6+Sifted Boden+停放域名）；NVCA curl直连Cloudflare拦截、fetch_content备用路径成功已留痕；提交9268eb6已推送，回执提交随后。"
   }
  ]
 }
