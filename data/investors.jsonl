@@ -481,3 +481,26 @@
 {"investor_id": "info-edge", "name": "Info Edge", "aliases": ["Info Edge Group", "Info Edge Ventures"], "parent_id": null}
 {"investor_id": "indus-bridge-ventures", "name": "Indusbridge Ventures", "aliases": ["Indus Bridge Ventures"], "parent_id": null}
 {"investor_id": "valour-capital", "name": "Valour Capital", "aliases": [], "parent_id": null}
+{"investor_id": "together-fund", "name": "Together Fund", "aliases": ["Together"], "parent_id": null}
+{"investor_id": "united-ventures", "name": "United Ventures", "aliases": [], "parent_id": null}
+{"investor_id": "openocean", "name": "OpenOcean", "aliases": [], "parent_id": null}
+{"investor_id": "connect-ventures", "name": "Connect Ventures", "aliases": [], "parent_id": null}
+{"investor_id": "clean-energy-ventures", "name": "Clean Energy Ventures", "aliases": ["CEV"], "parent_id": null}
+{"investor_id": "clearvision-ventures", "name": "Clearvision Ventures", "aliases": ["ClearVision Ventures"], "parent_id": null}
+{"investor_id": "gvp-climate", "name": "GVP Climate", "aliases": [], "parent_id": null}
+{"investor_id": "susquehanna-sustainable-investments", "name": "Susquehanna Sustainable Investments", "aliases": [], "parent_id": null}
+{"investor_id": "temasek-trust-ccch", "name": "Catalytic Capital for Climate and Health by Temasek Trust", "aliases": ["CCCH"], "parent_id": null}
+{"investor_id": "muus", "name": "MUUS", "aliases": ["MUUS Climate"], "parent_id": null}
+{"investor_id": "great-wave-ventures", "name": "Great Wave Ventures", "aliases": [], "parent_id": null}
+{"investor_id": "autodesk-foundation", "name": "Autodesk Foundation", "aliases": [], "parent_id": null}
+{"investor_id": "titanium-ventures", "name": "Titanium Ventures", "aliases": [], "parent_id": null}
+{"investor_id": "energy-impact-partners", "name": "Energy Impact Partners", "aliases": ["EIP"], "parent_id": null}
+{"investor_id": "wireframe-ventures", "name": "Wireframe Ventures", "aliases": [], "parent_id": null}
+{"investor_id": "elemental-impact", "name": "Elemental Impact", "aliases": ["Elemental Excelerator"], "parent_id": null}
+{"investor_id": "sfv-capital", "name": "SFV Capital", "aliases": ["SF"], "parent_id": null}
+{"investor_id": "centaurus-capital", "name": "Centaurus Capital", "aliases": [], "parent_id": null}
+{"investor_id": "conocophillips", "name": "ConocoPhillips", "aliases": [], "parent_id": null}
+{"investor_id": "shell-ventures", "name": "Shell Ventures", "aliases": [], "parent_id": null}
+{"investor_id": "gates-frontier", "name": "Gates Frontier", "aliases": [], "parent_id": null}
+{"investor_id": "siteground-capital", "name": "SiteGround Capital", "aliases": [], "parent_id": null}
+{"investor_id": "h-barton-asset-management", "name": "H. Barton Asset Management", "aliases": [], "parent_id": null}

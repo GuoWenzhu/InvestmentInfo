@@ -652,3 +652,36 @@
 {"event_id": "bharat-semi-20261115-equity", "investor_id": "valour-capital", "role": "participant", "investment_amount": null, "currency": "USD", "evidence_ids": ["bharat-semi-tc-1", "bharat-semi-official-1"]}
 {"event_id": "bharat-semi-20261115-equity", "investor_id": "micromax", "role": "participant", "investment_amount": null, "currency": "USD", "evidence_ids": ["bharat-semi-tc-1", "bharat-semi-official-1"]}
 {"event_id": "bharat-semi-20261115-equity", "investor_id": "gaingels", "role": "participant", "investment_amount": null, "currency": "USD", "evidence_ids": ["bharat-semi-tc-1", "bharat-semi-official-1"]}
+{"event_id": "corma-20261116-equity", "investor_id": "nea", "role": "lead", "investment_amount": null, "currency": "USD", "evidence_ids": ["corma-official-1", "corma-pr-1", "corma-tc-1"]}
+{"event_id": "corma-20261116-equity", "investor_id": "sequoia", "role": "participant", "investment_amount": null, "currency": "USD", "evidence_ids": ["corma-official-1", "corma-tc-1"]}
+{"event_id": "corma-20261116-equity", "investor_id": "khosla-ventures", "role": "participant", "investment_amount": null, "currency": "USD", "evidence_ids": ["corma-official-1", "corma-tc-1"]}
+{"event_id": "corma-20261116-equity", "investor_id": "coatue", "role": "participant", "investment_amount": null, "currency": "USD", "evidence_ids": ["corma-official-1", "corma-tc-1"]}
+{"event_id": "mosaico-20261116-equity", "investor_id": "united-ventures", "role": "lead", "investment_amount": null, "currency": "EUR", "evidence_ids": ["mosaico-sifted-1", "mosaico-pr-1"]}
+{"event_id": "mosaico-20261116-equity", "investor_id": "openocean", "role": "participant", "investment_amount": null, "currency": "EUR", "evidence_ids": ["mosaico-sifted-1", "mosaico-pr-1"]}
+{"event_id": "mosaico-20261116-equity", "investor_id": "connect-ventures", "role": "participant", "investment_amount": null, "currency": "EUR", "evidence_ids": ["mosaico-sifted-1", "mosaico-pr-1"]}
+{"event_id": "dreamteam-20261116-equity-seed", "investor_id": "together-fund", "role": "lead", "investment_amount": null, "currency": "USD", "evidence_ids": ["dreamteam-tc-1", "dreamteam-investor-1"]}
+{"event_id": "dreamteam-20261116-equity-seed", "investor_id": "premji-invest", "role": "participant", "investment_amount": null, "currency": "USD", "evidence_ids": ["dreamteam-pr-1", "dreamteam-official-1"]}
+{"event_id": "dreamteam-20261116-equity-seriesa", "investor_id": "accel", "role": "lead", "investment_amount": null, "currency": "USD", "evidence_ids": ["dreamteam-tc-1", "dreamteam-pr-1"]}
+{"event_id": "dreamteam-20261116-equity-seriesa", "investor_id": "premji-invest", "role": "participant", "investment_amount": null, "currency": "USD", "evidence_ids": ["dreamteam-pr-1", "dreamteam-official-1"]}
+{"event_id": "bedrock-energy-20261116-equity", "investor_id": "clean-energy-ventures", "role": "lead", "investment_amount": null, "currency": "USD", "evidence_ids": ["bedrock-tc-1", "bedrock-investor-1"]}
+{"event_id": "bedrock-energy-20261116-equity", "investor_id": "clearvision-ventures", "role": "lead", "investment_amount": null, "currency": "USD", "evidence_ids": ["bedrock-tc-1", "bedrock-investor-1"]}
+{"event_id": "bedrock-energy-20261116-equity", "investor_id": "gvp-climate", "role": "participant", "investment_amount": null, "currency": "USD", "evidence_ids": ["bedrock-tc-1", "bedrock-investor-1"]}
+{"event_id": "bedrock-energy-20261116-equity", "investor_id": "susquehanna-sustainable-investments", "role": "participant", "investment_amount": null, "currency": "USD", "evidence_ids": ["bedrock-tc-1", "bedrock-investor-1"]}
+{"event_id": "bedrock-energy-20261116-equity", "investor_id": "temasek-trust-ccch", "role": "participant", "investment_amount": null, "currency": "USD", "evidence_ids": ["bedrock-tc-1", "bedrock-investor-1"]}
+{"event_id": "bedrock-energy-20261116-equity", "investor_id": "muus", "role": "participant", "investment_amount": null, "currency": "USD", "evidence_ids": ["bedrock-tc-1", "bedrock-investor-1"]}
+{"event_id": "bedrock-energy-20261116-equity", "investor_id": "great-wave-ventures", "role": "participant", "investment_amount": null, "currency": "USD", "evidence_ids": ["bedrock-tc-1", "bedrock-investor-1"]}
+{"event_id": "bedrock-energy-20261116-equity", "investor_id": "autodesk-foundation", "role": "participant", "investment_amount": null, "currency": "USD", "evidence_ids": ["bedrock-tc-1", "bedrock-investor-1"]}
+{"event_id": "bedrock-energy-20261116-equity", "investor_id": "titanium-ventures", "role": "participant", "investment_amount": null, "currency": "USD", "evidence_ids": ["bedrock-tc-1", "bedrock-investor-1"]}
+{"event_id": "bedrock-energy-20261116-equity", "investor_id": "energy-impact-partners", "role": "participant", "investment_amount": null, "currency": "USD", "evidence_ids": ["bedrock-tc-1", "bedrock-investor-1"]}
+{"event_id": "bedrock-energy-20261116-equity", "investor_id": "wireframe-ventures", "role": "participant", "investment_amount": null, "currency": "USD", "evidence_ids": ["bedrock-tc-1", "bedrock-investor-1"]}
+{"event_id": "bedrock-energy-20261116-equity", "investor_id": "elemental-impact", "role": "participant", "investment_amount": null, "currency": "USD", "evidence_ids": ["bedrock-tc-1", "bedrock-investor-1"]}
+{"event_id": "bedrock-energy-20261116-equity", "investor_id": "sfv-capital", "role": "participant", "investment_amount": null, "currency": "USD", "evidence_ids": ["bedrock-tc-1", "bedrock-investor-1"]}
+{"event_id": "catax-20261116-equity", "investor_id": "qiming", "role": "lead", "investment_amount": null, "currency": "CNY", "evidence_ids": ["catax-qiming-1"]}
+{"event_id": "mazama-20260917-equity", "investor_id": "centaurus-capital", "role": "lead", "investment_amount": null, "currency": "USD", "evidence_ids": ["mazama-pr-1", "mazama-tc-1"]}
+{"event_id": "mazama-20260917-equity", "investor_id": "doerr-capital", "role": "lead", "investment_amount": null, "currency": "USD", "evidence_ids": ["mazama-pr-1", "mazama-tc-1"]}
+{"event_id": "mazama-20260917-equity", "investor_id": "conocophillips", "role": "participant", "investment_amount": null, "currency": "USD", "evidence_ids": ["mazama-pr-1"]}
+{"event_id": "mazama-20260917-equity", "investor_id": "shell-ventures", "role": "participant", "investment_amount": null, "currency": "USD", "evidence_ids": ["mazama-pr-1"]}
+{"event_id": "mazama-20260917-equity", "investor_id": "khosla-ventures", "role": "participant", "investment_amount": null, "currency": "USD", "evidence_ids": ["mazama-pr-1"]}
+{"event_id": "mazama-20260917-equity", "investor_id": "gates-frontier", "role": "participant", "investment_amount": null, "currency": "USD", "evidence_ids": ["mazama-pr-1"]}
+{"event_id": "mazama-20260917-equity", "investor_id": "siteground-capital", "role": "participant", "investment_amount": null, "currency": "USD", "evidence_ids": ["mazama-pr-1"]}
+{"event_id": "mazama-20260917-equity", "investor_id": "h-barton-asset-management", "role": "participant", "investment_amount": null, "currency": "USD", "evidence_ids": ["mazama-pr-1"]}

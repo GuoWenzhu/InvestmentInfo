@@ -1,0 +1,65 @@
+{
+ "issue_id": "01a1e6ce-0427-7a5a-a847-c34703a1f38e",
+ "issue_identifier": "TECH-136",
+ "collected_at": "2026-11-17T01:50:00+00:00",
+ "window_start": "2026-11-15T00:00:23Z",
+ "window_end": "2026-11-17T00:00:23Z",
+ "source_attempts": [
+  {
+   "source_id": "techcrunch",
+   "attempted_at": "2026-11-17T00:40:00+00:00",
+   "status": "success_with_output",
+   "evidence_url": "https://techcrunch.com/feed/",
+   "notes": "主feed可读（lastBuild 11-17T00:25:05Z）。上次快照（11-16T00:35Z，lastBuild 11-15T23:30Z）后新增约26条11-16条目；feed仅存20条（最旧14:48Z），为补缺口另抓当日归档页techcrunch.com/2026/11/16/（23条URL）与feed并集全覆盖、无遗漏。新事件：①Corma $125M Series A（23:32Z）②Serena/Starfire基金$200M目标（16:06Z）③Bedrock Energy $24M（13:00Z，归档页补获、feed外）④Dreamteam $53M（12:30Z，归档页补获）⑤ONE de-SPAC（13:00Z，归档页补获）⑥Mazama技术专访披露9月$135M（14:00Z，归档页补获→历史回填）。排除：Tone（创始人自述~$10M无轮次界定）、Tesla €3B capex、Island App发布、Infoblox/Uber安全事件、CA AG诉OpenAI、AI芯片出口管制、Apple产品、Nvidia/Huang系列、OpenAI安全、Instagram/Audible/Google Maps产品、FBI Artex、CSAM分类器等。"
+  },
+  {
+   "source_id": "sifted",
+   "attempted_at": "2026-11-17T00:43:00+00:00",
+   "status": "success_with_output",
+   "evidence_url": "https://sifted.eu/feed",
+   "notes": "RSS成功（lastBuild 11-17T01:23:49GMT）。上次快照后新增6条（11-16）：①Mosaico €7.5M seed独家（05:00:44Z）→新增事件；②Plural €1bn基金（06:51Z）→plural-20261114-fund发现路径（官宣11-14在窗口外，历史回填）；③Starling CEO离任（16:01Z，排除）；④⑤⑥竞业禁令/大学/AI-native fintech拥挤分析（观点，排除）。文章正文页Cloudflare拦截（fetch_content raw同页），要点经RSS标题+搜索索引摘录+官方分发稿/多家转载交叉核验，限制已留痕。"
+  },
+  {
+   "source_id": "crunchbase_news",
+   "attempted_at": "2026-11-17T01:05:00+00:00",
+   "status": "success_with_output",
+   "evidence_url": "https://news.crunchbase.com/feed/",
+   "notes": "fetch_content备用路径完整读取（curl直连仍Cloudflare拦截，主入口正常）。lastBuild 11-13T20:50:40Z（较上轮20:32:55Z更新）。新增2条（11-16）：①Plural Fund III关账报道（07:00Z）→plural-20261114-fund佐证；②Morse/Quoia客座观点（12:00Z，排除）。11-14~11-20周榜未出现（预计11-20/21，下轮继续关注）。"
+  },
+  {
+   "source_id": "accel",
+   "attempted_at": "2026-11-17T01:10:00+00:00",
+   "status": "success_zero_output",
+   "evidence_url": "https://www.accel.com/news",
+   "notes": "新闻列表可读（HTTP 200，546KB）。列表条目时间戳含2026-11-16T22:13:43Z，但对应条目'Our Investment in Legora'页面可见发布日期为2026-03-30（Accel领投Legora Series D历史文章）→判定CMS重建伪影非新公告，登记excluded_not_event留痕；'Dreamteam'在Accel页面无提及（其Series A官宣依赖Dreamteam官方渠道）。窗口内无新融资公告；连续4次零产出。另注：Legora Series E（10-21，Atreides领投$550M@$8.8B）未入事件表、窗口外披露无窗口内证据路径，backfill候选留观察不回补。"
+  },
+  {
+   "source_id": "qiming",
+   "attempted_at": "2026-11-17T01:12:00+00:00",
+   "status": "success_with_output",
+   "evidence_url": "https://www.qimingvc.com/cn/newsroom",
+   "notes": "新闻室可读（HTTP 200，53KB）。上次快照（11-16T00:08Z最晚Vol.35）后列表新增1条：CataX AI ¥4000万种子轮、启明孵化并独家投资（文章页date-display-single=2026/11/16）→新增事件catax-20261116-equity（T1官方投资方口径、高置信）。顶部观点widget（邝子平/胡旭波/周志峰/Gary Rieschel/陈侃）为观点类，均非融资事件。"
+  },
+  {
+   "source_id": "nvca",
+   "attempted_at": "2026-11-17T01:30:00+00:00",
+   "status": "success_zero_output",
+   "evidence_url": "https://nvca.org/pitchbook-nvca-venture-monitor/",
+   "notes": "curl直连恢复成功（HTTP 200，174KB，无Cloudflare拦截——上轮拦截为当日策略波动，两入口均正常）：仍Q3 2026 Venture Monitor口径（Q3-2026-PitchBook-NVCA-Venture-Monitor.pdf不变）。季度统计不生成离散事件；连续19次可达零产出。"
+  },
+  {
+   "source_id": "techstars",
+   "attempted_at": "2026-11-17T01:31:00+00:00",
+   "status": "success_zero_output",
+   "evidence_url": "https://www.techstars.com/portfolio",
+   "notes": "组合目录页可读（HTTP 200，251KB）；静态目录无日期条目；目录不生成融资事件；连续37个成功采集日零产出（30日降级门槛已过，处置仍待授权）。"
+  },
+  {
+   "source_id": "company_official",
+   "attempted_at": "2026-11-17T01:50:00+00:00",
+   "status": "success_with_output",
+   "evidence_url": "per_event",
+   "notes": "①新增事件官方域名核验5家（均直接抓取HTTP 200）：corma.ai（官方博客宣读$125M Series A全文）、mosaico.dev（+GitHub mosaico-labs交叉）、dreamteam.ai（官方博客$53M全文）、bedrockenergy.com、pluralplatform.com（/features/fund-3官宣页）；②官方PR分发稿4件入证（Corma/Starfire×Business Wire、Dreamteam/Mazama×GlobeNewswire）；③领投方自证2件（Together Fund组合页、Clean Energy Ventures新闻页）；④Bharat Semi官网news墙复访→bharat-semi-20261115-equity置信度medium升high（rev2）；⑤顺延队列复核无变化：fractile.ai/news无Series C领投名单更新、hiverge.ai无Series A官宣、emulate.ai/mistt.com静默。"
+  }
+ ]
+}
