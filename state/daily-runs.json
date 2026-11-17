@@ -690,6 +690,31 @@
    "report_path": "reports/2026-11-16-daily.md",
    "publication_comment_id": "01a1e1b1-4a50-79cd-9144-f1761df17e06",
    "publication_note": "已交付Issue评论并附日报/追踪附件（2026-11-16T00:10:54Z）；同Issue不重复发布。窗口内新增1条（bharat-semi-20261115-equity，$24M seed TC专访单源中置信）+域名核验1家（bsemis.com）；排除8条（TC6+Sifted Boden+停放域名）；NVCA curl直连Cloudflare拦截、fetch_content备用路径成功已留痕；提交9268eb6已推送，回执提交随后。"
+  },
+  {
+   "date": "2026-11-17",
+   "run_key": "2026-11-17",
+   "issue_id": "01a1e6ce-0427-7a5a-a847-c34703a1f38e",
+   "issue_identifier": "TECH-136",
+   "event_ids": [
+    "corma-20261116-equity",
+    "dreamteam-20261116-equity-seed",
+    "dreamteam-20261116-equity-seriesa",
+    "bedrock-energy-20261116-equity",
+    "catax-20261116-equity",
+    "starfire-ventures-20261116-fund",
+    "one-wen-20261116-acquisition",
+    "mosaico-20261116-equity",
+    "plural-20261114-fund",
+    "mazama-20260917-equity"
+   ],
+   "revision": 1,
+   "status": "delivered",
+   "window_start": "2026-11-15T00:00:23Z",
+   "window_end": "2026-11-17T00:00:23Z",
+   "report_path": "reports/2026-11-17-daily.md",
+   "publication_comment_id": "01a1e734-3af6-7653-a08e-568fef23ad5e",
+   "publication_note": "已交付Issue评论并附日报/采集日志/追踪附件（2026-11-17T01:52Z）；同Issue不重复发布。窗口内新增8条（Corma $125M SeriesA/Dreamteam $53M双轮拆分/Bedrock $24M/CataX ¥40M/Starfire目标$200M/ONE de-SPAC/Mosaico €7.5M）+历史回填2条（Plural €1B FundIII/Mazama $135M SeriesB）+修订1条（bharat-semi中→高）；8入口全部success（Sifted文章页Cloudflare拦截经交叉核验留痕、NVCA curl直连恢复）；5家官方域名核验；主提交291145a已推送，回执提交随后。"
   }
  ]
 }
