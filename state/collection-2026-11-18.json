@@ -1,0 +1,65 @@
+{
+ "issue_id": "01a1ebf4-6183-7482-8a24-aeddf2c950b2",
+ "issue_identifier": "TECH-139",
+ "collected_at": "2026-11-18T00:17:57+00:00",
+ "window_start": "2026-11-16T00:00:23Z",
+ "window_end": "2026-11-18T00:00:23Z",
+ "source_attempts": [
+  {
+   "source_id": "techcrunch",
+   "attempted_at": "2026-11-18T00:10:00+00:00",
+   "status": "success_with_output",
+   "evidence_url": "https://techcrunch.com/feed/",
+   "notes": "主feed可读（20条，最旧11-17T15:01Z、最新11-18T00:01Z）+当日归档页techcrunch.com/2026/11/17/（27条URL）并集全覆盖11-17全天29条无遗漏。新增6事件：Genesis AI $500M Series A@$3.5B（14:00Z）、Isomorphic Labs $5B Series C（14:50Z）、Science Corp $400M Series D（14:26Z）、Voyage Labs $12M seed（15:00Z）、Model ML $250M Series B@$1.5B（19:32Z）、Pedestal AI $4.7M seed（18:04Z）。排除23条非事件（Anthropic IPO持股披露按先例、Nvidia/Huang×6、产品发布×7、观点×2、运营/里程碑/自筹等）。"
+  },
+  {
+   "source_id": "sifted",
+   "attempted_at": "2026-11-18T00:12:00+00:00",
+   "status": "success_with_output",
+   "evidence_url": "https://sifted.eu/feed",
+   "notes": "RSS成功（24条，新增8条11-17）。①Remanence $30M seed独家→新事件；②Genesis AI $500m（佐证）；③Isomorphic $5bn（佐证）；④Majority-Rebtel merge独家→新事件；⑤Vesoma seeks €50m（募资意向未关账→排除留观）；⑥The Family创始人判刑（排除）；⑦世界模型地图（分析，排除）；⑧Legora收入VP访谈（排除）。文章正文页Cloudflare 403（fetch_content同被拦），要点经RSS标题+检索索引+官方分发稿交叉核验，限制留痕。"
+  },
+  {
+   "source_id": "crunchbase_news",
+   "attempted_at": "2026-11-18T00:20:00+00:00",
+   "status": "success_with_output",
+   "evidence_url": "https://news.crunchbase.com/feed/",
+   "notes": "fetch_content备用路径完整读取feed全文（本轮curl直连未另测，沿用备用主路径）。新增3条（11-17）：①Genesis AI $500M@$3.5B报道（14:00Z，CEO采访全文，含完整投资方名单）→新事件佐证与投资方落定；②Meerbott客座观点（排除）；③PwC IPO主管Q&A（排除）。11-14~11-20周榜仍未出现（预计11-20/21，下轮继续关注）。"
+  },
+  {
+   "source_id": "accel",
+   "attempted_at": "2026-11-18T00:25:00+00:00",
+   "status": "success_zero_output",
+   "evidence_url": "https://www.accel.com/news",
+   "notes": "新闻列表可读（HTTP 200，546KB）；近期_time戳仍为11-16T22:13:43Z Legora Series D历史文章的CMS重建伪影（同上轮），无新融资公告；连续5次零产出。"
+  },
+  {
+   "source_id": "qiming",
+   "attempted_at": "2026-11-18T00:28:00+00:00",
+   "status": "success_zero_output",
+   "evidence_url": "https://www.qimingvc.com/cn/newsroom",
+   "notes": "新闻室可读（HTTP 200，53KB）；列表最新仍为CataX AI种子轮（node 7708，上轮已录入）与Vol.35周报，无新增文章；顶部观点widget同上轮5条，均排除。"
+  },
+  {
+   "source_id": "nvca",
+   "attempted_at": "2026-11-18T00:30:00+00:00",
+   "status": "success_zero_output",
+   "evidence_url": "https://nvca.org/pitchbook-nvca-venture-monitor/",
+   "notes": "全UA curl直连成功抓取（174KB，与上轮一致）；页面仍为Q3 2026 Venture Monitor口径（Q3-2026-PitchBook-NVCA-Venture-Monitor.pdf未变）。另注：无Referer简短UA探测请求被Cloudflare 403拦截（探测路径），主入口全UA直连正常。季度统计不生成离散事件；连续20次可达零产出。"
+  },
+  {
+   "source_id": "techstars",
+   "attempted_at": "2026-11-18T00:31:00+00:00",
+   "status": "success_zero_output",
+   "evidence_url": "https://www.techstars.com/portfolio",
+   "notes": "组合目录页可读（HTTP 200，251KB）；静态目录无日期条目；目录不生成融资事件；连续38个成功采集日零产出（降级处置仍待授权）。"
+  },
+  {
+   "source_id": "company_official",
+   "attempted_at": "2026-11-18T00:17:57+00:00",
+   "status": "success_with_output",
+   "evidence_url": "per_event",
+   "notes": "①新增事件官方域名核验6家（均直接抓取HTTP 200并核对站点身份）：genesis.ai（含Eno内容；genesis-ai.com为同名铝业公司已排除）、isomorphiclabs.com、science.xyz、voyagelabs.ai（voyage.travel无关已排除）、modelml.com（model-ml.com停放域名已排除）、pedestal.ai；②官方PR/领投方自证4件入证：Genesis AI×PRNewswire官宣稿、Remanence×FirstMark官方博客+EQT Ventures官方博客、Majority Group×Business Wire官宣稿；③Remanence官网域名4个候选（remanence.ai/co/com/io）均非该公司（同名服装品牌），official_domain留空待核验；④Science官网news墙复访：未见$400M Series D公告条目（维持medium置信待官方原文）；⑤顺延队列复核无变化：fractile.ai/news（仍$220M Series B旧文）、hiverge.ai、emulate.ai、mistt.com均静默。"
+  }
+ ]
+}

@@ -504,3 +504,24 @@
 {"investor_id": "gates-frontier", "name": "Gates Frontier", "aliases": [], "parent_id": null}
 {"investor_id": "siteground-capital", "name": "SiteGround Capital", "aliases": [], "parent_id": null}
 {"investor_id": "h-barton-asset-management", "name": "H. Barton Asset Management", "aliases": [], "parent_id": null}
+{"investor_id": "general-atlantic", "name": "General Atlantic", "aliases": [], "parent_id": null}
+{"investor_id": "qed-investors", "name": "QED Investors", "aliases": [], "parent_id": null}
+{"investor_id": "mgx", "name": "MGX", "aliases": [], "parent_id": null}
+{"investor_id": "temasek", "name": "Temasek", "aliases": ["淡马锡"], "parent_id": null}
+{"investor_id": "amd-ventures", "name": "AMD Ventures", "aliases": [], "parent_id": null}
+{"investor_id": "ericsson", "name": "Ericsson", "aliases": [], "parent_id": null}
+{"investor_id": "hsg", "name": "HSG", "aliases": ["Sequoia China（原红杉中国）"], "parent_id": null}
+{"investor_id": "durable-capital-partners", "name": "Durable Capital Partners", "aliases": [], "parent_id": null}
+{"investor_id": "sv-angel", "name": "SV Angel", "aliases": [], "parent_id": null}
+{"investor_id": "rre-ventures", "name": "RRE Ventures", "aliases": [], "parent_id": null}
+{"investor_id": "converge-vc", "name": "Converge VC", "aliases": [], "parent_id": null}
+{"investor_id": "timescale-ventures", "name": "Timescale Ventures", "aliases": [], "parent_id": null}
+{"investor_id": "vitalstage", "name": "VitalStage", "aliases": [], "parent_id": null}
+{"investor_id": "emblem", "name": "Emblem", "aliases": [], "parent_id": null}
+{"investor_id": "drysdale", "name": "Drysdale", "aliases": [], "parent_id": null}
+{"investor_id": "global-founders-capital", "name": "Global Founders Capital", "aliases": [], "parent_id": null}
+{"investor_id": "yellow-vc", "name": "Yellow", "aliases": [], "parent_id": null}
+{"investor_id": "ackman-oxman-institute", "name": "Ackman Oxman Institute", "aliases": [], "parent_id": null}
+{"investor_id": "tenet-healthcare", "name": "Tenet Healthcare", "aliases": [], "parent_id": null}
+{"investor_id": "885-capital", "name": "885 Capital", "aliases": [], "parent_id": null}
+{"investor_id": "plc-neurotech", "name": "PLC Neurotech", "aliases": [], "parent_id": null}

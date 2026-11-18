@@ -715,6 +715,29 @@
    "report_path": "reports/2026-11-17-daily.md",
    "publication_comment_id": "01a1e734-3af6-7653-a08e-568fef23ad5e",
    "publication_note": "已交付Issue评论并附日报/采集日志/追踪附件（2026-11-17T01:52Z）；同Issue不重复发布。窗口内新增8条（Corma $125M SeriesA/Dreamteam $53M双轮拆分/Bedrock $24M/CataX ¥40M/Starfire目标$200M/ONE de-SPAC/Mosaico €7.5M）+历史回填2条（Plural €1B FundIII/Mazama $135M SeriesB）+修订1条（bharat-semi中→高）；8入口全部success（Sifted文章页Cloudflare拦截经交叉核验留痕、NVCA curl直连恢复）；5家官方域名核验；主提交291145a已推送，回执提交随后。"
+  },
+  {
+   "date": "2026-11-18",
+   "run_key": "2026-11-18",
+   "issue_id": "01a1ebf4-6183-7482-8a24-aeddf2c950b2",
+   "issue_identifier": "TECH-139",
+   "event_ids": [
+    "genesis-ai-20261117-equity",
+    "isomorphic-20261117-equity",
+    "science-corp-20261117-equity",
+    "voyage-labs-20261117-equity",
+    "modelml-20261117-equity",
+    "pedestal-ai-20261117-equity",
+    "remanence-20261117-equity",
+    "majority-rebtel-20261117-acquisition"
+   ],
+   "revision": 1,
+   "status": "ready_for_delivery",
+   "window_start": "2026-11-16T00:00:23Z",
+   "window_end": "2026-11-18T00:00:23Z",
+   "report_path": "reports/2026-11-18-daily.md",
+   "publication_comment_id": null,
+   "publication_note": "报告已验证并准备交付；发布回执以对应Issue最终评论为准，重试必须先查评论。"
   }
  ]
 }

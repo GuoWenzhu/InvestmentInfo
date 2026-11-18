@@ -685,3 +685,47 @@
 {"event_id": "mazama-20260917-equity", "investor_id": "gates-frontier", "role": "participant", "investment_amount": null, "currency": "USD", "evidence_ids": ["mazama-pr-1"]}
 {"event_id": "mazama-20260917-equity", "investor_id": "siteground-capital", "role": "participant", "investment_amount": null, "currency": "USD", "evidence_ids": ["mazama-pr-1"]}
 {"event_id": "mazama-20260917-equity", "investor_id": "h-barton-asset-management", "role": "participant", "investment_amount": null, "currency": "USD", "evidence_ids": ["mazama-pr-1"]}
+{"event_id": "genesis-ai-20261117-equity", "investor_id": "premji-invest", "role": "co_lead", "investment_amount": null, "currency": "USD", "evidence_ids": ["genesis-pr-1", "genesis-cbn-1"]}
+{"event_id": "genesis-ai-20261117-equity", "investor_id": "khosla-ventures", "role": "co_lead", "investment_amount": null, "currency": "USD", "evidence_ids": ["genesis-pr-1", "genesis-cbn-1"]}
+{"event_id": "genesis-ai-20261117-equity", "investor_id": "eclipse-ventures", "role": "co_lead", "investment_amount": null, "currency": "USD", "evidence_ids": ["genesis-pr-1", "genesis-cbn-1"]}
+{"event_id": "genesis-ai-20261117-equity", "investor_id": "t-rowe-price", "role": "participant", "investment_amount": null, "currency": "USD", "evidence_ids": ["genesis-cbn-1"]}
+{"event_id": "genesis-ai-20261117-equity", "investor_id": "durable-capital-partners", "role": "participant", "investment_amount": null, "currency": "USD", "evidence_ids": ["genesis-cbn-1"]}
+{"event_id": "genesis-ai-20261117-equity", "investor_id": "bpifrance", "role": "participant", "investment_amount": null, "currency": "USD", "evidence_ids": ["genesis-cbn-1"]}
+{"event_id": "genesis-ai-20261117-equity", "investor_id": "hsg", "role": "participant", "investment_amount": null, "currency": "USD", "evidence_ids": ["genesis-cbn-1"]}
+{"event_id": "genesis-ai-20261117-equity", "investor_id": "nvidia", "role": "participant", "investment_amount": null, "currency": "USD", "evidence_ids": ["genesis-cbn-1", "genesis-sifted-1"]}
+{"event_id": "genesis-ai-20261117-equity", "investor_id": "amd-ventures", "role": "participant", "investment_amount": null, "currency": "USD", "evidence_ids": ["genesis-cbn-1"]}
+{"event_id": "genesis-ai-20261117-equity", "investor_id": "zoom", "role": "participant", "investment_amount": null, "currency": "USD", "evidence_ids": ["genesis-cbn-1"]}
+{"event_id": "genesis-ai-20261117-equity", "investor_id": "samsung-next", "role": "participant", "investment_amount": null, "currency": "USD", "evidence_ids": ["genesis-cbn-1"]}
+{"event_id": "genesis-ai-20261117-equity", "investor_id": "ericsson", "role": "participant", "investment_amount": null, "currency": "USD", "evidence_ids": ["genesis-cbn-1"]}
+{"event_id": "isomorphic-20261117-equity", "investor_id": "greenoaks", "role": "co_lead", "investment_amount": null, "currency": "USD", "evidence_ids": ["isomorphic-tc-1"]}
+{"event_id": "isomorphic-20261117-equity", "investor_id": "sequoia", "role": "co_lead", "investment_amount": null, "currency": "USD", "evidence_ids": ["isomorphic-tc-1", "isomorphic-sifted-1"]}
+{"event_id": "isomorphic-20261117-equity", "investor_id": "a16z", "role": "participant", "investment_amount": null, "currency": "USD", "evidence_ids": ["isomorphic-tc-1", "isomorphic-sifted-1"]}
+{"event_id": "isomorphic-20261117-equity", "investor_id": "gv", "role": "participant", "investment_amount": null, "currency": "USD", "evidence_ids": ["isomorphic-tc-1"]}
+{"event_id": "isomorphic-20261117-equity", "investor_id": "capitalg", "role": "participant", "investment_amount": null, "currency": "USD", "evidence_ids": ["isomorphic-tc-1"]}
+{"event_id": "isomorphic-20261117-equity", "investor_id": "thrive-capital", "role": "participant", "investment_amount": null, "currency": "USD", "evidence_ids": ["isomorphic-tc-1"]}
+{"event_id": "isomorphic-20261117-equity", "investor_id": "mgx", "role": "participant", "investment_amount": null, "currency": "USD", "evidence_ids": ["isomorphic-tc-1"]}
+{"event_id": "isomorphic-20261117-equity", "investor_id": "temasek", "role": "participant", "investment_amount": null, "currency": "USD", "evidence_ids": ["isomorphic-tc-1"]}
+{"event_id": "isomorphic-20261117-equity", "investor_id": "sovereign-ai", "role": "participant", "investment_amount": null, "currency": "USD", "evidence_ids": ["isomorphic-tc-1"]}
+{"event_id": "science-corp-20261117-equity", "investor_id": "khosla-ventures", "role": "undisclosed", "investment_amount": null, "currency": "USD", "evidence_ids": ["science-tc-1"]}
+{"event_id": "science-corp-20261117-equity", "investor_id": "ackman-oxman-institute", "role": "undisclosed", "investment_amount": null, "currency": "USD", "evidence_ids": ["science-tc-1"]}
+{"event_id": "science-corp-20261117-equity", "investor_id": "tenet-healthcare", "role": "undisclosed", "investment_amount": null, "currency": "USD", "evidence_ids": ["science-tc-1"]}
+{"event_id": "science-corp-20261117-equity", "investor_id": "885-capital", "role": "undisclosed", "investment_amount": null, "currency": "USD", "evidence_ids": ["science-tc-1"]}
+{"event_id": "science-corp-20261117-equity", "investor_id": "y-combinator", "role": "undisclosed", "investment_amount": null, "currency": "USD", "evidence_ids": ["science-tc-1"]}
+{"event_id": "science-corp-20261117-equity", "investor_id": "plc-neurotech", "role": "undisclosed", "investment_amount": null, "currency": "USD", "evidence_ids": ["science-tc-1"]}
+{"event_id": "voyage-labs-20261117-equity", "investor_id": "kleiner-perkins", "role": "lead", "investment_amount": null, "currency": "USD", "evidence_ids": ["voyage-tc-1"]}
+{"event_id": "voyage-labs-20261117-equity", "investor_id": "signalfire", "role": "participant", "investment_amount": null, "currency": "USD", "evidence_ids": ["voyage-tc-1"]}
+{"event_id": "voyage-labs-20261117-equity", "investor_id": "sv-angel", "role": "participant", "investment_amount": null, "currency": "USD", "evidence_ids": ["voyage-tc-1"]}
+{"event_id": "modelml-20261117-equity", "investor_id": "general-atlantic", "role": "co_lead", "investment_amount": null, "currency": "USD", "evidence_ids": ["modelml-tc-1"]}
+{"event_id": "modelml-20261117-equity", "investor_id": "qed-investors", "role": "co_lead", "investment_amount": null, "currency": "USD", "evidence_ids": ["modelml-tc-1"]}
+{"event_id": "pedestal-ai-20261117-equity", "investor_id": "eclipse-ventures", "role": "lead", "investment_amount": null, "currency": "USD", "evidence_ids": ["pedestal-tc-1"]}
+{"event_id": "pedestal-ai-20261117-equity", "investor_id": "rre-ventures", "role": "participant", "investment_amount": null, "currency": "USD", "evidence_ids": ["pedestal-tc-1"]}
+{"event_id": "pedestal-ai-20261117-equity", "investor_id": "converge-vc", "role": "participant", "investment_amount": null, "currency": "USD", "evidence_ids": ["pedestal-tc-1"]}
+{"event_id": "pedestal-ai-20261117-equity", "investor_id": "timescale-ventures", "role": "participant", "investment_amount": null, "currency": "USD", "evidence_ids": ["pedestal-tc-1"]}
+{"event_id": "pedestal-ai-20261117-equity", "investor_id": "vitalstage", "role": "participant", "investment_amount": null, "currency": "USD", "evidence_ids": ["pedestal-tc-1"]}
+{"event_id": "remanence-20261117-equity", "investor_id": "eqt-ventures", "role": "co_lead", "investment_amount": null, "currency": "USD", "evidence_ids": ["remanence-eqt-1", "remanence-firstmark-1"]}
+{"event_id": "remanence-20261117-equity", "investor_id": "firstmark", "role": "co_lead", "investment_amount": null, "currency": "USD", "evidence_ids": ["remanence-firstmark-1", "remanence-eqt-1"]}
+{"event_id": "remanence-20261117-equity", "investor_id": "zero-prime-ventures", "role": "participant", "investment_amount": null, "currency": "USD", "evidence_ids": ["remanence-firstmark-1"]}
+{"event_id": "remanence-20261117-equity", "investor_id": "emblem", "role": "participant", "investment_amount": null, "currency": "USD", "evidence_ids": ["remanence-firstmark-1"]}
+{"event_id": "remanence-20261117-equity", "investor_id": "drysdale", "role": "participant", "investment_amount": null, "currency": "USD", "evidence_ids": ["remanence-firstmark-1"]}
+{"event_id": "remanence-20261117-equity", "investor_id": "global-founders-capital", "role": "participant", "investment_amount": null, "currency": "USD", "evidence_ids": ["remanence-firstmark-1"]}
+{"event_id": "remanence-20261117-equity", "investor_id": "yellow-vc", "role": "participant", "investment_amount": null, "currency": "USD", "evidence_ids": ["remanence-firstmark-1"]}
