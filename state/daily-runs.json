@@ -732,12 +732,12 @@
     "majority-rebtel-20261117-acquisition"
    ],
    "revision": 1,
-   "status": "ready_for_delivery",
+   "status": "delivered",
    "window_start": "2026-11-16T00:00:23Z",
    "window_end": "2026-11-18T00:00:23Z",
    "report_path": "reports/2026-11-18-daily.md",
-   "publication_comment_id": null,
-   "publication_note": "报告已验证并准备交付；发布回执以对应Issue最终评论为准，重试必须先查评论。"
+   "publication_comment_id": "01a1ec06-f2d0-7848-a324-0cf311939ceb",
+   "publication_note": "已交付Issue评论并附日报/追踪附件（2026-11-18T00:20:40Z）；同Issue不重复发布。窗口内新增8条（股权7：Isomorphic $5B/Genesis $500M/Science $400M/ModelML $250M/Remanence $30M/Voyage $12M/Pedestal $4.7M，并购合并1：Majority-Rebtel条款未披露）；排除Vesoma €50m募资意向留观等；8入口全部success；6家官方域名核验；主提交3f61a06已推送（追溯字段由回执提交补录），回执提交随后。"
   }
  ]
 }
