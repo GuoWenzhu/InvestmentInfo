@@ -525,3 +525,17 @@
 {"investor_id": "tenet-healthcare", "name": "Tenet Healthcare", "aliases": [], "parent_id": null}
 {"investor_id": "885-capital", "name": "885 Capital", "aliases": [], "parent_id": null}
 {"investor_id": "plc-neurotech", "name": "PLC Neurotech", "aliases": [], "parent_id": null}
+{"investor_id": "goldman-sachs", "name": "Goldman Sachs（增长型股权，Goldman Sachs Alternatives）", "aliases": ["Goldman Sachs growth equity", "Goldman Sachs Alternatives"], "parent_id": null}
+{"investor_id": "prosus-ventures", "name": "Prosus Ventures", "aliases": [], "parent_id": null}
+{"investor_id": "beeglobal", "name": "BeeGlobal", "aliases": [], "parent_id": null}
+{"investor_id": "bajaj-finserv-intelligence", "name": "Finserv Intelligence（Bajaj Finance旗下）", "aliases": ["Bajaj Finance Finserv Intelligence"], "parent_id": null}
+{"investor_id": "bajaj-alts-ai-opportunities-fund", "name": "Bajaj Alts AI Opportunities Fund", "aliases": [], "parent_id": null}
+{"investor_id": "jump-trading", "name": "Jump Trading", "aliases": [], "parent_id": null}
+{"investor_id": "lighthouse-canton", "name": "Lighthouse Canton", "aliases": [], "parent_id": null}
+{"investor_id": "trifecta-capital", "name": "Trifecta Capital", "aliases": [], "parent_id": null}
+{"investor_id": "gresham-house-ventures", "name": "Gresham House Ventures", "aliases": [], "parent_id": null}
+{"investor_id": "sure-valley-ventures", "name": "Sure Valley Ventures", "aliases": ["SVV"], "parent_id": null}
+{"investor_id": "delta-partners", "name": "Delta Partners（都柏林风投）", "aliases": [], "parent_id": null}
+{"investor_id": "enterprise-ireland", "name": "Enterprise Ireland", "aliases": ["EI"], "parent_id": null}
+{"investor_id": "orange-collective", "name": "Orange Collective", "aliases": [], "parent_id": null}
+{"investor_id": "uncorrelated-ventures", "name": "Uncorrelated Ventures", "aliases": [], "parent_id": null}

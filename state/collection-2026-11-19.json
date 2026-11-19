@@ -1,0 +1,65 @@
+{
+ "issue_id": "01a1f11b-0357-7d35-ad08-6c0956d7eec2",
+ "issue_identifier": "TECH-142",
+ "collected_at": "2026-11-19T00:52:30+00:00",
+ "window_start": "2026-11-17T00:00:41Z",
+ "window_end": "2026-11-19T00:00:41Z",
+ "source_attempts": [
+  {
+   "source_id": "techcrunch",
+   "attempted_at": "2026-11-19T00:08:00+00:00",
+   "status": "success_with_output",
+   "evidence_url": "https://techcrunch.com/feed/",
+   "notes": "主feed（20条，11-18T13:00Z~23:45Z全为11-18）+11-18归档页（23条URL）并集全覆盖，归档页补获3条feed外：Humyn Labs（11:30Z）、Unsiloed AI（12:00Z）、Molten Industries电池石墨演示工厂（11:00Z，纯运营里程碑无融资内容→排除）。新增3事件：Payhawk $280M Series C@$2B（19:29Z）、Humyn Labs $47M混合（11:30Z）、Unsiloed AI $7.5M seed（12:00Z）。排除：Anthropic IPO定价$83超区间（IPO+公开公司股本变动按TECH-120先例）、Nadella/Musk/Nvidia-Huang系列×10、产品发布×3（Snapchat AR/Google AI Mode/Sony黑胶）、Palmer Luckey×3、政策/观点/司法等。"
+  },
+  {
+   "source_id": "sifted",
+   "attempted_at": "2026-11-19T00:12:00+00:00",
+   "status": "success_with_output",
+   "evidence_url": "https://sifted.eu/feed",
+   "notes": "RSS成功（24条，其中11-18新增6条、11-17及更早8条上轮已处理）。11-18新增2事件：①Payhawk Series C佐证（15:03Z，标题口径$280m）；②Disseqt独家（05:00Z，OpenAI/Meta insiders back；fetch_content读得首段$8m+Gresham House领投，其后正文反爬乱码，金额经NovaUCD/Dealroom/EU-Startups/finsMES/RoundOS 5源交叉一致）。排除4条：EU AI公开信（观点）、Dream job职业建议、Anthropic IPO欧洲分析、Atomico State of European Tech 2026年报（年度统计不生成离散事件）。侧栏推荐Hiverge（11-10）与Nous（10-26）均窗外，顺延队列不变。正文页乱码限制留痕（本轮fetch_content返回200可读首段，较上轮403有恢复但正文仍不可用）。"
+  },
+  {
+   "source_id": "crunchbase_news",
+   "attempted_at": "2026-11-19T00:20:00+00:00",
+   "status": "success_with_output",
+   "evidence_url": "https://news.crunchbase.com/feed/",
+   "notes": "本轮curl直连成功（107KB，10条；上轮沿用fetch_content备用，本轮主路径恢复正常）。新增0事件：Anthropic IPO定价×2（排除按先例）、ARR度量客座观点（排除）、Voice AI Sector Snapshot（赛道统计T2方法论，仅观察不入事件）。11-14~11-20周榜仍未出现（预计11-20/21，下轮关注）。"
+  },
+  {
+   "source_id": "accel",
+   "attempted_at": "2026-11-19T00:24:00+00:00",
+   "status": "success_zero_output",
+   "evidence_url": "https://www.accel.com/news",
+   "notes": "新闻列表可读（HTTP 200，546KB）。最新公告仍为2026-11-12 SE3投资；一条旧目（_createdAt 2026-09-03）_updatedAt 2026-11-18T08:38:29Z为CMS更新伪影（同Legora先例口径）；无窗口内新公告；连续6次零产出。"
+  },
+  {
+   "source_id": "qiming",
+   "attempted_at": "2026-11-19T00:27:00+00:00",
+   "status": "success_zero_output",
+   "evidence_url": "https://www.qimingvc.com/cn/newsroom",
+   "notes": "新闻室可读（HTTP 200，53KB）。新增Vol.36周报（2026.11.18）：Alamar CSP网络扩容、深势科技×Kimi、讯兔Alpha派国际版发布、可灵AI NeurIPS、Sharpa CoRL研究、宏济医疗总部开工、此芯科技信通院测试、和誉医药FDA获批、浩博医药AASLD数据、信念医药商保目录——10条均为组合公司业务里程碑，无融资事件；凌川科技（上轮已录）仍在列表。观点widget同前轮。"
+  },
+  {
+   "source_id": "nvca",
+   "attempted_at": "2026-11-19T00:29:00+00:00",
+   "status": "success_zero_output",
+   "evidence_url": "https://nvca.org/pitchbook-nvca-venture-monitor/",
+   "notes": "全UA curl直连成功（174KB，同上轮）；仍Q3 2026 Venture Monitor口径（PDF未变）。季度统计不生成离散事件；连续21次可达零产出。"
+  },
+  {
+   "source_id": "techstars",
+   "attempted_at": "2026-11-19T00:30:00+00:00",
+   "status": "success_zero_output",
+   "evidence_url": "https://www.techstars.com/portfolio",
+   "notes": "组合目录页可读（HTTP 200，250KB）；静态目录无日期条目；目录不生成融资事件；连续39个成功采集日零产出（降级处置仍待授权）。"
+  },
+  {
+   "source_id": "company_official",
+   "attempted_at": "2026-11-19T00:52:30+00:00",
+   "status": "success_with_output",
+   "evidence_url": "per_event",
+   "notes": "①新增事件官方域名核验4家（均直接抓取HTTP 200并核对站点身份）：payhawk.com（首页官宣banner+Newsroom官宣文入证）、disseqt.ai（AI Assurance Platform口径一致）、unsiloed.ai（Document Parsing for AI Agents口径一致）、humynlabs.io（AI Training Data for Robotics口径一致）；②排除：humyn.ai为同名AI人才市场（无关）、www.humynlabs.com返回522（Cloudflare源站不可达留痕）；③Disseqt准官方分发入证：NovaUCD（UCD孵化官方新闻，$8M/€7.3M+完整投资方名单）；④顺延队列复核：fractile.ai/news、hiverge.ai、emulate.ai、mistt.com本轮未重复探测，Sifted侧栏显示Hiverge官宣仍未发生（11-10独家口径维持）。"
+  }
+ ]
+}
