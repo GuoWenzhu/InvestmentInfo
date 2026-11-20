@@ -757,6 +757,23 @@
    "report_path": "reports/2026-11-19-daily.md",
    "publication_comment_id": "01a1f127-9097-79d5-b99d-f95b37e3645d",
    "publication_note": "已交付Issue评论并附报告与追踪附件（2026-11-19T00:14:24Z）；同Issue不重复发布。"
+  },
+  {
+   "date": "2026-11-20",
+   "run_key": "2026-11-20",
+   "issue_id": "01a1f641-09e3-76cd-a6a2-9eb3ad455db7",
+   "issue_identifier": "TECH-145",
+   "event_ids": [
+    "lato-20261119-equity",
+    "everful-20261119-equity"
+   ],
+   "revision": 1,
+   "status": "ready_for_delivery",
+   "window_start": "2026-11-18T00:00:41Z",
+   "window_end": "2026-11-20T00:06:24Z",
+   "report_path": "reports/2026-11-20-daily.md",
+   "publication_comment_id": null,
+   "publication_note": "报告已验证并准备交付；发布回执以对应Issue最终评论为准，重试必须先查评论。"
   }
  ]
 }

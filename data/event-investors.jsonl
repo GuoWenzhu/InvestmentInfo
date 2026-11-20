@@ -750,3 +750,13 @@
 {"event_id": "disseqt-20261118-equity", "investor_id": "sure-valley-ventures", "role": "participant", "investment_amount": null, "currency": "USD", "evidence_ids": ["disseqt-ucd-1"]}
 {"event_id": "disseqt-20261118-equity", "investor_id": "delta-partners", "role": "participant", "investment_amount": null, "currency": "USD", "evidence_ids": ["disseqt-ucd-1"]}
 {"event_id": "disseqt-20261118-equity", "investor_id": "enterprise-ireland", "role": "participant", "investment_amount": null, "currency": "USD", "evidence_ids": ["disseqt-ucd-1"]}
+{"event_id": "lato-20261119-equity", "investor_id": "air-street-capital", "role": "co_lead", "investment_amount": null, "currency": "USD", "evidence_ids": ["lato-official-1"]}
+{"event_id": "lato-20261119-equity", "investor_id": "axiom-partners", "role": "co_lead", "investment_amount": null, "currency": "USD", "evidence_ids": ["lato-official-1"]}
+{"event_id": "lato-20261119-equity", "investor_id": "y-combinator", "role": "participant", "investment_amount": null, "currency": "USD", "evidence_ids": ["lato-official-1"]}
+{"event_id": "lato-20261119-equity", "investor_id": "inception-fund", "role": "participant", "investment_amount": null, "currency": "USD", "evidence_ids": ["lato-official-1"]}
+{"event_id": "lato-20261119-equity", "investor_id": "smok-ventures", "role": "participant", "investment_amount": null, "currency": "USD", "evidence_ids": ["lato-official-1"]}
+{"event_id": "lato-20261119-equity", "investor_id": "montis-vc", "role": "participant", "investment_amount": null, "currency": "USD", "evidence_ids": ["lato-official-1"]}
+{"event_id": "everful-20261119-equity", "investor_id": "vertex-ventures-sea-india", "role": "co_lead", "investment_amount": null, "currency": "USD", "evidence_ids": ["everful-pr-1"]}
+{"event_id": "everful-20261119-equity", "investor_id": "january-capital", "role": "co_lead", "investment_amount": null, "currency": "USD", "evidence_ids": ["everful-pr-1"]}
+{"event_id": "everful-20261119-equity", "investor_id": "square-peg", "role": "participant", "investment_amount": null, "currency": "USD", "evidence_ids": ["everful-pr-1"]}
+{"event_id": "everful-20261119-equity", "investor_id": "lightspeed-venture-partners", "role": "participant", "investment_amount": null, "currency": "USD", "evidence_ids": ["everful-pr-1"]}

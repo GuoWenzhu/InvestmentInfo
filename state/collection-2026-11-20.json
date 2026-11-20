@@ -1,0 +1,65 @@
+{
+ "issue_id": "01a1f641-09e3-76cd-a6a2-9eb3ad455db7",
+ "issue_identifier": "TECH-145",
+ "collected_at": "2026-11-20T00:06:24+00:00",
+ "window_start": "2026-11-18T00:00:41Z",
+ "window_end": "2026-11-20T00:06:24Z",
+ "source_attempts": [
+  {
+   "source_id": "techcrunch",
+   "attempted_at": "2026-11-20T00:02:00+00:00",
+   "status": "success_with_output",
+   "evidence_url": "https://techcrunch.com/feed/",
+   "notes": "主feed（20条，11-19 00:40Z~23:37Z）+11-19归档页（15条URL，与feed并集一致）+11-18归档页（25条，其中16条上轮未登记的11-18深夜/11-19凌晨条目本轮补登记）。新增1事件：Everful $48.5M Series A（17:00Z，官方PRNewswire+TC+TNW同日多源，高置信）。排除：Anthropic IPO相关×5（按TECH-120先例）、Nimble Trace产品发布（fetch_content核验全文无融资内容）、Superhuman Go/Meta Muse Charm/Gemini Mac/Snapchat AR等产品×5、Musk/Nadella/Huang/Palmer Luckey/Altman系列公开公司言论×11、UK Apple backdoor政策×1、Uber产品试验×1、行业综述与司法×2。"
+  },
+  {
+   "source_id": "sifted",
+   "attempted_at": "2026-11-20T00:02:30+00:00",
+   "status": "success_with_output",
+   "evidence_url": "https://sifted.eu/feed",
+   "notes": "RSS成功（24条，其中11-19新增8条、11-18及更早16条上轮已处理）。11-19新增1事件：LATO $4.7M seed（05:00:14Z独家；首段可核$4.7m+Air Street/Axiom co-led，正文反爬乱码同先例；经官方latolabs.io/seed全文+Tech.eu/EU-Startups/TFN/Dealroom同日多源交叉，高置信）。排除7条：Schneider Electric Ventures加速器计划落地欧洲（项目启动非离散融资，留观）、Menlo播客、EU Inc政策、和平议题专栏、AI compute赛道分析、EQT观点、Ineffable访谈。侧栏EDITOR'S PICKS的EIF €15bn基金of funds为2026-03-25旧文（窗外不登记）；侧栏Strawberry 1.0发布为产品消息。"
+  },
+  {
+   "source_id": "crunchbase_news",
+   "attempted_at": "2026-11-20T00:03:00+00:00",
+   "status": "success_zero_output",
+   "evidence_url": "https://news.crunchbase.com/feed/",
+   "notes": "curl直连成功（104KB，10条）。11-19三条均为非事件：蓝色经济专题（报告型）、HR/招聘AI赛道数据综述、SaaS公开市场客座观点；11-18的Anthropic IPO×2/Voice AI snapshot等上轮已处理；11-17 Genesis AI上轮已录。11-14~11-20周榜仍未出现（预计11-20/21，下轮关注）。连续2次零产出。"
+  },
+  {
+   "source_id": "accel",
+   "attempted_at": "2026-11-20T00:04:00+00:00",
+   "status": "success_zero_output",
+   "evidence_url": "https://www.accel.com/news",
+   "notes": "列表可读（HTTP 200，550KB）。新目1条：'Anthropic: What once felt distant is now everyday'（2026-11-19，Sameer Gandhi & Arun Mathew署名，组合公司Claude使用观察）——T4观点逐篇归档不生成事件，排除留痕；Zetwerk IPO文核对为2026-10-23旧目。无窗口内新融资公告（最新投资公告仍2026-11-12 SE3）；连续7次零产出。"
+  },
+  {
+   "source_id": "qiming",
+   "attempted_at": "2026-11-20T00:04:30+00:00",
+   "status": "success_zero_output",
+   "evidence_url": "https://www.qimingvc.com/cn/newsroom",
+   "notes": "新闻室可读（HTTP 200，53KB）。列表仍至Vol.36（2026.11.18，上轮已处理），Vol.37未发布；观点widget与上轮同（胡旭波/周志峰/Gary Rieschel/陈侃）。无融资事件；连续3次零产出。"
+  },
+  {
+   "source_id": "nvca",
+   "attempted_at": "2026-11-20T00:05:00+00:00",
+   "status": "success_zero_output",
+   "evidence_url": "https://nvca.org/pitchbook-nvca-venture-monitor/",
+   "notes": "全UA curl直连成功（174KB）；仍Q3 2026 Venture Monitor口径。季度统计不生成离散事件；连续22次可达零产出。"
+  },
+  {
+   "source_id": "techstars",
+   "attempted_at": "2026-11-20T00:05:15+00:00",
+   "status": "success_zero_output",
+   "evidence_url": "https://www.techstars.com/portfolio",
+   "notes": "组合目录可读（HTTP 200，250KB）；静态目录无日期条目；目录不生成融资事件；连续40个成功采集日零产出（降级处置仍待授权）。"
+  },
+  {
+   "source_id": "company_official",
+   "attempted_at": "2026-11-20T00:06:24+00:00",
+   "status": "success_with_output",
+   "evidence_url": "per_event",
+   "notes": "①新增事件官方核验2家（均直接抓取HTTP 200并核对站点身份）：latolabs.io（/seed官宣页全文可读：$4.7M seed co-led Air Street+Axiom、参投YC/Inception Fund/SMOK Ventures/Montis VC、天使名单、40+国1,000+访谈/$500bn基金客户/100天$1M ARR自述——官方口径补SMOK Ventures为Tech.eu所漏）；everfulwholesale.com（首页'Wholesale Jewelry, Fashion & Home Goods'、Factory Price Jewelry起家、20M+商品与TC口径一致；官宣经PRNewswire官方新闻稿302945927入证，同稿-302945945重复分发URL归并canonical留证）。②Everful官方PR+TC+TNW同日多源一致→高置信；LATO官方+Sifted独家+4源同日一致→高置信。③顺延队列本轮无新增探测。"
+  }
+ ]
+}
