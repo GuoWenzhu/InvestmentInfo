@@ -791,12 +791,12 @@
     "intake-breathing-20261028-equity"
    ],
    "revision": 1,
-   "status": "ready_for_delivery",
+   "status": "delivered",
    "window_start": "2026-11-19T00:00:19Z",
    "window_end": "2026-11-21T00:16:00+00:00",
    "report_path": "reports/2026-11-21-daily.md",
-   "publication_comment_id": null,
-   "publication_note": "报告已验证并准备交付；发布回执以对应Issue最终评论为准，重试必须先查评论。"
+   "publication_comment_id": "01a1fb78-4000-7588-9ace-ebcb40c2a5f5",
+   "publication_note": "已交付Issue评论并附报告/追踪附件（2026-11-21T00:18:44Z）；同Issue不重复发布。"
   }
  ]
 }
