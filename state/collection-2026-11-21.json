@@ -1,0 +1,65 @@
+{
+ "issue_id": "01a1fb67-6540-7a32-80af-ac2b880d1d6f",
+ "issue_identifier": "TECH-148",
+ "collected_at": "2026-11-21T00:16:00+00:00",
+ "window_start": "2026-11-19T00:00:19Z",
+ "window_end": "2026-11-21T00:16:00+00:00",
+ "source_attempts": [
+  {
+   "source_id": "techcrunch",
+   "attempted_at": "2026-11-21T00:04:00+00:00",
+   "status": "success_with_output",
+   "evidence_url": "https://techcrunch.com/feed/",
+   "notes": "curl直连403（Cloudflare）→fetch_content路径：主feed（20条，11-19 20:18Z~11-20 20:58Z）+11-20归档页（可读抽取12条+额外1条podcast）。新增2事件：①Bending Spoons自Intuit收购Mailchimp $3.68B（官方稿11-19、TC 11-20 16:16Z跟进撰写、 Reuters 11-19经TC转引——官宣在窗口内、TC跟进为本轮发现路径）；②Europa Fusion（Daniel Ek个人支持，Bloomberg 11-18首报、TC 11-20独家撰写——披露日在窗口外，按backfill登记，低置信观察）。排除15条：honey-trap安全评论、Riemann研究、地热与太空芯片融资分析×2、转录公司数据泄露、Huang治理余波×3（含podcast 1条）、Nvidia加州传票、网络主管离职、Apple AI agent产品、Anthropic founders IPO套现（IPO先例排除）、Fireworks AI公开言论、AI gadgets、ICON类产品。11-19晚间6条上轮已登记。"
+  },
+  {
+   "source_id": "sifted",
+   "attempted_at": "2026-11-21T00:04:30+00:00",
+   "status": "success_with_output",
+   "evidence_url": "https://sifted.eu/feed",
+   "notes": "RSS成功（24条；11-20新增9条，11-19及更早均上轮已处理）。11-20新增1事件：Hoplite $5.5M seed（独家13:00Z；正文反爬乱码仅首段可核金额，投资方名单经Irish Times/Dealroom/Tech.eu/EU-Startups/ThinkBusiness同日5源交叉，高置信）。排除8条：Aikido Security €4bn估值募资谈判（Pro付费墙仅标题+首段——raise in progress未关账，按Vesoma先例不生成事件、列顺延队列）、Anthropic天使获利分析（评论）、瑞典Malmö食品专题（BRND）、英国AI部长政策、13家pre-seed fintech名单、Slush 2026报道×2、Espoo/Helsinki融资分析。侧栏RECOMMENDED的Hadrian $40m（2026-10-06）与Bynario €2.1m（2026-09-10）经核查为旧文（窗外，未登记）。"
+  },
+  {
+   "source_id": "crunchbase_news",
+   "attempted_at": "2026-11-21T00:05:00+00:00",
+   "status": "success_with_output",
+   "evidence_url": "https://news.crunchbase.com/feed/",
+   "notes": "curl直连成功（112KB，10条）。11-20三条：①The Week's 10 Biggest Funding Rounds（20:15Z）——中断三周后周榜重现（Nov 14-20周口径；统计类非离散事件；其Top10中Science $400M/Model ML $250M/Isomorphic $5B均已录，其余7笔美国公司$93M-$130M轮次为未核验线索、逐笔披露日未定，转顺延队列下轮核验）；②5 Interesting Startup Deals月度digest（12:00Z）——5笔回填全部核验入账：Reflect Orbital $73.5M（官方11-10）、Intake Breathing $62M（官方10-28）、TrashLab $12M（官方10-29）、Neuron Industries $10M seed（官方10-29）、Tumbleweed €6.9M seed（官方11-03），均historical_backfill=true；③Telecom bust与AI债务观点文（Spreng，评论排除）。"
+  },
+  {
+   "source_id": "accel",
+   "attempted_at": "2026-11-21T00:05:30+00:00",
+   "status": "success_zero_output",
+   "evidence_url": "https://www.accel.com/news",
+   "notes": "列表可读（HTTP 200，550KB）。53条/news链接与上轮核对无新目：最新仍为'Anthropic组合观察'观点文（11-19，上轮已排除）与SE3投资公告（2026-11-12）；连续8次零产出。"
+  },
+  {
+   "source_id": "qiming",
+   "attempted_at": "2026-11-21T00:05:45+00:00",
+   "status": "success_zero_output",
+   "evidence_url": "https://www.qimingvc.com/cn/newsroom",
+   "notes": "新闻室可读（HTTP 200，53KB）。列表仍至Vol.36（2026.11.18），Vol.37未发布；连续4次零产出。"
+  },
+  {
+   "source_id": "nvca",
+   "attempted_at": "2026-11-21T00:06:00+00:00",
+   "status": "success_zero_output",
+   "evidence_url": "https://nvca.org/pitchbook-nvca-venture-monitor/",
+   "notes": "首次全UA curl返回403（Cloudflare），复试补全Accept/Accept-Language头后200（174KB）；仍Q3 2026 Venture Monitor口径；季度统计不生成离散事件；连续23次可达零产出。"
+  },
+  {
+   "source_id": "techstars",
+   "attempted_at": "2026-11-21T00:06:15+00:00",
+   "status": "success_zero_output",
+   "evidence_url": "https://www.techstars.com/portfolio",
+   "notes": "组合目录可读（HTTP 200，250KB）；静态目录无日期条目；目录不生成融资事件；连续41个成功采集日零产出（降级处置仍待授权）。"
+  },
+  {
+   "source_id": "company_official",
+   "attempted_at": "2026-11-21T00:16:00+00:00",
+   "status": "success_with_output",
+   "evidence_url": "per_event",
+   "notes": "①新增事件官方/准官方核验6家：bendingspoons.com投资者新闻室（Mailchimp官宣全文可读，Milan 11-19 dateline、站点身份与TC历史引用一致）；reflectorbital.com官方博客（11-10全文可读）；trashlab.com官方博客+BusinessWire官方分发+领投方ventana.capital官网；neuronindustries.com官方press+领投方obvious.com官网；intakebreathing.com官方博客+BusinessWire官方分发；Tumbleweed官方PR经ESA BSGN官网分发PDF全文可读。②Hoplite官方域名未核验（Sifted乱码未能提取官网；同日5家媒体一致→高置信，列待核验）；Europa Fusion无官方口径（匿名信源→低置信观察）。③外部媒体交叉URL（Irish Times/Dealroom/Tech.eu/EU-Startups/Payload/TFN/LA Times/Axios等）登记于events.evidence_urls并在evidence.jsonl标注，不扩张常规来源清单。"
+  }
+ ]
+}

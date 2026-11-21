@@ -760,3 +760,28 @@
 {"event_id": "everful-20261119-equity", "investor_id": "january-capital", "role": "co_lead", "investment_amount": null, "currency": "USD", "evidence_ids": ["everful-pr-1"]}
 {"event_id": "everful-20261119-equity", "investor_id": "square-peg", "role": "participant", "investment_amount": null, "currency": "USD", "evidence_ids": ["everful-pr-1"]}
 {"event_id": "everful-20261119-equity", "investor_id": "lightspeed-venture-partners", "role": "participant", "investment_amount": null, "currency": "USD", "evidence_ids": ["everful-pr-1"]}
+{"event_id": "hoplite-20261120-equity", "investor_id": "y-combinator", "role": "participant", "investment_amount": null, "currency": null, "evidence_ids": ["hoplite-sifted-1"]}
+{"event_id": "hoplite-20261120-equity", "investor_id": "relational-capital", "role": "participant", "investment_amount": null, "currency": null, "evidence_ids": ["hoplite-sifted-1"]}
+{"event_id": "hoplite-20261120-equity", "investor_id": "upside-ventures", "role": "participant", "investment_amount": null, "currency": null, "evidence_ids": ["hoplite-sifted-1"]}
+{"event_id": "reflect-orbital-20261110-equity", "investor_id": "sequoia-capital", "role": "participant", "investment_amount": null, "currency": null, "evidence_ids": ["reflect-official-1", "reflect-cbn-1"]}
+{"event_id": "reflect-orbital-20261110-equity", "investor_id": "lux-capital", "role": "participant", "investment_amount": null, "currency": null, "evidence_ids": ["reflect-official-1", "reflect-cbn-1"]}
+{"event_id": "reflect-orbital-20261110-equity", "investor_id": "starship-ventures", "role": "participant", "investment_amount": null, "currency": null, "evidence_ids": ["reflect-official-1", "reflect-cbn-1"]}
+{"event_id": "reflect-orbital-20261110-equity", "investor_id": "buckley-ventures", "role": "participant", "investment_amount": null, "currency": null, "evidence_ids": ["reflect-official-1", "reflect-cbn-1"]}
+{"event_id": "reflect-orbital-20261110-equity", "investor_id": "convective-capital", "role": "participant", "investment_amount": null, "currency": null, "evidence_ids": ["reflect-official-1", "reflect-cbn-1"]}
+{"event_id": "reflect-orbital-20261110-equity", "investor_id": "the-uncommon-group", "role": "participant", "investment_amount": null, "currency": null, "evidence_ids": ["reflect-official-1", "reflect-cbn-1"]}
+{"event_id": "reflect-orbital-20261110-equity", "investor_id": "salesforce-ventures", "role": "participant", "investment_amount": null, "currency": null, "evidence_ids": ["reflect-official-1", "reflect-cbn-1"]}
+{"event_id": "tumbleweed-20261103-equity", "investor_id": "pactvc", "role": "lead", "investment_amount": null, "currency": null, "evidence_ids": ["tumbleweed-official-1", "tumbleweed-crosscheck-1"]}
+{"event_id": "tumbleweed-20261103-equity", "investor_id": "vanagon-ventures", "role": "participant", "investment_amount": null, "currency": null, "evidence_ids": ["tumbleweed-official-1", "tumbleweed-crosscheck-1"]}
+{"event_id": "tumbleweed-20261103-equity", "investor_id": "prototype-capital", "role": "participant", "investment_amount": null, "currency": null, "evidence_ids": ["tumbleweed-official-1", "tumbleweed-crosscheck-1"]}
+{"event_id": "tumbleweed-20261103-equity", "investor_id": "ewor", "role": "participant", "investment_amount": null, "currency": null, "evidence_ids": ["tumbleweed-official-1", "tumbleweed-crosscheck-1"]}
+{"event_id": "trashlab-20261029-equity", "investor_id": "ventana", "role": "lead", "investment_amount": null, "currency": null, "evidence_ids": ["trashlab-official-1", "trashlab-blog-1"]}
+{"event_id": "trashlab-20261029-equity", "investor_id": "bienville-capital", "role": "participant", "investment_amount": null, "currency": null, "evidence_ids": ["trashlab-official-1", "trashlab-blog-1"]}
+{"event_id": "trashlab-20261029-equity", "investor_id": "harlem-capital", "role": "participant", "investment_amount": null, "currency": null, "evidence_ids": ["trashlab-official-1", "trashlab-blog-1"]}
+{"event_id": "trashlab-20261029-equity", "investor_id": "creativeco", "role": "participant", "investment_amount": null, "currency": null, "evidence_ids": ["trashlab-official-1", "trashlab-blog-1"]}
+{"event_id": "neuron-industries-20261029-equity", "investor_id": "fcvc", "role": "co_lead", "investment_amount": null, "currency": null, "evidence_ids": ["neuron-official-1", "neuron-investor-1"]}
+{"event_id": "neuron-industries-20261029-equity", "investor_id": "obvious-ventures", "role": "co_lead", "investment_amount": null, "currency": null, "evidence_ids": ["neuron-official-1", "neuron-investor-1"]}
+{"event_id": "neuron-industries-20261029-equity", "investor_id": "y-combinator", "role": "participant", "investment_amount": null, "currency": null, "evidence_ids": ["neuron-official-1", "neuron-investor-1"]}
+{"event_id": "neuron-industries-20261029-equity", "investor_id": "thin-line-capital", "role": "participant", "investment_amount": null, "currency": null, "evidence_ids": ["neuron-official-1", "neuron-investor-1"]}
+{"event_id": "neuron-industries-20261029-equity", "investor_id": "zee-prime-capital", "role": "participant", "investment_amount": null, "currency": null, "evidence_ids": ["neuron-official-1", "neuron-investor-1"]}
+{"event_id": "neuron-industries-20261029-equity", "investor_id": "founder-factor", "role": "participant", "investment_amount": null, "currency": null, "evidence_ids": ["neuron-official-1", "neuron-investor-1"]}
+{"event_id": "intake-breathing-20261028-equity", "investor_id": "camino-partners", "role": "lead", "investment_amount": null, "currency": null, "evidence_ids": ["intake-official-1", "intake-blog-1"]}

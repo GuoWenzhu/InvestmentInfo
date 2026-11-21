@@ -774,6 +774,29 @@
    "report_path": "reports/2026-11-20-daily.md",
    "publication_comment_id": "01a1f64b-4fef-7127-806f-801da9266b70",
    "publication_note": "已交付Issue评论并附日报/追踪附件（2026-11-20T00:11:33Z）；同Issue不重复发布。窗口内新增2条（everful-20261119-equity $48.5M Series A官方PR+TC+TNW高置信、lato-20261119-equity $4.7M seed官方页+Sifted独家+4源同日高置信）；修订0回填0；官网域名核验2家（latolabs.io/everfulwholesale.com）；排除46条（Anthropic IPO×5按先例、Nimble产品、Schneider加速器计划、Accel观点文等）；Techstars连续40个成功采集日零产出处置仍待授权；主提交80b3766已推送，回执提交随后。"
+  },
+  {
+   "date": "2026-11-21",
+   "run_key": "2026-11-21",
+   "issue_id": "01a1fb67-6540-7a32-80af-ac2b880d1d6f",
+   "issue_identifier": "TECH-148",
+   "event_ids": [
+    "hoplite-20261120-equity",
+    "mailchimp-20261119-acquisition",
+    "europa-fusion-20261118-equity",
+    "reflect-orbital-20261110-equity",
+    "tumbleweed-20261103-equity",
+    "trashlab-20261029-equity",
+    "neuron-industries-20261029-equity",
+    "intake-breathing-20261028-equity"
+   ],
+   "revision": 1,
+   "status": "ready_for_delivery",
+   "window_start": "2026-11-19T00:00:19Z",
+   "window_end": "2026-11-21T00:16:00+00:00",
+   "report_path": "reports/2026-11-21-daily.md",
+   "publication_comment_id": null,
+   "publication_note": "报告已验证并准备交付；发布回执以对应Issue最终评论为准，重试必须先查评论。"
   }
  ]
 }
