@@ -1,0 +1,65 @@
+{
+ "issue_id": "01a2008d-bca6-7000-aedd-6245c0ec5d8e",
+ "issue_identifier": "TECH-152",
+ "collected_at": "2026-11-22T00:25:00+00:00",
+ "window_start": "2026-11-20T00:00:18Z",
+ "window_end": "2026-11-22T00:25:00+00:00",
+ "source_attempts": [
+  {
+   "source_id": "techcrunch",
+   "attempted_at": "2026-11-22T00:02:00+00:00",
+   "status": "success_zero_output",
+   "evidence_url": "https://techcrunch.com/feed/",
+   "notes": "curl 403→fetch_content路径：feed 20条（最新11-21 21:37Z）+11-21归档页8条。11-21新增7条全部非融资事件（Signal截图限制产品、Nvidia播客、FBI hack政策、短信AI agent产品清单、AI face微短剧趋势、阿拉斯加州长政策、印度初创诉Apple$162M诉讼）→排除留痕；11-20条目上轮已登记。窗口内零事件。"
+  },
+  {
+   "source_id": "sifted",
+   "attempted_at": "2026-11-22T00:03:00+00:00",
+   "status": "success_zero_output",
+   "evidence_url": "https://sifted.eu/feed",
+   "notes": "RSS成功（24条，最新11-20 16:04Z）。11-20的9条上轮已全部处理；11-21/11-22无新增。Aikido €4bn募资谈判仍为11-20标题口径、未见关账进展。"
+  },
+  {
+   "source_id": "crunchbase_news",
+   "attempted_at": "2026-11-22T00:04:00+00:00",
+   "status": "success_zero_output",
+   "evidence_url": "https://news.crunchbase.com/feed/",
+   "notes": "curl直连成功（111KB，10条）；最新仍11-20（周末无更新）。主工作：上轮周榜（Nov14-20周）8笔未核验线索本轮逐笔核验全部落定→回填11事件（见company_official）。"
+  },
+  {
+   "source_id": "accel",
+   "attempted_at": "2026-11-22T00:05:00+00:00",
+   "status": "success_zero_output",
+   "evidence_url": "https://www.accel.com/news",
+   "notes": "列表可读（HTTP 200，550KB）；53条/news链接与上轮一致，无新目；连续9次零产出。"
+  },
+  {
+   "source_id": "qiming",
+   "attempted_at": "2026-11-22T00:05:20+00:00",
+   "status": "success_zero_output",
+   "evidence_url": "https://www.qimingvc.com/cn/newsroom",
+   "notes": "新闻室可读（HTTP 200，53KB）；仍至Vol.36（2026.11.18）；连续5次零产出。"
+  },
+  {
+   "source_id": "nvca",
+   "attempted_at": "2026-11-22T00:05:40+00:00",
+   "status": "success_zero_output",
+   "evidence_url": "https://nvca.org/pitchbook-nvca-venture-monitor/",
+   "notes": "curl 200（174KB）；仍Q3 2026口径；季度统计不生成离散事件；连续24次可达零产出。"
+  },
+  {
+   "source_id": "techstars",
+   "attempted_at": "2026-11-22T00:06:00+00:00",
+   "status": "success_zero_output",
+   "evidence_url": "https://www.techstars.com/portfolio",
+   "notes": "组合目录可读（HTTP 200，250KB）；静态目录无日期条目；连续42个成功采集日零产出（降级处置仍待授权）。"
+  },
+  {
+   "source_id": "company_official",
+   "attempted_at": "2026-11-22T00:25:00+00:00",
+   "status": "success_with_output",
+   "evidence_url": "per_event",
+   "notes": "①CBN周榜8笔线索逐笔核验全部落定（11-16~11-18披露、均窗外→backfill=true，11事件：Galvanize $130M SeriesD/General Flash $128M Seed+A拆2/Ramon.Space $124M SeriesB/Marrow $173M拆A+B/Noeri $110M/Seawolf $100M拆Seed+A/BrightAI $97M/Vincue $93M）；官方域名落定4家：ramon.space、marrowtx.com、seawolftx.com、vincue.com。②Hoplite官方域名核验落定（hoplite.sh；运营主体Carbon Copy Markets Inc.美国，与media爱尔兰口径差异留证）→上轮顺延项关闭，公司表registered_country修正IE→US留痕。③Europa Fusion复核：仍无官方确认，新增Companies House二手转述（Dagens PS），维持低置信；Aikido €4bn未见关账。"
+  }
+ ]
+}

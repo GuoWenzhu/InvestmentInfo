@@ -797,6 +797,20 @@
    "report_path": "reports/2026-11-21-daily.md",
    "publication_comment_id": "01a1fb78-4000-7588-9ace-ebcb40c2a5f5",
    "publication_note": "已交付Issue评论并附报告/追踪附件（2026-11-21T00:18:44Z）；同Issue不重复发布。"
+  },
+  {
+   "date": "2026-11-22",
+   "run_key": "2026-11-22",
+   "issue_id": "01a2008d-bca6-7000-aedd-6245c0ec5d8e",
+   "issue_identifier": "TECH-152",
+   "event_ids": [],
+   "revision": 1,
+   "status": "delivered",
+   "window_start": "2026-11-20T00:00:18Z",
+   "window_end": "2026-11-22T00:25:00+00:00",
+   "report_path": "reports/2026-11-22-daily.md",
+   "publication_comment_id": null,
+   "publication_note": "（发布后回填）窗口内新增0笔（如实报告零事件）；历史回填11事件——CBN周榜8笔未核验线索全部逐笔核验入账（披露日2026-11-16~11-18窗外）：Galvanize $130M SeriesD、General Flash $128M Seed+A（拆2）、Ramon.Space $124M SeriesB、Marrow $173M A+B（拆2）、Noeri $110M、Seawolf $100M Seed+A（拆2）、BrightAI $97M、Vincue $93M；官方域名落定5家（ramon.space/marrowtx.com/seawolftx.com/vincue.com/hoplite.sh）；Hoplite顺延项关闭；7入口全部success零新增（周末），company_official高产出。"
   }
  ]
 }
