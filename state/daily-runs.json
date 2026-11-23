@@ -819,12 +819,12 @@
    "issue_identifier": "TECH-155",
    "event_ids": [],
    "revision": 1,
-   "status": "ready_for_delivery",
+   "status": "delivered",
    "window_start": "2026-11-21T00:00:20Z",
    "window_end": "2026-11-23T00:07:30Z",
    "report_path": "reports/2026-11-23-daily.md",
-   "publication_comment_id": null,
-   "publication_note": "报告已验证并准备交付；发布回执以对应Issue最终评论为准，重试必须先查评论。"
+   "publication_comment_id": "01a205b9-d4ca-72e5-958e-1d41c697660f",
+   "publication_note": "已交付Issue评论并附日报/采集日志/追踪附件（2026-11-23T00:06:34Z）；同Issue不重复发布。窗口内零新增零更正零回补（真实零事件日·周日，8入口全部成功读取）；排除+6（TechCrunch 11-22全天6条）；主提交48d32b0已推送，回执提交随后。"
   }
  ]
 }
