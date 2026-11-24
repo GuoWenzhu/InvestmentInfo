@@ -825,6 +825,28 @@
    "report_path": "reports/2026-11-23-daily.md",
    "publication_comment_id": "01a205b9-d4ca-72e5-958e-1d41c697660f",
    "publication_note": "已交付Issue评论并附日报/采集日志/追踪附件（2026-11-23T00:06:34Z）；同Issue不重复发布。窗口内零新增零更正零回补（真实零事件日·周日，8入口全部成功读取）；排除+6（TechCrunch 11-22全天6条）；主提交48d32b0已推送，回执提交随后。"
+  },
+  {
+   "date": "2026-11-24",
+   "run_key": "2026-11-24",
+   "issue_id": "01a20ada-b0b3-780c-ad97-39237a94d285",
+   "issue_identifier": "TECH-158",
+   "event_ids": [
+    "sierra-20261123-equity",
+    "marlowe-20261123-equity",
+    "agon-20261123-equity",
+    "acorda-20261123-equity",
+    "supertake-20261123-equity",
+    "decart-20261123-acquisition",
+    "zscaler-20261123-acquisition"
+   ],
+   "revision": 1,
+   "status": "ready_for_delivery",
+   "window_start": "2026-11-22T00:00:00Z",
+   "window_end": "2026-11-24T00:09:22+00:00",
+   "report_path": "reports/2026-11-24-daily.md",
+   "publication_comment_id": null,
+   "publication_note": null
   }
  ]
 }

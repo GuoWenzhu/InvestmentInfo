@@ -601,3 +601,17 @@
 {"investor_id": "zero-infinity-partners", "name": "Zero Infinity Partners", "aliases": [], "parent_id": null}
 {"investor_id": "wavecrest-growth-partners", "name": "Wavecrest Growth Partners", "aliases": [], "parent_id": null}
 {"investor_id": "fm-capital", "name": "FM Capital", "aliases": [], "parent_id": null}
+{"investor_id": "journey", "name": "Journey", "aliases": [], "parent_id": null}
+{"investor_id": "ritual", "name": "Ritual", "aliases": [], "parent_id": null}
+{"investor_id": "neo", "name": "Neo", "aliases": [], "parent_id": null}
+{"investor_id": "pitango", "name": "Pitango", "aliases": ["Pitango Venture Capital"], "parent_id": null}
+{"investor_id": "banter", "name": "Banter", "aliases": [], "parent_id": null}
+{"investor_id": "northzone", "name": "Northzone", "aliases": [], "parent_id": null}
+{"investor_id": "uk-sovereign-ai-fund", "name": "UK Sovereign AI Fund", "aliases": ["SovAI"], "parent_id": null}
+{"investor_id": "nssif", "name": "National Security Strategic Investment Fund（NSSIF）", "aliases": ["NSSIF"], "parent_id": null}
+{"investor_id": "nfg-ventures", "name": "NFG Ventures", "aliases": [], "parent_id": null}
+{"investor_id": "adjacent", "name": "Adjacent", "aliases": ["Adjacent (Nico Wittenborn)"], "parent_id": null}
+{"investor_id": "coinbase-ventures", "name": "Coinbase Ventures", "aliases": [], "parent_id": null}
+{"investor_id": "union-square-ventures", "name": "Union Square Ventures", "aliases": ["USV"], "parent_id": null}
+{"investor_id": "roelof-botha", "name": "Roelof Botha（个人天使，前Sequoia高级合伙人）", "aliases": [], "parent_id": null}
+{"investor_id": "david-helgason", "name": "David Helgason（个人天使，Unity创始人、Agon董事长）", "aliases": [], "parent_id": null}

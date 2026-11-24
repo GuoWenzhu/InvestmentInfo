@@ -1,0 +1,65 @@
+{
+ "issue_id": "01a20ada-b0b3-780c-ad97-39237a94d285",
+ "issue_identifier": "TECH-158",
+ "collected_at": "2026-11-24T00:09:22+00:00",
+ "window_start": "2026-11-22T00:00:00Z",
+ "window_end": "2026-11-24T00:09:22+00:00",
+ "source_attempts": [
+  {
+   "source_id": "techcrunch",
+   "attempted_at": "2026-11-24T00:09:22+00:00",
+   "status": "success_with_output",
+   "evidence_url": "https://techcrunch.com/feed/",
+   "notes": "curl直连200（上轮403，本轮恢复）；feed 20条（最新11-23 23:07Z）。窗口内11-22~11-23新增20条：4笔融资/并购事件入账（Sierra $1.75B SeriesF、Supertake $20M seed、Amazon-Decart $7.5B并购、CrowdStrike-Zscaler $43.9B并购），15条非融资排除留痕（Nvidia/Jensen Huang治理系列8条、Figma诉讼、Claude Ship产品、Google AI Mode产品、Meta净零观点、隐私眼镜、Uber录音、Megaspeed黑名单）；11-22 01:25Z的Anthropic IPO投资分析文（上轮未登记）补录排除。"
+  },
+  {
+   "source_id": "sifted",
+   "attempted_at": "2026-11-24T00:09:22+00:00",
+   "status": "success_with_output",
+   "evidence_url": "https://sifted.eu/feed",
+   "notes": "RSS成功（24条，新增11-23共6条）。2笔事件入账（Agon $70M SeriesA、Acorda £1.8M pre-seed——正文反爬乱码仅标题+首段可核，投资方结构经BusinessWire官方稿/gov.uk/Tech.eu/Finextra交叉核验）；4条排除（chess night活动、Plural €1bn基金播客——基金公告11-14已入账plural-20261114-fund、AI治理brnd、BFL访谈）；Aikido €4bn仍未见关账。"
+  },
+  {
+   "source_id": "crunchbase_news",
+   "attempted_at": "2026-11-24T00:09:22+00:00",
+   "status": "success_zero_output",
+   "evidence_url": "https://news.crunchbase.com/feed/",
+   "notes": "curl直连成功（113KB，10条）；11-23新增1条unicorn估值对比分析（Thinking Machines/Sierra等，Crunchbase estimates口径——统计类非离散事件排除留痕）；Nov21-27周榜仍未发布。连续3次零产出。"
+  },
+  {
+   "source_id": "accel",
+   "attempted_at": "2026-11-24T00:09:22+00:00",
+   "status": "success_with_output",
+   "evidence_url": "https://www.accel.com/news",
+   "notes": "列表可读（HTTP 200，550KB）；53条/news链接中新增11-23投资公告\"Our Investment in Marlowe: The Multi-Silicon AI Factory\"→核验为Marlowe $277M seed事件（官方域名marlowe.ai博客+Bloomberg/GeekWire/qz交叉）；其余链接与上轮一致；连续10次零产出终止。"
+  },
+  {
+   "source_id": "qiming",
+   "attempted_at": "2026-11-24T00:09:22+00:00",
+   "status": "success_zero_output",
+   "evidence_url": "https://www.qimingvc.com/cn/newsroom",
+   "notes": "新闻室可读（HTTP 200，53KB）；仍至Vol.36（2026.11.18），Vol.37未发布；连续7次零产出。"
+  },
+  {
+   "source_id": "nvca",
+   "attempted_at": "2026-11-24T00:09:22+00:00",
+   "status": "success_zero_output",
+   "evidence_url": "https://nvca.org/pitchbook-nvca-venture-monitor/",
+   "notes": "curl 200（带浏览器头）；仍Q3 2026 Venture Monitor口径；季度统计不生成离散事件；连续26次可达零产出。"
+  },
+  {
+   "source_id": "techstars",
+   "attempted_at": "2026-11-24T00:09:22+00:00",
+   "status": "success_zero_output",
+   "evidence_url": "https://www.techstars.com/portfolio",
+   "notes": "组合目录可读（HTTP 200，250KB）；静态目录无日期条目；连续44个成功采集日零产出（降级处置仍待授权）。"
+  },
+  {
+   "source_id": "company_official",
+   "attempted_at": "2026-11-24T00:09:22+00:00",
+   "status": "success_with_output",
+   "evidence_url": "per_event",
+   "notes": "按事件核验：sierra.ai官方博客（Sierra $1.75B SeriesF）、marlowe.ai官方博客（Marlowe $277M seed，官方域名落定）、BusinessWire Agon官方稿+gov.uk（Agon $70M SeriesA）、aboutamazon.com（Amazon-Decart并购官宣）、crowdstrike.com/ir新闻稿+SEC 425（Zscaler并购）；2家官方域名直接落定（sierra.ai/marlowe.ai），agon/acorda/supertake/decart官网域名待核验；外部媒体交叉URL（CNBC/GeekWire/Tech.eu/Finextra/qz/TNW/cmswire）登记于证据字段，不扩张常规来源清单。"
+  }
+ ]
+}
