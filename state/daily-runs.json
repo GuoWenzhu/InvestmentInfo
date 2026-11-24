@@ -841,12 +841,12 @@
     "zscaler-20261123-acquisition"
    ],
    "revision": 1,
-   "status": "ready_for_delivery",
+   "status": "delivered",
    "window_start": "2026-11-22T00:00:00Z",
    "window_end": "2026-11-24T00:09:22+00:00",
    "report_path": "reports/2026-11-24-daily.md",
-   "publication_comment_id": null,
-   "publication_note": null
+   "publication_comment_id": "01a20ae4-81c0-7a4d-a578-cd4119ed07e8",
+   "publication_note": "已交付Issue评论并附日报/追踪附件（2026-11-24T00:11:16Z）；同Issue不重复发布。窗口内新增7笔（股权5+并购2，全部披露2026-11-23周一）：Sierra $1.75B SeriesF（$30B估值，Greenoaks+Lightspeed联合领投）/Marlowe $277M seed（$1.15B估值，Accel领投，官方域名marlowe.ai落定）/Agon $70M SeriesA（Northzone领投，UK SovAI×NSSIF首次联合）/Acorda £1.8M pre-seed（Concept Ventures领投）/Supertake $20M seed（Adjacent领投）/Amazon-Decart约$7.5B reverse acquihire（官宣确认、金额匿名信源approximate）/CrowdStrike-Zscaler约$43.9B全股票（官宣+SEC 425）；0回补0更正，11-22周榜顺延队列确认全部关闭；TechCrunch/Sifted/Accel/company_official有产出，其余4入口零产出；sierra.ai/marlowe.ai官方域名落定；主提交1caf276已推送，回执提交随后。"
   }
  ]
 }
