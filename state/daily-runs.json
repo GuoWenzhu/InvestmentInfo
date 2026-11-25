@@ -863,8 +863,8 @@
    "window_start": "2026-11-23T00:00:35Z",
    "window_end": "2026-11-25T00:04:58+00:00",
    "report_path": "reports/2026-11-25-daily.md",
-   "publication_comment_id": "",
-   "publication_note": ""
+   "publication_comment_id": "01a21008-0858-754f-b004-b2f6bfc7b107",
+   "publication_note": "已交付Issue评论并附日报/追踪附件（2026-11-25T00:08:11Z）；同Issue不重复发布。窗口内新增2笔（股权1+债务1，均披露2026-11-24）：Maple $5.3M seed（EPIC Ventures领投，maple.ai官方博客确认、官方域名落定）/Harbinger >$100M债务融资组合（Erebor Bank senior debt+Pinegrove可转债，官方PR确认，账内首笔纯债务事件，区间下界口径）；历史回补1笔——美敦力约$700M战略投资康诺思腾（披露2026-09-01窗外，经启明Vol.37在窗发现，csrbtx.com官方域名落定）；0更正；TechCrunch/Sifted/Accel/启明/NVCA/接企查/company_official成功，Crunchbase News本轮SSL网络失败（consecutive_failures=1）；主提交8d47dc5已推送，回执提交随后。"
   }
  ]
 }
