@@ -615,3 +615,10 @@
 {"investor_id": "union-square-ventures", "name": "Union Square Ventures", "aliases": ["USV"], "parent_id": null}
 {"investor_id": "roelof-botha", "name": "Roelof Botha（个人天使，前Sequoia高级合伙人）", "aliases": [], "parent_id": null}
 {"investor_id": "david-helgason", "name": "David Helgason（个人天使，Unity创始人、Agon董事长）", "aliases": [], "parent_id": null}
+{"investor_id": "epic-ventures", "name": "EPIC Ventures", "aliases": [], "parent_id": null}
+{"investor_id": "draper-associates", "name": "Draper Associates", "aliases": [], "parent_id": null}
+{"investor_id": "planetary-vc", "name": "Planetary VC", "aliases": [], "parent_id": null}
+{"investor_id": "epoch-vc", "name": "Epoch VC", "aliases": [], "parent_id": null}
+{"investor_id": "erebor-bank", "name": "Erebor Bank", "aliases": ["Erebor（Palmer Luckey联合创立的国民特许银行，2026年2月启动）"], "parent_id": null}
+{"investor_id": "pinegrove-venture-partners", "name": "Pinegrove Venture Partners", "aliases": ["Pinegrove（Brookfield Asset Management与HRTG Partners赞助）"], "parent_id": null}
+{"investor_id": "medtronic", "name": "Medtronic（美敦力）", "aliases": ["Medtronic plc（NYSE: MDT）"], "parent_id": null}

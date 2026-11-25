@@ -11139,13 +11139,314 @@
    "event_id": "zscaler-20261123-acquisition",
    "status": "accepted_event_evidence",
    "revision": 1
+  },
+  {
+   "url": "https://techcrunch.com/2026/11/24/maple-raises-5-3m-to-build-ai-products-that-protect-your-data-even-from-itself/",
+   "canonical_url": "https://techcrunch.com/2026/11/24/maple-raises-5-3m-to-build-ai-products-that-protect-your-data-even-from-itself/",
+   "source_id": "techcrunch",
+   "first_collected_at": "2026-11-25T00:04:58+00:00",
+   "last_collected_at": "2026-11-25T00:04:58+00:00",
+   "issue_id": "01a21000-e854-7a0a-a78a-dcdf57e503ee",
+   "event_id": "maple-20261124-equity",
+   "status": "accepted"
+  },
+  {
+   "url": "https://maple.ai/blog/maple-ai-seed-round",
+   "canonical_url": "https://maple.ai/blog/maple-ai-seed-round",
+   "source_id": "company_official",
+   "first_collected_at": "2026-11-25T00:04:58+00:00",
+   "last_collected_at": "2026-11-25T00:04:58+00:00",
+   "issue_id": "01a21000-e854-7a0a-a78a-dcdf57e503ee",
+   "event_id": "maple-20261124-equity",
+   "status": "accepted"
+  },
+  {
+   "url": "https://harbingermotors.com/newsroom/harbinger-secures-100-million-debt-financing/",
+   "canonical_url": "https://harbingermotors.com/newsroom/harbinger-secures-100-million-debt-financing/",
+   "source_id": "company_official",
+   "first_collected_at": "2026-11-25T00:04:58+00:00",
+   "last_collected_at": "2026-11-25T00:04:58+00:00",
+   "issue_id": "01a21000-e854-7a0a-a78a-dcdf57e503ee",
+   "event_id": "harbinger-20261124-debt",
+   "status": "accepted"
+  },
+  {
+   "url": "https://techcrunch.com/2026/11/24/electric-truck-startup-harbinger-gets-financing-boost-from-palmer-luckeys-bank/",
+   "canonical_url": "https://techcrunch.com/2026/11/24/electric-truck-startup-harbinger-gets-financing-boost-from-palmer-luckeys-bank/",
+   "source_id": "techcrunch",
+   "first_collected_at": "2026-11-25T00:04:58+00:00",
+   "last_collected_at": "2026-11-25T00:04:58+00:00",
+   "issue_id": "01a21000-e854-7a0a-a78a-dcdf57e503ee",
+   "event_id": "harbinger-20261124-debt",
+   "status": "accepted"
+  },
+  {
+   "url": "https://www.csrbtx.com/en/cornerstone-news/2026-09-01-strategic-partnership/",
+   "canonical_url": "https://www.csrbtx.com/en/cornerstone-news/2026-09-01-strategic-partnership/",
+   "source_id": "company_official",
+   "first_collected_at": "2026-11-25T00:04:58+00:00",
+   "last_collected_at": "2026-11-25T00:04:58+00:00",
+   "issue_id": "01a21000-e854-7a0a-a78a-dcdf57e503ee",
+   "event_id": "cornerstone-20260901-equity",
+   "status": "accepted"
+  },
+  {
+   "url": "https://news.medtronic.com/2026-09-01-Medtronic-Announces-Strategic-Partnership-with-Cornerstone-Robotics-to-Further-Expand-Global-Access-to-Robotic-Assisted-Surgery",
+   "canonical_url": "https://news.medtronic.com/2026-09-01-Medtronic-Announces-Strategic-Partnership-with-Cornerstone-Robotics-to-Further-Expand-Global-Access-to-Robotic-Assisted-Surgery",
+   "source_id": "company_official",
+   "first_collected_at": "2026-11-25T00:04:58+00:00",
+   "last_collected_at": "2026-11-25T00:04:58+00:00",
+   "issue_id": "01a21000-e854-7a0a-a78a-dcdf57e503ee",
+   "event_id": "cornerstone-20260901-equity",
+   "status": "accepted"
+  },
+  {
+   "url": "https://www.qimingvc.com/cn/news/%E5%90%AF%E6%98%8E%E5%91%A8%E6%8A%A5-%E5%90%AF%E6%98%8E%E5%88%9B%E6%8A%95%E6%8A%95%E8%B5%84%E4%BC%81%E4%B8%9A%E8%A6%81%E9%97%BB%E5%8D%81%E6%9D%A1-vol37-20261124",
+   "canonical_url": "https://www.qimingvc.com/cn/news/%E5%90%AF%E6%98%8E%E5%91%A8%E6%8A%A5-%E5%90%AF%E6%98%8E%E5%88%9B%E6%8A%95%E6%8A%95%E8%B5%84%E4%BC%81%E4%B8%9A%E8%A6%81%E9%97%BB%E5%8D%81%E6%9D%A1-vol37-20261124",
+   "source_id": "qiming",
+   "first_collected_at": "2026-11-25T00:04:58+00:00",
+   "last_collected_at": "2026-11-25T00:04:58+00:00",
+   "issue_id": "01a21000-e854-7a0a-a78a-dcdf57e503ee",
+   "event_id": "cornerstone-20260901-equity",
+   "status": "accepted"
+  },
+  {
+   "url": "https://maple.ai/",
+   "canonical_url": "https://maple.ai/",
+   "source_id": "company_official",
+   "first_collected_at": "2026-11-25T00:04:58+00:00",
+   "last_collected_at": "2026-11-25T00:04:58+00:00",
+   "issue_id": "01a21000-e854-7a0a-a78a-dcdf57e503ee",
+   "event_id": null,
+   "status": "domain_verification",
+   "exclusion_note": "Maple AI官方域名落定：首页标题'Maple AI: Private AI Chat and Work'，与TC报道产品线（Chat/Work/Teams）一致；博客承载融资官宣"
+  },
+  {
+   "url": "https://www.csrbtx.com/zh/cornerstone-news/2026-09-01-strategic-partnership/",
+   "canonical_url": "https://www.csrbtx.com/zh/cornerstone-news/2026-09-01-strategic-partnership/",
+   "source_id": "company_official",
+   "first_collected_at": "2026-11-25T00:04:58+00:00",
+   "last_collected_at": "2026-11-25T00:04:58+00:00",
+   "issue_id": "01a21000-e854-7a0a-a78a-dcdf57e503ee",
+   "event_id": null,
+   "status": "domain_verification",
+   "exclusion_note": "康诺思腾官方域名csrbtx.com落定：中文官方新闻页2026-09-01与英文版同日同内容，与Medtronic官网稿一致"
+  },
+  {
+   "url": "https://techcrunch.com/2026/11/24/jensen-huang-still-thinks-a-succession-plan-creates-unnecessary-hierarchy/",
+   "canonical_url": "https://techcrunch.com/2026/11/24/jensen-huang-still-thinks-a-succession-plan-creates-unnecessary-hierarchy/",
+   "source_id": "techcrunch",
+   "first_collected_at": "2026-11-25T00:04:58+00:00",
+   "last_collected_at": "2026-11-25T00:04:58+00:00",
+   "issue_id": "01a21000-e854-7a0a-a78a-dcdf57e503ee",
+   "event_id": null,
+   "status": "excluded",
+   "exclusion_note": "Nvidia黄仁勋继任计划观点言论——公司治理/人事观点，非融资事件"
+  },
+  {
+   "url": "https://techcrunch.com/2026/11/24/in-all-hands-meeting-jensen-huang-thanks-white-house-and-says-hes-in-therapy/",
+   "canonical_url": "https://techcrunch.com/2026/11/24/in-all-hands-meeting-jensen-huang-thanks-white-house-and-says-hes-in-therapy/",
+   "source_id": "techcrunch",
+   "first_collected_at": "2026-11-25T00:04:58+00:00",
+   "last_collected_at": "2026-11-25T00:04:58+00:00",
+   "issue_id": "01a21000-e854-7a0a-a78a-dcdf57e503ee",
+   "event_id": null,
+   "status": "excluded",
+   "exclusion_note": "Nvidia全员大会治理动态——非融资事件"
+  },
+  {
+   "url": "https://techcrunch.com/2026/11/24/even-the-best-ai-agents-struggle-with-everyday-life/",
+   "canonical_url": "https://techcrunch.com/2026/11/24/even-the-best-ai-agents-struggle-with-everyday-life/",
+   "source_id": "techcrunch",
+   "first_collected_at": "2026-11-25T00:04:58+00:00",
+   "last_collected_at": "2026-11-25T00:04:58+00:00",
+   "issue_id": "01a21000-e854-7a0a-a78a-dcdf57e503ee",
+   "event_id": null,
+   "status": "excluded",
+   "exclusion_note": "AI agent能力评测报道——研究/产品类，非融资"
+  },
+  {
+   "url": "https://techcrunch.com/2026/11/24/walmart-teams-up-with-meta-to-bring-black-friday-deals-to-ai-agent-muse/",
+   "canonical_url": "https://techcrunch.com/2026/11/24/walmart-teams-up-with-meta-to-bring-black-friday-deals-to-ai-agent-muse/",
+   "source_id": "techcrunch",
+   "first_collected_at": "2026-11-25T00:04:58+00:00",
+   "last_collected_at": "2026-11-25T00:04:58+00:00",
+   "issue_id": "01a21000-e854-7a0a-a78a-dcdf57e503ee",
+   "event_id": null,
+   "status": "excluded",
+   "exclusion_note": "Walmart与Meta Muse合作——商业合作非融资"
+  },
+  {
+   "url": "https://techcrunch.com/2026/11/24/dozens-of-oil-and-shipping-tankers-hacked-in-recent-weeks-per-report/",
+   "canonical_url": "https://techcrunch.com/2026/11/24/dozens-of-oil-and-shipping-tankers-hacked-in-recent-weeks-per-report/",
+   "source_id": "techcrunch",
+   "first_collected_at": "2026-11-25T00:04:58+00:00",
+   "last_collected_at": "2026-11-25T00:04:58+00:00",
+   "issue_id": "01a21000-e854-7a0a-a78a-dcdf57e503ee",
+   "event_id": null,
+   "status": "excluded",
+   "exclusion_note": "油轮船队网络攻击报道——安全事件，非融资"
+  },
+  {
+   "url": "https://techcrunch.com/2026/11/24/anthropic-shares-fall-below-ipo-price-a-worrying-sign-for-ai-startups/",
+   "canonical_url": "https://techcrunch.com/2026/11/24/anthropic-shares-fall-below-ipo-price-a-worrying-sign-for-ai-startups/",
+   "source_id": "techcrunch",
+   "first_collected_at": "2026-11-25T00:04:58+00:00",
+   "last_collected_at": "2026-11-25T00:04:58+00:00",
+   "issue_id": "01a21000-e854-7a0a-a78a-dcdf57e503ee",
+   "event_id": null,
+   "status": "excluded",
+   "exclusion_note": "Anthropic IPO后股价跌破发行价分析——市场走势评论（延续11-22 01:25Z同类排除口径），非离散融资事件"
+  },
+  {
+   "url": "https://techcrunch.com/2026/11/24/uk-warns-ai-driven-cyberattacks-are-exposing-years-of-weak-security/",
+   "canonical_url": "https://techcrunch.com/2026/11/24/uk-warns-ai-driven-cyberattacks-are-exposing-years-of-weak-security/",
+   "source_id": "techcrunch",
+   "first_collected_at": "2026-11-25T00:04:58+00:00",
+   "last_collected_at": "2026-11-25T00:04:58+00:00",
+   "issue_id": "01a21000-e854-7a0a-a78a-dcdf57e503ee",
+   "event_id": null,
+   "status": "excluded",
+   "exclusion_note": "UK官方网络安全警示——政策类，非融资"
+  },
+  {
+   "url": "https://techcrunch.com/2026/11/24/threads-comes-to-ipad-and-takes-a-page-from-xs-playbook-with-cashtags/",
+   "canonical_url": "https://techcrunch.com/2026/11/24/threads-comes-to-ipad-and-takes-a-page-from-xs-playbook-with-cashtags/",
+   "source_id": "techcrunch",
+   "first_collected_at": "2026-11-25T00:04:58+00:00",
+   "last_collected_at": "2026-11-25T00:04:58+00:00",
+   "issue_id": "01a21000-e854-7a0a-a78a-dcdf57e503ee",
+   "event_id": null,
+   "status": "excluded",
+   "exclusion_note": "Threads产品更新——产品类，非融资"
+  },
+  {
+   "url": "https://techcrunch.com/2026/11/24/meta-brings-its-muse-ai-assistant-directly-into-instagram-dms/",
+   "canonical_url": "https://techcrunch.com/2026/11/24/meta-brings-its-muse-ai-assistant-directly-into-instagram-dms/",
+   "source_id": "techcrunch",
+   "first_collected_at": "2026-11-25T00:04:58+00:00",
+   "last_collected_at": "2026-11-25T00:04:58+00:00",
+   "issue_id": "01a21000-e854-7a0a-a78a-dcdf57e503ee",
+   "event_id": null,
+   "status": "excluded",
+   "exclusion_note": "Meta Muse产品扩展——产品类，非融资"
+  },
+  {
+   "url": "https://techcrunch.com/2026/11/24/tidal-to-ban-and-remove-millions-of-ai-generated-tracks-as-ai-slop-inundates-music-streaming/",
+   "canonical_url": "https://techcrunch.com/2026/11/24/tidal-to-ban-and-remove-millions-of-ai-generated-tracks-as-ai-slop-inundates-music-streaming/",
+   "source_id": "techcrunch",
+   "first_collected_at": "2026-11-25T00:04:58+00:00",
+   "last_collected_at": "2026-11-25T00:04:58+00:00",
+   "issue_id": "01a21000-e854-7a0a-a78a-dcdf57e503ee",
+   "event_id": null,
+   "status": "excluded",
+   "exclusion_note": "Tidal内容治理——平台政策，非融资"
+  },
+  {
+   "url": "https://techcrunch.com/2026/11/24/uber-and-nuro-begin-driverless-testing-of-lucid-robotaxis-ahead-of-2027-launch/",
+   "canonical_url": "https://techcrunch.com/2026/11/24/uber-and-nuro-begin-driverless-testing-of-lucid-robotaxis-ahead-of-2027-launch/",
+   "source_id": "techcrunch",
+   "first_collected_at": "2026-11-25T00:04:58+00:00",
+   "last_collected_at": "2026-11-25T00:04:58+00:00",
+   "issue_id": "01a21000-e854-7a0a-a78a-dcdf57e503ee",
+   "event_id": null,
+   "status": "excluded",
+   "exclusion_note": "Uber/Nuro/Lucid robotaxi测试——合作与产品进展，非融资"
+  },
+  {
+   "url": "https://techcrunch.com/2026/11/24/why-a-crusoe-investor-is-betting-on-solar-and-batteries-to-power-future-ai-data-centers/",
+   "canonical_url": "https://techcrunch.com/2026/11/24/why-a-crusoe-investor-is-betting-on-solar-and-batteries-to-power-future-ai-data-centers/",
+   "source_id": "techcrunch",
+   "first_collected_at": "2026-11-25T00:04:58+00:00",
+   "last_collected_at": "2026-11-25T00:04:58+00:00",
+   "issue_id": "01a21000-e854-7a0a-a78a-dcdf57e503ee",
+   "event_id": null,
+   "status": "excluded",
+   "exclusion_note": "Crusoe投资人观点访谈——机构观点（观点不入融资），无新交易事实"
+  },
+  {
+   "url": "https://techcrunch.com/2026/11/24/pinterest-will-now-let-parents-limit-the-ai-generated-content-their-teens-see/",
+   "canonical_url": "https://techcrunch.com/2026/11/24/pinterest-will-now-let-parents-limit-the-ai-generated-content-their-teens-see/",
+   "source_id": "techcrunch",
+   "first_collected_at": "2026-11-25T00:04:58+00:00",
+   "last_collected_at": "2026-11-25T00:04:58+00:00",
+   "issue_id": "01a21000-e854-7a0a-a78a-dcdf57e503ee",
+   "event_id": null,
+   "status": "excluded",
+   "exclusion_note": "Pinterest家长控制功能——产品类，非融资"
+  },
+  {
+   "url": "https://techcrunch.com/2026/11/24/amazons-decart-acquisition-is-a-bet-on-using-software-to-narrow-the-gap-with-nvidia-in-the-ai-chip-race/",
+   "canonical_url": "https://techcrunch.com/2026/11/24/amazons-decart-acquisition-is-a-bet-on-using-software-to-narrow-the-gap-with-nvidia-in-the-ai-chip-race/",
+   "source_id": "techcrunch",
+   "first_collected_at": "2026-11-25T00:04:58+00:00",
+   "last_collected_at": "2026-11-25T00:04:58+00:00",
+   "issue_id": "01a21000-e854-7a0a-a78a-dcdf57e503ee",
+   "event_id": null,
+   "status": "excluded",
+   "exclusion_note": "Amazon-Decart并购战略分析——已入账事件decart-20261123-acquisition的评论文章，无新增可核验事实（金额仍为Bloomberg约$7.5B口径）"
+  },
+  {
+   "url": "https://techcrunch.com/2026/11/24/huang-reportedly-admitted-to-more-than-two-affairs-to-nvidias-board/",
+   "canonical_url": "https://techcrunch.com/2026/11/24/huang-reportedly-admitted-to-more-than-two-affairs-to-nvidias-board/",
+   "source_id": "techcrunch",
+   "first_collected_at": "2026-11-25T00:04:58+00:00",
+   "last_collected_at": "2026-11-25T00:04:58+00:00",
+   "issue_id": "01a21000-e854-7a0a-a78a-dcdf57e503ee",
+   "event_id": null,
+   "status": "excluded",
+   "exclusion_note": "Nvidia董事会治理报道——治理类，非融资"
+  },
+  {
+   "url": "https://sifted.eu/articles/europes-sovereignty-debate-luxembourg-brnd/",
+   "canonical_url": "https://sifted.eu/articles/europes-sovereignty-debate-luxembourg-brnd/",
+   "source_id": "sifted",
+   "first_collected_at": "2026-11-25T00:04:58+00:00",
+   "last_collected_at": "2026-11-25T00:04:58+00:00",
+   "issue_id": "01a21000-e854-7a0a-a78a-dcdf57e503ee",
+   "event_id": null,
+   "status": "excluded",
+   "exclusion_note": "欧洲主权议题活动推广（brnd赞助内容）——非融资"
+  },
+  {
+   "url": "https://sifted.eu/articles/starling-veteran-to-take-over-as-ceo/",
+   "canonical_url": "https://sifted.eu/articles/starling-veteran-to-take-over-as-ceo/",
+   "source_id": "sifted",
+   "first_collected_at": "2026-11-25T00:04:58+00:00",
+   "last_collected_at": "2026-11-25T00:04:58+00:00",
+   "issue_id": "01a21000-e854-7a0a-a78a-dcdf57e503ee",
+   "event_id": null,
+   "status": "excluded",
+   "exclusion_note": "Starling Bank新CEO人选——银行人事任命，非融资事件"
+  },
+  {
+   "url": "https://sifted.eu/articles/starlings-next-ceo/",
+   "canonical_url": "https://sifted.eu/articles/starlings-next-ceo/",
+   "source_id": "sifted",
+   "first_collected_at": "2026-11-25T00:04:58+00:00",
+   "last_collected_at": "2026-11-25T00:04:58+00:00",
+   "issue_id": "01a21000-e854-7a0a-a78a-dcdf57e503ee",
+   "event_id": null,
+   "status": "excluded",
+   "exclusion_note": "Starling CEO人选竞猜前瞻——人事类，非融资"
+  },
+  {
+   "url": "https://sifted.eu/articles/cybersecurity-startups-mapped-108-companies-guarding-europes-digital-frontline/",
+   "canonical_url": "https://sifted.eu/articles/cybersecurity-startups-mapped-108-companies-guarding-europes-digital-frontline/",
+   "source_id": "sifted",
+   "first_collected_at": "2026-11-25T00:04:58+00:00",
+   "last_collected_at": "2026-11-25T00:04:58+00:00",
+   "issue_id": "01a21000-e854-7a0a-a78a-dcdf57e503ee",
+   "event_id": null,
+   "status": "excluded",
+   "exclusion_note": "欧洲网络安全108家公司地图——目录/榜单收录（目录不当作融资），逐家融资信息未在文内逐笔官宣核验"
   }
  ],
  "_meta": {
-  "last_updated": "2026-11-24T00:09:22+00:00",
-  "issue_id": "01a20ada-b0b3-780c-ad97-39237a94d285",
-  "total": 968,
-  "last_issue": "TECH-158",
-  "last_updated_at": "2026-11-24T00:09:22+00:00"
+  "last_updated": "2026-11-25T00:04:58+00:00",
+  "issue_id": "01a21000-e854-7a0a-a78a-dcdf57e503ee",
+  "total": 996,
+  "last_issue": "TECH-161",
+  "last_updated_at": "2026-11-25T00:04:58+00:00"
  }
 }

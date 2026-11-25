@@ -870,3 +870,10 @@
 {"event_id": "supertake-20261123-equity", "investor_id": "adjacent", "role": "lead", "investment_amount": null, "currency": null, "evidence_ids": ["supertake-tc-1"]}
 {"event_id": "supertake-20261123-equity", "investor_id": "coinbase-ventures", "role": "participant", "investment_amount": null, "currency": null, "evidence_ids": ["supertake-tc-1"]}
 {"event_id": "supertake-20261123-equity", "investor_id": "union-square-ventures", "role": "participant", "investment_amount": null, "currency": null, "evidence_ids": ["supertake-tc-1"]}
+{"event_id": "maple-20261124-equity", "investor_id": "epic-ventures", "role": "lead", "investment_amount": null, "currency": null, "evidence_ids": ["maple-tc-1"]}
+{"event_id": "maple-20261124-equity", "investor_id": "draper-associates", "role": "participant", "investment_amount": null, "currency": null, "evidence_ids": ["maple-tc-1"]}
+{"event_id": "maple-20261124-equity", "investor_id": "planetary-vc", "role": "participant", "investment_amount": null, "currency": null, "evidence_ids": ["maple-tc-1"]}
+{"event_id": "maple-20261124-equity", "investor_id": "epoch-vc", "role": "participant", "investment_amount": null, "currency": null, "evidence_ids": ["maple-tc-1"]}
+{"event_id": "harbinger-20261124-debt", "investor_id": "erebor-bank", "role": "participant", "investment_amount": null, "currency": null, "evidence_ids": ["harbinger-hb-pr-2"]}
+{"event_id": "harbinger-20261124-debt", "investor_id": "pinegrove-venture-partners", "role": "participant", "investment_amount": null, "currency": null, "evidence_ids": ["harbinger-hb-pr-2"]}
+{"event_id": "cornerstone-20260901-equity", "investor_id": "medtronic", "role": "lead", "investment_amount": null, "currency": null, "evidence_ids": ["cornerstone-csrbtx-en-1"]}

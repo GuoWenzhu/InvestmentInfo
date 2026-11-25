@@ -1,0 +1,65 @@
+{
+ "issue_id": "01a21000-e854-7a0a-a78a-dcdf57e503ee",
+ "issue_identifier": "TECH-161",
+ "collected_at": "2026-11-25T00:04:58+00:00",
+ "window_start": "2026-11-23T00:00:35Z",
+ "window_end": "2026-11-25T00:04:58+00:00",
+ "source_attempts": [
+  {
+   "source_id": "techcrunch",
+   "attempted_at": "2026-11-25T00:04:58+00:00",
+   "status": "success_with_output",
+   "evidence_url": "https://techcrunch.com/feed/",
+   "notes": "feed 200（20条）；窗口内11-24新增17条：2笔融资事件入账（Maple $5.3M seed——EPIC Ventures领投、官方博客确认；Harbinger >$100M债务融资——定期贷款+循环信贷+Erebor senior debt+Pinegrove可转债，官方PR确认）；15条非融资排除留痕（Nvidia治理x3、Anthropic股价分析、Walmart-Meta合作、油轮攻击、UK网络警示、Threads/Meta Muse/Tidal/Pinterest产品、Uber-Nuro测试、Crusoe投资人观点、Amazon-Decart并购评论——已入账事件分析）。"
+  },
+  {
+   "source_id": "sifted",
+   "attempted_at": "2026-11-25T00:04:58+00:00",
+   "status": "success_zero_output",
+   "evidence_url": "https://sifted.eu/feed",
+   "notes": "RSS 200；11-24新增4条全部排除（Starling CEO人事x2、网络安全108家目录——目录不当作融资、Luxembourg主权活动brnd）；Aikido €4bn仍未见关账。"
+  },
+  {
+   "source_id": "crunchbase_news",
+   "attempted_at": "2026-11-25T00:04:58+00:00",
+   "status": "network_failure",
+   "evidence_url": "https://news.crunchbase.com/feed/",
+   "notes": "SSL握手失败（curl exit 35）：/feed/三次尝试+首页替代入口均失败；本轮记真实网络失败（consecutive_failures=1，未达转观察门槛）。"
+  },
+  {
+   "source_id": "accel",
+   "attempted_at": "2026-11-25T00:04:58+00:00",
+   "status": "success_zero_output",
+   "evidence_url": "https://www.accel.com/news",
+   "notes": "列表200；53条/news链接与上轮一致（最新仍11-23 Marlowe）；零新增。"
+  },
+  {
+   "source_id": "qiming",
+   "attempted_at": "2026-11-25T00:04:58+00:00",
+   "status": "success_with_output",
+   "evidence_url": "https://www.qimingvc.com/cn/newsroom",
+   "notes": "Vol.37（2026.11.24）发布：康诺思腾×美敦力战略投资线索→官方PR逐笔核验→历史回补入账cornerstone-20260901-equity（披露2026-09-01窗外）；其余9条非融资排除；连续7次零产出终止。"
+  },
+  {
+   "source_id": "nvca",
+   "attempted_at": "2026-11-25T00:04:58+00:00",
+   "status": "success_zero_output",
+   "evidence_url": "https://nvca.org/pitchbook-nvca-venture-monitor/",
+   "notes": "首次403（Cloudflare），完整浏览器头重试200；仍Q3 2026口径；季度统计不生成离散事件。"
+  },
+  {
+   "source_id": "techstars",
+   "attempted_at": "2026-11-25T00:04:58+00:00",
+   "status": "success_zero_output",
+   "evidence_url": "https://www.techstars.com/portfolio",
+   "notes": "目录200静态；连续45个成功采集日零产出（降级处置仍待授权）。"
+  },
+  {
+   "source_id": "company_official",
+   "attempted_at": "2026-11-25T00:04:58+00:00",
+   "status": "success_with_output",
+   "evidence_url": "per_event",
+   "notes": "按事件核验：maple.ai博客（官方域名落定）+harbingermotors.com PR+csrbtx.com中英文PR（官方域名落定）+Medtronic newsroom原文；Medtronic SEC 10-Q与HK gov演讲稿经搜索佐证登记。"
+  }
+ ]
+}
