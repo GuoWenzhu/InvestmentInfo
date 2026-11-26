@@ -622,3 +622,10 @@
 {"investor_id": "erebor-bank", "name": "Erebor Bank", "aliases": ["Erebor（Palmer Luckey联合创立的国民特许银行，2026年2月启动）"], "parent_id": null}
 {"investor_id": "pinegrove-venture-partners", "name": "Pinegrove Venture Partners", "aliases": ["Pinegrove（Brookfield Asset Management与HRTG Partners赞助）"], "parent_id": null}
 {"investor_id": "medtronic", "name": "Medtronic（美敦力）", "aliases": ["Medtronic plc（NYSE: MDT）"], "parent_id": null}
+{"investor_id": "otb-ventures", "name": "OTB Ventures", "aliases": [], "parent_id": null}
+{"investor_id": "forward-one", "name": "FORWARD.one", "aliases": ["Forward.one", "FORWARD.ONE"], "parent_id": null}
+{"investor_id": "credo-ventures", "name": "Credo Ventures", "aliases": [], "parent_id": null}
+{"investor_id": "inovo-vc", "name": "Inovo VC", "aliases": ["Inovo"], "parent_id": null}
+{"investor_id": "borusan-ventures", "name": "Borusan Ventures", "aliases": [], "parent_id": null}
+{"investor_id": "ff-venture-capital", "name": "ff Venture Capital", "aliases": ["ffVC"], "parent_id": null}
+{"investor_id": "naval-ravikant", "name": "Naval Ravikant（个人天使投资人，AngelList联合创始人）", "aliases": [], "parent_id": null}

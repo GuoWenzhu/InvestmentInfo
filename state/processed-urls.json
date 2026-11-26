@@ -11440,13 +11440,261 @@
    "event_id": null,
    "status": "excluded",
    "exclusion_note": "欧洲网络安全108家公司地图——目录/榜单收录（目录不当作融资），逐家融资信息未在文内逐笔官宣核验"
+  },
+  {
+   "url": "https://techcrunch.com/2026/11/25/sp-considers-nvidia-credit-downgrade-over-governance-and-key-man-risks/",
+   "canonical_url": "https://techcrunch.com/2026/11/25/sp-considers-nvidia-credit-downgrade-over-governance-and-key-man-risks/",
+   "source_id": "techcrunch",
+   "first_collected_at": "2026-11-26T00:04:51+00:00",
+   "issue_id": "01a21527-50c8-7d94-a0f3-c3a17064d7f4",
+   "disposition": "excluded_non_financing"
+  },
+  {
+   "url": "https://techcrunch.com/2026/11/25/fcc-approves-spacex-plan-to-put-ai-data-centers-in-space/",
+   "canonical_url": "https://techcrunch.com/2026/11/25/fcc-approves-spacex-plan-to-put-ai-data-centers-in-space/",
+   "source_id": "techcrunch",
+   "first_collected_at": "2026-11-26T00:04:51+00:00",
+   "issue_id": "01a21527-50c8-7d94-a0f3-c3a17064d7f4",
+   "disposition": "excluded_non_financing"
+  },
+  {
+   "url": "https://techcrunch.com/2026/11/25/openai-says-heavy-chatgpt-users-may-hit-limits-sooner-as-it-merges-chat-and-work/",
+   "canonical_url": "https://techcrunch.com/2026/11/25/openai-says-heavy-chatgpt-users-may-hit-limits-sooner-as-it-merges-chat-and-work/",
+   "source_id": "techcrunch",
+   "first_collected_at": "2026-11-26T00:04:51+00:00",
+   "issue_id": "01a21527-50c8-7d94-a0f3-c3a17064d7f4",
+   "disposition": "excluded_non_financing"
+  },
+  {
+   "url": "https://techcrunch.com/2026/11/25/jensen-huang-broke-nvidias-code-of-conduct-and-his-employees-may-not-forget-it/",
+   "canonical_url": "https://techcrunch.com/2026/11/25/jensen-huang-broke-nvidias-code-of-conduct-and-his-employees-may-not-forget-it/",
+   "source_id": "techcrunch",
+   "first_collected_at": "2026-11-26T00:04:51+00:00",
+   "issue_id": "01a21527-50c8-7d94-a0f3-c3a17064d7f4",
+   "disposition": "excluded_non_financing"
+  },
+  {
+   "url": "https://techcrunch.com/2026/11/25/the-canceled-tesla-cybertruck-is-the-fastest-selling-used-truck-in-america/",
+   "canonical_url": "https://techcrunch.com/2026/11/25/the-canceled-tesla-cybertruck-is-the-fastest-selling-used-truck-in-america/",
+   "source_id": "techcrunch",
+   "first_collected_at": "2026-11-26T00:04:51+00:00",
+   "issue_id": "01a21527-50c8-7d94-a0f3-c3a17064d7f4",
+   "disposition": "excluded_non_financing"
+  },
+  {
+   "url": "https://techcrunch.com/2026/11/25/anthropics-dario-amodei-calls-accusations-of-surrendering-human-control-to-ai-absurd/",
+   "canonical_url": "https://techcrunch.com/2026/11/25/anthropics-dario-amodei-calls-accusations-of-surrendering-human-control-to-ai-absurd/",
+   "source_id": "techcrunch",
+   "first_collected_at": "2026-11-26T00:04:51+00:00",
+   "issue_id": "01a21527-50c8-7d94-a0f3-c3a17064d7f4",
+   "disposition": "excluded_non_financing"
+  },
+  {
+   "url": "https://techcrunch.com/2026/11/25/1password-said-hackers-broke-into-its-internal-systems-but-customer-passwords-are-safe/",
+   "canonical_url": "https://techcrunch.com/2026/11/25/1password-said-hackers-broke-into-its-internal-systems-but-customer-passwords-are-safe/",
+   "source_id": "techcrunch",
+   "first_collected_at": "2026-11-26T00:04:51+00:00",
+   "issue_id": "01a21527-50c8-7d94-a0f3-c3a17064d7f4",
+   "disposition": "excluded_non_financing"
+  },
+  {
+   "url": "https://techcrunch.com/2026/11/25/want-to-buy-your-kid-an-ai-toy-this-christmas-not-in-new-york/",
+   "canonical_url": "https://techcrunch.com/2026/11/25/want-to-buy-your-kid-an-ai-toy-this-christmas-not-in-new-york/",
+   "source_id": "techcrunch",
+   "first_collected_at": "2026-11-26T00:04:51+00:00",
+   "issue_id": "01a21527-50c8-7d94-a0f3-c3a17064d7f4",
+   "disposition": "excluded_non_financing"
+  },
+  {
+   "url": "https://techcrunch.com/2026/11/25/doj-accuses-former-cyber-executive-of-defrauding-ransomware-victims-by-secretly-paying-hackers/",
+   "canonical_url": "https://techcrunch.com/2026/11/25/doj-accuses-former-cyber-executive-of-defrauding-ransomware-victims-by-secretly-paying-hackers/",
+   "source_id": "techcrunch",
+   "first_collected_at": "2026-11-26T00:04:51+00:00",
+   "issue_id": "01a21527-50c8-7d94-a0f3-c3a17064d7f4",
+   "disposition": "excluded_non_financing"
+  },
+  {
+   "url": "https://techcrunch.com/2026/11/25/state-ags-fight-character-ais-plan-to-auction-off-users-private-chats/",
+   "canonical_url": "https://techcrunch.com/2026/11/25/state-ags-fight-character-ais-plan-to-auction-off-users-private-chats/",
+   "source_id": "techcrunch",
+   "first_collected_at": "2026-11-26T00:04:51+00:00",
+   "issue_id": "01a21527-50c8-7d94-a0f3-c3a17064d7f4",
+   "disposition": "excluded_non_financing"
+  },
+  {
+   "url": "https://techcrunch.com/2026/11/25/xs-latest-update-for-creators-focuses-on-vertical-video/",
+   "canonical_url": "https://techcrunch.com/2026/11/25/xs-latest-update-for-creators-focuses-on-vertical-video/",
+   "source_id": "techcrunch",
+   "first_collected_at": "2026-11-26T00:04:51+00:00",
+   "issue_id": "01a21527-50c8-7d94-a0f3-c3a17064d7f4",
+   "disposition": "excluded_non_financing"
+  },
+  {
+   "url": "https://techcrunch.com/2026/11/25/whatsapp-now-lets-you-schedule-messages-in-group-and-individual-chats/",
+   "canonical_url": "https://techcrunch.com/2026/11/25/whatsapp-now-lets-you-schedule-messages-in-group-and-individual-chats/",
+   "source_id": "techcrunch",
+   "first_collected_at": "2026-11-26T00:04:51+00:00",
+   "issue_id": "01a21527-50c8-7d94-a0f3-c3a17064d7f4",
+   "disposition": "excluded_non_financing"
+  },
+  {
+   "url": "https://techcrunch.com/2026/11/25/allstate-suffers-multi-day-tech-outage-ahead-of-thanksgiving/",
+   "canonical_url": "https://techcrunch.com/2026/11/25/allstate-suffers-multi-day-tech-outage-ahead-of-thanksgiving/",
+   "source_id": "techcrunch",
+   "first_collected_at": "2026-11-26T00:04:51+00:00",
+   "issue_id": "01a21527-50c8-7d94-a0f3-c3a17064d7f4",
+   "disposition": "excluded_non_financing"
+  },
+  {
+   "url": "https://techcrunch.com/2026/11/25/todoist-confirms-6-of-customers-details-were-stolen-in-data-breach/",
+   "canonical_url": "https://techcrunch.com/2026/11/25/todoist-confirms-6-of-customers-details-were-stolen-in-data-breach/",
+   "source_id": "techcrunch",
+   "first_collected_at": "2026-11-26T00:04:51+00:00",
+   "issue_id": "01a21527-50c8-7d94-a0f3-c3a17064d7f4",
+   "disposition": "excluded_non_financing"
+  },
+  {
+   "url": "https://techcrunch.com/2026/11/25/amazon-and-meta-reportedly-in-talks-to-lift-blockade-on-ai-agent-muse/",
+   "canonical_url": "https://techcrunch.com/2026/11/25/amazon-and-meta-reportedly-in-talks-to-lift-blockade-on-ai-agent-muse/",
+   "source_id": "techcrunch",
+   "first_collected_at": "2026-11-26T00:04:51+00:00",
+   "issue_id": "01a21527-50c8-7d94-a0f3-c3a17064d7f4",
+   "disposition": "excluded_non_financing"
+  },
+  {
+   "url": "https://techcrunch.com/2026/11/25/flipkart-ceo-kalyan-krishnamurthy-to-step-down-next-week-amid-ipo-uncertainty/",
+   "canonical_url": "https://techcrunch.com/2026/11/25/flipkart-ceo-kalyan-krishnamurthy-to-step-down-next-week-amid-ipo-uncertainty/",
+   "source_id": "techcrunch",
+   "first_collected_at": "2026-11-26T00:04:51+00:00",
+   "issue_id": "01a21527-50c8-7d94-a0f3-c3a17064d7f4",
+   "disposition": "excluded_non_financing"
+  },
+  {
+   "url": "https://techcrunch.com/2026/11/25/the-questions-jensen-huang-and-nvidia-will-still-have-to-answer-about-megaspeed/",
+   "canonical_url": "https://techcrunch.com/2026/11/25/the-questions-jensen-huang-and-nvidia-will-still-have-to-answer-about-megaspeed/",
+   "source_id": "techcrunch",
+   "first_collected_at": "2026-11-26T00:04:51+00:00",
+   "issue_id": "01a21527-50c8-7d94-a0f3-c3a17064d7f4",
+   "disposition": "excluded_non_financing"
+  },
+  {
+   "url": "https://techcrunch.com/2026/11/24/yales-sonnenfeld-nvidia-is-a-detriment-to-u-s-industrial-might-not-a-champion/",
+   "canonical_url": "https://techcrunch.com/2026/11/24/yales-sonnenfeld-nvidia-is-a-detriment-to-u-s-industrial-might-not-a-champion/",
+   "source_id": "techcrunch",
+   "first_collected_at": "2026-11-26T00:04:51+00:00",
+   "issue_id": "01a21527-50c8-7d94-a0f3-c3a17064d7f4",
+   "disposition": "excluded_non_financing"
+  },
+  {
+   "url": "https://techcrunch.com/2026/11/24/trump-reportedly-says-pardoning-jensen-huang-is-an-option-but-that-he-doesnt-think-it-will-be-necessary/",
+   "canonical_url": "https://techcrunch.com/2026/11/24/trump-reportedly-says-pardoning-jensen-huang-is-an-option-but-that-he-doesnt-think-it-will-be-necessary/",
+   "source_id": "techcrunch",
+   "first_collected_at": "2026-11-26T00:04:51+00:00",
+   "issue_id": "01a21527-50c8-7d94-a0f3-c3a17064d7f4",
+   "disposition": "excluded_non_financing"
+  },
+  {
+   "url": "https://sifted.eu/articles/polyais-ex-machine-learning-chief-raises-20m-for-new-robotics-startup/",
+   "canonical_url": "https://sifted.eu/articles/polyais-ex-machine-learning-chief-raises-20m-for-new-robotics-startup/",
+   "source_id": "sifted",
+   "first_collected_at": "2026-11-26T00:04:51+00:00",
+   "issue_id": "01a21527-50c8-7d94-a0f3-c3a17064d7f4",
+   "disposition": "event_ledgered_lute-20261125-equity"
+  },
+  {
+   "url": "https://sifted.eu/articles/au-quantum-act-sovereign-tech-fund/",
+   "canonical_url": "https://sifted.eu/articles/au-quantum-act-sovereign-tech-fund/",
+   "source_id": "sifted",
+   "first_collected_at": "2026-11-26T00:04:51+00:00",
+   "issue_id": "01a21527-50c8-7d94-a0f3-c3a17064d7f4",
+   "disposition": "excluded_policy_fund_plan"
+  },
+  {
+   "url": "https://sifted.eu/articles/the-best-christmas-gifts-for-founders/",
+   "canonical_url": "https://sifted.eu/articles/the-best-christmas-gifts-for-founders/",
+   "source_id": "sifted",
+   "first_collected_at": "2026-11-26T00:04:51+00:00",
+   "issue_id": "01a21527-50c8-7d94-a0f3-c3a17064d7f4",
+   "disposition": "excluded_non_financing"
+  },
+  {
+   "url": "https://sifted.eu/articles/how-much-do-you-know-about-your-ai-agents-brnd/",
+   "canonical_url": "https://sifted.eu/articles/how-much-do-you-know-about-your-ai-agents-brnd/",
+   "source_id": "sifted",
+   "first_collected_at": "2026-11-26T00:04:51+00:00",
+   "issue_id": "01a21527-50c8-7d94-a0f3-c3a17064d7f4",
+   "disposition": "excluded_branded_content"
+  },
+  {
+   "url": "https://sifted.eu/articles/25-biotech-startups-to-watch-according-to-vcs/",
+   "canonical_url": "https://sifted.eu/articles/25-biotech-startups-to-watch-according-to-vcs/",
+   "source_id": "sifted",
+   "first_collected_at": "2026-11-26T00:04:51+00:00",
+   "issue_id": "01a21527-50c8-7d94-a0f3-c3a17064d7f4",
+   "disposition": "excluded_directory"
+  },
+  {
+   "url": "https://sifted.eu/articles/how-to-build-an-ai-native-vc-fund/",
+   "canonical_url": "https://sifted.eu/articles/how-to-build-an-ai-native-vc-fund/",
+   "source_id": "sifted",
+   "first_collected_at": "2026-11-26T00:04:51+00:00",
+   "issue_id": "01a21527-50c8-7d94-a0f3-c3a17064d7f4",
+   "disposition": "excluded_opinion"
+  },
+  {
+   "url": "https://news.crunchbase.com/startups/bad-startup-name-examples-advice-grok/",
+   "canonical_url": "https://news.crunchbase.com/startups/bad-startup-name-examples-advice-grok/",
+   "source_id": "crunchbase_news",
+   "first_collected_at": "2026-11-26T00:04:51+00:00",
+   "issue_id": "01a21527-50c8-7d94-a0f3-c3a17064d7f4",
+   "disposition": "excluded_opinion"
+  },
+  {
+   "url": "https://news.crunchbase.com/ma/your-ai-startups-exit-is-being-shaped-by-the-deals-you-sign-today/",
+   "canonical_url": "https://news.crunchbase.com/ma/your-ai-startups-exit-is-being-shaped-by-the-deals-you-sign-today/",
+   "source_id": "crunchbase_news",
+   "first_collected_at": "2026-11-26T00:04:51+00:00",
+   "issue_id": "01a21527-50c8-7d94-a0f3-c3a17064d7f4",
+   "disposition": "excluded_opinion"
+  },
+  {
+   "url": "https://news.crunchbase.com/workplace/ai-bias-in-hr-hiring-job-applications/",
+   "canonical_url": "https://news.crunchbase.com/workplace/ai-bias-in-hr-hiring-job-applications/",
+   "source_id": "crunchbase_news",
+   "first_collected_at": "2026-11-26T00:04:51+00:00",
+   "issue_id": "01a21527-50c8-7d94-a0f3-c3a17064d7f4",
+   "disposition": "excluded_opinion"
+  },
+  {
+   "url": "https://news.crunchbase.com/startups/startup-name-trends-2026-ai/",
+   "canonical_url": "https://news.crunchbase.com/startups/startup-name-trends-2026-ai/",
+   "source_id": "crunchbase_news",
+   "first_collected_at": "2026-11-26T00:04:51+00:00",
+   "issue_id": "01a21527-50c8-7d94-a0f3-c3a17064d7f4",
+   "disposition": "excluded_opinion"
+  },
+  {
+   "url": "https://www.lute.one/news/seed",
+   "canonical_url": "https://www.lute.one/news/seed",
+   "source_id": "company_official",
+   "first_collected_at": "2026-11-26T00:04:51+00:00",
+   "issue_id": "01a21527-50c8-7d94-a0f3-c3a17064d7f4",
+   "disposition": "official_verification"
+  },
+  {
+   "url": "https://otb.vc/article/lute-taking-physical-ai-from-the-lab-to-real-work-sites/",
+   "canonical_url": "https://otb.vc/article/lute-taking-physical-ai-from-the-lab-to-real-work-sites/",
+   "source_id": "company_official",
+   "first_collected_at": "2026-11-26T00:04:51+00:00",
+   "issue_id": "01a21527-50c8-7d94-a0f3-c3a17064d7f4",
+   "disposition": "investor_official_verification"
   }
  ],
  "_meta": {
-  "last_updated": "2026-11-25T00:04:58+00:00",
-  "issue_id": "01a21000-e854-7a0a-a78a-dcdf57e503ee",
-  "total": 996,
-  "last_issue": "TECH-161",
-  "last_updated_at": "2026-11-25T00:04:58+00:00"
+  "last_updated": "2026-11-26T00:04:51+00:00",
+  "issue_id": "01a21527-50c8-7d94-a0f3-c3a17064d7f4",
+  "total": 1027,
+  "last_issue": "TECH-164",
+  "last_updated_at": "2026-11-26T00:04:51+00:00"
  }
 }

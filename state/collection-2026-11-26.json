@@ -1,0 +1,65 @@
+{
+ "issue_id": "01a21527-50c8-7d94-a0f3-c3a17064d7f4",
+ "issue_identifier": "TECH-164",
+ "collected_at": "2026-11-26T00:04:51+00:00",
+ "window_start": "2026-11-24T00:04:51+00:00",
+ "window_end": "2026-11-26T00:04:51+00:00",
+ "source_attempts": [
+  {
+   "source_id": "techcrunch",
+   "attempted_at": "2026-11-26T00:04:51+00:00",
+   "status": "success_zero_output",
+   "evidence_url": "https://techcrunch.com/feed/",
+   "notes": "feed 200（20条，11-24 22:27Z～11-25 22:44Z均在窗）；20条全部非融资排除留痕：Nvidia治理系x6（S&P信用评级关注、Jensen行为准则、Megaspeed追问、Yale Sonnenfeld观点、特朗普赦免言论、接班人安排）、SpaceX FCC批准太空数据中心、OpenAI Chat/Work合并限流、Tesla Cybertruck二手分析、Anthropic Dario言论、1Password入侵、NY AI玩具法案、DOJ勒索欺诈案、Character.AI州AG诉讼、X竖视频、WhatsApp定时消息、Allstate故障、Todoist数据泄露、Amazon-Meta Muse谈判传闻（reportedly未确认交易）、Flipkart CEO人事。"
+  },
+  {
+   "source_id": "sifted",
+   "attempted_at": "2026-11-26T00:04:51+00:00",
+   "status": "success_with_output",
+   "evidence_url": "https://sifted.eu/feed",
+   "notes": "RSS 200（24条）；11-25新增6条：Lute $20M融资入账（正文页AWS WAF 403，经官方lute.one博客+领投方otb.vc核验后入账）、EU Quantum Act €50bn基金计划（政策提案非基金关账，排除）、创始人礼品指南（排除）、AI agents brnd（排除）、25 biotech目录（排除）、AI-native VC fund观点（排除）；11-24的4条昨日已处理；Aikido €4bn仍未见关账。"
+  },
+  {
+   "source_id": "crunchbase_news",
+   "attempted_at": "2026-11-26T00:04:51+00:00",
+   "status": "success_zero_output",
+   "evidence_url": "https://news.crunchbase.com/feed/",
+   "notes": "feed 200（119KB）——上轮SSL握手故障本轮恢复；窗内新增4条均为观点/客座分析（糟糕创业公司命名x2、AI bias in HR、AI退出交易客座文）排除；11-23独角兽估值分析11-24已处理不重复计；Nov21-27周榜仍未出现在feed。"
+  },
+  {
+   "source_id": "accel",
+   "attempted_at": "2026-11-26T00:04:51+00:00",
+   "status": "success_zero_output",
+   "evidence_url": "https://www.accel.com/news",
+   "notes": "列表200（550KB）；53条/news链接与上轮一致（最新仍11-23 Marlowe公告）；零新增。"
+  },
+  {
+   "source_id": "qiming",
+   "attempted_at": "2026-11-26T00:04:51+00:00",
+   "status": "success_zero_output",
+   "evidence_url": "https://www.qimingvc.com/cn/newsroom",
+   "notes": "页面200；最新仍Vol.37（2026.11.24，昨日已处理完毕）；页面其余条目为观点类（日期≤2026.11.18均已在档）；零新增。"
+  },
+  {
+   "source_id": "nvca",
+   "attempted_at": "2026-11-26T00:04:51+00:00",
+   "status": "success_zero_output",
+   "evidence_url": "https://nvca.org/pitchbook-nvca-venture-monitor/",
+   "notes": "200（174KB，浏览器头直连成功）；仍Q3 2026 Venture Monitor口径；季度统计不生成离散事件。"
+  },
+  {
+   "source_id": "techstars",
+   "attempted_at": "2026-11-26T00:04:51+00:00",
+   "status": "success_zero_output",
+   "evidence_url": "https://www.techstars.com/portfolio",
+   "notes": "目录200静态；连续46个成功采集日零产出（降级处置仍待授权）。"
+  },
+  {
+   "source_id": "company_official",
+   "attempted_at": "2026-11-26T00:04:51+00:00",
+   "status": "success_with_output",
+   "evidence_url": "per_event",
+   "notes": "按事件核验：lute.one官方博客（官方域名当日落定，'$20M seed round co-led by OTB Ventures and FORWARD.one, including our pre-seed round led by Credo Ventures and Seedcamp'逐字核验）+otb.vc领投方官网公告（'total pre-seed and seed funding to $20 million'同口径）双官方核验入账lute-20261125-equity。"
+  }
+ ]
+}

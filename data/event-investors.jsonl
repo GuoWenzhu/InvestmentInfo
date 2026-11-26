@@ -877,3 +877,11 @@
 {"event_id": "harbinger-20261124-debt", "investor_id": "erebor-bank", "role": "participant", "investment_amount": null, "currency": null, "evidence_ids": ["harbinger-hb-pr-2"]}
 {"event_id": "harbinger-20261124-debt", "investor_id": "pinegrove-venture-partners", "role": "participant", "investment_amount": null, "currency": null, "evidence_ids": ["harbinger-hb-pr-2"]}
 {"event_id": "cornerstone-20260901-equity", "investor_id": "medtronic", "role": "lead", "investment_amount": null, "currency": null, "evidence_ids": ["cornerstone-csrbtx-en-1"]}
+{"event_id": "lute-20261125-equity", "investor_id": "otb-ventures", "role": "co_lead", "investment_amount": null, "currency": "UNK", "evidence_ids": ["lute-official-1", "lute-otb-1"]}
+{"event_id": "lute-20261125-equity", "investor_id": "forward-one", "role": "co_lead", "investment_amount": null, "currency": "UNK", "evidence_ids": ["lute-official-1", "lute-otb-1"]}
+{"event_id": "lute-20261125-equity", "investor_id": "credo-ventures", "role": "lead", "investment_amount": null, "currency": "UNK", "evidence_ids": ["lute-official-1"]}
+{"event_id": "lute-20261125-equity", "investor_id": "seedcamp", "role": "lead", "investment_amount": null, "currency": "UNK", "evidence_ids": ["lute-official-1"]}
+{"event_id": "lute-20261125-equity", "investor_id": "inovo-vc", "role": "participant", "investment_amount": null, "currency": "UNK", "evidence_ids": ["lute-official-1", "lute-otb-1"]}
+{"event_id": "lute-20261125-equity", "investor_id": "borusan-ventures", "role": "participant", "investment_amount": null, "currency": "UNK", "evidence_ids": ["lute-official-1", "lute-otb-1"]}
+{"event_id": "lute-20261125-equity", "investor_id": "ff-venture-capital", "role": "participant", "investment_amount": null, "currency": "UNK", "evidence_ids": ["lute-official-1", "lute-otb-1"]}
+{"event_id": "lute-20261125-equity", "investor_id": "naval-ravikant", "role": "participant", "investment_amount": null, "currency": "UNK", "evidence_ids": ["lute-official-1", "lute-otb-1"]}
