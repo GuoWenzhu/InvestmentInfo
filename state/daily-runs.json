@@ -875,12 +875,12 @@
     "lute-20261125-equity"
    ],
    "revision": 1,
-   "status": "ready_for_delivery",
+   "status": "delivered",
    "window_start": "2026-11-24T00:04:51+00:00",
    "window_end": "2026-11-26T00:04:51+00:00",
    "report_path": "reports/2026-11-26-daily.md",
-   "publication_comment_id": null,
-   "publication_note": "报告已验证并准备交付；发布回执以对应Issue最终评论为准，重试必须先查评论。"
+   "publication_comment_id": "01a2152c-f026-71ba-ae05-6bfa7d8cc4c6",
+   "publication_note": "已交付Issue评论并附日报/追踪附件（2026-11-26T00:11Z）；同Issue不重复发布。窗口内新增1笔：Lute $20M pre-seed+seed合并公告（OTB+FORWARD.one联合领投seed、Credo+Seedcamp领投pre-seed，lute.one+otb.vc双官方核验、域名当日落定，跨轮累计口径exact、round=multiple）；0更正0回补；8启用源全部成功（CBN上轮SSL故障本轮恢复）；主提交c2d6da5已推送，回执提交随后。"
   }
  ]
 }
